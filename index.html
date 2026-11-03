@@ -571,7 +571,7 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
   function fotoAta() {
     var fh = V.fotograflar; if (!fh || !fh.havuz) return;
     var kul = {};
-    V.haberler.slice().sort(function (a, b) { return a.tarih < b.tarih ? -1 : a.tarih > b.tarih ? 1 : (a.id < b.id ? -1 : 1); }).forEach(function (h) {
+    V.haberler.slice().sort(function (a, b) { return a.tarih > b.tarih ? -1 : a.tarih < b.tarih ? 1 : (a.id < b.id ? -1 : 1); }).forEach(function (h) {
       if (h.gorsel) return;
       var l = fh.havuz[h.motif]; if (!l || !l.length) return;
       var u = kul[h.motif] || (kul[h.motif] = {});
