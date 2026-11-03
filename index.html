@@ -172,8 +172,15 @@ button { font: inherit; color: inherit; }
 .slayt-yazi { position: absolute; left: 0; right: 0; bottom: 0; padding: 26px 28px 22px; color: #fff; }
 .slayt-yazi h2 { margin: 10px 0 0; font-weight: 900; font-size: clamp(24px, 3.4vw, 42px); line-height: 1.05; text-wrap: balance; text-shadow: 0 2px 12px rgba(0,0,0,.3); }
 .slayt:hover h2 { text-decoration: underline; text-decoration-thickness: 3px; text-underline-offset: 6px; text-decoration-color: var(--hasat); }
+.slaytlar { touch-action: pan-y; user-select: none; -webkit-user-drag: none; }
+.slaytlar img { -webkit-user-drag: none; }
+.sl-ok { position: absolute; top: calc(50% - 40px); z-index: 3; width: 42px; height: 42px; border: 0; border-radius: 50%; background: rgba(0,0,0,.45); color: #fff; font-size: 28px; line-height: 1; cursor: pointer; opacity: 0; transition: opacity .2s; }
+.sl-ok.geri { left: 12px; } .sl-ok.ileri { right: 12px; }
+.slider:hover .sl-ok, .sl-ok:focus-visible { opacity: 1; }
+.sl-ok:hover { background: rgba(0,0,0,.7); }
+@media (hover: none) { .sl-ok { display: none; } }
 .sayfalama { display: flex; background: var(--murekkep); }
-.sayfalama button { flex: 1; border: 0; background: transparent; color: rgba(255,255,255,.7); font-weight: 900; font-size: 15px; padding: 11px 0; cursor: pointer; border-top: 3px solid transparent; font-variant-numeric: tabular-nums; }
+.sayfalama button { flex: 1; min-width: 0; border: 0; background: transparent; color: rgba(255,255,255,.7); font-weight: 900; font-size: 15px; padding: 11px 0; cursor: pointer; border-top: 3px solid transparent; font-variant-numeric: tabular-nums; }
 .sayfalama button:hover { color: #fff; background: rgba(255,255,255,.06); }
 .sayfalama button[aria-current="true"] { color: var(--hasat); border-top-color: var(--hasat); background: rgba(255,255,255,.06); }
 .surmanset { display: grid; grid-template-rows: 1fr 1fr; gap: 16px; }
@@ -299,6 +306,7 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
   footer .kap { grid-template-columns: 1fr 1fr; }
 }
 @media (max-width: 760px) {
+  .sayfalama button { font-size: 12px; padding: 9px 0; }
   .manset-alan { grid-template-columns: 1fr; }
   .surmanset { grid-template-rows: none; grid-template-columns: 1fr 1fr; }
   .blok-ic { grid-template-columns: 1fr; }
@@ -682,13 +690,16 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
   function anaSayfa() {
     var mans = V.mansetler.map(function (id) { return HABER[id]; }).filter(Boolean);
     var sur = V.surmanset.map(function (id) { return HABER[id]; }).filter(Boolean);
+    haberleriSirala(V.haberler).forEach(function (h) { if (mans.length < 10 && mans.indexOf(h) < 0 && sur.indexOf(h) < 0) mans.push(h); });
+    mans = mans.slice(0, 10);
     var html = '<section class="manset-alan" aria-label="Manşet">' +
       '<div class="slider" id="slider"><div class="slaytlar">' +
       mans.map(function (h, i) {
         return '<a class="slayt' + (i === 0 ? " aktif" : "") + '" href="#' + e(h.id) + '"' + katStil(h.kategori) + (i ? ' tabindex="-1" aria-hidden="true"' : "") + ">" + gorsel(h, true) +
           '<span class="ortu"></span><div class="slayt-yazi"><span class="kat">' + e(h.kategori) + "</span><h2>" + e(h.baslik) + "</h2></div></a>";
       }).join("") +
-      '</div><div class="sayfalama" role="tablist" aria-label="Manşet haberleri">' +
+      '</div><button type="button" class="sl-ok geri" aria-label="Önceki manşet">‹</button><button type="button" class="sl-ok ileri" aria-label="Sonraki manşet">›</button>' +
+      '<div class="sayfalama" role="tablist" aria-label="Manşet haberleri">' +
       mans.map(function (h, i) { return '<button type="button" role="tab" aria-label="' + (i + 1) + '. manşet" aria-current="' + (i === 0) + '" data-i="' + i + '">' + (i + 1) + "</button>"; }).join("") +
       "</div></div>" +
       '<div class="surmanset">' + sur.map(kartOrtuHTML).join("") + "</div></section>";
@@ -717,6 +728,19 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
       bt.forEach(function (b, k) { b.setAttribute("aria-current", k === i); });
     }
     bt.forEach(function (b) { b.addEventListener("click", function () { git(+b.dataset.i); }); b.addEventListener("mouseenter", function () { git(+b.dataset.i); }); });
+    kok.querySelector(".sl-ok.geri").addEventListener("click", function () { git(i - 1); });
+    kok.querySelector(".sl-ok.ileri").addEventListener("click", function () { git(i + 1); });
+    var alan = kok.querySelector(".slaytlar"), x0 = null, y0 = 0, kaydi = false;
+    alan.addEventListener("touchstart", function (ev) { var t = ev.touches[0]; x0 = t.clientX; y0 = t.clientY; kaydi = false; durdu = true; }, { passive: true });
+    alan.addEventListener("touchmove", function (ev) { if (x0 === null) return; var t = ev.touches[0]; if (Math.abs(t.clientX - x0) > 12 && Math.abs(t.clientX - x0) > Math.abs(t.clientY - y0)) kaydi = true; }, { passive: true });
+    alan.addEventListener("touchend", function (ev) {
+      if (x0 === null) return; var dx = ev.changedTouches[0].clientX - x0; x0 = null; durdu = false;
+      if (kaydi && Math.abs(dx) > 40) git(dx < 0 ? i + 1 : i - 1);
+    });
+    alan.addEventListener("click", function (ev) { if (kaydi) { ev.preventDefault(); kaydi = false; } }, true);
+    var mx = null;
+    alan.addEventListener("pointerdown", function (ev) { if (ev.pointerType === "mouse") mx = ev.clientX; });
+    alan.addEventListener("pointerup", function (ev) { if (mx === null) return; var dx = ev.clientX - mx; mx = null; if (Math.abs(dx) > 60) { kaydi = true; git(dx < 0 ? i + 1 : i - 1); } });
     kok.addEventListener("mouseenter", function () { durdu = true; });
     kok.addEventListener("mouseleave", function () { durdu = false; });
     kok.addEventListener("focusin", function () { durdu = true; });
