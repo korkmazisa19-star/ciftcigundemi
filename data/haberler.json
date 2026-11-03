@@ -1,26 +1,6 @@
 {
- "guncelleme": "2026-11-04T01:05:00+03:00",
+ "guncelleme": "2026-11-04T02:00:00+03:00",
  "kategoriler": [
-  {
-   "ad": "Hava & Don",
-   "slug": "hava",
-   "renk": "#0f7490"
-  },
-  {
-   "ad": "Destek",
-   "slug": "destek",
-   "renk": "#2f7d32"
-  },
-  {
-   "ad": "Hibe",
-   "slug": "hibe",
-   "renk": "#2a6496"
-  },
-  {
-   "ad": "Piyasa",
-   "slug": "piyasa",
-   "renk": "#c46a08"
-  },
   {
    "ad": "Hayvancılık",
    "slug": "hayvancilik",
@@ -35,19 +15,41 @@
    "ad": "Makine",
    "slug": "makine",
    "renk": "#4a5a6e"
+  },
+  {
+   "ad": "Hibe",
+   "slug": "hibe",
+   "renk": "#2a6496"
+  },
+  {
+   "ad": "Piyasa",
+   "slug": "piyasa",
+   "renk": "#c46a08"
+  },
+  {
+   "ad": "Destek",
+   "slug": "destek",
+   "renk": "#2f7d32"
+  },
+  {
+   "ad": "Zirai Don",
+   "slug": "hava",
+   "renk": "#0f7490"
   }
  ],
  "mansetler": [
+  "ordu-findik-serbest-piyasa-160-170-tl",
+  "tzob-ekim-2026-uretici-market-fiyatlari",
   "fethiye-sel",
-  "kizilinler",
+  "lalahan-genomik-test-merkezi-buzagi-kaybi-20-bin",
   "zirai-don-uyarisi-4-9-kasim",
-  "aricilik-son-gun-6-kasim",
-  "diyarbakir-yagis-pamuk-misir-hasat",
-  "bayburt-buzagi-kuzu-1-aralik"
+  "ege-pamuk-ekim-alani-yuzde-47-daraldi",
+  "kizilinler",
+  "rekabet-kurumu-findik-6-sirket-sorusturma"
  ],
  "surmanset": [
   "cks-2027-son-gun-31-aralik",
-  "pancar-besinci-avans-952-milyon"
+  "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
  ],
  "haberler": [
   {
@@ -207,7 +209,7 @@
   },
   {
    "id": "zirai-don-uyarisi-4-9-kasim",
-   "kategori": "Hava & Don",
+   "kategori": "Zirai Don",
    "tarih": "2026-11-03",
    "motif": "don",
    "baslik": "İç kesimler için zirai don uyarısı: sıcaklıklar 5-8 derece düşüyor",
@@ -255,7 +257,7 @@
    "id": "sakarya-ayva-60-bin-ton",
    "kategori": "Bitkisel Üretim",
    "tarih": "2026-11-03",
-   "motif": "para",
+   "motif": "ayva",
    "baslik": "Sakarya'da ayva bol ama üretici fiyattan şikâyetçi",
    "ozet": "Pamukova Ziraat Odası Başkanı Yaşar Ulukaya, bölgede bu sezon 60 bin ton ayva rekoltesi beklediklerini söyledi. Normal yıllarda üretimin 40-50 bin ton olduğunu aktaran Ulukaya, geçen yılki donun üreticiye zarar verdiğini de hatırlattı. Ulukaya'ya göre üretici ayvayı kilosu 10-15 liradan satarken market raflarında fiyat 80-100 liraya kadar çıkıyor. Hasatta işçi yevmiyeleri günlük 1.500-2.000 lira arasında değişiyor, bazı üreticiler 2.500 lira ödüyor. Oda başkanı hal düzenlemesi gerektiğini belirtti.",
    "neYapmali": "Satıştan önce birkaç tüccardan ve ihracatçıdan fiyat alın. Yağışlı günlerde hasadın uzayabileceğini işçilik planınızda hesaba katın.",
@@ -291,7 +293,7 @@
   },
   {
    "id": "fethiye-sel",
-   "kategori": "Hava & Don",
+   "kategori": "Zirai Don",
    "tarih": "2026-11-03",
    "motif": "sera",
    "baslik": "Fethiye'de sağanak: sulama kanalları taştı, seralar ve tarlalar su altında kaldı",
@@ -504,6 +506,667 @@
      "url": "https://haberturk.com/ekonomi/ulker-surdurulebilirlik-hedeflerine-somut-adimlarla-ilerliyor-3924595"
     }
    ]
+  },
+  {
+   "id": "findik-ihracati-iki-ay-494-milyon",
+   "kategori": "Piyasa",
+   "tarih": "2026-11-03",
+   "motif": "findik",
+   "baslik": "Fındık ihracatı yeni sezonun ilk iki ayında 494,6 milyon dolara ulaştı",
+   "ozet": "Karadeniz Fındık ve Mamulleri İhracatçıları Birliği'nin verilerine göre 1 Eylül-31 Ekim 2026 döneminde yurt dışına 49 bin 410 ton fındık satıldı ve karşılığında yaklaşık 494,6 milyon dolar gelir elde edildi. Geçen sezonun aynı döneminde ihracat 30 bin 768 ton, gelir ise yaklaşık 344 milyon dolar olmuştu. Böylece miktarda da gelirde de belirgin bir artış yaşandı. Sezonun yalnızca eylül ayında 18 bin 929 ton ihracattan 192 milyon dolar elde edilmişti.",
+   "neYapmali": "İhracat talebinin canlı olduğu dönemlerde ürününüzü satmadan önce TMO, Fiskobirlik ve borsa fiyatlarını karşılaştırın. Lisanslı depoya ürün koyarak ELÜS ile satış zamanını kendiniz belirleyebilirsiniz.",
+   "kaynaklar": [
+    {
+     "ad": "Milliyet Uzmanpara",
+     "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/turkiye-findik-ihracatindan-494-milyon-dolari-askin-gelir-sagladi-7693492"
+    }
+   ]
+  },
+  {
+   "id": "tarim-ihracati-ekim-3-35-milyar",
+   "kategori": "Piyasa",
+   "tarih": "2026-11-03",
+   "motif": "para",
+   "baslik": "Tarım ihracatı ekimde 3,35 milyar dolar oldu",
+   "ozet": "Türkiye İhracatçılar Meclisi'nin ekim ayı verilerine göre tarım sektörlerinin ihracatı geçen yılın aynı ayına göre yüzde 1,8 artışla 3 milyar 347 milyon dolara çıktı. Tarımın toplam ihracat içindeki payı yüzde 12,9 olarak gerçekleşti. Aynı ayda sanayi ihracatı yüzde 7,1 artışla 18,3 milyar dolara, madencilik ihracatı ise yüzde 18 artışla 688 milyon dolara ulaştı.",
+   "neYapmali": "İhracata yönelik üretim yapıyorsanız ürününüzün hangi pazarlara gittiğini bağlı olduğunuz ihracatçı birliğinden ya da ticaret borsasından takip edin; sözleşmeli üretim fırsatlarını sorun.",
+   "kaynaklar": [
+    {
+     "ad": "Milliyet Uzmanpara",
+     "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/otomotiv-endustrisi-4-milyar-dolarlik-ihracatla-ilk-sirada-yer-aldi-7693448"
+    }
+   ]
+  },
+  {
+   "id": "tzob-ekim-uretici-market-farki",
+   "kategori": "Piyasa",
+   "tarih": "2026-10-31",
+   "motif": "para",
+   "baslik": "TZOB: Limon tarlada 3,90, markette 42,87 lira; mazot bir yılda yüzde 73 zamlandı",
+   "ozet": "TZOB Genel Başkanı Şemsi Bayraktar'ın ekim değerlendirmesine göre markette izlenen 36 üründen 25'inin fiyatı arttı, 11'inin fiyatı düştü. Markette en çok zamlanan ürün yüzde 62,9 ile domates oldu. Üretici ile market arasındaki en büyük fark limonda görüldü: tarlada 3,90 lira olan limon markette 42,87 liraya satıldı. Kuru incir, havuç, elma ve iç fındıkta da fiyat markette üç-dört katına çıktı. Bir yılda mazot yüzde 73,4, amonyum nitrat gübresi yüzde 67,7, DAP yüzde 39,7, süt yemi yüzde 38,9 pahalandı. Bayraktar, zeytinyağı, fındık ve Antep fıstığında üretici fiyatlarının baskılandığını söyledi.",
+   "neYapmali": "Girdi maliyetleri hızla arttığı için gübre ve yem alımlarınızı ihtiyaç takvimine göre planlayın; kooperatif ya da üretici birliği üzerinden toplu alımla maliyeti düşürmeyi deneyin.",
+   "kaynaklar": [
+    {
+     "ad": "Milliyet Uzmanpara",
+     "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/tzob-genel-baskani-bayraktar-market-fiyatlarini-degerlendirdi-7691337"
+    }
+   ]
+  },
+  {
+   "id": "rekabet-kurumu-findik-6-sirket-sorusturma",
+   "kategori": "Piyasa",
+   "tarih": "2026-10-31",
+   "motif": "findik",
+   "baslik": "Rekabet Kurumu fındıkta 6 büyük şirkete soruşturma açtı",
+   "ozet": "Rekabet Kurumu Başkanı Birol Küle, fındık piyasasında eylülde başlatılan ön araştırmanın ardından 22 Ekim'de sektörün önde gelen 6 şirketi hakkında soruşturma açıldığını açıkladı. Şirketlerin adı verilmedi. Kurum, en büyük alıcı ile yerel ve orta ölçekli alıcılar arasında fiyatı düşürmeye yönelik bir bağlantı olup olmadığını ve alıcıların gizlice ortak fiyat belirleyip belirlemediğini inceleyecek. Küle, Ferrero'nun önceki soruşturmada verdiği taahhütlerin bağlayıcı olduğunu, uyulmazsa ağır ceza uygulanabileceğini hatırlattı. Kurum 2024'te Trabzon'da 21, Düzce'de 10 şirkete ceza vermişti.",
+   "neYapmali": "Ürününüzü satarken alış fiyatını ve tarihini gösteren müstahsil makbuzunu mutlaka alın; fiyat baskısı ya da anlaşmalı alım gibi bir durumla karşılaşırsanız ziraat odanız aracılığıyla Rekabet Kurumu'na bildirebilirsiniz.",
+   "kaynaklar": [
+    {
+     "ad": "Milliyet Uzmanpara",
+     "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/rekabet-kurumu-findik-sektorune-yonelik-siki-takibini-surduruyor-7691389"
+    }
+   ]
+  },
+  {
+   "id": "zeytin-zeytinyagi-ihracati-9-ayda-yuzde-28-dustu",
+   "kategori": "Piyasa",
+   "tarih": "2026-10-27",
+   "motif": "zeytin",
+   "baslik": "Zeytin ve zeytinyağı ihracatı 9 ayda yüzde 28 geriledi, sektör zorlu sezon uyarısı yaptı",
+   "ozet": "Ege Zeytin ve Zeytinyağı İhracatçıları Birliği Başkanı M. Emre Uygun, ocak-eylül döneminde sektör ihracatının 381 milyon dolardan 273 milyon dolara gerilediğini açıkladı. Zeytinyağı ihracatı miktarda yüzde 53 düşüşle 15,7 bin tona, değerde yüzde 48 düşüşle 82,1 milyon dolara indi; siyah zeytinde ise 127 milyon dolarlık ihracat yapıldı. Uygun, İspanya, İtalya, Yunanistan ve Tunus'ta da yüksek rekolte beklendiğini, maliyet ve finansman sorunlarıyla birlikte rekabetin zorlaşacağını söyledi. Sektör, ABD'nin ek gümrük vergisinin kaldırılmasını ve AB kotasının artırılmasını talep ediyor.",
+   "neYapmali": "Yüksek rekolte yılında fiyat baskısı beklendiği için hasattan önce yağhane, kooperatif ve tüccar tekliflerini karşılaştırın. Erken hasat ve uygun depolama kaliteyi, kalite de satış fiyatını belirler.",
+   "kaynaklar": [
+    {
+     "ad": "Foreks",
+     "url": "https://www.foreks.com/haber/detay/6ae03e9658b1b941c2091ad1/FRKS/tr/ege-zeytin-ve-zeytinyagi-ihracatcilari-birligi-uygun-zeytin-ve-zeytinyagi-sektoru-ihracatta-zorlu-bir-sezona-giriyor-27-10-26/"
+    }
+   ]
+  },
+  {
+   "id": "ipard-3-4-milyar-avro-yatirim",
+   "kategori": "Hibe",
+   "tarih": "2026-11-02",
+   "motif": "para",
+   "baslik": "Yumaklı: IPARD programlarıyla 3,4 milyar avroluk yatırım yapıldı",
+   "ozet": "Tarım ve Orman Bakanı İbrahim Yumaklı, DSİ Genel Müdürlüğü'nde düzenlenen 3. Türkiye-AB Üst Düzey Tarım Diyaloğu toplantısının ardından IPARD programlarının sonuçlarını paylaştı. Yumaklı'ya göre bugüne kadar yaklaşık 27 bin proje desteklendi, 3,4 milyar avroluk yatırım hayata geçirildi ve 107 binden fazla kişiye istihdam sağlandı. Toplantıda IPARD iş birliğinin 2028-2034 döneminde de sürmesi ve Türkiye'ye ayrılan fonun artırılması ele alındı.",
+   "neYapmali": "IPARD hibelerine başvurmayı düşünüyorsanız Tarım ve Kırsal Kalkınmayı Destekleme Kurumu'nun (TKDK) il koordinatörlüğünden yeni çağrı takvimini öğrenin ve proje hazırlığına şimdiden başlayın.",
+   "kaynaklar": [
+    {
+     "ad": "Milliyet",
+     "url": "https://www.milliyet.com.tr/ekonomi/bakan-yumakli-ipard-programlariyla-3-4-milyar-avroluk-yatirim-ekonomimize-kazandirildi-7692638"
+    }
+   ]
+  },
+  {
+   "id": "sinop-genc-kadin-ciftci-185-milyon-hibe",
+   "kategori": "Hibe",
+   "tarih": "2026-10-28",
+   "motif": "para",
+   "baslik": "Sinop'ta genç ve kadın çiftçilere 185 milyon liralık hibe verildi",
+   "ozet": "Sinop İl Tarım ve Orman Müdürü Murat Genc, Kırsal Dezavantajlı Alanlar Kalkınma Projesi (KDAKP) kapsamında 2020'den bu yana 1.074 üreticiye toplam 185 milyon lira hibe verildiğini açıkladı. Yalnızca 2026'da 316 üreticiye 65 milyon lira destek sağlandı. Hibelerin yaklaşık yüzde 43'ü kadınlara, yüzde 61'i gençlere ulaştı. Proje kapsamında çayır biçme ve balya makineleri, süt soğutma tankı ve sağım makinesi desteklendi; hassas hanelerden 32 kişiye yüzde 100 hibeyle sera kuruldu.",
+   "neYapmali": "KDAKP yalnızca belirli illerde uygulanıyor; ilinizin kapsamda olup olmadığını ve yeni başvuru dönemini il tarım ve orman müdürlüğünden öğrenin.",
+   "kaynaklar": [
+    {
+     "ad": "Milliyet Uzmanpara",
+     "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/genc-ve-kadin-ciftcilere-185-milyon-lira-hibe-destegi-7689329"
+    }
+   ]
+  },
+  {
+   "id": "tigem-bugday-arpa-narenciye-ihale",
+   "kategori": "Piyasa",
+   "tarih": "2026-10-28",
+   "motif": "bugday",
+   "baslik": "TİGEM 14.500 ton buğday-arpa ve 1.720 ton narenciyeyi ihaleyle satacak",
+   "ozet": "TİGEM'e bağlı Altınova Tarım İşletmesi, 6.500 ton Bayraktar-2000 ve 6.500 ton Kızıltan-91 buğdayı ile 1.500 ton Tarım-92 arpasını 11 Kasım'da saat 13.30'da Konya Ticaret Borsası'nda ihaleyle satacak; tahmini bedel 252 milyon lira. Boztepe Tarım İşletmesi ise 790 ton Washington portakalı, 256,5 ton Fremont mandalina ve 674 ton limonu 10 Kasım'da saat 14.00'te işletmede 8 parti halinde açık artırmaya çıkaracak. Şartnameler TİGEM'in internet sitesinde yayımlandı.",
+   "neYapmali": "İhaleye katılmak isteyenler şartnameyi tigem.gov.tr adresinden incelemeli ve teminat şartlarını ihale gününden önce tamamlamalı.",
+   "kaynaklar": [
+    {
+     "ad": "Milliyet Uzmanpara",
+     "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/tigem-tonlarca-bugday-arpa-ve-narenciye-satacak-7689193"
+    }
+   ]
+  },
+  {
+   "id": "tmo-2027-bugday-misir-alim-ongorusu",
+   "kategori": "Piyasa",
+   "tarih": "2026-10-31",
+   "motif": "bugday",
+   "baslik": "TMO'nun 2027'de 5 milyon ton buğday ve 1,5 milyon ton mısır alması öngörülüyor",
+   "ozet": "2027 programına göre Toprak Mahsulleri Ofisi'nin gelecek yıl 5 milyon ton buğday ve 1,5 milyon ton mısır alımı yapması öngörülüyor. Aynı programda ÇAYKUR'un 700 bin ton yaş çay, TÜRKŞEKER'in ise 7,4 milyon ton şeker pancarı alması bekleniyor. Kamu iktisadi teşebbüslerinin 2027 yatırım tutarı 754,2 milyar lira olarak öngörüldü.",
+   "neYapmali": "Gelecek sezon ekim planınızı yaparken TMO'nun alım hedeflerini dikkate alın; alım fiyatları ve randevu takvimi açıklandığında site üzerinden duyuracağız.",
+   "kaynaklar": [
+    {
+     "ad": "Milliyet Uzmanpara",
+     "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/tmonun-2027de-5-milyon-ton-bugday-1-5-milyon-ton-misir-almasi-ongoruluyor-7691348"
+    }
+   ]
+  },
+  {
+   "id": "lalahan-genomik-test-buzagi-kaybi-20-bin",
+   "kategori": "Hayvancılık",
+   "tarih": "2026-10-30",
+   "motif": "sut",
+   "baslik": "Lalahan'da Genomik Test Merkezi açıldı, buzağı kaybına ödenecek tutar 20 bin liraya çıktı",
+   "ozet": "Tarım ve Orman Bakanı İbrahim Yumaklı, Ankara'daki Lalahan Uluslararası Hayvancılık Araştırma ve Eğitim Merkezi'nde Genomik Test Merkezi'nin açılışını yaptı. Yumaklı, yavru kaybı için ödenen tutarın yüzde 100 artırıldığını, bu yıl buzağı kaybında 20 bin, kuzu-oğlak atığında 4 bin lira ödeneceğini söyledi. Hayvansal üretime bu yıl verilen desteğin 38,5 milyar lira olduğunu, 2027 için 54,5 milyar lira önerildiğini belirtti. Koyun-keçi vebası vakalarında yüzde 68, mavi dil hastalığında yüzde 70 azalma sağlandığını aktardı.",
+   "neYapmali": "Yavru kaybı desteğinden yararlanmak için kayıpları süresi içinde il veya ilçe müdürlüğüne bildirin ve hayvanlarınızın TÜRKVET kayıtlarının güncel olduğundan emin olun.",
+   "kaynaklar": [
+    {
+     "ad": "Milliyet",
+     "url": "https://www.milliyet.com.tr/ekonomi/bakan-yumaklidan-hayvancilik-yapanlari-sevindirecek-haber-7690934"
+    }
+   ]
+  },
+  {
+   "id": "sapanca-golu-eylem-plani-25-milyar",
+   "kategori": "Bitkisel Üretim",
+   "tarih": "2026-10-31",
+   "motif": "para",
+   "baslik": "Sapanca Gölü için 5 yıllık eylem planı: 25,5 milyar liralık yatırım",
+   "ozet": "Bakan Yumaklı, Adapazarı'nda tanıttığı Sapanca Gölü Eylem Planı'nın 6 eylem ve 12 tedbirden oluştuğunu, 5 yılda yaklaşık 25,5 milyar liralık yatırım öngördüğünü açıkladı. Plan ile havzaya yılda yaklaşık 114 milyon metreküp su kazandırılması hedefleniyor; gölde 2025'te yaklaşık 72 milyon metreküp su azalmıştı. Yumaklı, Türkiye'de suyun yüzde 77'sinin tarımda kullanıldığını ve basınçlı sulama sistemlerine yüzde 70 hibe verildiğini hatırlattı.",
+   "neYapmali": "Damla ya da yağmurlama sulamaya geçmek istiyorsanız yüzde 70 hibeli basınçlı sulama desteği için il tarım müdürlüğüne başvuru koşullarını sorun.",
+   "kaynaklar": [
+    {
+     "ad": "Milliyet",
+     "url": "https://www.milliyet.com.tr/ekonomi/bakan-yumakli-havzamiza-yilda-yaklasik-114-milyon-metrekupluk-su-kazandirmayi-planliyoruz-7691569"
+    }
+   ]
+  },
+  {
+   "id": "nevsehir-cerezlik-kabak-hasadi",
+   "kategori": "Bitkisel Üretim",
+   "tarih": "2026-11-03",
+   "motif": "tohum",
+   "baslik": "Nevşehir'de çerezlik kabakta hasat zamanı: Türkiye üretiminin yüzde 40'ı buradan",
+   "ozet": "Nevşehir'de coğrafi işaretli çerezlik kabak hasadı başladı. Nevşehir Ticaret Borsası Meclis Başkanı Mehmet Havalı, TÜİK'in 2024 verilerine göre ilde 221 bin dekarda 23 bin 670 ton ürün alındığını ve kabağın il ekonomisine 1,3 milyar liradan fazla katkı sağladığını söyledi. 2019'da coğrafi işaret alınmadan önce 160 bin dekar civarında olan ekim alanı geçen yıl 300 bin dekara yaklaştı. Nevşehir'in Türkiye üretimindeki payı yüzde 32'den yüzde 39-40'a çıktı.",
+   "neYapmali": "Coğrafi işaretli ürün satarken çuval ve ambalajda tescil logosunu kullanmak için borsa ya da tescil sahibi kurumun denetim şartlarını öğrenin; bu, ürünün fiyatını yükseltir.",
+   "kaynaklar": [
+    {
+     "ad": "Milliyet",
+     "url": "https://www.milliyet.com.tr/ekonomi/sari-altinda-simdi-hasat-zamani-7692877"
+    }
+   ]
+  },
+  {
+   "id": "corum-pancar-ciftcisi-dekarda-15-ton",
+   "kategori": "Bitkisel Üretim",
+   "tarih": "2026-10-29",
+   "motif": "pancar",
+   "baslik": "Çorumlu çiftçi: Pancarda dekardan 15 ton alıyoruz, zarar yok",
+   "ozet": "Çorum'da yaklaşık 500 dekar arazide üretim yapan Mustafa Ertuğrul, şeker pancarında dekar başına 15 tona kadar verim aldığını ve kilosunu 3,75 liradan sattığını anlattı. Ertuğrul'a göre dekar başına maliyeti yaklaşık 4 tonluk ürün karşılıyor, kalanı kâr olarak kalıyor. Soğanda ise dekardan 5 ton aldığını söyledi. Ertuğrul bu açıklamaları pancarın zarar ettirdiğini söyleyen üreticilere yanıt olarak paylaştı; rakamlar tek bir üreticinin kendi hesabına dayanıyor. TZOB ise bu sezon açıklanan pancar fiyatının maliyeti karşılamadığını savunuyor.",
+   "neYapmali": "Pancar ekmeden önce kendi arazinizin ortalama verimini ve kesintileri hesaba katarak dekar başı maliyetinizi çıkarın; şeker fabrikasının sözleşme şartlarını ve avans takvimini kooperatiften öğrenin.",
+   "kaynaklar": [
+    {
+     "ad": "Milliyet Uzmanpara",
+     "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/donum-basina-60-bin-lira-kar-kaliyor-15-ton-uretiyoruz-4-tonu-giderleri-karsiliyor-7690146"
+    }
+   ]
+  },
+  {
+   "id": "antalya-tavsan-yuregi-zeytin-hasadi",
+   "kategori": "Bitkisel Üretim",
+   "tarih": "2026-10-30",
+   "motif": "zeytin",
+   "baslik": "Antalya'nın coğrafi işaretli tavşan yüreği zeytininde 10 bin ton rekolte bekleniyor",
+   "ozet": "Yalnızca Antalya'da yetişen ve 2018'de Antalya Ticaret Borsası tarafından coğrafi işaretle tescillenen tavşan yüreği zeytininde hasat başladı. Geçen yıl yaklaşık 6 bin ton olan üretimin bu yıl 10 bin tona çıkması bekleniyor. Sofralık tavşan yüreği perakendede kilosu 80-100 liradan satılıyor. Zeytinpark Genel Müdürü Bayram Çarkçıgil, soğuk sıkımın yaklaşık 15 gün sonra başlayacağını söyledi. Bir uzman ise laboratuvar bulgularının zeytinyağının ilaç yerine geçtiği anlamına gelmediği uyarısında bulundu.",
+   "neYapmali": "Yağlık zeytinde verim ve kaliteyi korumak için hasattan sonra zeytini 24-48 saat içinde yağhaneye ulaştırın ve çuval yerine kasa kullanın.",
+   "kaynaklar": [
+    {
+     "ad": "DHA",
+     "url": "https://www.dha.com.tr/foto-galeri/antalyada-cografi-isaretli-tavsan-yuregi-zeytininde-10-bin-ton-rekolte-beklentisi-2972107"
+    }
+   ]
+  },
+  {
+   "id": "aydin-kestane-ilk-alim-600-lira",
+   "kategori": "Piyasa",
+   "tarih": "2026-10-27",
+   "motif": "kestane",
+   "baslik": "Aydın'da sezonun ilk kestanesi kilosu 600 liradan alındı",
+   "ozet": "Aydın Ticaret Borsası'nda düzenlenen 2026-2027 sezonu kestane ilk alım töreninde 16 üreticiden toplam 160 kilo kestane kilosu 600 liradan alındı. AB coğrafi işaretine sahip Aydın kestanesi için Vali Osman Varol, Türkiye'nin yıllık yaklaşık 83 bin tonluk üretiminin 25 bin 500 tonunun Aydın'dan geldiğini söyledi. İlde 880 bin kestane ağacı bulunuyor ve ÇKS'ye kayıtlı 5 bin 790 üretici geçimini kestaneden sağlıyor.",
+   "neYapmali": "İlk alım fiyatı törensel olduğu için sezon boyunca borsadaki günlük işlem fiyatlarını takip edin; kestaneyi serin ve havadar ortamda saklayarak küflenmeyi önleyin.",
+   "kaynaklar": [
+    {
+     "ad": "Milliyet Uzmanpara",
+     "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/aydinda-sezonun-ilk-kestanesi-kilosu-600-tlden-alindi-7688675"
+    }
+   ]
+  },
+  {
+   "id": "ege-pamuk-ekim-alani-yuzde-47-daraldi",
+   "kategori": "Piyasa",
+   "tarih": "2026-11-02",
+   "motif": "pamuk",
+   "baslik": "Ege'de pamuk ekim alanı bir yılda yüzde 47 daraldı",
+   "ozet": "Ege'de pamuk ekim alanı bu yıl 49 bin 454 hektara geriledi. Ulusal Pamuk Konseyi Başkanı Fevzi Çondur ve sektör temsilcileri, bu yıl kilogram başına maliyetin 44-45 lira olduğunu, satış fiyatının ise 38-40 lira civarında kaldığını belirtti; destek kilogram başına 3,3 lira. Türkiye'nin yıllık pamuk ihtiyacı yaklaşık 1,5 milyon ton iken bu sezon 320 bin ton üretim bekleniyor. Sektör, desteğin zararı karşılamadığını ve primlerin geç ödendiğini, artırılmazsa üretimin daha da azalacağını ve ithalatın büyüyeceğini vurguluyor.",
+   "neYapmali": "Pamuk ekmeyi planlıyorsanız gelecek yılın destek birim fiyatı açıklanmadan önce maliyetinizi hesaplayın; sözleşmeli üretim ya da iyi tarım uygulamaları primi gibi ek gelir seçeneklerini araştırın.",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomi Gazetesi",
+     "url": "https://www.ekonomigazetesi.com/sehirler/pamuk-uretimi-alarm-veriyor-sektor-destek-bekliyor-91094"
+    }
+   ]
+  },
+  {
+   "id": "antalya-hal-domates-fiyati-iki-kat",
+   "kategori": "Piyasa",
+   "tarih": "2026-11-03",
+   "motif": "domates",
+   "baslik": "Antalya halinde domatesin fiyatı bir yılda iki katına çıktı",
+   "ozet": "Antalya Ticaret Borsası'nın açıkladığı Antalya Toptancı Halleri ekim endeksine göre domatesin fiyat endeksi geçen yılın ekim ayına göre yüzde 101,29 artarken hale giren domates miktarı yüzde 15,15 azaldı. Sebzede fiyatlar yüzde 62,11 yükseldi, miktar yüzde 8,22 düştü. Meyvede ise fiyat yüzde 13,99 gerilerken miktar yüzde 19,88 azaldı. Domatesteki yıllık fiyat artışı ve meyvedeki miktar düşüşü son yedi yılın ekim ayları içinde rekor oldu.",
+   "neYapmali": "Sera üreticileri yüksek fiyat döneminde hasadı hal ve ihracat taleplerine göre planlayabilir; komisyoncu kesintilerini ve hal rüsumunu satış bedelinden ayrı hesaplayın.",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomi Gazetesi",
+     "url": "https://www.ekonomigazetesi.com/sehirler/ekim-ayinda-domates-miktari-azaldi-fiyati-yuzde-100den-fazla-artti-91126"
+    }
+   ]
+  },
+  {
+   "id": "sap-agri-hayvan-borsasi-acildi-kars-kisitlama",
+   "kategori": "Hayvancılık",
+   "tarih": "2026-11-02",
+   "motif": "sut",
+   "baslik": "Şap tedbirleri gevşiyor: Ağrı Hayvan Borsası açıldı, Kars'ta hayvan hareketi serbest",
+   "ozet": "Şap hastalığı nedeniyle kapalı tutulan Ağrı Hayvan Borsası 2 Kasım'da yeniden açıldı. Kars'ta ise 30 Eylül'de başlayan il içi ve il dışı hayvan hareketi kısıtlaması 3 Kasım'da kaldırıldı. Karantina altındaki bölgelerde tedbirler sürüyor; Kars'ta hayvan pazarları, canlı hayvan borsaları ve toplama merkezleri şimdilik kapalı kalacak.",
+   "neYapmali": "Hayvan alım satımında sağlık raporu ve kulak küpesi kayıtlarını mutlaka kontrol edin. Ağızda yara, salya ya da topallık gibi şap belirtileri görürseniz hayvanı ayırıp hemen ilçe tarım müdürlüğüne bildirin.",
+   "kaynaklar": [
+    {
+     "ad": "Kars Hakimiyet",
+     "url": "https://www.karshakimiyet.com/karsta-hayvan-hareketleri-kisitlamasi-kaldiriliyor-hayvan-pazarlari-kapali-kalacak-122136h.htm"
+    },
+    {
+     "ad": "Doğubayazıt Gazetesi",
+     "url": "https://dogubayazitgazetesi.com/agrida-hayvan-borsasi-acildi-karsta-da-yeni-karar"
+    }
+   ]
+  },
+  {
+   "id": "manavgat-saganak-pamuk-kabak-zarari",
+   "kategori": "Zirai Don",
+   "tarih": "2026-11-01",
+   "motif": "pamuk",
+   "baslik": "Manavgat'ta sağanak 400 dönüm tarlayı su altında bıraktı, zarar 10 milyon lirayı aştı",
+   "ozet": "Antalya'nın Manavgat ilçesinde iki gün süren ve metrekareye 60 kilogramı aşan yağış Denizkent, Denizyaka, Bereket ve Perakende mahallelerinde 400 dönüm tarım arazisini su altında bıraktı. Hasat edilemeyen yaklaşık 120 ton pamuğun değeri 6 milyon lira, 50 dönüm kabak tarlasındaki zarar ise 3,5 milyon liranın üzerinde. Manavgat Ziraat Odası Başkanı Rasim Metin toplam zararın 10 milyon lirayı geçtiğini söyledi. İlçe tarım müdürlüğü ekipleri tarlalarda inceleme yaptı.",
+   "neYapmali": "Zarar gördüyseniz TARSİM poliçeniz varsa sel hasarını en geç 15 gün içinde ihbar edin; poliçeniz yoksa hasar tespiti için ilçe tarım müdürlüğüne ve muhtarlığa başvurun.",
+   "kaynaklar": [
+    {
+     "ad": "İlkhaber Gazetesi",
+     "url": "https://www.ilkhaber-gazetesi.com/ekonomi/antalya-da-saganak-tarim-arazilerini-vurdu-400-donum-alan-sular-altinda-zarar-10-milyon-tl-yi-asti-467345"
+    }
+   ]
+  },
+  {
+   "id": "gemlik-yaglik-zeytin-maliyeti-58-lira",
+   "kategori": "Piyasa",
+   "tarih": "2026-10-28",
+   "motif": "zeytin",
+   "baslik": "Gemlik Ziraat Odası: Bir kilo yağlık zeytinin maliyeti 58,14 lira",
+   "ozet": "Gemlik Ziraat Odası'nın hesabına göre bir dekar zeytinliğin yıllık maliyeti 44 bin 132 lirayı buldu. Hesapta dekarda 33 ağaç ve ağaç başına 23 kilo, yani dekarda 759 kilo verim esas alındı; buna göre bir kilo yağlık zeytinin maliyeti 58,14 lira oldu. Maliyetin en büyük kalemlerini hasat (8 bin lira), budama (6 bin 750 lira) ve toprak işleme (5 bin 500 lira) oluşturuyor. Oda Başkanı Ercan Barutçuoğlu, hem üreticinin emeğini karşılayan hem tüketiciyi memnun eden bir fiyat beklediklerini söyledi.",
+   "neYapmali": "Kendi bahçenizin maliyetini çıkarırken verimi gerçek hasat kayıtlarınıza göre hesaplayın; bu rakamı yağhane ve tüccar teklifleriyle karşılaştırarak satış kararı verin.",
+   "kaynaklar": [
+    {
+     "ad": "Yeni Marmara Gazetesi",
+     "url": "https://www.yenimarmaragazetesi.com/ekonomi/gemlik-te-1-kilo-yaglik-zeytinin-maliyeti-58-14-tl-240263"
+    }
+   ]
+  },
+  {
+   "id": "elbistan-sap-karantina-5-mahalle",
+   "kategori": "Hayvancılık",
+   "tarih": "2026-10-31",
+   "motif": "sut",
+   "baslik": "Elbistan'da şap karantinası: 5 mahallede hayvan giriş-çıkışı yasaklandı",
+   "ozet": "Kahramanmaraş'ın Elbistan ilçesine bağlı Pınarbaşı Mahallesi'nde şap vakası tespit edilmesi üzerine Hayvan Sağlık Zabıta Komisyonu Pınarbaşı, Kızılcaoba, Cumhuriyet, Yeşilyurt ve Taşburun mahallelerini karantinaya aldı. Bu mahallelere hayvan giriş ve çıkışı yeni bir duyuruya kadar yasaklandı. Elbistan Belediyesi Hayvan Borsası çevre illerdeki vakalar nedeniyle 25 Eylül'den beri kapalı. İlçede yoğun aşılama çalışması başlatıldı.",
+   "neYapmali": "Karantina bölgesindeyseniz hayvan alım satımı ve sevkiyat yapmayın, ahıra yabancı giriş-çıkışını sınırlayın. Şüpheli belirti görürseniz Elbistan İlçe Tarım ve Orman Müdürlüğü'ne hemen haber verin.",
+   "kaynaklar": [
+    {
+     "ad": "Ankara Masası",
+     "url": "https://www.ankaramasasi.com.tr/haber/2226763/elbistan-da-sap-karantinasi-hayvan-giris-ve-cikislari-yasaklandi"
+    }
+   ]
+  },
+  {
+   "id": "istanbul-hamsi-hal-150-tezgah-350",
+   "kategori": "Piyasa",
+   "tarih": "2026-11-02",
+   "motif": "para",
+   "baslik": "İstanbul'da hamsi halde 150, tezgahta 350 lira",
+   "ozet": "İBB Tarım ve Su Ürünleri Şube Müdürlüğü'nün 2 Kasım verilerine göre İstanbul balık halinde hamsinin kilosu 117-150 lira, istavritin kilosu 108-123 lira arasında işlem gördü. Palamut ise büyüklüğüne göre tanesi 60-77 liradan satıldı. Aynı gün tezgahlarda hamsinin kilosu 350, istavritin kilosu 300 lira, palamudun tanesi ise 200 lira oldu.",
+   "neYapmali": "Balıkçılar av miktarını hal fiyatlarına göre planlayabilir; tüketiciler ise hal ile tezgah arasındaki farkı görmek için İBB'nin günlük hal fiyat listesini takip edebilir.",
+   "kaynaklar": [
+    {
+     "ad": "Timeturk",
+     "url": "https://www.timeturk.com/2-kasim-ibb-balik-halinde-hamsi-150-lira-tezgahta-350-lira-oldu"
+    }
+   ]
+  },
+  {
+   "id": "dogubayazit-yuzde-70-hibeli-bugday-tohumu",
+   "kategori": "Hibe",
+   "tarih": "2026-10-25",
+   "motif": "tohum",
+   "baslik": "Doğubayazıt'ta çiftçilere yüzde 70 hibeli 20 ton buğday tohumu dağıtıldı",
+   "ozet": "Ağrı İl Tarım ve Orman Müdürlüğü ile İl Özel İdaresi'nin iş birliğiyle Doğubayazıt'ta çiftçilere yüzde 70 hibeli 20 ton buğday tohumu verildi. Dağıtıma katılan Doğubayazıt Kaymakamı Mustafa Ayvat üreticilerle bir araya gelerek taleplerini dinledi.",
+   "neYapmali": "Hibeli tohum dağıtımlarından yararlanmak için ÇKS kaydınızın güncel olması gerekiyor; sonraki dağıtım dönemlerini ilçe tarım müdürlüğünden takip edin.",
+   "kaynaklar": [
+    {
+     "ad": "Saray Medya",
+     "url": "https://www.saraymedya.com/haber/dogubayazit-ta-ciftcilere-20-ton-bu%C4%9Fday-tohumu-verildi_317522/"
+    }
+   ]
+  },
+  {
+   "id": "ordu-findik-serbest-piyasa-hayal-kirikligi",
+   "kategori": "Piyasa",
+   "tarih": "2026-11-02",
+   "motif": "findik",
+   "baslik": "Ordu'da fındık serbest piyasada 160-170 liraya geriledi, üretici tepkili",
+   "ozet": "Ordu serbest piyasasında 50 randıman kabuklu fındığın kilosu 160-170 lira arasında işlem görüyor; Ordu Ticaret Borsası ortalaması 30 Ekim'de 177,64 liradan 2 Kasım'da 170,89 liraya indi. TMO'nun alım fiyatı Giresun kalitede 255, Levant kalitede 250 lira; Fiskobirlik ise ortaklarına 195, ortak olmayanlara 185 lira ödüyor. Giresun serbest piyasasında fiyat 210 lira civarında. Üreticiler, Rekabet Kurumu'nun 6 büyük firmaya soruşturma açmasına rağmen piyasanın toparlanmadığını belirterek TMO fiyatlarının yeniden değerlendirilmesini istiyor.",
+   "neYapmali": "TMO'ya satış için randevunuz yoksa ilçe şubesinden ek randevu imkânını sorun; acele satış yerine lisanslı depo ve ELÜS seçeneğini değerlendirin.",
+   "kaynaklar": [
+    {
+     "ad": "Ordu Yeni Dönem",
+     "url": "https://www.orduyenidonem.com.tr/orduda-findik-fiyatlari-ureticiyi-hayal-kirikligina-ugratti-1"
+    },
+    {
+     "ad": "Haber Gazetesi",
+     "url": "https://www.habergazetesi.com.tr/findik-fiyatlari-3-kasim-ordu-giresun-samsun-ve-trabzonda-kilosu-kac-tl-oldu"
+    }
+   ]
+  },
+  {
+   "id": "denizli-tarfu-2026-tarim-fuari",
+   "kategori": "Makine",
+   "tarih": "2026-10-30",
+   "motif": "traktor",
+   "baslik": "Denizli'de TARFU 2026 Tarım Fuarı kapılarını açtı",
+   "ozet": "Denizli'de TARFU 2026 Tarım Fuarı 1 Kasım'a kadar sürmek üzere açıldı; fuar alanında boş stant kalmadı. Açılışta konuşan Denizli Ticaret Odası Başkan Vekili Ali Taşevli, 1.200 dekarlık Gıda İhtisas OSB ile Geri Dönüşüm OSB projelerinden ve odanın son üç yılda 2 binden fazla iş insanını fuar katılımında desteklediğinden söz etti. Törene Vali Yavuz Selim Köşger ve kent protokolü katıldı.",
+   "neYapmali": "Fuarlarda makine alırken fiyat tekliflerini yazılı alın, yedek parça ve servis ağını sorun; Tarım Kredi ve Ziraat Bankası'nın fuar kampanyalı kredi koşullarını karşılaştırın.",
+   "kaynaklar": [
+    {
+     "ad": "Denizli24Haber",
+     "url": "https://www.denizli24haber.com/denizli/denizli-tarim-fuari-acildi-1-kasima-kadar-surecek/78307"
+    }
+   ]
+  },
+  {
+   "id": "findik-ihracati-ilk-iki-ay-494-milyon-dolar",
+   "kategori": "Piyasa",
+   "tarih": "2026-11-03",
+   "motif": "findik",
+   "baslik": "Fındık ihracatı sezonun ilk iki ayında 494,6 milyon dolara ulaştı",
+   "ozet": "Karadeniz Fındık ve Mamulleri İhracatçıları Birliği'nin verilerine göre 1 Eylül-31 Ekim 2026 döneminde 49.410 ton fındık ihraç edildi ve karşılığında yaklaşık 494,6 milyon dolar gelir elde edildi. Geçen sezonun aynı döneminde 30.768 ton ihracattan 344,1 milyon dolar kazanılmıştı. Böylece hem miktar hem de gelir geçen yılın belirgin şekilde üzerine çıktı.",
+   "neYapmali": "İhracatın güçlü seyri iç piyasa fiyatlarını her zaman hemen yansıtmayabilir; satış kararından önce TMO, Fiskobirlik ve borsa fiyatlarını karşılaştırın.",
+   "kaynaklar": [
+    {
+     "ad": "Milliyet Uzmanpara",
+     "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/turkiye-findik-ihracatindan-494-milyon-dolari-askin-gelir-sagladi-7693492"
+    }
+   ]
+  },
+  {
+   "id": "ekim-2026-tarim-ihracati-3-35-milyar-dolar",
+   "kategori": "Piyasa",
+   "tarih": "2026-11-03",
+   "motif": "para",
+   "baslik": "Ekim'de tarım ürünleri ihracatı 3,35 milyar dolar oldu",
+   "ozet": "Türkiye İhracatçılar Meclisi'nin ekim ayı verilerine göre tarım sektörünün ihracatı geçen yılın aynı ayına göre yüzde 1,8 artarak 3 milyar 347 milyon dolara çıktı. Tarımın toplam ihracat içindeki payı yüzde 12,9 oldu. Aynı ayda sanayi ihracatı yüzde 7,1 artışla 18,3 milyar dolar, madencilik ihracatı ise yüzde 18 artışla 688 milyon dolar olarak gerçekleşti.",
+   "neYapmali": "İhracata ürün veren üreticiler, kendi ürün grubundaki aylık verileri ilgili ihracatçı birliğinin sitesinden takip ederek fiyat görüşmelerine hazırlıklı gidebilir.",
+   "kaynaklar": [
+    {
+     "ad": "Milliyet Uzmanpara",
+     "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/otomotiv-endustrisi-4-milyar-dolarlik-ihracatla-ilk-sirada-yer-aldi-7693448"
+    }
+   ]
+  },
+  {
+   "id": "tzob-ekim-2026-uretici-market-fiyatlari",
+   "kategori": "Piyasa",
+   "tarih": "2026-10-31",
+   "motif": "domates",
+   "baslik": "TZOB: Ekimde markette domates yüzde 62,9 zamlandı, limonda tarla-raf farkı 11 kat",
+   "ozet": "TZOB Genel Başkanı Şemsi Bayraktar'ın açıkladığı ekim ayı verilerine göre markette izlenen 36 ürünün 25'inde fiyat arttı, 11'inde düştü. En yüksek artış yüzde 62,9 ile domateste görüldü; üreticide de domates yüzde 76,1 zamlandı. Üretici ile market arasındaki en büyük fark limonda oluştu: tarlada 3,90 lira olan limon markette 42,87 liradan satıldı. Bayraktar, mazot fiyatının bir yılda yüzde 73,4, amonyum nitrat gübresinin yüzde 67,7 arttığını belirterek zeytinyağı, fındık ve Antep fıstığında üretici fiyatlarının baskılandığını söyledi.",
+   "neYapmali": "Girdi alımlarınızı planlarken gübre ve mazottaki yıllık artışı maliyet hesabınıza katın; ürününüzü satarken tek alıcıya bağlı kalmamak için kooperatif ve borsa seçeneklerini değerlendirin.",
+   "kaynaklar": [
+    {
+     "ad": "Milliyet Uzmanpara",
+     "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/tzob-genel-baskani-bayraktar-market-fiyatlarini-degerlendirdi-7691337"
+    }
+   ]
+  },
+  {
+   "id": "zeytin-zeytinyagi-ihracati-dokuz-ayda-yuzde-28-geriledi",
+   "kategori": "Piyasa",
+   "tarih": "2026-10-27",
+   "motif": "zeytin",
+   "baslik": "Zeytin ve zeytinyağı ihracatı 9 ayda yüzde 28 geriledi",
+   "ozet": "Ege Zeytin ve Zeytinyağı İhracatçıları Birliği Başkanı M. Emre Uygun'un açıkladığı verilere göre ocak-eylül döneminde sektör ihracatı geçen yılın 381 milyon dolarından 273 milyon dolara indi. Zeytinyağı ihracatı miktarda yüzde 53 azalarak 15,7 bin tona, değerde yüzde 48 azalarak 82,1 milyon dolara düştü. Uygun, İspanya, İtalya, Yunanistan ve Tunus'ta da yüksek rekolte beklendiğini, maliyet ve finansman sorunlarıyla zorlu bir sezona girildiğini söyledi. Sektör, ABD'nin ek gümrük vergisinin kaldırılmasını ve AB kotasının artırılmasını talep ediyor.",
+   "neYapmali": "Bol rekolte ve zayıf ihracat yılında fiyat baskısı artabilir; zeytin ya da yağ satışınızı tek seferde yapmak yerine depolama ve kooperatif seçeneklerini değerlendirin.",
+   "kaynaklar": [
+    {
+     "ad": "Foreks",
+     "url": "https://www.foreks.com/haber/detay/6ae03e9658b1b941c2091ad1/FRKS/tr/ege-zeytin-ve-zeytinyagi-ihracatcilari-birligi-uygun-zeytin-ve-zeytinyagi-sektoru-ihracatta-zorlu-bir-sezona-giriyor-27-10-26/"
+    }
+   ]
+  },
+  {
+   "id": "sinop-kdakp-genc-kadin-ciftci-185-milyon-hibe",
+   "kategori": "Hibe",
+   "tarih": "2026-10-28",
+   "motif": "para",
+   "baslik": "Sinop'ta genç ve kadın çiftçilere 185 milyon liralık hibe",
+   "ozet": "Sinop İl Tarım ve Orman Müdürü Murat Genc, Kırsal Dezavantajlı Alanlar Kalkınma Projesi (KDAKP) kapsamında 2020-2026 döneminde 1.074 üreticiye toplam 185 milyon lira hibe verildiğini açıkladı. Yalnızca bu yıl 316 üreticiye 65 milyon lira destek sağlandı. Hibelerin yaklaşık yüzde 43'ü kadınlara, yüzde 61'i gençlere gitti. Proje kapsamında çayır biçme ve balya makineleri, süt soğutma tankları ve süt sağım makineleri desteklendi; hassas hanelerden 32 kişiye yüzde 100 hibeyle sera kuruldu.",
+   "neYapmali": "KDAKP'nin uygulandığı illerdeyseniz yeni dönem başvuruları için il tarım ve orman müdürlüğünün duyurularını takip edin; genç ve kadın üreticiler öncelikli gruplar arasında.",
+   "kaynaklar": [
+    {
+     "ad": "Milliyet Uzmanpara",
+     "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/genc-ve-kadin-ciftcilere-185-milyon-lira-hibe-destegi-7689329"
+    }
+   ]
+  },
+  {
+   "id": "tigem-bugday-arpa-narenciye-ihalesi-kasim",
+   "kategori": "Piyasa",
+   "tarih": "2026-10-28",
+   "motif": "bugday",
+   "baslik": "TİGEM 14.500 ton buğday-arpa ve 1.720 ton narenciyeyi ihaleyle satacak",
+   "ozet": "TİGEM, Altınova Tarım İşletmesi'nde üretilen 6.500 ton Bayraktar-2000 ve 6.500 ton Kızıltan-91 buğdayı ile 1.500 ton Tarım-92 arpasını 11 Kasım'da saat 13.30'da Konya Ticaret Borsası'nda ihaleyle satacak; tahmini bedel 252 milyon 50 bin lira. Boztepe Tarım İşletmesi'nde ise 790 ton Washington portakalı, 256,5 ton Fremont mandalina ve 674 ton kara limon 10 Kasım'da saat 14.00'te işletmede 8 parti halinde açık artırmayla satılacak. İhale şartnameleri tigem.gov.tr'de yayımlandı.",
+   "neYapmali": "İhaleye katılmak isteyen alıcılar şartnameyi tigem.gov.tr'den indirip teminat ve belge şartlarını ihale gününden önce tamamlamalı.",
+   "kaynaklar": [
+    {
+     "ad": "Milliyet Uzmanpara",
+     "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/tigem-tonlarca-bugday-arpa-ve-narenciye-satacak-7689193"
+    }
+   ]
+  },
+  {
+   "id": "lalahan-genomik-test-merkezi-buzagi-kaybi-20-bin",
+   "kategori": "Hayvancılık",
+   "tarih": "2026-10-30",
+   "motif": "sut",
+   "baslik": "Lalahan'da Genomik Test Merkezi açıldı, buzağı kaybında tazminat 20 bin liraya çıktı",
+   "ozet": "Tarım ve Orman Bakanı İbrahim Yumaklı, Ankara'daki Lalahan Uluslararası Hayvancılık Araştırma ve Eğitim Merkezi'nde Genomik Test Merkezi'ni açtı. Yumaklı, yavru kaybı tazminatının yüzde 100 artırıldığını, bu yıl buzağı kaybı için 20 bin lira, kuzu ve oğlak atığı için 4 bin lira ödeneceğini söyledi. Bakan, hayvansal üretim desteğinin bu yıl 38,5 milyar lira olduğunu, 2027 için önerinin 54,5 milyar lira olduğunu belirtti. Ödeme tarihi açıklanmadı.",
+   "neYapmali": "Yavru kaybı tazminatı için hayvanlarınızın TÜRKVET kayıtlarının ve aşılarının eksiksiz olduğundan emin olun; kayıp yaşandığında ilçe tarım müdürlüğüne zamanında bildirin.",
+   "kaynaklar": [
+    {
+     "ad": "Milliyet",
+     "url": "https://www.milliyet.com.tr/ekonomi/bakan-yumaklidan-hayvancilik-yapanlari-sevindirecek-haber-7690934"
+    }
+   ]
+  },
+  {
+   "id": "sapanca-golu-eylem-plani-25-5-milyar",
+   "kategori": "Bitkisel Üretim",
+   "tarih": "2026-10-31",
+   "motif": "tohum",
+   "baslik": "Sapanca Gölü için 5 yılda 25,5 milyar liralık eylem planı",
+   "ozet": "Bakan Yumaklı, Adapazarı'nda açıkladığı Sapanca Gölü Eylem Planı'nın 6 eylem ve 12 tedbirden oluştuğunu, 5 yılda yaklaşık 25,5 milyar liralık yatırım öngördüğünü söyledi. Plan ile havzaya yılda yaklaşık 114 milyon metreküp su kazandırılması hedefleniyor; gölde 2025'te yaklaşık 72 milyon metreküp su azalmıştı. Yumaklı, ülkede suyun yüzde 77'sinin tarımda kullanıldığını hatırlatarak basınçlı sulama sistemlerine yüzde 70 hibe verildiğini belirtti.",
+   "neYapmali": "Salma sulama yapıyorsanız damla ya da yağmurlama sisteme geçiş için yüzde 70 hibeli basınçlı sulama desteğinin şartlarını il tarım müdürlüğünden öğrenin.",
+   "kaynaklar": [
+    {
+     "ad": "Milliyet",
+     "url": "https://www.milliyet.com.tr/ekonomi/bakan-yumakli-havzamiza-yilda-yaklasik-114-milyon-metrekupluk-su-kazandirmayi-planliyoruz-7691569"
+    }
+   ]
+  },
+  {
+   "id": "corum-pancar-dekarda-15-ton",
+   "kategori": "Bitkisel Üretim",
+   "tarih": "2026-10-29",
+   "motif": "pancar",
+   "baslik": "Çorumlu üretici: Pancarda dekardan 15 ton aldık, zarar etmedik",
+   "ozet": "Çorum'da yaklaşık 500 dekar arazide üretim yapan Mustafa Ertuğrul, bu yıl şeker pancarında dekar başına 15 tona kadar verim aldığını ve kilogramını 3,75 liradan sattığını söyledi. Ertuğrul'a göre dekardaki maliyeti yaklaşık 4 tonluk ürün karşılıyor ve dekar başına 10-25 bin lira kâr kalıyor. Pancarın zarar ettirdiğini söyleyen üreticilere video ile yanıt veren Ertuğrul'un rakamları kendi işletmesine ait; verim ve maliyet bölgeye ve sulama imkânına göre büyük farklılık gösteriyor.",
+   "neYapmali": "Pancar ekip ekmeme kararı için kendi parselinizin son 3 yıllık verimi ve sulama maliyetiyle hesap yapın; fabrika avans ve ödeme takvimini sözleşmeden kontrol edin.",
+   "kaynaklar": [
+    {
+     "ad": "Milliyet Uzmanpara",
+     "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/donum-basina-60-bin-lira-kar-kaliyor-15-ton-uretiyoruz-4-tonu-giderleri-karsiliyor-7690146"
+    }
+   ]
+  },
+  {
+   "id": "aydin-kestane-ilk-alim-600-tl",
+   "kategori": "Piyasa",
+   "tarih": "2026-10-27",
+   "motif": "kestane",
+   "baslik": "Aydın'da sezonun ilk kestanesi kilosu 600 liradan alındı",
+   "ozet": "Aydın Ticaret Borsası'nda düzenlenen 2026-2027 sezonu kestane ilk alım töreninde 16 üreticiden alınan toplam 160 kilogram kestane kilosu 600 liradan satıldı. Vali Osman Varol, Türkiye'nin yıllık yaklaşık 83 bin tonluk kestane üretiminin 25.500 tonunun (yaklaşık yüzde 31) Aydın'dan karşılandığını söyledi. İlde 880 bin kestane ağacı bulunuyor ve ÇKS'ye kayıtlı 5.790 üretici geçimini kestaneden sağlıyor. Aydın kestanesi AB'de tescilli coğrafi işarete sahip.",
+   "neYapmali": "İlk alım fiyatı törensel bir fiyattır; sezon içindeki gerçek piyasayı görmek için borsanın günlük işlem fiyatlarını takip edin, kestaneyi serin ve havadar yerde saklayın.",
+   "kaynaklar": [
+    {
+     "ad": "Milliyet Uzmanpara",
+     "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/aydinda-sezonun-ilk-kestanesi-kilosu-600-tlden-alindi-7688675"
+    }
+   ]
+  },
+  {
+   "id": "antalya-hal-ekim-domates-fiyati-iki-katina",
+   "kategori": "Piyasa",
+   "tarih": "2026-11-03",
+   "motif": "domates",
+   "baslik": "Antalya hallerinde domatesin fiyatı bir yılda iki katına çıktı",
+   "ozet": "Antalya Ticaret Borsası'nın açıkladığı ekim ayı Antalya Toptancı Halleri endeksine göre domatesin işlem fiyatı bir yılda yüzde 101,29 artarken halden geçen miktar yüzde 15,15 azaldı. Sebze genelinde fiyat yüzde 62,11 yükseldi, miktar yüzde 8,22 düştü. Meyvede ise fiyat yüzde 13,99 gerilerken miktar yüzde 19,88 azaldı. Borsa, domates fiyatındaki artışın son yedi yılın ekim ayları içindeki en yüksek artış olduğunu belirtti.",
+   "neYapmali": "Hal fiyatları gün gün değişir; ürününüzü göndermeden önce komisyoncunun ve halin günlük fiyat listesini karşılaştırın, satış faturanızı mutlaka alın.",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomi Gazetesi",
+     "url": "https://www.ekonomigazetesi.com/sehirler/ekim-ayinda-domates-miktari-azaldi-fiyati-yuzde-100den-fazla-artti-91126"
+    }
+   ]
+  },
+  {
+   "id": "agri-hayvan-borsasi-acildi-kars-kisitlama-kalkti",
+   "kategori": "Hayvancılık",
+   "tarih": "2026-11-02",
+   "motif": "sut",
+   "baslik": "Şap tedbirlerinde gevşeme: Ağrı Hayvan Borsası açıldı, Kars'ta hayvan hareketi serbest",
+   "ozet": "Şap hastalığı nedeniyle kapalı olan Ağrı Hayvan Borsası 2 Kasım'da yeniden açıldı. Kars'ta ise 30 Eylül'de başlayan il içi ve il dışı hayvan hareketi kısıtlaması 3 Kasım itibarıyla kaldırıldı. Ancak Kars'ta hayvan pazarları, canlı hayvan borsaları ve toplama-satış merkezleri şimdilik kapalı kalacak; karantinadaki bölgelerde tedbirler sürüyor.",
+   "neYapmali": "Hayvan alıp satarken kulak küpesi ve sağlık belgesinin eksiksiz olmasına dikkat edin; karantina bölgesindeyseniz hareket izni için ilçe tarım müdürlüğüne danışın.",
+   "kaynaklar": [
+    {
+     "ad": "Kars Hakimiyet",
+     "url": "https://www.karshakimiyet.com/karsta-hayvan-hareketleri-kisitlamasi-kaldiriliyor-hayvan-pazarlari-kapali-kalacak-122136h.htm"
+    },
+    {
+     "ad": "Doğubayazıt Gazetesi",
+     "url": "https://dogubayazitgazetesi.com/agrida-hayvan-borsasi-acildi-karsta-da-yeni-karar"
+    }
+   ]
+  },
+  {
+   "id": "manavgat-saganak-400-donum-pamuk-kabak",
+   "kategori": "Zirai Don",
+   "tarih": "2026-11-01",
+   "motif": "pamuk",
+   "baslik": "Manavgat'ta sağanak 400 dönüm araziyi su altında bıraktı, zarar 10 milyon lirayı aştı",
+   "ozet": "Antalya'nın Manavgat ilçesinde iki gün süren ve metrekareye 60 kilogramı aşan yağış Denizkent, Denizyaka, Bereket ve Perakende mahallelerinde 400 dönüm tarım arazisini su altında bıraktı. Manavgat Ziraat Odası'na göre 300 dönümlük pamuk alanında hasat edilemeyen yaklaşık 120 ton ürünün değeri 6 milyon lira, 50 dönüm kabakta zarar 3,5 milyon liranın üzerinde. Toplam zararın 10 milyon lirayı aştığı belirtildi; ilçe tarım müdürlüğü ekipleri tarlalarda inceleme yaptı.",
+   "neYapmali": "Zarar gördüyseniz TARSİM poliçeniz varsa sel hasarını 15 gün içinde bildirin; poliçe yoksa hasar tespiti için muhtarlık ve ilçe tarım müdürlüğüne başvurun.",
+   "kaynaklar": [
+    {
+     "ad": "İlkhaber Gazetesi",
+     "url": "https://www.ilkhaber-gazetesi.com/ekonomi/antalya-da-saganak-tarim-arazilerini-vurdu-400-donum-alan-sular-altinda-zarar-10-milyon-tl-yi-asti-467345"
+    }
+   ]
+  },
+  {
+   "id": "cop31-antalya-atb-tarim-su-gundemi",
+   "kategori": "Bitkisel Üretim",
+   "tarih": "2026-10-28",
+   "motif": "sera",
+   "baslik": "COP31 öncesi Antalya Ticaret Borsası tarım ve suyu öne çıkarıyor",
+   "ozet": "Antalya Ticaret Borsası Başkanı Ali Çandır, 2026'nın temasını 'Su' olarak belirlediklerini ve 9-20 Kasım'da Antalya'da yapılacak COP31 İklim Zirvesi'ne tarım odaklı katkı sunacaklarını söyledi. Borsanın dönem başkanlığını yürüttüğü Antalya Tarım Konseyi'nin mutabakatında akıllı tarım, iklim finansmanı ve su-gıda güvenliği başlıkları yer alıyor. Zirvede Antalya'nın coğrafi işaretli ürünleri Yeşil Bölge'deki 'Antalya Evi'nde tanıtılacak.",
+   "neYapmali": "İklim uyumlu tarım uygulamaları için verilen destek ve hibe çağrılarını takip edin; su tasarrufu sağlayan sulama yatırımları önümüzdeki dönemde öncelikli olacak.",
+   "kaynaklar": [
+    {
+     "ad": "Milliyet",
+     "url": "https://www.milliyet.com.tr/haber/7688943/"
+    },
+    {
+     "ad": "Milliyet",
+     "url": "https://www.milliyet.com.tr/haber/7688942/"
+    }
+   ]
+  },
+  {
+   "id": "gemlik-yaglik-zeytin-maliyeti-58-tl",
+   "kategori": "Piyasa",
+   "tarih": "2026-10-28",
+   "motif": "zeytin",
+   "baslik": "Gemlik Ziraat Odası: 1 kilo yağlık zeytinin maliyeti 58,14 lira",
+   "ozet": "Gemlik Ziraat Odası'nın hesabına göre dekar başına zeytin üretim maliyeti 44.132 lira. Hesapta dekarda 33 ağaç, ağaç başına 23 kilogram ve dekarda 759 kilogram verim esas alındı; bu durumda 1 kilogram yağlık zeytinin maliyeti 58,14 liraya ulaşıyor. En büyük kalemler hasat (8.000 lira), budama (6.750 lira) ve toprak işleme (5.500 lira). Oda Başkanı Ercan Barutçuoğlu, üreticinin emeğini karşılayacak bir fiyat beklediklerini söyledi.",
+   "neYapmali": "Kendi bahçenizin maliyetini aynı kalemlerle hesaplayın; satış fiyatı maliyetin altındaysa ürünü yağa çevirip saklamak ya da kooperatife vermek daha kârlı olabilir.",
+   "kaynaklar": [
+    {
+     "ad": "Yeni Marmara Gazetesi",
+     "url": "https://www.yenimarmaragazetesi.com/ekonomi/gemlik-te-1-kilo-yaglik-zeytinin-maliyeti-58-14-tl-240263"
+    }
+   ]
+  },
+  {
+   "id": "elbistan-sap-karantinasi-5-mahalle",
+   "kategori": "Hayvancılık",
+   "tarih": "2026-10-31",
+   "motif": "sut",
+   "baslik": "Elbistan'da şap karantinası: 5 mahallede hayvan giriş-çıkışı yasaklandı",
+   "ozet": "Kahramanmaraş'ın Elbistan ilçesine bağlı Pınarbaşı Mahallesi'nde şap vakası tespit edildi. Hayvan Sağlık Zabıta Komisyonu kararıyla Pınarbaşı, Kızılcaoba, Cumhuriyet, Yeşilyurt ve Taşburun mahalleleri karantinaya alındı; bu mahallelerde hayvan giriş ve çıkışı yeni bir duyuruya kadar yasak. Elbistan Belediyesi Hayvan Borsası çevre illerdeki vakalar nedeniyle 25 Eylül'den beri kapalı. İlçede yoğun aşılama başlatıldı.",
+   "neYapmali": "Hayvanlarınızda ağızda yara, salya, topallık gibi belirtiler görürseniz hemen ilçe tarım müdürlüğüne bildirin; ahıra yabancı giriş-çıkışını sınırlayın ve dezenfeksiyona dikkat edin.",
+   "kaynaklar": [
+    {
+     "ad": "Ankara Masası",
+     "url": "https://www.ankaramasasi.com.tr/haber/2226763/elbistan-da-sap-karantinasi-hayvan-giris-ve-cikislari-yasaklandi"
+    }
+   ]
+  },
+  {
+   "id": "tokat-yesilirmak-600-milyon-islah",
+   "kategori": "Zirai Don",
+   "tarih": "2026-11-03",
+   "motif": "tohum",
+   "baslik": "Tokat'ta taşkın sonrası Yeşilırmak'ta 600 milyon liralık ıslah çalışması",
+   "ozet": "Tokat'ta 20 Mayıs'taki yağışlarda Almus Barajı'nın dolması ve dolusavaklardan su bırakılmasıyla Yeşilırmak taşmış, tarım arazileri ve evler su altında kalmış, köprüler yıkılmıştı. DSİ, nehirde 70 kilometrelik ıslah çalışması yapacak ve yıkılan köprüleri yeniden inşa edecek. İhalelerin toplam bedelinin 600 milyon lirayı aştığı belirtildi.",
+   "neYapmali": "Taşkın riski taşıyan nehir kenarındaki arazilerde ekim planı yaparken TARSİM sel teminatını poliçenize eklemeyi düşünün.",
+   "kaynaklar": [
+    {
+     "ad": "DHA",
+     "url": "https://www.dha.com.tr/foto-galeri/tokatta-taskin-sonrasi-yesilirmakta-600-milyon-liralik-islah-calismasi-basladi-2974332"
+    }
+   ]
+  },
+  {
+   "id": "ordu-findik-serbest-piyasa-160-170-tl",
+   "kategori": "Piyasa",
+   "tarih": "2026-11-02",
+   "motif": "findik",
+   "baslik": "Ordu'da fındık serbest piyasada 160-170 liraya geriledi, üretici tepkili",
+   "ozet": "Ordu serbest piyasasında 50 randıman kabuklu fındığın kilosu 160-170 lira arasında işlem görüyor; Ordu Ticaret Borsası ortalaması 30 Ekim'deki 177,64 liradan 2 Kasım'da 170,89 liraya indi. TMO Giresun kalite fındığı 255, Levant kaliteyi 250 liradan alıyor; Fiskobirlik ortaklara 195, ortak olmayanlara 185 lira veriyor. Giresun serbest piyasasında fiyat 210 lira civarında. Üreticiler, Rekabet Kurumu soruşturmasına rağmen fiyatın yükselmediğini belirterek fiyatların yeniden değerlendirilmesini istiyor.",
+   "neYapmali": "TMO'ya satış için randevu ve teslim şartlarını kontrol edin; acil nakit ihtiyacınız yoksa ürünü lisanslı depoda ELÜS olarak saklamayı değerlendirebilirsiniz.",
+   "kaynaklar": [
+    {
+     "ad": "Ordu Yeni Dönem",
+     "url": "https://www.orduyenidonem.com.tr/orduda-findik-fiyatlari-ureticiyi-hayal-kirikligina-ugratti-1"
+    }
+   ]
   }
  ],
  "takvim": [
@@ -542,6 +1205,24 @@
    "baslik": "2027 ÇKS kaydı ve güncelleme",
    "kapsam": "Türkiye geneli",
    "haber": "cks-2027-son-gun-31-aralik"
+  },
+  {
+   "tarih": "2026-11-10",
+   "baslik": "TİGEM narenciye açık artırması",
+   "kapsam": "Boztepe Tarım İşletmesi",
+   "haber": "tigem-bugday-arpa-narenciye-ihale"
+  },
+  {
+   "tarih": "2026-11-11",
+   "baslik": "TİGEM buğday-arpa ihalesi",
+   "kapsam": "Konya Ticaret Borsası",
+   "haber": "tigem-bugday-arpa-narenciye-ihale"
+  },
+  {
+   "tarih": "2026-11-11",
+   "baslik": "TİGEM buğday-arpa ihalesi (Konya Ticaret Borsası)",
+   "kapsam": "Konya",
+   "haber": "tigem-bugday-arpa-narenciye-ihalesi-kasim"
   }
  ],
  "fiyatlar": [
@@ -881,6 +1562,53 @@
     "zeytin-3.jpg",
     "zeytin-4.jpg",
     "zeytin-5.jpg"
+   ],
+   "ayva": [
+    "ayva-1.jpg",
+    "ayva-2.jpg",
+    "ayva-3.jpg"
+   ],
+   "elma": [
+    "elma-1.jpg",
+    "elma-2.jpg",
+    "elma-3.jpg",
+    "elma-4.jpg"
+   ],
+   "narenciye": [
+    "narenciye-1.jpg",
+    "narenciye-2.jpg",
+    "narenciye-3.jpg",
+    "narenciye-4.jpg"
+   ],
+   "pamuk": [
+    "pamuk-1.jpg",
+    "pamuk-2.jpg",
+    "pamuk-3.jpg"
+   ],
+   "domates": [
+    "domates-1.jpg",
+    "domates-2.jpg",
+    "domates-3.jpg",
+    "domates-4.jpg"
+   ],
+   "misir": [
+    "misir-1.jpg",
+    "misir-2.jpg",
+    "misir-3.jpg",
+    "misir-4.jpg"
+   ],
+   "nar": [
+    "nar-1.jpg",
+    "nar-2.jpg",
+    "nar-3.jpg"
+   ],
+   "pancar": [
+    "pancar-1.jpg",
+    "pancar-2.jpg",
+    "pancar-3.jpg"
+   ],
+   "kestane": [
+    "kestane-1.jpg"
    ]
   }
  }
