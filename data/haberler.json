@@ -1,0 +1,887 @@
+{
+ "guncelleme": "2026-11-04T01:05:00+03:00",
+ "kategoriler": [
+  {
+   "ad": "Hava & Don",
+   "slug": "hava",
+   "renk": "#0f7490"
+  },
+  {
+   "ad": "Destek",
+   "slug": "destek",
+   "renk": "#2f7d32"
+  },
+  {
+   "ad": "Hibe",
+   "slug": "hibe",
+   "renk": "#2a6496"
+  },
+  {
+   "ad": "Piyasa",
+   "slug": "piyasa",
+   "renk": "#c46a08"
+  },
+  {
+   "ad": "Hayvancılık",
+   "slug": "hayvancilik",
+   "renk": "#8a4224"
+  },
+  {
+   "ad": "Bitkisel Üretim",
+   "slug": "bitkisel-uretim",
+   "renk": "#5b8a1c"
+  },
+  {
+   "ad": "Makine",
+   "slug": "makine",
+   "renk": "#4a5a6e"
+  }
+ ],
+ "mansetler": [
+  "fethiye-sel",
+  "kizilinler",
+  "zirai-don-uyarisi-4-9-kasim",
+  "aricilik-son-gun-6-kasim",
+  "diyarbakir-yagis-pamuk-misir-hasat",
+  "bayburt-buzagi-kuzu-1-aralik"
+ ],
+ "surmanset": [
+  "cks-2027-son-gun-31-aralik",
+  "pancar-besinci-avans-952-milyon"
+ ],
+ "haberler": [
+  {
+   "id": "butce-2027-tarim-destek",
+   "kategori": "Destek",
+   "tarih": "2026-10-17",
+   "baslik": "2027 bütçesinde tarımsal desteklere 235 milyar lira ayrıldı",
+   "ozet": "TBMM'ye sunulan 2027 bütçe teklifinde doğrudan tarımsal destek programları için 235 milyar lira öngörüldü. Bu tutar 2026'daki yaklaşık 167,6 milyar liralık destek bütçesinin yüzde 40 üzerinde. Kredi, yatırım ve vergi kalemleriyle birlikte tarıma ayrılan toplam kaynak 1 trilyon 305 milyar liraya çıkıyor. Tarım sigortası desteği için de 30 milyar lira ayrıldı. 2027 üretim yılı için temel destek ise dekar başına 442 lira olarak belirlendi.",
+   "neYapmali": "Destekler çoğunlukla bir sonraki yılın bütçesinden ödenir. Yani 2026'da ektiğiniz ürünün destekleri bu 2027 bütçesinden gelecek. ÇKS kaydınızın güncel olduğundan emin olun.",
+   "kaynaklar": [
+    {
+     "ad": "Milliyet Uzmanpara",
+     "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/butceden-tarimsal-desteklere-gelecek-yil-icin-235-milyar-lira-ayrildi-7681711"
+    },
+    {
+     "ad": "Ekonomi Gazetesi",
+     "url": "https://www.ekonomigazetesi.com/kose-yazisi/tarima-2027de-235-milyar-lira-destek-90728"
+    }
+   ],
+   "motif": "para"
+  },
+  {
+   "id": "aricilik-son-gun-6-kasim",
+   "kategori": "Hayvancılık",
+   "tarih": "2026-11-02",
+   "baslik": "Arıcılık desteğinde başvuru süresi 6 Kasım'a uzatıldı",
+   "ozet": "Tarım ve Orman Bakanlığı 2026 arıcılık destekleme takvimini güncelledi. Destek başvuruları 7 Eylül–6 Kasım arasında alınıyor, yani son gün 6 Kasım Cuma. Birlikler başvuru dilekçelerini 9-13 Kasım arasında il ve ilçe tarım ve orman müdürlüklerine teslim edecek.",
+   "neYapmali": "Henüz başvurmadıysanız bağlı olduğunuz arı yetiştiricileri birliğiyle bu hafta içinde görüşün. Kovan tespiti ve belgeler için il veya ilçe müdürlüğünüzden bilgi alın.",
+   "kaynaklar": [
+    {
+     "ad": "Aksiyon",
+     "url": "https://www.aksiyon.com.tr/aricilik-destek-basvurularinda-sure-uzatildi-son-basvuru-6-kasim-2026-385025"
+    }
+   ],
+   "motif": "kovan"
+  },
+  {
+   "id": "tmo-kasim-hububat",
+   "kategori": "Piyasa",
+   "tarih": "2026-10-30",
+   "baslik": "TMO Kasım'da 5,5 milyon ton hububatı zamsız satışa sunuyor",
+   "ozet": "Toprak Mahsulleri Ofisi Kasım ayında da piyasaya 5,5 milyon ton ürün arz edecek. Satışlar hasat başında açıklanan fiyatlardan sürüyor, fiyat artışı yapılmadı. Ayrıca 1 milyon ton yemlik buğday, vade farksız 90 gün vadeyle ya da kredi kartına üç taksitle satışa açıldı. 1 Eylül'den bu yana yaklaşık 1,5 milyon ton hububat satıldı.",
+   "neYapmali": "Besici ve yetiştiriciyseniz yemlik buğdaydaki vadeli satış imkânı maliyet planınızı rahatlatabilir. Ayrıntılar TMO ve TÜRİB üzerinden duyuruluyor.",
+   "kaynaklar": [
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/tmo-kasim-da-piyasaya-5-5-milyon-ton-hububat-arz-edecek-3792957"
+    }
+   ],
+   "motif": "bugday"
+  },
+  {
+   "id": "denizli-mazot-gubre",
+   "kategori": "Hibe",
+   "tarih": "2026-11-02",
+   "baslik": "Denizli'de 50 dönüm altı üreticiye mazot ve gübre desteği",
+   "ozet": "Denizli Büyükşehir Belediyesi'nin mazot ve 20.20.0 kompoze gübre desteği başvuruları 2 Kasım'da başladı, 27 Kasım'da sona erecek. 50 dönüm ve altında üretim yapan, 2027 ÇKS belgesi olan çiftçiler başvurabiliyor. Destek miktarı arazi büyüklüğüne göre kademeli: en küçük dilimde 1 çuval gübre ve 20 litre mazot, 30-50 dönüm arasında 6 çuval gübre ve 100 litre mazot veriliyor. Her haneden tek başvuru kabul ediliyor.",
+   "neYapmali": "Başvuru belediyenin internet adresinden (apps.denizli.bel.tr/mazotdestegibasvuru) ya da ilçelerdeki DESKİ hizmet birimlerinden yapılıyor. Nadasa ayrılan araziler hesaba katılmıyor.",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomi Politikası",
+     "url": "https://ekonomipolitikasi.com.tr/denizlide-mazot-ve-gubre-destegi-basvurulari-basliyor/"
+    },
+    {
+     "ad": "Denizli Güneş",
+     "url": "https://www.denizligunes.com/ureticiye-can-suyu-2"
+    }
+   ],
+   "motif": "traktor"
+  },
+  {
+   "id": "ankara-tohum-gubre",
+   "kategori": "Hibe",
+   "tarih": "2026-10-23",
+   "baslik": "Ankara'da tohum ve gübre desteği başvuruları 23 Kasım'da kapanıyor",
+   "ozet": "Ankara Büyükşehir Belediyesi'nin çiftçilere yönelik tohum ve gübre desteği başvuruları 23 Ekim'de başladı, 23 Kasım'a kadar sürecek. Başvurular internet üzerinden, 2026/2027 ÇKS belgesiyle yapılıyor. Belediye desteğin girdi maliyetlerindeki artışın etkisini azaltmak için verildiğini açıkladı.",
+   "neYapmali": "Başvurular Başkent Tarım platformu (baskenttarim.ankara.bel.tr) üzerinden alınıyor. Son haftaya bırakmayın.",
+   "kaynaklar": [
+    {
+     "ad": "Gazete İlk Sayfa",
+     "url": "https://www.gazeteilksayfa.com/ankarada-ciftciye-destek-icin-basvurular-devam-ediyor-313128h.htm"
+    }
+   ],
+   "motif": "tohum"
+  },
+  {
+   "id": "zeytin-rekor-rekolte",
+   "kategori": "Bitkisel Üretim",
+   "tarih": "2026-10-27",
+   "baslik": "Zeytinde rekor rekolte, ihracatta zor sezon",
+   "ozet": "TÜİK'in ilk tahminine göre bu yıl zeytin üretimi yüzde 55,7 artışla yaklaşık 3,8 milyon tona çıkacak. Bu rakam tutarsa 2024'teki 3,75 milyon tonluk rekor da geçilecek. Öte yandan zeytin ve zeytinyağı ihracatı yılın ilk dokuz ayında yüzde 28 gerileyerek 273 milyon dolara düştü. Sektör, bol ürünün iç piyasada fiyatları baskılamasından endişe ediyor.",
+   "neYapmali": "Ürününüzü satmadan önce birlik ve kooperatiflerin alım fiyatlarını takip edin. Depolama imkânınız varsa satışı zamana yaymak riski azaltabilir.",
+   "kaynaklar": [
+    {
+     "ad": "Dünya",
+     "url": "https://www.dunya.com/sektorler/zeytin-rekor-rekolte-yilinda-tarihi-sinava-hazirlaniyor-haberi-835678"
+    },
+    {
+     "ad": "Ekonomi Gazetesi",
+     "url": "https://www.ekonomigazetesi.com/sehirler/zeytin-ve-zeytinyagi-sektoru-ihracatta-zorlu-bir-sezona-giriyor-90683"
+    }
+   ],
+   "motif": "zeytin"
+  },
+  {
+   "id": "cig-sut-fiyat-bekleniyor",
+   "kategori": "Hayvancılık",
+   "tarih": "2026-11-02",
+   "baslik": "Çiğ süt üreticisi yeni fiyatı bekliyor",
+   "ozet": "Ulusal Süt Konseyi'nin çiğ inek sütü tavsiye fiyatı 1 Mayıs'tan bu yana litre başına 24,30 TL. Konsey Temmuz'daki toplantısında fiyatı değiştirmemiş ve Ekim ayında yeniden değerlendireceğini açıklamıştı. Üretici örgütleri artan yem ve enerji maliyetleri nedeniyle fiyatın güncellenmesini bekliyor.",
+   "neYapmali": "Yeni fiyat açıklandığında burada güncelleyeceğiz. Tavsiye fiyat yüzde 3,6 yağ ve yüzde 3,2 protein içeren süt için geçerli. Her 0,1'lik oran farkı için 36 kuruş eklenip düşülüyor.",
+   "kaynaklar": [
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/usk-cig-sut-tavsiye-fiyatini-ekim-e-kadar-sabit-birakti-3783018"
+    },
+    {
+     "ad": "Halk TV",
+     "url": "https://halktv.com.tr/ekonomi/cig-sut-fiyati-ne-kadar-konsey-acikladi-1043112h"
+    }
+   ],
+   "motif": "sut"
+  },
+  {
+   "id": "malatya-su-urunleri",
+   "kategori": "Destek",
+   "tarih": "2026-11-02",
+   "baslik": "Su ürünleri yetiştiriciliği desteğinde başvuru dönemi açıldı",
+   "ozet": "Malatya İl Tarım ve Orman Müdürlüğü, su ürünleri yetiştiriciliği desteklemesi için başvuruların 2 Kasım–18 Aralık arasında alınacağını duyurdu. Başvurular ilçe tarım ve orman müdürlüklerine yapılıyor. Satış belgeleri ve hasat tespit tutanakları için son tarih 8 Ocak 2027.",
+   "neYapmali": "Başka illerde de benzer takvim uygulanıyor. Kendi ilinizdeki tarihleri ilçe müdürlüğünüzden teyit edin.",
+   "kaynaklar": [
+    {
+     "ad": "Gazete Vatan",
+     "url": "https://www.gazetevatan.com/sehirler/malatya/malatyada-ureticilere-destek-firsati-basvurular-18-aralika-kadar-2446521"
+    }
+   ],
+   "motif": "balik"
+  },
+  {
+   "id": "turktraktor-dokuz-ay",
+   "kategori": "Makine",
+   "tarih": "2026-10-26",
+   "motif": "traktor",
+   "baslik": "Traktör pazarı daralıyor: TürkTraktör'ün iç satışları yüzde 26 düştü",
+   "ozet": "TürkTraktör'ün 26 Ekim'de açıkladığı sonuçlara göre şirketin yurt içi traktör satışları yılın ilk dokuz ayında yüzde 26 azalarak 15.401 adede geriledi. Aynı dönemde ihracat yüzde 13 artışla 9.225 adede çıktı. Biçerdöver satışları da yüzde 9 daraldı. Şirket, 2026'da Türkiye traktör pazarının 16 ile 21 bin adet arasında kalmasını bekliyor.",
+   "neYapmali": "Makine alımı düşünüyorsanız bayilerin yıl sonu kampanyalarını ve kooperatifler üzerinden ortak makine kullanımı seçeneklerini karşılaştırın. Tarımsal kredi faiz koşullarını Ziraat Bankası ve Tarım Kredi'den sorun.",
+   "kaynaklar": [
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/turk-traktor-den-83-milyon-tl-net-zarar-3792608"
+    },
+    {
+     "ad": "Foreks",
+     "url": "https://www.foreks.com/haber/detay/6ae03a5b58b1b941c2091aa7/PICNEWS/tr/turktraktor-dokuz-ayda-zarar-acikladi-satislar-yuzde-28-dustu-27-10-26/"
+    }
+   ]
+  },
+  {
+   "id": "zirai-don-uyarisi-4-9-kasim",
+   "kategori": "Hava & Don",
+   "tarih": "2026-11-03",
+   "motif": "don",
+   "baslik": "İç kesimler için zirai don uyarısı: sıcaklıklar 5-8 derece düşüyor",
+   "ozet": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı, 4 Kasım'dan itibaren batıdan başlayarak serin ve yağışlı havanın etkili olacağını açıkladı. Sıcaklıkların gelecek hafta ortasına kadar mevsim normallerinin altında seyretmesi ve iç kesimlerde yerel ölçekte zirai don görülmesi bekleniyor. MGM'nin 4-9 Kasım tahminine göre en düşük sıcaklık Erzurum'da eksi 4, Sivas'ta eksi 3, Afyonkarahisar'da eksi 1, Ankara'da 0, Eskişehir ve Bolu'da 2 derece olacak. Meteoroloji 2. Bölge Müdürlüğü de İzmir, Aydın, Manisa, Balıkesir ve Çanakkale'nin iç ve yüksek kesimlerinde 7-8 Kasım'da hafif zirai don riski olduğunu bildirdi. Meteoroloji 12. Bölge Müdürlüğü ise Erzincan'da aynı dönemde sıcaklığın 0 dereceye kadar düşebileceğini duyurdu. Kuzey ve doğunun yükseklerinde karla karışık yağmur ve kar bekleniyor.",
+   "neYapmali": "Hasadı süren sebze ve meyveleri mümkünse don gecelerinden önce toplayın. Fide ve seralarda örtü, ısıtma ya da sisleme hazırlığı yapın. Hayvan barınaklarında su hatlarını donmaya karşı kontrol edin. İlinizin güncel uyarılarını MGM'den takip edin.",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/gundem/yurdun-ic-kesimleri-icin-yerel-olcekte-zirai-don-uyarisi/4110146"
+    },
+    {
+     "ad": "Dünya",
+     "url": "https://www.dunya.com/gundem/bakanliktan-zirai-don-uyarisi-onleminizi-alin-haberi-846300"
+    },
+    {
+     "ad": "Shafaqna (MGM 2. Bölge)",
+     "url": "https://tr.shafaqna.com/archives/501412/meteoroloji-egedeki-5-il-icin-7-8-kasim-tarihlerinde-zirai-don-uyarisinda-bulundu/"
+    },
+    {
+     "ad": "Haberler.com (İHA, MGM 12. Bölge)",
+     "url": "https://www.haberler.com/cevre/meteoroloji-erzincan-da-4-9-kasim-2026-icin-zirai-20393162-haberi/"
+    }
+   ]
+  },
+  {
+   "id": "bayburt-buzagi-kuzu-1-aralik",
+   "kategori": "Hayvancılık",
+   "tarih": "2026-11-03",
+   "motif": "koyun",
+   "baslik": "Bayburt'ta buzağı, kuzu ve oğlak desteğine başvuru 1 Aralık'ta bitiyor",
+   "ozet": "Bayburt İl Tarım ve Orman Müdürlüğü, buzağı, malak, kuzu ve oğlak desteklemeleri için son başvuru gününü duyurdu. Başvurular 1 Aralık 2026 Salı günü mesai bitiminde kapanacak. Yetiştirici birliğine üye olanlar başvurusunu birliği üzerinden yapıyor. Üye olmayan üreticiler ise il veya ilçe müdürlüklerine gidiyor.",
+   "neYapmali": "Bayburt'ta yetiştiriciyseniz başvurunuzu son güne bırakmadan birliğinize ya da ilçe müdürlüğünüze iletin. Başka illerdeki tarihleri kendi il veya ilçe müdürlüğünüzden öğrenin.",
+   "kaynaklar": [
+    {
+     "ad": "Son Dakika (İHA)",
+     "url": "https://www.sondakika.com/yerel/haber-bayburtlu-ureticiler-buzagi-ve-oglak-desteklerine--20390282/"
+    },
+    {
+     "ad": "Haber61",
+     "url": "https://www.haber61.net/bayburt/bayburt-ta-hayvancilik-destekleri-icin-son-basvuru-tarihi-aciklandi/648288"
+    }
+   ]
+  },
+  {
+   "id": "sakarya-ayva-60-bin-ton",
+   "kategori": "Bitkisel Üretim",
+   "tarih": "2026-11-03",
+   "motif": "findik",
+   "baslik": "Sakarya'da ayva bol ama üretici fiyattan şikâyetçi",
+   "ozet": "Pamukova Ziraat Odası Başkanı Yaşar Ulukaya, bölgede bu sezon 60 bin ton ayva rekoltesi beklediklerini söyledi. Normal yıllarda üretimin 40-50 bin ton olduğunu aktaran Ulukaya, geçen yılki donun üreticiye zarar verdiğini de hatırlattı. Ulukaya'ya göre üretici ayvayı kilosu 10-15 liradan satarken market raflarında fiyat 80-100 liraya kadar çıkıyor. Hasatta işçi yevmiyeleri günlük 1.500-2.000 lira arasında değişiyor, bazı üreticiler 2.500 lira ödüyor. Oda başkanı hal düzenlemesi gerektiğini belirtti.",
+   "neYapmali": "Satıştan önce birkaç tüccardan ve ihracatçıdan fiyat alın. Yağışlı günlerde hasadın uzayabileceğini işçilik planınızda hesaba katın.",
+   "kaynaklar": [
+    {
+     "ad": "Haberler.com (İHA)",
+     "url": "https://www.haberler.com/cevre/sakarya-da-cografi-isaretli-ayvada-hasat-suruyor-20391612-haberi/"
+    },
+    {
+     "ad": "Yeni Sakarya",
+     "url": "https://www.yenisakarya.com/sakaryanin-sari-altininda-bereketli-hasat-60-bin-ton-ayva-bekleniyor-ama-uretici-fiyattan-dertli"
+    }
+   ]
+  },
+  {
+   "id": "diyarbakir-yagis-pamuk-misir-hasat",
+   "kategori": "Bitkisel Üretim",
+   "tarih": "2026-11-03",
+   "motif": "tohum",
+   "baslik": "Diyarbakır'da yağış hasadı durdurdu, ziraat odası afet bölgesi ilanı istiyor",
+   "ozet": "Yenişehir Ziraat Odası Başkanı Süleyman İskenderoğlu, yağışlar nedeniyle Diyarbakır'da yüz binlerce dekar pamuk ve mısırın tarlada kaldığını söyledi. İskenderoğlu'na göre pamuğun yüzde 35-40'ı, mısırın yaklaşık yüzde 50'si kaldırılabildi, verim kaybı ise yaklaşık yüzde 20. Mısır fiyatının nem nedeniyle 14 liradan 11,5 liraya gerilediğini belirten oda başkanı, bölgenin afet bölgesi ilan edilmesini ve çiftçi borçlarının faizsiz ertelenmesini talep etti. Bakan Yumaklı ise ek mazot ve gübre desteğiyle ilgili bir soru önergesine verdiği yanıtta 2026 temel destek katsayısının dekar başına 310 liradan 360 liraya çıkarıldığını ve gübrede gümrük vergisinin sıfırlandığını belirtmişti; Yumaklı bu yanıtta yeni bir ek destek takvimi açıklamadı.",
+   "neYapmali": "Zarar gören parselleriniz için ilçe tarım ve orman müdürlüğünüze ve ziraat odanıza başvurup hasar durumunu kayda geçirin. TARSİM poliçeniz varsa poliçedeki hasar bildirim şartlarını kontrol edin.",
+   "kaynaklar": [
+    {
+     "ad": "Haberler.com (ANKA)",
+     "url": "https://haberler.com/guncel/diyarbakir-da-yagislar-pamuk-ve-misir-hasadini-20389729-haberi"
+    },
+    {
+     "ad": "Yozgat Çamlık (Bakan Yumaklı'nın yanıtı)",
+     "url": "https://www.yozgatcamlik.com/yozgat-haber/yozgatli-ciftcilerin-bekledigi-ek-destek-aciklamasi-geldi-mazot-ve-gubre-22169104h"
+    }
+   ]
+  },
+  {
+   "id": "fethiye-sel",
+   "kategori": "Hava & Don",
+   "tarih": "2026-11-03",
+   "motif": "sera",
+   "baslik": "Fethiye'de sağanak: sulama kanalları taştı, seralar ve tarlalar su altında kaldı",
+   "ozet": "Muğla'nın Fethiye ilçesinde akşam saatlerinde kısa sürede çok yüksek miktarda yağış düştü. Karagedik ve Çiftlik mahallelerinde sulama kanalları dolup taştı; bazı evler, seralar ve tarım arazileri su baskınından etkilendi. Kaymakam Fatih Akkaya, can kaybı ya da yaralanma olmadığını, iki evde hasar tespit edildiğini açıkladı. Heyelan nedeniyle Çenger yolu ulaşıma kapandı.",
+   "neYapmali": "Sel suyu giren seralarda drenajı açın, havalandırmayı artırın ve kök çürüklüğüne karşı birkaç gün bitkileri gözleyin. Zarar gördüyseniz TARSİM poliçeniz varsa hasarı 15 gün içinde bildirin; poliçe yoksa ilçe tarım müdürlüğüne hasar tespiti için başvurun.",
+   "kaynaklar": [
+    {
+     "ad": "İHA (İhlas Haber Ajansı)",
+     "url": "https://www.iha.com.tr/"
+    }
+   ],
+   "gorsel": "assets/iha/fethiye-sel.jpg",
+   "gorselKucuk": "assets/iha/fethiye-sel-k.jpg",
+   "gorselKaynak": "Fotoğraf/Video: İHA",
+   "video": "assets/video/fethiye-sel.mp4"
+  },
+  {
+   "id": "kizilinler",
+   "kategori": "Bitkisel Üretim",
+   "tarih": "2026-11-03",
+   "motif": "tohum",
+   "baslik": "Kızılinler bal kabağı coğrafi işaret aldı, Eskişehir'in 15. tescilli ürünü oldu",
+   "ozet": "Eskişehir'in Kızılinler köyünde yetişen bal kabağı, TÜRKPATENT tarafından coğrafi işaretle tescillendi. Böylece kentin tescilli ürün sayısı 15'e yükseldi. Belge töreninde Vali Erdinç Yılmaz, TÜRKPATENT Başkanı Muhammed Zeki Durak ve Eskişehir Ticaret Borsası Başkanı Ahmet Oğuz yer aldı. Tescilin ürünün bilinirliğini ve üreticinin pazardaki elini güçlendirmesi bekleniyor.",
+   "neYapmali": "Kızılinler'de bal kabağı üretiyorsanız ürününüzü coğrafi işaret logosuyla satabilmek için tescil sahibi kurumun denetim ve etiketleme şartlarını öğrenin. Kendi yörenizde öne çıkan bir ürün varsa ziraat odası veya ticaret borsası üzerinden başvuru sürecini başlatabilirsiniz.",
+   "kaynaklar": [
+    {
+     "ad": "İHA (İhlas Haber Ajansı)",
+     "url": "https://www.iha.com.tr/"
+    }
+   ],
+   "gorsel": "assets/iha/kizilinler.jpg",
+   "gorselKucuk": "assets/iha/kizilinler-k.jpg",
+   "gorselKaynak": "Fotoğraf/Video: İHA",
+   "video": "assets/video/kizilinler.mp4"
+  },
+  {
+   "id": "ahlat-ivesi",
+   "kategori": "Hayvancılık",
+   "tarih": "2026-11-03",
+   "motif": "koyun",
+   "baslik": "Ahlat'ta ivesi koyunu için genetik ıslah projesi başladı",
+   "ozet": "Bitlis'in Ahlat ilçesinde, Cihan Timrus'un işletmesinde ivesi koyunlarına yönelik bir genetik ıslah çalışması başlatıldı. Bitlis Eren Üniversitesi'nden Öğr. Gör. Cercis Atahan Atlı'nın yürüttüğü projede TİGEM Ceylanpınar'dan getirilen damızlık koçlar Oltuyazı köyündeki sürüye katıldı. 24 ay sürecek çalışmayla verimi yüksek bir elit sürü oluşturulması hedefleniyor.",
+   "neYapmali": "Sürünüzde verim artırmak istiyorsanız damızlık koçu soy kütüğü belli kaynaklardan (TİGEM, yetiştirici birlikleri) temin edin. İl tarım müdürlüğü ve damızlık koyun keçi yetiştiricileri birliğinin halk elinde ıslah projelerine katılım şartlarını sorun.",
+   "kaynaklar": [
+    {
+     "ad": "İHA (İhlas Haber Ajansı)",
+     "url": "https://www.iha.com.tr/"
+    }
+   ],
+   "gorsel": "assets/iha/ahlat-ivesi.jpg",
+   "gorselKucuk": "assets/iha/ahlat-ivesi-k.jpg",
+   "gorselKaynak": "Fotoğraf/Video: İHA",
+   "video": "assets/video/ahlat-ivesi.mp4"
+  },
+  {
+   "id": "erzincan-ceviz",
+   "kategori": "Bitkisel Üretim",
+   "tarih": "2026-11-03",
+   "motif": "findik",
+   "baslik": "Erzincan'da üretici cevizini serada sobayla kurutuyor",
+   "ozet": "Erzincan'ın Kilimli köyünde Süleyman ve Betül Çınkır çifti, hasat ettikleri cevizi kurutmak için serada soba yakıyor. 2018'de il tarım müdürlüğünün onayıyla başlayan bahçede 150 ceviz ve yaklaşık 80 başka meyve ağacı bulunuyor. Permakültür yöntemiyle üretim yapan çift, bu yıl yaklaşık 1 ton ceviz topladı.",
+   "neYapmali": "Cevizi yeşil kabuğundan hemen ayırıp gölgede, iyi havalanan bir yerde ince tabaka halinde kurutun; yapay ısıda sıcaklığı düşük tutun ki iç acılaşmasın. Kabuklu cevizde nemin yaklaşık yüzde 8'e inmesi küf ve aflatoksin riskini azaltır.",
+   "kaynaklar": [
+    {
+     "ad": "İHA (İhlas Haber Ajansı)",
+     "url": "https://www.iha.com.tr/"
+    }
+   ],
+   "gorsel": "assets/iha/erzincan-ceviz.jpg",
+   "gorselKucuk": "assets/iha/erzincan-ceviz-k.jpg",
+   "gorselKaynak": "Fotoğraf/Video: İHA",
+   "video": "assets/video/erzincan-ceviz.mp4"
+  },
+  {
+   "id": "antalya-tirnak",
+   "kategori": "Hayvancılık",
+   "tarih": "2026-11-03",
+   "motif": "sut",
+   "baslik": "Antalya'da büyükbaş hayvanlara ücretsiz tırnak bakımı: Fikriye ninenin ineği yeniden rahat",
+   "ozet": "Antalya Büyükşehir Belediyesi Tarımsal Hizmetler Dairesi, aile işletmelerine sonbahar dönemi ücretsiz tırnak bakım hizmeti veriyor. Veteriner ekipler Konyaaltı Hacısekililer Mahallesi'nde yalnız yaşayan 67 yaşındaki Fikriye Gökay'ın, ahırda uzun süre kaldığı için tırnağı uzayıp topallamaya başlayan ineğinin bakımını makineyle yaptı.",
+   "neYapmali": "Ahırda bağlı duran hayvanlarda tırnaklar yılda en az iki kez kontrol edilmeli; topallık, tırnak uzaması ya da kokulu yara görürseniz bekletmeyin. Antalya'daysanız belediyenin tarımsal hizmetler birimine, diğer illerde il veya ilçe tarım müdürlüğüne başvurarak ücretsiz hizmet olup olmadığını sorun.",
+   "kaynaklar": [
+    {
+     "ad": "İHA (İhlas Haber Ajansı)",
+     "url": "https://www.iha.com.tr/"
+    }
+   ],
+   "gorsel": "assets/iha/antalya-tirnak.jpg",
+   "gorselKucuk": "assets/iha/antalya-tirnak-k.jpg",
+   "gorselKaynak": "Fotoğraf/Video: İHA",
+   "video": "assets/video/antalya-tirnak.mp4"
+  },
+  {
+   "id": "hatay-mandalina",
+   "kategori": "Bitkisel Üretim",
+   "tarih": "2026-11-03",
+   "motif": "para",
+   "baslik": "Hatay'da üreticiden alınan 100 ton mandalina öğrencilere dağıtıldı",
+   "ozet": "Hatay Büyükşehir Belediyesi, bereketli geçen mandalina sezonunda üreticilerden 100 ton ürün alarak il genelindeki okullarda öğrencilere dağıttı. Başkan Mehmet Öntürk'ün ikramı olarak yürütülen çalışmayla üreticinin elindeki ürünün değerlendirilmesi ve olası zararın önüne geçilmesi amaçlandı. Belediye, benzer destek çalışmalarının süreceğini bildirdi.",
+   "neYapmali": "Elinizde satılamayan mandalina varsa belediyenin ve ziraat odasının alım programlarını takip edin. Hasattan sonra ürünü serin ve havadar yerde, ezilmeden saklamak pazarlama süresini uzatır.",
+   "kaynaklar": [
+    {
+     "ad": "İHA (İhlas Haber Ajansı)",
+     "url": "https://www.iha.com.tr/"
+    }
+   ],
+   "gorsel": "assets/iha/hatay-mandalina.jpg",
+   "gorselKucuk": "assets/iha/hatay-mandalina-k.jpg",
+   "gorselKaynak": "Fotoğraf/Video: İHA",
+   "video": "assets/video/hatay-mandalina.mp4"
+  },
+  {
+   "id": "cks-2027-son-gun-31-aralik",
+   "kategori": "Destek",
+   "tarih": "2026-11-04",
+   "motif": "para",
+   "baslik": "ÇKS'de 2027 kaydı için son tarih 31 Aralık: güncellemeyen destek alamayabilir",
+   "ozet": "Tarım ve Orman Bakanlığı'nın 2027 üretim yılı Çiftçi Kayıt Sistemi (ÇKS) başvuruları 1 Eylül'de açıldı ve 31 Aralık 2026 mesai bitiminde kapanacak. Önceki yıllarda kaydı olan ve arazi bilgisi değişmeyen üreticiler işlemi e-Devlet üzerinden yapabiliyor. İlk kez kayıt olacaklar ya da arazisinde değişiklik olanlar il veya ilçe tarım müdürlüğüne, yetki devri yapılan illerde ziraat odasına gitmek zorunda. Temel destek başta olmak üzere tarımsal desteklerden yararlanmak için ÇKS kaydı şart.",
+   "neYapmali": "Kaydınızı e-Devlet'te 'Çiftçi Kayıt Sistemi' ekranından kontrol edin; kira sözleşmesi, tapu ya da ekim bilgisi değiştiyse belgelerinizle ilçe tarım müdürlüğüne gidin. Aralık sonundaki yoğunluğa kalmadan işlemi bitirin.",
+   "kaynaklar": [
+    {
+     "ad": "Yeni Şafak",
+     "url": "https://www.yenisafak.com/mazot-gubre-destekleme-basvurulari-basladi-mi-h-4852567"
+    },
+    {
+     "ad": "Milli Gazete",
+     "url": "https://www.milligazete.com.tr/2027-cks-basvurusu-nasil-yapilir-son-tarih-ne-zaman-e-devletten-yenileme-yapilir-mi-kimler-basvurabilir-tarimsal-destekler-icin-cks-sart-mi"
+    }
+   ]
+  },
+  {
+   "id": "resmi-gazete-3-kasim-mera-orman-koylusu",
+   "kategori": "Destek",
+   "tarih": "2026-11-03",
+   "motif": "koyun",
+   "baslik": "Resmî Gazete'de orman köylüsüne yardım yönetmeliği ve mera alanlarına yeni ilke kararı",
+   "ozet": "3 Kasım 2026 tarihli ve 33419 sayılı Resmî Gazete'de tarım ve kırsalı ilgilendiren birkaç düzenleme yayımlandı. Ormancılık işlerinde vahidi fiyat usulüyle çalışan orman köylülerine yapılacak ayni ya da nakdi dağıtımın nasıl uygulanacağını düzenleyen bir yönetmelik yürürlüğe girdi. Aynı sayıda, doğal sit tescilinden önce mera niteliği taşıyan alanların kullanımına ilişkin 152 numaralı ve tarımsal amaçlı ağaç dikim çukuru açılmasına ilişkin 153 numaralı ilke kararları da yer aldı.",
+   "neYapmali": "Arazisi ya da merası doğal sit alanında kalan üreticiler, yeni ilke kararlarının kendi parsellerine etkisini il tarım müdürlüğüne ve tabiat varlıklarını koruma birimine sorabilir. Orman köylüleri yardım başvuruları için bağlı oldukları orman işletme şefliğinden bilgi almalı.",
+   "kaynaklar": [
+    {
+     "ad": "Afyon Türkeli Gazetesi",
+     "url": "https://www.afyonturkeligazetesi.com/3-kasim-2026-resmi-gazete-yayimlandi/148940"
+    },
+    {
+     "ad": "Kurtalan Gazetesi",
+     "url": "https://kurtalangazetesi.com/haber/3-kasim-2026-resmi-gazete-kararlari-aciklandi-iste-yayimlanan-yonetmelik-ve-tebligler-106619.html"
+    }
+   ]
+  },
+  {
+   "id": "canik-salep-tohumu-destegi",
+   "kategori": "Bitkisel Üretim",
+   "tarih": "2026-11-03",
+   "motif": "tohum",
+   "baslik": "Samsun Canik'te çiftçilere 500 kilo salep tohumu verilecek",
+   "ozet": "Canik Belediye Meclisi 3 Kasım'daki toplantısında, ilçedeki çiftçilere ilk etapta 500 kilogram salep üretim materyali dağıtılmasını öngören protokolü oy çokluğuyla kabul etti. Proje, Canik Belediyesi ile Canik İlçe Tarım ve Orman Müdürlüğü arasında 2026-2027 Salep Üretimi Teşvik Desteği kapsamında yürütülecek. İlçe müdürlüğünün toprak analizleri özellikle Kozlu Mahallesi'nde olumlu çıktı. Bağımsız meclis üyesi Cemil Güngör ise ilçenin koşullarının salebe uygun olmadığını ve maliyetin yaklaşık 950 bin lirayı bulacağını savunarak karşı çıktı.",
+   "neYapmali": "Salep üretmek isteyenlerin ÇKS kaydı olmalı ve Bakanlığın salep üretimi başvuru formuyla ilçe tarım müdürlüğüne başvurması gerekiyor. Dağıtım takvimi protokol imzalandıktan sonra belediye tarafından duyurulacak.",
+   "kaynaklar": [
+    {
+     "ad": "Gerçek Taraf",
+     "url": "https://gercektaraf.com.tr/samsun-canikte-ciftcilere-500-kilo-salep-tohumu-destegi-geliyor"
+    }
+   ]
+  },
+  {
+   "id": "pancar-besinci-avans-952-milyon",
+   "kategori": "Destek",
+   "tarih": "2026-10-28",
+   "motif": "para",
+   "baslik": "Pancar üreticisine 952 milyon liralık beşinci avans ödendi",
+   "ozet": "Tarım ve Orman Bakanı İbrahim Yumaklı, TÜRKŞEKER'e pancar veren üreticilerin hesaplarına 952 milyon liralık beşinci avans ödemesinin yatırıldığını açıkladı. Kurumun 14 şeker fabrikasında 2026-2027 alım kampanyası eylülde başlamıştı. Bakanlık 13 Ekim'de bu yılın alım fiyatını kota tamamlama primi dahil ton başına 3.720 lira olarak duyurmuştu; bu, geçen sezonun 3.100 liralık fiyatından yüzde 20 fazla. TZOB Genel Başkanı Şemsi Bayraktar ise açıklanan fiyatın beklentinin altında kaldığını ve revize edilmesi gerektiğini söyledi.",
+   "neYapmali": "Avansın hesabınıza geçip geçmediğini bağlı olduğunuz fabrika ya da pancar kooperatifinden teyit edin. Teslim ettiğiniz pancar miktarını ve kesintileri sözleşmenizle karşılaştırarak kayıt altında tutun.",
+   "kaynaklar": [
+    {
+     "ad": "Endeks24",
+     "url": "https://www.endeks24.com/pancar-ureticilerine-besinci-avans-odemesi-hesaplara-yatirildi"
+    },
+    {
+     "ad": "Bloomberg HT",
+     "url": "https://www.bloomberght.com/turkseker-seker-pancari-alim-fiyatini-acikladi-3791252"
+    }
+   ]
+  },
+  {
+   "id": "tuik-bitkisel-uretim-2-tahmin-2026",
+   "kategori": "Piyasa",
+   "tarih": "2026-10-24",
+   "motif": "bugday",
+   "baslik": "TÜİK ikinci tahmini: tahıl üretiminde yüzde 30'u aşan artış bekleniyor",
+   "ozet": "TÜİK'in 2026 yılı Bitkisel Üretim 2. Tahmini'ne göre tahıllar ve diğer bitkisel ürünlerde üretimin yaklaşık 78,6 milyon tona çıkması bekleniyor; bu grupta artış yüzde 17,3. Tahılların kendi içinde artış yüzde 30,9'a ulaşıyor. Meyveler, içecek ve baharat bitkilerinde üretimin yüzde 60,8 artışla 31,5 milyon ton, sebzelerde ise yaklaşık 33 milyon ton olacağı tahmin ediliyor. Üretici örgütleri ise rekolte artışına rağmen alım fiyatlarının maliyetlerin gerisinde kaldığını vurguluyor.",
+   "neYapmali": "Bol rekolte yıllarında fiyat baskısı artabileceği için ürünü satmadan önce TMO, borsa ve lisanslı depo (ELÜS) seçeneklerini karşılaştırın. Depolama imkânınız varsa hasat yoğunluğu geçene kadar beklemeyi değerlendirin.",
+   "kaynaklar": [
+    {
+     "ad": "BirGün",
+     "url": "https://www.birgun.net/haber/uretim-artisi-ciftciye-kar-degil-dert-oldu-742165"
+    }
+   ]
+  },
+  {
+   "id": "onarici-tarim-bugday-verim-yuzde-22",
+   "kategori": "Bitkisel Üretim",
+   "tarih": "2026-11-03",
+   "motif": "bugday",
+   "baslik": "Onarıcı tarımla buğdayda kuru alanlarda verim yüzde 22 arttı",
+   "ozet": "Ülker'in buğday tedarik zincirinde yürüttüğü Onarıcı Tarım Projesi 2025'te 101 çiftçiyle 6 bin 860 dekarlık alanda sürdürüldü. Toprak analizi, uydu görüntüsü ve sensör verilerinin çiftçi deneyimiyle birleştirildiği projede örtü bitkisi, azaltılmış toprak işleme, gübre ve sulama optimizasyonu uygulandı. Şirketin açıklamasına göre kuru tarım alanlarında verim bir önceki sezona göre yüzde 22 artarken gübre kaynaklı karbon emisyonu yüzde 10 azaldı.",
+   "neYapmali": "Azaltılmış toprak işleme ve örtü bitkisi gibi uygulamalara geçmeden önce toprak analizi yaptırın ve ilçe tarım müdürlüğünün ya da ziraat odasının ücretsiz danışmanlığından yararlanın. Değişikliği önce küçük bir parselde deneyin.",
+   "kaynaklar": [
+    {
+     "ad": "Habertürk",
+     "url": "https://haberturk.com/ekonomi/ulker-surdurulebilirlik-hedeflerine-somut-adimlarla-ilerliyor-3924595"
+    }
+   ]
+  }
+ ],
+ "takvim": [
+  {
+   "tarih": "2026-11-06",
+   "baslik": "Arıcılık desteği başvurusu",
+   "kapsam": "Türkiye geneli",
+   "haber": "aricilik-son-gun-6-kasim"
+  },
+  {
+   "tarih": "2026-11-23",
+   "baslik": "Tohum ve gübre desteği",
+   "kapsam": "Ankara",
+   "haber": "ankara-tohum-gubre"
+  },
+  {
+   "tarih": "2026-11-27",
+   "baslik": "Mazot ve gübre desteği",
+   "kapsam": "Denizli",
+   "haber": "denizli-mazot-gubre"
+  },
+  {
+   "tarih": "2026-12-01",
+   "baslik": "Buzağı, malak, kuzu ve oğlak desteği",
+   "kapsam": "Bayburt",
+   "haber": "bayburt-buzagi-kuzu-1-aralik"
+  },
+  {
+   "tarih": "2026-12-18",
+   "baslik": "Su ürünleri yetiştiriciliği desteği",
+   "kapsam": "Malatya",
+   "haber": "malatya-su-urunleri"
+  },
+  {
+   "tarih": "2026-12-31",
+   "baslik": "2027 ÇKS kaydı ve güncelleme",
+   "kapsam": "Türkiye geneli",
+   "haber": "cks-2027-son-gun-31-aralik"
+  }
+ ],
+ "fiyatlar": [
+  {
+   "grup": "Hububat",
+   "urun": "Ekmeklik buğday",
+   "deger": "16.500",
+   "birim": "TL/ton",
+   "not": "TMO alım, 2. grup · destekle 19.514",
+   "kaynak": "TMO · Haziran 2026",
+   "yon": "yukari",
+   "degisim": "+%22,2",
+   "onceki": "2025: 13.500"
+  },
+  {
+   "grup": "Hububat",
+   "urun": "Arpa",
+   "deger": "12.750",
+   "birim": "TL/ton",
+   "not": "TMO alım, 2. grup · destekle 15.764",
+   "kaynak": "TMO · Haziran 2026",
+   "yon": "yukari",
+   "degisim": "+%15,9",
+   "onceki": "2025: 11.000"
+  },
+  {
+   "grup": "Hububat",
+   "urun": "Buğday satış",
+   "deger": "18.500",
+   "birim": "TL/ton",
+   "not": "TMO satış, Kasım'da değişmedi",
+   "kaynak": "TMO · Ekim 2026",
+   "yon": "sabit",
+   "degisim": "%0",
+   "onceki": "Ekim ayından beri değişmedi"
+  },
+  {
+   "grup": "Hububat",
+   "urun": "Arpa satış",
+   "deger": "14.000",
+   "birim": "TL/ton",
+   "not": "TMO satış, 2. grup, 1 Ekim'den itibaren",
+   "kaynak": "TMO · Ekim 2026",
+   "yon": "sabit",
+   "degisim": "%0",
+   "onceki": "1 Ekim'den beri değişmedi"
+  },
+  {
+   "grup": "Hububat",
+   "urun": "Çeltik (Baldo)",
+   "deger": "45.000",
+   "birim": "TL/ton",
+   "not": "TMO alım, 55 randıman",
+   "kaynak": "TMO · 13 Ekim 2026",
+   "yon": "yukari",
+   "degisim": "+%12,5",
+   "onceki": "Önceki dönem: 40.000"
+  },
+  {
+   "grup": "Hububat",
+   "urun": "Çeltik (Osmancık)",
+   "deger": "38.000",
+   "birim": "TL/ton",
+   "not": "TMO alım, 60 randıman",
+   "kaynak": "TMO · 13 Ekim 2026",
+   "yon": "yukari",
+   "degisim": "+%18,8",
+   "onceki": "Önceki dönem: 32.000"
+  },
+  {
+   "grup": "Fındık, kuru meyve & yağlı tohum",
+   "urun": "Giresun fındık",
+   "deger": "255",
+   "birim": "TL/kg",
+   "not": "TMO alım, kabuklu",
+   "kaynak": "TMO · Ağustos 2026",
+   "yon": "yukari",
+   "degisim": "+%27,5",
+   "onceki": "2025: 200"
+  },
+  {
+   "grup": "Fındık, kuru meyve & yağlı tohum",
+   "urun": "Levant fındık",
+   "deger": "250",
+   "birim": "TL/kg",
+   "not": "TMO alım, kabuklu",
+   "kaynak": "TMO · Ağustos 2026",
+   "yon": "yukari",
+   "degisim": "+%28,2",
+   "onceki": "2025: 195"
+  },
+  {
+   "grup": "Fındık, kuru meyve & yağlı tohum",
+   "urun": "Kuru üzüm (9 no)",
+   "deger": "95",
+   "birim": "TL/kg",
+   "not": "TMO alım, bandırmalı çekirdeksiz",
+   "kaynak": "TMO · Eylül 2026",
+   "yon": "asagi",
+   "degisim": "−%20,8",
+   "onceki": "2025: 120"
+  },
+  {
+   "grup": "Fındık, kuru meyve & yağlı tohum",
+   "urun": "Yağlık ayçiçeği",
+   "deger": "34.000",
+   "birim": "TL/ton",
+   "not": "Karadenizbirlik ön alım fiyatı",
+   "kaynak": "Karadenizbirlik · 2026 sezonu",
+   "yon": "yukari",
+   "degisim": "+%17,2",
+   "onceki": "2025: 29.000"
+  },
+  {
+   "grup": "Hayvancılık",
+   "urun": "Çiğ inek sütü",
+   "deger": "24,30",
+   "birim": "TL/lt",
+   "not": "USK tavsiye, %3,6 yağ · %3,2 protein",
+   "kaynak": "USK · 1 Mayıs 2026'dan beri",
+   "yon": "yukari",
+   "degisim": "+%9,4",
+   "onceki": "Ocak 2026: 22,22"
+  },
+  {
+   "grup": "Hayvancılık",
+   "urun": "Tosun karkas",
+   "deger": "331",
+   "birim": "TL/kg",
+   "not": "ESK cari alım fiyatı",
+   "kaynak": "ESK · Mayıs 2026",
+   "onceki": "Kurban dönemi tavan: 600"
+  },
+  {
+   "grup": "Hayvancılık",
+   "urun": "İnek karkas",
+   "deger": "308",
+   "birim": "TL/kg",
+   "not": "ESK cari alım fiyatı",
+   "kaynak": "ESK · Mayıs 2026",
+   "onceki": "Kurban dönemi tavan: 470"
+  },
+  {
+   "grup": "Hayvancılık",
+   "urun": "Kuzu karkas",
+   "deger": "381",
+   "birim": "TL/kg",
+   "not": "ESK cari alım, kuyruklu",
+   "kaynak": "ESK · Mayıs 2026",
+   "onceki": "Kurban dönemi tavan: 480"
+  },
+  {
+   "grup": "Girdi",
+   "urun": "Motorin (Ankara)",
+   "deger": "97,90",
+   "birim": "TL/lt",
+   "not": "Pompa fiyatı",
+   "kaynak": "Akaryakıt pompa · 26 Ekim 2026",
+   "yon": "yukari",
+   "degisim": "+%1,9",
+   "onceki": "3 Ekim: 96,10"
+  }
+ ],
+ "hava": {
+  "donem": "4-9 Kasım",
+  "kaynak": "MGM tahmini, il merkezleri",
+  "haber": "zirai-don-uyarisi-4-9-kasim",
+  "genel": "İç kesimlerde yerel ölçekte zirai don riski",
+  "iller": [
+   {
+    "il": "Erzurum",
+    "min": -4
+   },
+   {
+    "il": "Sivas",
+    "min": -3
+   },
+   {
+    "il": "Afyonkarahisar",
+    "min": -1
+   },
+   {
+    "il": "Ankara",
+    "min": 0
+   },
+   {
+    "il": "Erzincan",
+    "min": 0,
+    "not": "MGM 12. Bölge uyarısı"
+   },
+   {
+    "il": "Eskişehir",
+    "min": 2
+   },
+   {
+    "il": "Bolu",
+    "min": 2
+   },
+   {
+    "il": "Edirne",
+    "min": 2
+   },
+   {
+    "il": "Kırklareli",
+    "min": 2
+   },
+   {
+    "il": "Tekirdağ",
+    "min": 5
+   },
+   {
+    "il": "Çanakkale",
+    "min": 5,
+    "not": "iç kesimlerde 7-8 Kasım hafif don"
+   },
+   {
+    "il": "Balıkesir",
+    "min": 6,
+    "not": "iç kesimlerde 7-8 Kasım hafif don"
+   },
+   {
+    "il": "Manisa",
+    "min": 6,
+    "not": "iç kesimlerde 7-8 Kasım hafif don"
+   },
+   {
+    "il": "Aydın",
+    "min": 7,
+    "not": "yüksek kesimlerde 7-8 Kasım hafif don"
+   },
+   {
+    "il": "Kocaeli",
+    "min": 7
+   },
+   {
+    "il": "Sakarya",
+    "min": 7
+   },
+   {
+    "il": "İzmir",
+    "min": 8
+   },
+   {
+    "il": "Trabzon",
+    "min": 8
+   },
+   {
+    "il": "İstanbul",
+    "min": 9
+   }
+  ]
+ },
+ "fotograflar": {
+  "klasor": "assets/foto/",
+  "kucuk": "assets/foto/k/",
+  "kaynak": "Envato",
+  "havuz": {
+   "balik": [
+    "balik-1.jpg",
+    "balik-2.jpg",
+    "balik-3.jpg",
+    "balik-4.jpg",
+    "balik-5.jpg"
+   ],
+   "bugday": [
+    "bugday-1.jpg",
+    "bugday-2.jpg",
+    "bugday-3.jpg",
+    "bugday-4.jpg",
+    "bugday-5.jpg"
+   ],
+   "don": [
+    "don-1.jpg",
+    "don-2.jpg",
+    "don-3.jpg",
+    "don-4.jpg",
+    "don-5.jpg"
+   ],
+   "findik": [
+    "findik-1.jpg",
+    "findik-2.jpg",
+    "findik-3.jpg",
+    "findik-4.jpg"
+   ],
+   "kovan": [
+    "kovan-1.jpg",
+    "kovan-2.jpg",
+    "kovan-3.jpg",
+    "kovan-4.jpg",
+    "kovan-5.jpg"
+   ],
+   "koyun": [
+    "koyun-1.jpg",
+    "koyun-2.jpg",
+    "koyun-3.jpg",
+    "koyun-4.jpg",
+    "koyun-5.jpg"
+   ],
+   "para": [
+    "para-1.jpg",
+    "para-2.jpg",
+    "para-3.jpg",
+    "para-4.jpg",
+    "para-5.jpg"
+   ],
+   "sera": [
+    "sera-1.jpg",
+    "sera-2.jpg",
+    "sera-3.jpg",
+    "sera-4.jpg",
+    "sera-5.jpg"
+   ],
+   "sut": [
+    "sut-1.jpg",
+    "sut-2.jpg",
+    "sut-3.jpg",
+    "sut-4.jpg",
+    "sut-5.jpg"
+   ],
+   "tohum": [
+    "tohum-1.jpg",
+    "tohum-2.jpg",
+    "tohum-3.jpg",
+    "tohum-4.jpg",
+    "tohum-5.jpg"
+   ],
+   "traktor": [
+    "traktor-1.jpg",
+    "traktor-2.jpg",
+    "traktor-3.jpg",
+    "traktor-4.jpg",
+    "traktor-5.jpg"
+   ],
+   "zeytin": [
+    "zeytin-1.jpg",
+    "zeytin-2.jpg",
+    "zeytin-3.jpg",
+    "zeytin-4.jpg",
+    "zeytin-5.jpg"
+   ]
+  }
+ }
+}
