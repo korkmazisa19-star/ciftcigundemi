@@ -335,7 +335,7 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
 
 <div class="bilgi">
   <div class="kap">
-    <span><span id="bugun">Türkiye</span> · Son güncelleme <b id="guncelleme">—</b></span>
+    <span><span id="bugun">Türkiye</span></span>
     <nav aria-label="Hızlı bağlantılar">
       <a href="https://www.ciftcitv.com/canli-yayin" target="_blank" rel="noopener">Canlı TV</a>
       <a href="#takvim">Başvuru takvimi</a>
@@ -651,7 +651,7 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
   }
   function sabitler() {
     document.getElementById("bugun").textContent = tarih(bugunISO(), "uzun");
-    document.getElementById("guncelleme").textContent = new Intl.DateTimeFormat("tr-TR", { timeZone: TZ, day: "numeric", month: "long", hour: "2-digit", minute: "2-digit" }).format(new Date(V.guncelleme));
+    if (document.getElementById("guncelleme")) document.getElementById("guncelleme").textContent = new Intl.DateTimeFormat("tr-TR", { timeZone: TZ, day: "numeric", month: "long", hour: "2-digit", minute: "2-digit" }).format(new Date(V.guncelleme));
     var parca = V.fiyatlar.map(function (f) { return '<span class="' + yonSinif(f) + '">' + e(f.urun) + "<b>" + e(f.deger) + "</b><i>" + e(f.birim) + "</i>" + (f.yon ? "<em>" + yonOk(f) + " " + e(f.degisim || "") + "</em>" : "") + "</span>"; }).join("");
     document.getElementById("bant").innerHTML = parca + '<span class="kopya" aria-hidden="true" style="display:contents">' + parca + "</span>";
     if (V.hava) {
