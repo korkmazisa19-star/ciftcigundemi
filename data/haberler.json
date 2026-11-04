@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-04T09:30:00+03:00",
+ "guncelleme": "2026-11-04T11:30:46+03:00",
  "kategoriler": [
   {
    "ad": "Hayvancılık",
@@ -38,6 +38,7 @@
   }
  ],
  "mansetler": [
+  "ciftci-destek-9-ay-115-5-milyar",
   "bir-suru-olsun-basvuru-4-13-kasim",
   "zirai-don-uyarisi-4-9-kasim",
   "aricilik-son-gun-6-kasim",
@@ -52,6 +53,52 @@
   "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
  ],
  "haberler": [
+  {
+   "id": "ciftci-destek-9-ay-115-5-milyar",
+   "kategori": "Destek",
+   "tarih": "2026-11-04",
+   "eklenme": "2026-11-04T11:31:46+03:00",
+   "motif": "para",
+   "baslik": "Çiftçiye dokuz ayda 115,5 milyar lira destek ödendi, en büyük pay bitkisel üretimin",
+   "ozet": "Tarım ve Orman Bakanlığı, ocak-eylül döneminde yaklaşık 3 milyon çiftçiye toplam 115 milyar 496 milyon lira destek ödedi. Bu tutarın 84,66 milyar lirası (yüzde 73,3) bitkisel üretime, 27,14 milyar lirası (yüzde 23,5) hayvancılığa, yaklaşık 3 milyar lirası kırsal kalkınmaya gitti. Ar-Ge için 407 milyon, su ürünleri için 285 milyon lira aktarıldı. Kalemler arasında temel bitkisel destek yaklaşık 44,6 milyar, buzağı desteği 12 milyar lira ile öne çıktı. 2026 yılı tarımsal destek bütçesi ise 167,6 milyar lira.",
+   "neYapmali": "Hak ettiği hâlde ödeme almadığını düşünen üretici, kaydını ve başvurusunu kayıtlı olduğu il veya ilçe tarım ve orman müdürlüğünden sorabilir.",
+   "kaynaklar": [
+    {
+     "ad": "Anadolu Ajansı",
+     "url": "https://www.aa.com.tr/tr/ekonomi/ciftcilere-9-ayda-yaklasik-115-5-milyar-lira-tarimsal-destek-odemesi-yapildi/4111121"
+    },
+    {
+     "ad": "Star",
+     "url": "https://www.star.com.tr/ekonomi/ciftcilere-115-milyar-liralik-destekleme-odemesi-yapildi-haber-2051102/"
+    }
+   ],
+   "gorsel": "assets/envato/ciftci-destek-9-ay-115-5-milyar.jpg",
+   "gorselKucuk": "assets/envato/ciftci-destek-9-ay-115-5-milyar-k.jpg",
+   "gorselKaynak": "Temsili fotoğraf: Envato"
+  },
+  {
+   "id": "edirne-sut-birligi-cig-sut-28-50",
+   "kategori": "Hayvancılık",
+   "tarih": "2026-11-03",
+   "eklenme": "2026-11-04T11:30:46+03:00",
+   "motif": "sut",
+   "baslik": "Edirne'de süt birliği konseyi beklemedi: Çiğ sütün litresi 28,50 lira oldu",
+   "ozet": "Edirne Merkez Süt Üreticileri Birliği, çiğ inek sütünün litre fiyatını 1 Kasım-31 Aralık 2026 dönemi için 28,50 liraya çıkardı. Ulusal Süt Konseyi'nin 1 Mayıs'ta açıkladığı 24,30 liralık tavsiye fiyat güncellenmemişti. Birlik Başkanı Mustafa Suiçmez, karara yem ve diğer girdi maliyetlerindeki artışın ve fiyat belirsizliğinin yol açtığını, üretici ve sanayicilerle görüşüldüğünü aktardı. Suiçmez, konsey ocakta yeni bir fiyat açıklarsa ona uyacaklarını da söyledi. Bu fiyat yalnızca birliğin kararı; konseyin tavsiye fiyatı değişmiş değil.",
+   "neYapmali": "Edirne'deki üreticiler sütlerini teslim etmeden önce geçerli fiyatı ve ödeme koşullarını birlikten teyit etmeli. Diğer illerdeki üreticiler kendi birliklerinin kararını takip edebilir.",
+   "kaynaklar": [
+    {
+     "ad": "Son Dakika (ANKA)",
+     "url": "https://www.sondakika.com/ekonomi/haber-edirne-merkez-sut-ureticileri-birligi-cig-sut-litr-20390725/"
+    },
+    {
+     "ad": "Toplumsal",
+     "url": "https://www.toplumsal.com.tr/haber/edirne-de-cig-sut-fiyati-28-50-liraya-yukseltildi_32802/"
+    }
+   ],
+   "gorsel": "assets/envato/edirne-sut-birligi-cig-sut-28-50.jpg",
+   "gorselKucuk": "assets/envato/edirne-sut-birligi-cig-sut-28-50-k.jpg",
+   "gorselKaynak": "Temsili fotoğraf: Envato"
+  },
   {
    "id": "arsin-ziraat-odasi-kredi-erteleme-cagrisi",
    "kategori": "Destek",
