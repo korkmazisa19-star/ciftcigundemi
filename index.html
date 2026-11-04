@@ -2,6 +2,7 @@
 <html lang="tr">
 <head>
 <meta charset="utf-8">
+<base href="/">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Çiftçi Gündemi</title>
 <meta name="description" content="Tarım haberleri: destek ödemeleri, hibe başvuruları, son başvuru tarihleri ve güncel tarım fiyatları. Çiftçinin gündemi, kısa ve kaynaklı.">
@@ -9,6 +10,8 @@
 <meta property="og:description" content="Destek, hibe, son başvuru ve fiyatlar: çiftçinin gündemi tek yerde.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://ciftcigundemi.com/">
+<link rel="canonical" href="https://ciftcigundemi.com/">
+<link rel="alternate" type="application/rss+xml" title="Çiftçi Gündemi" href="https://ciftcigundemi.com/rss.xml">
 <meta property="og:image" content="https://ciftcigundemi.com/assets/logo-profil-1080.png">
 <link rel="icon" type="image/svg+xml" href="assets/logo-simge.svg">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -459,6 +462,8 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
 
   /* ---------- yardımcılar ---------- */
   function e(s) { return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]; }); }
+  function hUrl(id) { return "haber/" + id + "/"; }
+  function yolHaber() { var m = location.pathname.match(/^\/haber\/([a-z0-9-]+)\/?$/); return m ? m[1] : ""; }
   function bugunISO() { return new Intl.DateTimeFormat("en-CA", { timeZone: TZ, year: "numeric", month: "2-digit", day: "2-digit" }).format(new Date()); }
   function gunFarki(a, b) {
     function u(s) { return Date.UTC(+s.slice(0, 4), +s.slice(5, 7) - 1, +s.slice(8, 10)); }
@@ -620,15 +625,15 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
 
   /* ---------- parça şablonları ---------- */
   function kartHTML(h) {
-    return '<a class="kart" href="#' + e(h.id) + '"' + katStil(h.kategori) + ">" + gorsel(h) +
+    return '<a class="kart" href="' + hUrl(h.id) + '"' + katStil(h.kategori) + ">" + gorsel(h) +
       '<div class="alt"><span class="kat-yazi">' + e(h.kategori) + '</span><span class="tarih">' + tarih(h.tarih) + "</span></div><h3>" + e(h.baslik) + "</h3></a>";
   }
   function kartYatayHTML(h) {
-    return '<a class="kart-yatay" href="#' + e(h.id) + '"' + katStil(h.kategori) + ">" + gorsel(h) +
+    return '<a class="kart-yatay" href="' + hUrl(h.id) + '"' + katStil(h.kategori) + ">" + gorsel(h) +
       '<div><h4>' + e(h.baslik) + '</h4><span class="tarih">' + tarih(h.tarih) + "</span></div></a>";
   }
   function kartOrtuHTML(h) {
-    return '<a class="kart-ortu" href="#' + e(h.id) + '"' + katStil(h.kategori) + ">" + gorsel(h) + '<span class="ortu"></span>' +
+    return '<a class="kart-ortu" href="' + hUrl(h.id) + '"' + katStil(h.kategori) + ">" + gorsel(h) + '<span class="ortu"></span>' +
       '<div class="yazi"><span class="kat">' + e(h.kategori) + "</span><h3>" + e(h.baslik) + "</h3></div></a>";
   }
   function takvimListe(sinir) {
@@ -642,7 +647,7 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
   function takvimSatir(t) {
     var sinif = t.kalan < 0 ? "gun gecti" : t.kalan === 0 ? "gun bugun" : t.kalan <= 7 ? "gun acil" : "gun";
     var sayi = t.kalan < 0 ? "<b>✓</b><small>bitti</small>" : t.kalan === 0 ? "<b>!</b><small>bugün</small>" : "<b>" + t.kalan + "</b><small>gün</small>";
-    return '<li class="tk"><a href="#' + e(t.haber) + '"><span class="' + sinif + '">' + sayi + '</span><span><span class="tk-b">' + e(t.baslik) +
+    return '<li class="tk"><a href="' + hUrl(t.haber) + '"><span class="' + sinif + '">' + sayi + '</span><span><span class="tk-b">' + e(t.baslik) +
       '</span><span class="tk-a">' + e(t.kapsam) + " · son gün " + tarih(t.tarih) + "</span></span></a></li>";
   }
   function fiyatGruplari() {
@@ -703,7 +708,7 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
     var son = haberleriSirala(V.haberler).slice(0, 6);
     function sdGoster() {
       var h = son[sdSira % son.length];
-      document.getElementById("sd").innerHTML = '<a href="#' + e(h.id) + '"><time>' + tarih(h.tarih) + "</time>" + e(h.baslik) + "</a>";
+      document.getElementById("sd").innerHTML = '<a href="' + hUrl(h.id) + '"><time>' + tarih(h.tarih) + "</time>" + e(h.baslik) + "</a>";
     }
     function sdKur() { clearInterval(sdZamanlayici); sdZamanlayici = setInterval(function () { sdSira++; sdGoster(); }, 5000); }
     document.getElementById("sd-ileri").onclick = function () { sdSira++; sdGoster(); sdKur(); };
@@ -727,7 +732,7 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
     var html = '<section class="manset-alan" aria-label="Manşet">' +
       '<div class="slider" id="slider"><div class="slaytlar">' +
       mans.map(function (h, i) {
-        return '<a class="slayt' + (i === 0 ? " aktif" : "") + '" href="#' + e(h.id) + '"' + katStil(h.kategori) + (i ? ' tabindex="-1" aria-hidden="true"' : "") + ">" + gorsel(h, true) +
+        return '<a class="slayt' + (i === 0 ? " aktif" : "") + '" href="' + hUrl(h.id) + '"' + katStil(h.kategori) + (i ? ' tabindex="-1" aria-hidden="true"' : "") + ">" + gorsel(h, true) +
           '<span class="ortu"></span><div class="slayt-yazi"><span class="kat">' + e(h.kategori) + "</span><h2>" + e(h.baslik) + "</h2></div></a>";
       }).join("") +
       '</div><button type="button" class="sl-ok geri" aria-label="Önceki manşet">‹</button><button type="button" class="sl-ok ileri" aria-label="Sonraki manşet">›</button>' +
@@ -744,7 +749,7 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
       if (!l.length) return;
       var one = l[0], kalan = l.slice(1, 4);
       html += '<section class="blok" style="--k:' + k.renk + '"><div class="blok-bas"><h2><i></i>' + e(k.ad) + '</h2><a href="#kategori-' + k.slug + '">Tümü ›</a></div>' +
-        '<div class="blok-ic"><a class="one" href="#' + e(one.id) + '">' + gorsel(one) + "<h3>" + e(one.baslik) + "</h3><p>" + e(one.ozet.split(". ")[0]) + ".</p></a>" +
+        '<div class="blok-ic"><a class="one" href="' + hUrl(one.id) + '">' + gorsel(one) + "<h3>" + e(one.baslik) + "</h3><p>" + e(one.ozet.split(". ")[0]) + ".</p></a>" +
         '<div class="liste">' + (kalan.length ? kalan.map(kartYatayHTML).join("") : '<p class="bos">Bu kategorideki yeni haberler burada görünecek.</p>') + "</div></div></section>";
     });
     html += "</div>" + yanSutun() + "</div>";
@@ -878,7 +883,7 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
     var paragraflar = h.ozet.split(/(?<=\.)\s+(?=[A-ZÇĞİÖŞÜ0-9])/);
     var yari = Math.ceil(paragraflar.length / 2);
     var metin = "<p>" + e(paragraflar.slice(0, yari).join(" ")) + "</p>" + (paragraflar.length > 1 ? "<p>" + e(paragraflar.slice(yari).join(" ")) + "</p>" : "");
-    var adres = location.origin + location.pathname + "#" + h.id;
+    var adres = "https://ciftcigundemi.com/haber/" + h.id + "/";
     var ilgili = haberleriSirala(V.haberler.filter(function (x) { return x.id !== h.id && x.kategori === h.kategori; }));
     if (ilgili.length < 3) ilgili = ilgili.concat(haberleriSirala(V.haberler.filter(function (x) { return x.id !== h.id && x.kategori !== h.kategori; })));
     ilgili = ilgili.slice(0, 3);
@@ -966,22 +971,35 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
     var href = a.getAttribute("href") || "";
     if (a.closest(".canli-l") || /canli-yayin|tarimtv\.gov\.tr|koy-tv-canli/.test(href)) izle("canli_yayin_tikla", { kanal: (a.firstChild && a.firstChild.textContent || a.textContent).trim() });
     else if (a.closest(".kaynak-satir")) izle("kaynak_tikla", { kaynak: a.textContent.trim(), link_url: href });
-    else if (href.charAt(0) === "#" && HABER[href.slice(1)]) {
+    else if ((href.charAt(0) === "#" && HABER[href.slice(1)]) || /^\/?haber\/[a-z0-9-]+\/$/.test(href)) {
+      var hid = href.charAt(0) === "#" ? href.slice(1) : href.replace(/^\/?haber\//, "").replace(/\/$/, "");
       var yer = a.closest(".slider") ? "slider" : a.closest(".surmanset") ? "surmanset" : a.closest(".dortlu") ? "son_eklenenler" : a.closest(".blok") ? "kategori_blogu" : a.closest(".sondakika, #sondakika") ? "son_dakika" : "diger";
-      izle("haber_tikla", { haber_id: href.slice(1), konum: yer });
+      izle("haber_tikla", { haber_id: hid, konum: yer });
     }
   }, true);
 
+  function bulunamadi() {
+    document.title = "Sayfa bulunamadı · Çiftçi Gündemi";
+    var son = haberleriSirala(V.haberler).slice(0, 6);
+    document.getElementById("icerik").innerHTML = '<div class="iki" style="margin-top:0"><div><section class="bulunamadi" style="padding:40px 10px 24px;text-align:center">' +
+      '<p style="font:800 64px/1 Archivo,sans-serif;color:var(--marka);margin:0">404</p><h1 style="font:800 28px/1.2 Archivo,sans-serif;margin:12px 0 8px">Aradığınız sayfa bulunamadı</h1>' +
+      '<p style="margin:0 0 18px;color:var(--soluk)">Haber kaldırılmış ya da bağlantı hatalı olabilir. Son haberlere göz atın ya da ana sayfaya dönün.</p>' +
+      '<a href="/" style="display:inline-block;background:var(--marka);color:#fff;padding:12px 22px;border-radius:999px;font-weight:800;text-decoration:none">Ana sayfaya dön</a></section>' +
+      '<section class="ilgili"><div class="blok-bas"><h2><i></i>Son haberler</h2></div><div class="uclu">' + son.map(kartHTML).join("") + "</div></section></div>" + yanSutun() + "</div>";
+  }
   function rota() {
     clearInterval(slaytZamanlayici);
     var h = location.hash.slice(1), k;
+    if (!h && yolHaber()) h = yolHaber();
     document.title = "Çiftçi Gündemi";
-    if (!h) { menu(""); anaSayfa(); }
+    if (!h && (location.pathname === "/" || location.pathname === "/index.html")) { menu(""); anaSayfa(); }
+    else if (!h) { menu(""); bulunamadi(); }
     else if (h.indexOf("kategori-") === 0 && (k = V.kategoriler.filter(function (x) { return "kategori-" + x.slug === h; })[0])) { menu(h); kategoriSayfa(k); }
     else if (h === "takvim") { menu(h); takvimSayfa(); }
     else if (h === "fiyatlar") { menu(h); fiyatSayfa(); }
     else if (h === "hakkimizda") { menu(null); hakkimizda(); }
     else if (HABER[h]) { var kk = KAT[HABER[h].kategori]; menu(kk ? "kategori-" + kk.slug : null); haberSayfa(HABER[h]); }
+    else if (h || (location.pathname !== "/" && location.pathname !== "/index.html")) { menu(""); bulunamadi(); }
     else { menu(""); anaSayfa(); }
     window.scrollTo(0, 0);
     sayfaOlc(h);

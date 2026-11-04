@@ -1,0 +1,25 @@
+name: Haber sayfalarini uret
+on:
+  push:
+    branches: [main]
+    paths: ["data/haberler.json", "index.html", "_build/**"]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: sayfalar
+  cancel-in-progress: false
+jobs:
+  uret:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 _build/sayfalar.py
+      - name: Degisiklik varsa gonder
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A haber sitemap.xml rss.xml 404.html
+          if git diff --cached --quiet; then echo "degisiklik yok"; exit 0; fi
+          git commit -m "Haber sayfalari, site haritasi ve RSS guncellendi"
+          for i in 1 2 3; do git pull --rebase origin main && git push origin HEAD:main && break; sleep 5; done
