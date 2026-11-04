@@ -691,6 +691,8 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
     var mans = V.mansetler.map(function (id) { return HABER[id]; }).filter(Boolean);
     var sur = V.surmanset.map(function (id) { return HABER[id]; }).filter(Boolean);
     haberleriSirala(V.haberler).forEach(function (h) { if (mans.length < 10 && mans.indexOf(h) < 0 && sur.indexOf(h) < 0) mans.push(h); });
+    var sira = haberleriSirala(V.haberler);
+    mans.sort(function (a, b) { return sira.indexOf(a) - sira.indexOf(b); });
     mans = mans.slice(0, 10);
     var html = '<section class="manset-alan" aria-label="Manşet">' +
       '<div class="slider" id="slider"><div class="slaytlar">' +
