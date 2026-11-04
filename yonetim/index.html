@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Yönetim · Çiftçi Gündemi</title>
+<style>
+  :root { --yesil:#1f5c2e; --zemin:#f6f4ee; --kenar:#ddd8cc; --kirmizi:#a32b1f; }
+  * { box-sizing:border-box; }
+  body { margin:0; font:15px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif; background:var(--zemin); color:#1d1d1b; }
+  header { background:var(--yesil); color:#fff; padding:14px 20px; display:flex; align-items:center; gap:16px; flex-wrap:wrap; }
+  header h1 { font-size:18px; margin:0; flex:1; }
+  header a { color:#fff; }
+  main { max-width:900px; margin:0 auto; padding:20px; }
+  .kart { background:#fff; border:1px solid var(--kenar); border-radius:8px; padding:14px 16px; margin:0 0 12px; }
+  .ust { font-size:13px; color:#666; margin-bottom:6px; }
+  .ust b { color:#1d1d1b; }
+  .metin { white-space:pre-wrap; word-break:break-word; }
+  .dugmeler { margin-top:10px; display:flex; gap:8px; }
+  button { font:inherit; border:0; border-radius:6px; padding:8px 14px; cursor:pointer; }
+  .onayla { background:var(--yesil); color:#fff; }
+  .sil { background:#fff; color:var(--kirmizi); border:1px solid var(--kirmizi); }
+  .giris { background:#fff; color:#1d1d1b; font-weight:600; }
+  .sekmeler { display:flex; gap:8px; margin:0 0 16px; }
+  .sekmeler button { background:#fff; border:1px solid var(--kenar); }
+  .sekmeler button[aria-selected="true"] { background:var(--yesil); color:#fff; border-color:var(--yesil); }
+  .bos, .durum { color:#666; padding:20px 0; }
+  .hata { color:var(--kirmizi); }
+  button:disabled { opacity:.5; cursor:default; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Çiftçi Gündemi · Yönetim</h1>
+  <span id="kim"></span>
+  <button class="giris" id="giris" hidden>Google ile giriş yap</button>
+  <button class="giris" id="cikis" hidden>Çıkış</button>
+</header>
+<main>
+  <div class="sekmeler" role="tablist">
+    <button role="tab" aria-selected="true" data-sekme="yorum">Bekleyen yorumlar <span id="ys"></span></button>
+    <button role="tab" aria-selected="false" data-sekme="mesaj">İletişim mesajları <span id="ms"></span></button>
+  </div>
+  <div id="icerik"><p class="durum">Yükleniyor…</p></div>
+</main>
+
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
+<script>
+(function () {
+  var AYAR = { apiKey: "AIzaSyCFacQOHSwfbsbPsmVuM_xmncBrZphK3XU", authDomain: "ciftcigundemi.firebaseapp.com", projectId: "ciftcigundemi" };
+  var KOK = "https://firestore.googleapis.com/v1/projects/ciftcigundemi/databases/(default)/documents";
+  firebase.initializeApp(AYAR);
+  var auth = firebase.auth();
+  var sekme = "yorum", kullanici = null;
+  var $ = function (id) { return document.getElementById(id); };
+
+  function kacis(s) { return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) { return { "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&#39;" }[c]; }); }
+  function deger(f, k) { var v = f && f[k]; if (!v) return ""; return v.stringValue != null ? v.stringValue : v.timestampValue != null ? v.timestampValue : v.booleanValue != null ? v.booleanValue : ""; }
+  function zaman(s) { if (!s) return ""; var d = new Date(s); return d.toLocaleString("tr-TR", { dateStyle: "medium", timeStyle: "short" }); }
+
+  async function istek(yol, secenek) {
+    var token = await kullanici.getIdToken();
+    secenek = secenek || {};
+    secenek.headers = Object.assign({ "Authorization": "Bearer " + token, "Content-Type": "application/json" }, secenek.headers || {});
+    var r = await fetch(KOK + yol, secenek);
+    if (!r.ok) { var t = await r.text(); throw new Error(r.status + " " + t.slice(0, 200)); }
+    return r.status === 204 ? null : r.json().catch(function () { return null; });
+  }
+
+  async function yorumlar() {
+    var sonuc = await istek(":runQuery", { method: "POST", body: JSON.stringify({ structuredQuery: {
+      from: [{ collectionId: "yorumlar" }],
+      where: { fieldFilter: { field: { fieldPath: "onay" }, op: "EQUAL", value: { booleanValue: false } } },
+      limit: 200 } }) });
+    return (sonuc || []).filter(function (x) { return x.document; }).map(function (x) { return x.document; })
+      .sort(function (a, b) { return deger(b.fields, "zaman").localeCompare(deger(a.fields, "zaman")); });
+  }
+  async function mesajlar() {
+    var s = await istek("/mesajlar?pageSize=200");
+    return ((s && s.documents) || []).sort(function (a, b) { return deger(b.fields, "zaman").localeCompare(deger(a.fields, "zaman")); });
+  }
+
+  function yorumKart(d) {
+    var f = d.fields, id = d.name.split("/").pop(), haber = deger(f, "haber");
+    return '<div class="kart" data-ad="' + kacis(d.name) + '"><div class="ust"><b>' + kacis(deger(f, "ad")) + '</b> · ' + zaman(deger(f, "zaman")) +
+      ' · <a href="/haber/' + encodeURIComponent(haber) + '/" target="_blank" rel="noopener">habere git</a></div>' +
+      '<div class="metin">' + kacis(deger(f, "metin")) + '</div>' +
+      '<div class="dugmeler"><button class="onayla" data-is="onayla">Onayla ve yayımla</button><button class="sil" data-is="sil">Sil</button></div></div>';
+  }
+  function mesajKart(d) {
+    var f = d.fields, ep = deger(f, "eposta");
+    return '<div class="kart" data-ad="' + kacis(d.name) + '"><div class="ust"><b>' + kacis(deger(f, "ad")) + '</b> · <a href="mailto:' + kacis(ep) + '">' + kacis(ep) + '</a> · ' +
+      kacis(deger(f, "konu")) + ' · ' + zaman(deger(f, "zaman")) + '</div>' +
+      '<div class="metin">' + kacis(deger(f, "mesaj")) + '</div>' +
+      '<div class="dugmeler"><button class="sil" data-is="sil">Sil</button></div></div>';
+  }
+
+  async function yukle() {
+    var ic = $("icerik");
+    ic.innerHTML = '<p class="durum">Yükleniyor…</p>';
+    try {
+      var y = await yorumlar(), m = await mesajlar();
+      $("ys").textContent = "(" + y.length + ")"; $("ms").textContent = "(" + m.length + ")";
+      var liste = sekme === "yorum" ? y : m;
+      ic.innerHTML = liste.length ? liste.map(sekme === "yorum" ? yorumKart : mesajKart).join("") :
+        '<p class="bos">' + (sekme === "yorum" ? "Onay bekleyen yorum yok." : "Mesaj yok.") + '</p>';
+    } catch (e) {
+      ic.innerHTML = '<p class="hata">Veriler alınamadı. Bu hesabın yönetici yetkisi olmayabilir.<br><small>' + kacis(e.message) + '</small></p>';
+    }
+  }
+
+  $("icerik").addEventListener("click", async function (e) {
+    var b = e.target.closest("button[data-is]"); if (!b) return;
+    var kart = b.closest(".kart"), ad = kart.getAttribute("data-ad"), yol = "/" + ad.split("/documents/")[1];
+    if (b.dataset.is === "sil" && !confirm("Bu kayıt kalıcı olarak silinecek. Emin misiniz?")) return;
+    kart.querySelectorAll("button").forEach(function (x) { x.disabled = true; });
+    try {
+      if (b.dataset.is === "onayla") {
+        await istek(yol + "?updateMask.fieldPaths=onay", { method: "PATCH", body: JSON.stringify({ fields: { onay: { booleanValue: true } } }) });
+      } else {
+        await istek(yol, { method: "DELETE" });
+      }
+      kart.remove(); yukle();
+    } catch (err) {
+      alert("İşlem yapılamadı: " + err.message);
+      kart.querySelectorAll("button").forEach(function (x) { x.disabled = false; });
+    }
+  });
+
+  document.querySelectorAll(".sekmeler button").forEach(function (b) {
+    b.addEventListener("click", function () {
+      sekme = b.dataset.sekme;
+      document.querySelectorAll(".sekmeler button").forEach(function (x) { x.setAttribute("aria-selected", x === b ? "true" : "false"); });
+      if (kullanici) yukle();
+    });
+  });
+
+  $("giris").onclick = function () { auth.signInWithPopup(new firebase.auth.GoogleAuthProvider()).catch(function (e) { alert("Giriş yapılamadı: " + e.message); }); };
+  $("cikis").onclick = function () { auth.signOut(); };
+
+  auth.onAuthStateChanged(function (u) {
+    kullanici = u;
+    $("giris").hidden = !!u; $("cikis").hidden = !u;
+    $("kim").textContent = u ? u.email : "";
+    if (u) yukle();
+    else $("icerik").innerHTML = '<p class="durum">Yorumları ve mesajları görmek için yönetici Google hesabıyla giriş yapın.</p>';
+  });
+})();
+</script>
+</body>
+</html>
