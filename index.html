@@ -452,7 +452,7 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
   function yonOk(f) { return f.yon === "yukari" ? "▲" : f.yon === "asagi" ? "▼" : "▬"; }
   function yonEtiket(f) { return f.yon === "yukari" ? "yükseldi" : f.yon === "asagi" ? "düştü" : "değişmedi"; }
   function yonHTML(f) { if (!f.yon) return ""; return '<span class="yon ' + yonSinif(f) + '" title="' + e(f.onceki || "") + '" aria-label="' + yonEtiket(f) + " " + e(f.degisim || "") + '">' + yonOk(f) + " " + e(f.degisim || "") + "</span>"; }
-  function haberleriSirala(l) { return l.slice().sort(function (a, b) { return a.tarih < b.tarih ? 1 : a.tarih > b.tarih ? -1 : 0; }); }
+  function haberleriSirala(l) { return l.slice().sort(function (a, b) { if (a.tarih !== b.tarih) return a.tarih < b.tarih ? 1 : -1; var x = a.eklenme || "", y = b.eklenme || ""; return x === y ? 0 : (x < y ? 1 : -1); }); }
 
   /* ---------- illüstrasyonlar ---------- */
   var PALET = {
@@ -688,12 +688,8 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
 
   /* ---------- sayfalar ---------- */
   function anaSayfa() {
-    var mans = V.mansetler.map(function (id) { return HABER[id]; }).filter(Boolean);
-    var sur = V.surmanset.map(function (id) { return HABER[id]; }).filter(Boolean);
-    haberleriSirala(V.haberler).forEach(function (h) { if (mans.length < 10 && mans.indexOf(h) < 0 && sur.indexOf(h) < 0) mans.push(h); });
     var sira = haberleriSirala(V.haberler);
-    mans.sort(function (a, b) { return sira.indexOf(a) - sira.indexOf(b); });
-    mans = mans.slice(0, 10);
+    var mans = sira.slice(0, 10), sur = sira.slice(10, 12), dort = sira.slice(12, 16);
     var html = '<section class="manset-alan" aria-label="Manşet">' +
       '<div class="slider" id="slider"><div class="slaytlar">' +
       mans.map(function (h, i) {
@@ -706,7 +702,7 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
       "</div></div>" +
       '<div class="surmanset">' + sur.map(kartOrtuHTML).join("") + "</div></section>";
 
-    html += '<section class="dortlu" aria-label="Son eklenenler">' + haberleriSirala(V.haberler).slice(0, 4).map(kartHTML).join("") + "</section>";
+    html += '<section class="dortlu" aria-label="Son eklenenler">' + dort.map(kartHTML).join("") + "</section>";
 
     html += '<div class="iki"><div>';
     V.kategoriler.forEach(function (k) {

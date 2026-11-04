@@ -48,14 +48,13 @@
   "mersin-sel-ciftci-destek-belirsiz"
  ],
  "surmanset": [
-  "cks-2027-son-gun-31-aralik",
   "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
  ],
  "haberler": [
   {
    "id": "cks-2027-son-gun-31-aralik",
    "kategori": "Destek",
-   "tarih": "2026-11-04",
+   "tarih": "2026-09-06",
    "motif": "para",
    "baslik": "ÇKS'de 2027 kaydı için son tarih 31 Aralık: güncellemeyen destek alamayabilir",
    "ozet": "Tarım ve Orman Bakanlığı'nın 2027 üretim yılı Çiftçi Kayıt Sistemi (ÇKS) başvuruları 1 Eylül'de açıldı ve 31 Aralık 2026 mesai bitiminde kapanacak. Önceki yıllarda kaydı olan ve arazi bilgisi değişmeyen üreticiler işlemi e-Devlet üzerinden yapabiliyor. İlk kez kayıt olacaklar ya da arazisinde değişiklik olanlar il veya ilçe tarım müdürlüğüne, yetki devri yapılan illerde ziraat odasına gitmek zorunda. Temel destek başta olmak üzere tarımsal desteklerden yararlanmak için ÇKS kaydı şart.",
@@ -69,7 +68,8 @@
      "ad": "Milli Gazete",
      "url": "https://www.milligazete.com.tr/2027-cks-basvurusu-nasil-yapilir-son-tarih-ne-zaman-e-devletten-yenileme-yapilir-mi-kimler-basvurabilir-tarimsal-destekler-icin-cks-sart-mi"
     }
-   ]
+   ],
+   "eklenme": "2026-11-04T08:00:00+03:00"
   },
   {
    "id": "mersin-zeytinyagi-litre-200-tl",
@@ -88,7 +88,8 @@
      "ad": "Nil RTV",
      "url": "https://nilrtv.com.tr/mersinde-zeytin-hasadi-bereketli-basladi-zeytinyagi-fiyatlari-3-yil-oncesine-dondu-h32625.html"
     }
-   ]
+   ],
+   "eklenme": "2026-11-04T07:59:00+03:00"
   },
   {
    "id": "manisa-kula-selendi-905-uretici-tohum",
@@ -107,7 +108,8 @@
      "ad": "Manisa Haber X",
      "url": "https://www.manisahaberx.com/kula-ve-selendide-905-ureticiye-yuzde-75-hibeli-tohum"
     }
-   ]
+   ],
+   "eklenme": "2026-11-04T07:58:00+03:00"
   },
   {
    "id": "mersin-sel-ciftci-destek-belirsiz",
@@ -122,7 +124,8 @@
      "ad": "Çukurova Gazetesi",
      "url": "https://cukurovagazetesi.com/mersinde-ureticilerin-gozu-tarim-ve-orman-bakanliginda"
     }
-   ]
+   ],
+   "eklenme": "2026-11-04T07:57:00+03:00"
   },
   {
    "id": "van-58-cilek-serasi-56-ureticiye-kasimda",
@@ -137,7 +140,8 @@
      "ad": "Ekonomi Politikası",
      "url": "https://ekonomipolitikasi.com.tr/vanda-56-ureticiye-cilek-serasi-teslim-edilecek/"
     }
-   ]
+   ],
+   "eklenme": "2026-11-04T07:56:00+03:00"
   },
   {
    "id": "nevsehir-cerezlik-kabak-hasadi",
@@ -152,7 +156,8 @@
      "ad": "Milliyet",
      "url": "https://www.milliyet.com.tr/ekonomi/sari-altinda-simdi-hasat-zamani-7692877"
     }
-   ]
+   ],
+   "eklenme": "2026-11-04T07:55:00+03:00"
   },
   {
    "id": "findik-ihracati-ilk-iki-ay-494-milyon-dolar",
@@ -167,7 +172,8 @@
      "ad": "Milliyet Uzmanpara",
      "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/turkiye-findik-ihracatindan-494-milyon-dolari-askin-gelir-sagladi-7693492"
     }
-   ]
+   ],
+   "eklenme": "2026-11-04T07:54:00+03:00"
   },
   {
    "id": "ekim-2026-tarim-ihracati-3-35-milyar-dolar",
@@ -182,7 +188,8 @@
      "ad": "Milliyet Uzmanpara",
      "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/otomotiv-endustrisi-4-milyar-dolarlik-ihracatla-ilk-sirada-yer-aldi-7693448"
     }
-   ]
+   ],
+   "eklenme": "2026-11-04T07:53:00+03:00"
   },
   {
    "id": "antalya-hal-ekim-domates-fiyati-iki-katina",
@@ -197,7 +204,8 @@
      "ad": "Ekonomi Gazetesi",
      "url": "https://www.ekonomigazetesi.com/sehirler/ekim-ayinda-domates-miktari-azaldi-fiyati-yuzde-100den-fazla-artti-91126"
     }
-   ]
+   ],
+   "eklenme": "2026-11-04T07:52:00+03:00"
   },
   {
    "id": "tokat-yesilirmak-600-milyon-islah",
@@ -212,7 +220,8 @@
      "ad": "DHA",
      "url": "https://www.dha.com.tr/foto-galeri/tokatta-taskin-sonrasi-yesilirmakta-600-milyon-liralik-islah-calismasi-basladi-2974332"
     }
-   ]
+   ],
+   "eklenme": "2026-11-04T07:51:00+03:00"
   },
   {
    "id": "zirai-don-uyarisi-4-9-kasim",
@@ -239,7 +248,8 @@
      "ad": "Haberler.com (İHA, MGM 12. Bölge)",
      "url": "https://www.haberler.com/cevre/meteoroloji-erzincan-da-4-9-kasim-2026-icin-zirai-20393162-haberi/"
     }
-   ]
+   ],
+   "eklenme": "2026-11-04T07:50:00+03:00"
   },
   {
    "id": "bayburt-buzagi-kuzu-1-aralik",
@@ -258,7 +268,8 @@
      "ad": "Haber61",
      "url": "https://www.haber61.net/bayburt/bayburt-ta-hayvancilik-destekleri-icin-son-basvuru-tarihi-aciklandi/648288"
     }
-   ]
+   ],
+   "eklenme": "2026-11-04T07:49:00+03:00"
   },
   {
    "id": "sakarya-ayva-60-bin-ton",
@@ -277,7 +288,8 @@
      "ad": "Yeni Sakarya",
      "url": "https://www.yenisakarya.com/sakaryanin-sari-altininda-bereketli-hasat-60-bin-ton-ayva-bekleniyor-ama-uretici-fiyattan-dertli"
     }
-   ]
+   ],
+   "eklenme": "2026-11-04T07:48:00+03:00"
   },
   {
    "id": "diyarbakir-yagis-pamuk-misir-hasat",
@@ -296,7 +308,8 @@
      "ad": "Yozgat Çamlık (Bakan Yumaklı'nın yanıtı)",
      "url": "https://www.yozgatcamlik.com/yozgat-haber/yozgatli-ciftcilerin-bekledigi-ek-destek-aciklamasi-geldi-mazot-ve-gubre-22169104h"
     }
-   ]
+   ],
+   "eklenme": "2026-11-04T07:47:00+03:00"
   },
   {
    "id": "fethiye-sel",
@@ -315,7 +328,8 @@
    "gorsel": "assets/iha/fethiye-sel.jpg",
    "gorselKucuk": "assets/iha/fethiye-sel-k.jpg",
    "gorselKaynak": "Fotoğraf/Video: İHA",
-   "video": "assets/video/fethiye-sel.mp4"
+   "video": "assets/video/fethiye-sel.mp4",
+   "eklenme": "2026-11-04T07:46:00+03:00"
   },
   {
    "id": "kizilinler",
@@ -334,7 +348,8 @@
    "gorsel": "assets/iha/kizilinler.jpg",
    "gorselKucuk": "assets/iha/kizilinler-k.jpg",
    "gorselKaynak": "Fotoğraf/Video: İHA",
-   "video": "assets/video/kizilinler.mp4"
+   "video": "assets/video/kizilinler.mp4",
+   "eklenme": "2026-11-04T07:45:00+03:00"
   },
   {
    "id": "ahlat-ivesi",
@@ -353,7 +368,8 @@
    "gorsel": "assets/iha/ahlat-ivesi.jpg",
    "gorselKucuk": "assets/iha/ahlat-ivesi-k.jpg",
    "gorselKaynak": "Fotoğraf/Video: İHA",
-   "video": "assets/video/ahlat-ivesi.mp4"
+   "video": "assets/video/ahlat-ivesi.mp4",
+   "eklenme": "2026-11-04T07:44:00+03:00"
   },
   {
    "id": "erzincan-ceviz",
@@ -372,7 +388,8 @@
    "gorsel": "assets/iha/erzincan-ceviz.jpg",
    "gorselKucuk": "assets/iha/erzincan-ceviz-k.jpg",
    "gorselKaynak": "Fotoğraf/Video: İHA",
-   "video": "assets/video/erzincan-ceviz.mp4"
+   "video": "assets/video/erzincan-ceviz.mp4",
+   "eklenme": "2026-11-04T07:43:00+03:00"
   },
   {
    "id": "antalya-tirnak",
@@ -391,7 +408,8 @@
    "gorsel": "assets/iha/antalya-tirnak.jpg",
    "gorselKucuk": "assets/iha/antalya-tirnak-k.jpg",
    "gorselKaynak": "Fotoğraf/Video: İHA",
-   "video": "assets/video/antalya-tirnak.mp4"
+   "video": "assets/video/antalya-tirnak.mp4",
+   "eklenme": "2026-11-04T07:42:00+03:00"
   },
   {
    "id": "hatay-mandalina",
@@ -410,7 +428,8 @@
    "gorsel": "assets/iha/hatay-mandalina.jpg",
    "gorselKucuk": "assets/iha/hatay-mandalina-k.jpg",
    "gorselKaynak": "Fotoğraf/Video: İHA",
-   "video": "assets/video/hatay-mandalina.mp4"
+   "video": "assets/video/hatay-mandalina.mp4",
+   "eklenme": "2026-11-04T07:41:00+03:00"
   },
   {
    "id": "resmi-gazete-3-kasim-mera-orman-koylusu",
@@ -429,7 +448,8 @@
      "ad": "Kurtalan Gazetesi",
      "url": "https://kurtalangazetesi.com/haber/3-kasim-2026-resmi-gazete-kararlari-aciklandi-iste-yayimlanan-yonetmelik-ve-tebligler-106619.html"
     }
-   ]
+   ],
+   "eklenme": "2026-11-04T07:40:00+03:00"
   },
   {
    "id": "canik-salep-tohumu-destegi",
@@ -444,7 +464,8 @@
      "ad": "Gerçek Taraf",
      "url": "https://gercektaraf.com.tr/samsun-canikte-ciftcilere-500-kilo-salep-tohumu-destegi-geliyor"
     }
-   ]
+   ],
+   "eklenme": "2026-11-04T07:39:00+03:00"
   },
   {
    "id": "onarici-tarim-bugday-verim-yuzde-22",
@@ -459,7 +480,8 @@
      "ad": "Habertürk",
      "url": "https://haberturk.com/ekonomi/ulker-surdurulebilirlik-hedeflerine-somut-adimlarla-ilerliyor-3924595"
     }
-   ]
+   ],
+   "eklenme": "2026-11-04T07:38:00+03:00"
   },
   {
    "id": "ipard-3-4-milyar-avro-yatirim",
@@ -474,7 +496,8 @@
      "ad": "Milliyet",
      "url": "https://www.milliyet.com.tr/ekonomi/bakan-yumakli-ipard-programlariyla-3-4-milyar-avroluk-yatirim-ekonomimize-kazandirildi-7692638"
     }
-   ]
+   ],
+   "eklenme": "2026-11-04T07:37:00+03:00"
   },
   {
    "id": "ege-pamuk-ekim-alani-yuzde-47-daraldi",
@@ -489,7 +512,8 @@
      "ad": "Ekonomi Gazetesi",
      "url": "https://www.ekonomigazetesi.com/sehirler/pamuk-uretimi-alarm-veriyor-sektor-destek-bekliyor-91094"
     }
-   ]
+   ],
+   "eklenme": "2026-11-04T07:36:00+03:00"
   },
   {
    "id": "istanbul-hamsi-hal-150-tezgah-350",
@@ -504,7 +528,8 @@
      "ad": "Timeturk",
      "url": "https://www.timeturk.com/2-kasim-ibb-balik-halinde-hamsi-150-lira-tezgahta-350-lira-oldu"
     }
-   ]
+   ],
+   "eklenme": "2026-11-04T07:35:00+03:00"
   },
   {
    "id": "agri-hayvan-borsasi-acildi-kars-kisitlama-kalkti",
@@ -523,7 +548,8 @@
      "ad": "Doğubayazıt Gazetesi",
      "url": "https://dogubayazitgazetesi.com/agrida-hayvan-borsasi-acildi-karsta-da-yeni-karar"
     }
-   ]
+   ],
+   "eklenme": "2026-11-04T07:34:00+03:00"
   },
   {
    "id": "ordu-findik-serbest-piyasa-160-170-tl",
@@ -538,7 +564,8 @@
      "ad": "Ordu Yeni Dönem",
      "url": "https://www.orduyenidonem.com.tr/orduda-findik-fiyatlari-ureticiyi-hayal-kirikligina-ugratti-1"
     }
-   ]
+   ],
+   "eklenme": "2026-11-04T07:33:00+03:00"
   },
   {
    "id": "aricilik-son-gun-6-kasim",
@@ -553,7 +580,8 @@
      "url": "https://www.aksiyon.com.tr/aricilik-destek-basvurularinda-sure-uzatildi-son-basvuru-6-kasim-2026-385025"
     }
    ],
-   "motif": "kovan"
+   "motif": "kovan",
+   "eklenme": "2026-11-04T07:32:00+03:00"
   },
   {
    "id": "denizli-mazot-gubre",
@@ -572,7 +600,8 @@
      "url": "https://www.denizligunes.com/ureticiye-can-suyu-2"
     }
    ],
-   "motif": "traktor"
+   "motif": "traktor",
+   "eklenme": "2026-11-04T07:31:00+03:00"
   },
   {
    "id": "cig-sut-fiyat-bekleniyor",
@@ -591,7 +620,8 @@
      "url": "https://halktv.com.tr/ekonomi/cig-sut-fiyati-ne-kadar-konsey-acikladi-1043112h"
     }
    ],
-   "motif": "sut"
+   "motif": "sut",
+   "eklenme": "2026-11-04T07:30:00+03:00"
   },
   {
    "id": "malatya-su-urunleri",
@@ -606,7 +636,8 @@
      "url": "https://www.gazetevatan.com/sehirler/malatya/malatyada-ureticilere-destek-firsati-basvurular-18-aralika-kadar-2446521"
     }
    ],
-   "motif": "balik"
+   "motif": "balik",
+   "eklenme": "2026-11-04T07:29:00+03:00"
   },
   {
    "id": "manavgat-saganak-400-donum-pamuk-kabak",
@@ -621,7 +652,8 @@
      "ad": "İlkhaber Gazetesi",
      "url": "https://www.ilkhaber-gazetesi.com/ekonomi/antalya-da-saganak-tarim-arazilerini-vurdu-400-donum-alan-sular-altinda-zarar-10-milyon-tl-yi-asti-467345"
     }
-   ]
+   ],
+   "eklenme": "2026-11-04T07:28:00+03:00"
   },
   {
    "id": "rekabet-kurumu-findik-6-sirket-sorusturma",
@@ -636,7 +668,8 @@
      "ad": "Milliyet Uzmanpara",
      "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/rekabet-kurumu-findik-sektorune-yonelik-siki-takibini-surduruyor-7691389"
     }
-   ]
+   ],
+   "eklenme": "2026-11-04T07:27:00+03:00"
   },
   {
    "id": "tmo-2027-bugday-misir-alim-ongorusu",
@@ -651,7 +684,8 @@
      "ad": "Milliyet Uzmanpara",
      "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/tmonun-2027de-5-milyon-ton-bugday-1-5-milyon-ton-misir-almasi-ongoruluyor-7691348"
     }
-   ]
+   ],
+   "eklenme": "2026-11-04T07:26:00+03:00"
   },
   {
    "id": "tzob-ekim-2026-uretici-market-fiyatlari",
@@ -666,7 +700,8 @@
      "ad": "Milliyet Uzmanpara",
      "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/tzob-genel-baskani-bayraktar-market-fiyatlarini-degerlendirdi-7691337"
     }
-   ]
+   ],
+   "eklenme": "2026-11-04T07:25:00+03:00"
   },
   {
    "id": "sapanca-golu-eylem-plani-25-5-milyar",
@@ -681,7 +716,8 @@
      "ad": "Milliyet",
      "url": "https://www.milliyet.com.tr/ekonomi/bakan-yumakli-havzamiza-yilda-yaklasik-114-milyon-metrekupluk-su-kazandirmayi-planliyoruz-7691569"
     }
-   ]
+   ],
+   "eklenme": "2026-11-04T07:24:00+03:00"
   },
   {
    "id": "elbistan-sap-karantinasi-5-mahalle",
@@ -696,7 +732,8 @@
      "ad": "Ankara Masası",
      "url": "https://www.ankaramasasi.com.tr/haber/2226763/elbistan-da-sap-karantinasi-hayvan-giris-ve-cikislari-yasaklandi"
     }
-   ]
+   ],
+   "eklenme": "2026-11-04T07:23:00+03:00"
   },
   {
    "id": "antalya-tavsan-yuregi-zeytin-hasadi",
@@ -711,7 +748,8 @@
      "ad": "DHA",
      "url": "https://www.dha.com.tr/foto-galeri/antalyada-cografi-isaretli-tavsan-yuregi-zeytininde-10-bin-ton-rekolte-beklentisi-2972107"
     }
-   ]
+   ],
+   "eklenme": "2026-11-04T07:22:00+03:00"
   },
   {
    "id": "denizli-tarfu-2026-tarim-fuari",
@@ -726,7 +764,8 @@
      "ad": "Denizli24Haber",
      "url": "https://www.denizli24haber.com/denizli/denizli-tarim-fuari-acildi-1-kasima-kadar-surecek/78307"
     }
-   ]
+   ],
+   "eklenme": "2026-11-04T07:21:00+03:00"
   },
   {
    "id": "lalahan-genomik-test-merkezi-buzagi-kaybi-20-bin",
@@ -741,7 +780,8 @@
      "ad": "Milliyet",
      "url": "https://www.milliyet.com.tr/ekonomi/bakan-yumaklidan-hayvancilik-yapanlari-sevindirecek-haber-7690934"
     }
-   ]
+   ],
+   "eklenme": "2026-11-04T07:20:00+03:00"
   },
   {
    "id": "tmo-kasim-hububat",
@@ -756,7 +796,8 @@
      "url": "https://www.bloomberght.com/tmo-kasim-da-piyasaya-5-5-milyon-ton-hububat-arz-edecek-3792957"
     }
    ],
-   "motif": "bugday"
+   "motif": "bugday",
+   "eklenme": "2026-11-04T07:19:00+03:00"
   },
   {
    "id": "corum-pancar-dekarda-15-ton",
@@ -771,7 +812,8 @@
      "ad": "Milliyet Uzmanpara",
      "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/donum-basina-60-bin-lira-kar-kaliyor-15-ton-uretiyoruz-4-tonu-giderleri-karsiliyor-7690146"
     }
-   ]
+   ],
+   "eklenme": "2026-11-04T07:18:00+03:00"
   },
   {
    "id": "sinop-kdakp-genc-kadin-ciftci-185-milyon-hibe",
@@ -786,7 +828,8 @@
      "ad": "Milliyet Uzmanpara",
      "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/genc-ve-kadin-ciftcilere-185-milyon-lira-hibe-destegi-7689329"
     }
-   ]
+   ],
+   "eklenme": "2026-11-04T07:17:00+03:00"
   },
   {
    "id": "tigem-bugday-arpa-narenciye-ihalesi-kasim",
@@ -801,7 +844,8 @@
      "ad": "Milliyet Uzmanpara",
      "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/tigem-tonlarca-bugday-arpa-ve-narenciye-satacak-7689193"
     }
-   ]
+   ],
+   "eklenme": "2026-11-04T07:16:00+03:00"
   },
   {
    "id": "cop31-antalya-atb-tarim-su-gundemi",
@@ -820,7 +864,8 @@
      "ad": "Milliyet",
      "url": "https://www.milliyet.com.tr/haber/7688942/"
     }
-   ]
+   ],
+   "eklenme": "2026-11-04T07:15:00+03:00"
   },
   {
    "id": "gemlik-yaglik-zeytin-maliyeti-58-tl",
@@ -835,7 +880,8 @@
      "ad": "Yeni Marmara Gazetesi",
      "url": "https://www.yenimarmaragazetesi.com/ekonomi/gemlik-te-1-kilo-yaglik-zeytinin-maliyeti-58-14-tl-240263"
     }
-   ]
+   ],
+   "eklenme": "2026-11-04T07:14:00+03:00"
   },
   {
    "id": "pancar-besinci-avans-952-milyon",
@@ -854,7 +900,8 @@
      "ad": "Bloomberg HT",
      "url": "https://www.bloomberght.com/turkseker-seker-pancari-alim-fiyatini-acikladi-3791252"
     }
-   ]
+   ],
+   "eklenme": "2026-11-04T07:13:00+03:00"
   },
   {
    "id": "zeytin-zeytinyagi-ihracati-dokuz-ayda-yuzde-28-geriledi",
@@ -869,7 +916,8 @@
      "ad": "Foreks",
      "url": "https://www.foreks.com/haber/detay/6ae03e9658b1b941c2091ad1/FRKS/tr/ege-zeytin-ve-zeytinyagi-ihracatcilari-birligi-uygun-zeytin-ve-zeytinyagi-sektoru-ihracatta-zorlu-bir-sezona-giriyor-27-10-26/"
     }
-   ]
+   ],
+   "eklenme": "2026-11-04T07:12:00+03:00"
   },
   {
    "id": "aydin-kestane-ilk-alim-600-tl",
@@ -884,7 +932,8 @@
      "ad": "Milliyet Uzmanpara",
      "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/aydinda-sezonun-ilk-kestanesi-kilosu-600-tlden-alindi-7688675"
     }
-   ]
+   ],
+   "eklenme": "2026-11-04T07:11:00+03:00"
   },
   {
    "id": "zeytin-rekor-rekolte",
@@ -903,7 +952,8 @@
      "url": "https://www.ekonomigazetesi.com/sehirler/zeytin-ve-zeytinyagi-sektoru-ihracatta-zorlu-bir-sezona-giriyor-90683"
     }
    ],
-   "motif": "zeytin"
+   "motif": "zeytin",
+   "eklenme": "2026-11-04T07:10:00+03:00"
   },
   {
    "id": "turktraktor-dokuz-ay",
@@ -922,7 +972,8 @@
      "ad": "Foreks",
      "url": "https://www.foreks.com/haber/detay/6ae03a5b58b1b941c2091aa7/PICNEWS/tr/turktraktor-dokuz-ayda-zarar-acikladi-satislar-yuzde-28-dustu-27-10-26/"
     }
-   ]
+   ],
+   "eklenme": "2026-11-04T07:09:00+03:00"
   },
   {
    "id": "dogubayazit-yuzde-70-hibeli-bugday-tohumu",
@@ -937,7 +988,8 @@
      "ad": "Saray Medya",
      "url": "https://www.saraymedya.com/haber/dogubayazit-ta-ciftcilere-20-ton-bu%C4%9Fday-tohumu-verildi_317522/"
     }
-   ]
+   ],
+   "eklenme": "2026-11-04T07:08:00+03:00"
   },
   {
    "id": "tuik-bitkisel-uretim-2-tahmin-2026",
@@ -952,7 +1004,8 @@
      "ad": "BirGün",
      "url": "https://www.birgun.net/haber/uretim-artisi-ciftciye-kar-degil-dert-oldu-742165"
     }
-   ]
+   ],
+   "eklenme": "2026-11-04T07:07:00+03:00"
   },
   {
    "id": "ankara-tohum-gubre",
@@ -967,7 +1020,8 @@
      "url": "https://www.gazeteilksayfa.com/ankarada-ciftciye-destek-icin-basvurular-devam-ediyor-313128h.htm"
     }
    ],
-   "motif": "tohum"
+   "motif": "tohum",
+   "eklenme": "2026-11-04T07:06:00+03:00"
   },
   {
    "id": "butce-2027-tarim-destek",
@@ -986,7 +1040,8 @@
      "url": "https://www.ekonomigazetesi.com/kose-yazisi/tarima-2027de-235-milyar-lira-destek-90728"
     }
    ],
-   "motif": "para"
+   "motif": "para",
+   "eklenme": "2026-11-04T07:05:00+03:00"
   }
  ],
  "takvim": [
