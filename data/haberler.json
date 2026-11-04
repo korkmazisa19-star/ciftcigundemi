@@ -54,6 +54,48 @@
   ],
   "haberler": [
     {
+      "id": "usak-ulubey-omurca-corek-otu-23-uretici",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-04",
+      "eklenme": "2026-11-04T21:32:11+03:00",
+      "motif": "tohum",
+      "baslik": "Uşak Ulubey'de 23 üreticiye çörek otu tohumu ve gübre desteği",
+      "ozet": "Uşak'ın Ulubey ilçesine bağlı Omurca köyünde 23 üretici, 550 kilogram çörek otu tohumu ile 9 bin 200 kilogram organomineral gübre aldı. Dağıtım, İl Tarım ve Orman Müdürlüğü'nün yürüttüğü Çörek Otunda İyi Tarım Uygulamalarının Yaygınlaştırılması Projesi kapsamında yapıldı. Verilen girdiler 350 dekarlık alanda kullanılacak; köyde 2026'da toplam 700 dekarda çörek otu üretimi yapıldığı belirtildi. Törene Ulubey Kaymakam Vekili Neyfel Ören ile İl Müdürü Serkan Bilir de katıldı. Projeyle maliyetlerin düşürülmesi ve ihracata uygun, izlenebilir üretimin güçlendirilmesi amaçlanıyor.",
+      "neYapmali": "Bölgede çörek otu üretmek isteyen çiftçiler, benzer destekler için Ulubey İlçe Tarım ve Orman Müdürlüğü'nden bilgi alabilir. İhracatı hedefleyen üreticilerin iyi tarım kayıtlarını düzenli tutması önem taşıyor.",
+      "kaynaklar": [
+        {
+          "ad": "Yeşil Sivaslı Gazetesi",
+          "url": "https://www.yesilsivasligazetesi.com/usakta-23-ureticiye-corek-otu-destegi"
+        }
+      ],
+      "gorsel": "assets/envato/usak-ulubey-omurca-corek-otu-23-uretici.jpg",
+      "gorselKucuk": "assets/envato/usak-ulubey-omurca-corek-otu-23-uretici-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
+    {
+      "id": "balikesir-gonen-manyas-293-uretici-sut-otu",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-03",
+      "eklenme": "2026-11-04T21:31:11+03:00",
+      "motif": "tohum",
+      "baslik": "Balıkesir'de Gönen ve Manyaslı 293 hayvan üreticisine 14 ton süt otu tohumu",
+      "ozet": "Balıkesir Büyükşehir Belediyesi, Gönen ve Manyas'taki 293 hayvancılık yapan üreticiye toplam 14 bin 100 kilogram süt otu tohumu verdi. Gönen'de 123 üretici 5 bin 850 kilogram, Manyas'ta 170 üretici 8 bin 250 kilogram tohum aldı. Çim türü bu yem bitkisiyle işletmelerin kaba yem ihtiyacının karşılanması ve yem giderlerinin azaltılması hedefleniyor. Dağıtım, belediyenin 20 ilçede sürdürdüğü \"Tarımda Balıkesir Modeli\" çalışmalarının parçası olarak yapıldı; törenlere belediyenin Gönen koordinatörü Bülent Birgül katıldı.",
+      "neYapmali": "Balıkesir'deki hayvan üreticileri, sıradaki dağıtımlar ve katılım şartları için Büyükşehir Belediyesi'nin tarım birimine ya da ilçe koordinatörlüğüne danışabilir. Tohumu alanların ekim zamanı için ilçe tarım müdürlüğünün önerilerine uyması faydalı olur.",
+      "kaynaklar": [
+        {
+          "ad": "Bandırma Şehir",
+          "url": "https://www.bandirmasehir.com/buyuksehirden-guney-marmarada-ureticilere-sut-otu-tohumu-destegi/"
+        },
+        {
+          "ad": "Alparslan Diyarı",
+          "url": "https://www.alparslandiyari.com/haber/balikesir-de-293-ureticiye-sut-otu-tohumu-verildi_80231/"
+        }
+      ],
+      "gorsel": "assets/envato/balikesir-gonen-manyas-293-uretici-sut-otu.jpg",
+      "gorselKucuk": "assets/envato/balikesir-gonen-manyas-293-uretici-sut-otu-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
+    {
       "id": "diyarbakir-cungus-mercimek-tohumu-dagitimi",
       "kategori": "Bitkisel Üretim",
       "tarih": "2026-11-04",
@@ -1971,11 +2013,9 @@
         "sut-5.jpg"
       ],
       "tohum": [
-        "tohum-1.jpg",
         "tohum-2.jpg",
         "tohum-3.jpg",
-        "tohum-4.jpg",
-        "tohum-5.jpg"
+        "tohum-4.jpg"
       ],
       "traktor": [
         "traktor-1.jpg",
