@@ -691,7 +691,16 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
   /* ---------- sayfalar ---------- */
   function anaSayfa() {
     var sira = haberleriSirala(V.haberler);
-    var mans = sira.slice(0, 10), sur = sira.slice(10, 12), dort = sira.slice(12, 16);
+    var mans = sira.slice(0, 10), kalanH = sira.slice(10);
+    function farkliSec(n, yasak) {
+      var secim = [], kat = {};
+      (yasak || []).forEach(function (h) { kat[h.kategori] = 1; });
+      kalanH.forEach(function (h) { if (secim.length < n && !kat[h.kategori]) { secim.push(h); kat[h.kategori] = 1; } });
+      kalanH.forEach(function (h) { if (secim.length < n && secim.indexOf(h) < 0) secim.push(h); });
+      kalanH = kalanH.filter(function (h) { return secim.indexOf(h) < 0; });
+      return secim;
+    }
+    var sur = farkliSec(2), dort = farkliSec(4, sur);
     var html = '<section class="manset-alan" aria-label="Manşet">' +
       '<div class="slider" id="slider"><div class="slaytlar">' +
       mans.map(function (h, i) {
