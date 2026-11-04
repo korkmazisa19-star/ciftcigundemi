@@ -454,7 +454,7 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
   function yonOk(f) { return f.yon === "yukari" ? "▲" : f.yon === "asagi" ? "▼" : "▬"; }
   function yonEtiket(f) { return f.yon === "yukari" ? "yükseldi" : f.yon === "asagi" ? "düştü" : "değişmedi"; }
   function yonHTML(f) { if (!f.yon) return ""; return '<span class="yon ' + yonSinif(f) + '" title="' + e(f.onceki || "") + '" aria-label="' + yonEtiket(f) + " " + e(f.degisim || "") + '">' + yonOk(f) + " " + e(f.degisim || "") + "</span>"; }
-  function haberleriSirala(l) { return l.slice().sort(function (a, b) { if (a.tarih !== b.tarih) return a.tarih < b.tarih ? 1 : -1; var x = a.eklenme || "", y = b.eklenme || ""; return x === y ? 0 : (x < y ? 1 : -1); }); }
+  function haberleriSirala(l) { function an(h) { return h.eklenme || (h.tarih + "T00:00:00+03:00"); } return l.slice().sort(function (a, b) { var x = an(a), y = an(b); if (x !== y) return x < y ? 1 : -1; return a.tarih === b.tarih ? 0 : (a.tarih < b.tarih ? 1 : -1); }); }
 
   /* ---------- illüstrasyonlar ---------- */
   var PALET = {
