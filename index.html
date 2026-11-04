@@ -270,6 +270,29 @@ button { font: inherit; color: inherit; }
 .paylas a, .paylas button { display: inline-flex; align-items: center; gap: 8px; border-radius: 999px; padding: 9px 16px; font-weight: 800; font-size: 14px; cursor: pointer; border: 0; }
 .paylas .wa { background: #1f9d55; color: #fff; }
 .paylas button { background: var(--kagit); border: 1px solid var(--cizgi); }
+.paylas .fb { background: #1877f2; color: #fff; } .paylas .xx { background: #111; color: #fff; } .paylas .tg { background: #229ed9; color: #fff; }
+.paylas a:hover, .paylas button:hover { filter: brightness(1.08); }
+.etk { margin: 18px 10px 6px; padding: 16px 18px; border: 1px solid var(--cizgi); border-radius: 10px; background: var(--yuzey); display: flex; flex-wrap: wrap; align-items: center; gap: 12px; }
+.etk-soru { font-weight: 800; font-size: 15px; margin-right: auto; }
+.etk button { display: inline-flex; align-items: center; gap: 8px; min-height: 44px; padding: 8px 16px; border-radius: 999px; border: 1px solid var(--cizgi); background: var(--kagit); color: var(--murekkep); font: 700 15px/1 Archivo, sans-serif; cursor: pointer; }
+.etk button svg { width: 20px; height: 20px; }
+.etk button[aria-pressed="true"].begen { background: #2f7d32; border-color: #2f7d32; color: #fff; }
+.etk button[aria-pressed="true"].begenme { background: #c62828; border-color: #c62828; color: #fff; }
+.etk button:disabled { opacity: .55; cursor: default; } .etk button[aria-pressed="true"]:disabled { opacity: 1; }
+.etk small { color: var(--soluk); font-size: 13px; width: 100%; }
+.yorumlar { margin: 18px 10px 8px; }
+.yorumlar h2 { font: 800 20px/1.2 Archivo, sans-serif; margin: 0 0 12px; }
+.yorum-form { display: grid; gap: 10px; padding: 16px; border: 1px solid var(--cizgi); border-radius: 10px; background: var(--yuzey); }
+.yorum-form label { font-weight: 700; font-size: 14px; display: grid; gap: 6px; }
+.yorum-form input[type=text], .yorum-form textarea { font: 400 16px/1.4 Literata, serif; padding: 10px 12px; border: 1px solid var(--cizgi); border-radius: 8px; background: var(--kagit); color: var(--murekkep); }
+.yorum-form textarea { min-height: 96px; resize: vertical; }
+.yorum-form .onay { display: flex; gap: 8px; align-items: flex-start; font-weight: 400; font-size: 13px; color: var(--soluk); }
+.yorum-form button { justify-self: start; min-height: 44px; padding: 10px 20px; border-radius: 999px; border: 0; background: #2f7d32; color: #fff; font: 800 15px/1 Archivo, sans-serif; cursor: pointer; }
+.yorum-not { font-size: 14px; color: var(--soluk); margin: 6px 0 0; }
+.yorum-liste { list-style: none; margin: 14px 0 0; padding: 0; display: grid; gap: 10px; }
+.yorum-liste li { padding: 12px 14px; border-radius: 8px; background: var(--kagit); border: 1px solid var(--cizgi); }
+.yorum-liste b { font-size: 15px; } .yorum-liste time { color: var(--soluk); font-size: 13px; margin-left: 8px; }
+.yorum-liste p { margin: 6px 0 0; font-family: Literata, serif; }
 .ilgili { margin-top: 28px; }
 .uclu { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
 
@@ -758,6 +781,98 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
     if (!hareketAz) slaytZamanlayici = setInterval(function () { if (!durdu && !document.hidden) git(i + 1); }, 6000);
   }
 
+
+  /* ---------- etkileşim: paylaş, beğen, yorum ---------- */
+  // Firebase (Firestore) yapılandırması: proje açılınca doldurulur. Boşken paylaşım çalışır, beğeni ve yorum "yakında" görünür.
+  var FB = { apiKey: "", projectId: "" };
+  var FBV = /^[A-Za-z0-9_-]{20,}$/.test(FB.apiKey) && /^[a-z0-9-]{4,}$/.test(FB.projectId);
+  function fsUrl(yol) { return "https://firestore.googleapis.com/v1/projects/" + FB.projectId + "/databases/(default)/documents" + yol + (yol.indexOf("?") < 0 ? "?" : "&") + "key=" + FB.apiKey; }
+  var IKON = {
+    begen: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 10v11H4V10h3zm0 0 4-8a3 3 0 0 1 3 3v4h5.5a2 2 0 0 1 2 2.3l-1.4 8A2 2 0 0 1 18.1 21H7"/></svg>',
+    begenme: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M17 14V3h3v11h-3zm0 0-4 8a3 3 0 0 1-3-3v-4H4.5a2 2 0 0 1-2-2.3l1.4-8A2 2 0 0 1 5.9 3H17"/></svg>'
+  };
+  function etkilesimHTML(h, adres) {
+    var m = encodeURIComponent(h.baslik + " " + adres), u = encodeURIComponent(adres), t = encodeURIComponent(h.baslik);
+    return '<div class="etk" id="etk"><span class="etk-soru">Bu haber işinize yaradı mı?</span>' +
+      '<button type="button" class="begen" id="btn-begen" aria-pressed="false">' + IKON.begen + 'Beğendim <span id="say-begen"></span></button>' +
+      '<button type="button" class="begenme" id="btn-begenme" aria-pressed="false">' + IKON.begenme + 'Beğenmedim <span id="say-begenme"></span></button>' +
+      (FBV ? "" : '<small>Beğeni sayıları ve yorumlar çok yakında açılıyor.</small>') + '</div>' +
+      '<div class="paylas" aria-label="Paylaş"><a class="wa" href="https://wa.me/?text=' + m + '" rel="noopener" target="_blank">WhatsApp</a>' +
+      '<a class="fb" href="https://www.facebook.com/sharer/sharer.php?u=' + u + '" rel="noopener" target="_blank">Facebook</a>' +
+      '<a class="xx" href="https://x.com/intent/post?text=' + t + '&url=' + u + '" rel="noopener" target="_blank">X</a>' +
+      '<a class="tg" href="https://t.me/share/url?url=' + u + '&text=' + t + '" rel="noopener" target="_blank">Telegram</a>' +
+      (navigator.share ? '<button type="button" id="paylas-yerel">Paylaş…</button>' : '') +
+      '<button type="button" id="kopyala">Bağlantıyı kopyala</button></div>' +
+      '<section class="yorumlar" aria-labelledby="yorum-bas"><h2 id="yorum-bas">Yorumlar <span id="yorum-say"></span></h2>' +
+      (FBV ? '<form class="yorum-form" id="yorum-form"><label>Adınız<input type="text" name="ad" maxlength="40" required autocomplete="name"></label>' +
+        '<label>Yorumunuz<textarea name="metin" maxlength="800" required></textarea></label>' +
+        '<label class="onay"><input type="checkbox" name="onay" required>Yorumumun editör onayından sonra yayımlanacağını ve hakaret, kişisel bilgi ya da reklam içeren yorumların yayımlanmayacağını kabul ediyorum.</label>' +
+        '<button type="submit">Yorumu gönder</button><p class="yorum-not" id="yorum-not" role="status"></p></form><ul class="yorum-liste" id="yorum-liste"></ul>'
+        : '<p class="yorum-not">Yorum bölümü çok yakında açılacak.</p>') + '</section>';
+  }
+  function oySakli(id) { try { return localStorage.getItem("cg-oy-" + id) || ""; } catch (x) { return ""; } }
+  function oyYaz(id, v) { try { localStorage.setItem("cg-oy-" + id, v); } catch (x) {} }
+  function etkilesimKur(h, adres) {
+    var b = document.getElementById("kopyala");
+    b.addEventListener("click", function () {
+      izle("paylas", { yontem: "kopyala", haber_id: h.id });
+      try { navigator.clipboard.writeText(adres).then(function () { b.textContent = "Kopyalandı"; }, function () { b.textContent = adres; }); } catch (err) { b.textContent = adres; }
+    });
+    var y = document.getElementById("paylas-yerel");
+    if (y) y.addEventListener("click", function () { izle("paylas", { yontem: "cihaz", haber_id: h.id }); navigator.share({ title: h.baslik, url: adres }).catch(function () {}); });
+    document.querySelectorAll(".paylas a").forEach(function (a) { a.addEventListener("click", function () { izle("paylas", { yontem: a.className, haber_id: h.id }); }); });
+    var bb = document.getElementById("btn-begen"), bm = document.getElementById("btn-begenme");
+    function durum() { var v = oySakli(h.id); bb.setAttribute("aria-pressed", v === "begen"); bm.setAttribute("aria-pressed", v === "begenme"); if (v) { bb.disabled = bm.disabled = true; } }
+    durum();
+    function sayilar() {
+      if (!FBV) return;
+      fetch(fsUrl("/tepkiler/" + h.id)).then(function (r) { return r.ok ? r.json() : null; }).then(function (j) {
+        var f = (j && j.fields) || {}; function n(k) { return f[k] ? +(f[k].integerValue || 0) : 0; }
+        document.getElementById("say-begen").textContent = "(" + n("begen") + ")"; document.getElementById("say-begenme").textContent = "(" + n("begenme") + ")";
+      }).catch(function () {});
+    }
+    function oyla(tur) {
+      if (oySakli(h.id)) return;
+      oyYaz(h.id, tur); durum(); izle("haber_tepki", { tepki: tur, haber_id: h.id, haber_kategori: h.kategori });
+      if (!FBV) return;
+      var doc = "projects/" + FB.projectId + "/databases/(default)/documents/tepkiler/" + h.id;
+      fetch("https://firestore.googleapis.com/v1/projects/" + FB.projectId + "/databases/(default)/documents:commit?key=" + FB.apiKey, {
+        method: "POST", headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ writes: [{ transform: { document: doc, fieldTransforms: [{ fieldPath: tur, increment: { integerValue: "1" } }] } }] })
+      }).then(sayilar).catch(function () {});
+    }
+    bb.addEventListener("click", function () { oyla("begen"); });
+    bm.addEventListener("click", function () { oyla("begenme"); });
+    sayilar();
+    if (!FBV) return;
+    var liste = document.getElementById("yorum-liste"), not = document.getElementById("yorum-not"), form = document.getElementById("yorum-form");
+    fetch(fsUrl(":runQuery").replace("/documents:runQuery", "/documents:runQuery"), {
+      method: "POST", headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ structuredQuery: { from: [{ collectionId: "yorumlar" }], where: { compositeFilter: { op: "AND", filters: [
+        { fieldFilter: { field: { fieldPath: "haber" }, op: "EQUAL", value: { stringValue: h.id } } },
+        { fieldFilter: { field: { fieldPath: "onay" }, op: "EQUAL", value: { booleanValue: true } } }] } }, limit: 100 } })
+    }).then(function (r) { return r.ok ? r.json() : []; }).then(function (rows) {
+      var l = (rows || []).filter(function (x) { return x.document; }).map(function (x) { var f = x.document.fields; return { ad: f.ad.stringValue, metin: f.metin.stringValue, zaman: f.zaman.timestampValue }; });
+      l.sort(function (a, b) { return a.zaman < b.zaman ? 1 : -1; });
+      document.getElementById("yorum-say").textContent = l.length ? "(" + l.length + ")" : "";
+      liste.innerHTML = l.length ? l.map(function (c) { return "<li><b>" + e(c.ad) + "</b><time>" + e(new Date(c.zaman).toLocaleDateString("tr-TR", { day: "numeric", month: "long" })) + "</time><p>" + e(c.metin) + "</p></li>"; }).join("") : '<li class="bos">İlk yorumu siz yazın.</li>';
+    }).catch(function () {});
+    form.addEventListener("submit", function (ev) {
+      ev.preventDefault();
+      var ad = form.ad.value.trim().slice(0, 40), metin = form.metin.value.trim().slice(0, 800);
+      if (ad.length < 2 || metin.length < 3) { not.textContent = "Lütfen adınızı ve yorumunuzu yazın."; return; }
+      form.querySelector("button").disabled = true; not.textContent = "Gönderiliyor…";
+      fetch(fsUrl("/yorumlar"), { method: "POST", headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ fields: { haber: { stringValue: h.id }, ad: { stringValue: ad }, metin: { stringValue: metin }, onay: { booleanValue: false }, zaman: { timestampValue: new Date().toISOString() } } })
+      }).then(function (r) {
+        if (!r.ok) throw new Error(r.status);
+        form.reset(); not.textContent = "Teşekkürler! Yorumunuz editör onayından sonra yayımlanacak.";
+        izle("yorum_gonder", { haber_id: h.id, haber_kategori: h.kategori });
+      }).catch(function () { not.textContent = "Yorum gönderilemedi, biraz sonra tekrar deneyin."; })
+        .then(function () { form.querySelector("button").disabled = false; });
+    });
+  }
+
   function haberSayfa(h) {
     var k = KAT[h.kategori];
     var paragraflar = h.ozet.split(/(?<=\.)\s+(?=[A-ZÇĞİÖŞÜ0-9])/);
@@ -773,18 +888,12 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
       '<div class="haber-govde">' + gorsel(h, true, true) + '<div class="haber-metin">' + metin + "</div>" +
       (h.neYapmali ? '<div class="ne-yapmali"><strong>Ne yapmalı?</strong><p>' + e(h.neYapmali) + "</p></div>" : "") +
       '<div class="kaynak-satir"><span>Kaynak:</span>' + (h.kaynaklar || []).map(function (x) { return '<a href="' + e(x.url) + '" rel="noopener" target="_blank">' + e(x.ad) + "</a>"; }).join("") + "</div>" +
-      '<div class="paylas"><a class="wa" href="https://wa.me/?text=' + encodeURIComponent(h.baslik + " " + adres) + '" rel="noopener" target="_blank">WhatsApp\'ta paylaş</a>' +
-      '<button type="button" id="kopyala">Bağlantıyı kopyala</button></div></div>' +
+      etkilesimHTML(h, adres) + '</div>' +
       '<section class="ilgili"><div class="blok-bas"><h2><i></i>İlgili haberler</h2></div><div class="uclu">' + ilgili.map(kartHTML).join("") + "</div></section>" +
       "</article>" + yanSutun() + "</div>";
     document.getElementById("icerik").innerHTML = html;
     document.title = h.baslik + " · Çiftçi Gündemi";
-    var b = document.getElementById("kopyala");
-    b.addEventListener("click", function () {
-      try {
-        navigator.clipboard.writeText(adres).then(function () { b.textContent = "Kopyalandı"; }, function () { b.textContent = adres; });
-      } catch (err) { b.textContent = adres; }
-    });
+    etkilesimKur(h, adres);
   }
 
   function kategoriSayfa(k) {
