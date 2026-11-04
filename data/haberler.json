@@ -54,6 +54,29 @@
   ],
   "haberler": [
     {
+      "id": "bingol-karliova-sakaoren-sagim-hijyeni-egitimi",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-04",
+      "eklenme": "2026-11-05T02:48:00+03:00",
+      "motif": "sut",
+      "baslik": "Bingöl Karlıova'da süt üreticilerine sağım hijyeni ve sanitasyon eğitimi tamamlandı",
+      "ozet": "Bingöl İl Tarım ve Orman Müdürlüğü, Karlıova ilçesine bağlı Sakaören köyünde süt üreticileri için düzenlediği sağım hijyeni ve sanitasyon eğitimini bitirdi. 19 Ekim–3 Kasım arasında süren programda sağımdan önce ve sonra uyulması gereken temizlik kuralları, ahırın ve işletmenin temizliği, hayvan bakımı ve beslemesi anlatıldı. Sütün uygun koşullarda saklanması ve soğuk zincirin bozulmaması da eğitimin ana başlıkları arasındaydı. Müdürlük, güvenilir gıda ve kaliteli süt üretimi için benzer eğitimlerin süreceğini bildirdi.",
+      "neYapmali": "Süt üreticileri meme temizliği ve daldırma uygulamasını her sağımda sürdürmeli, sağılan sütü bekletmeden soğutmalı ve kapları her kullanımdan sonra temizlemeli. Eğitime katılmak isteyen üreticiler il ya da ilçe tarım ve orman müdürlüğünden yeni dönem tarihlerini öğrenebilir.",
+      "kaynaklar": [
+        {
+          "ad": "Habersitesi.com (İHA)",
+          "url": "https://www.habersitesi.com/bingol-de-sut-ureticilerine-sagim-hijyeni-ve-sanitasyon-egitimi-verildi-88271h.htm"
+        },
+        {
+          "ad": "Ajans Türk Haber",
+          "url": "https://ajansturkhaber.com/haber/bingolde-sut-ureticilerine-sagim-hijyeni-ve-sanitasyon-egitimi-verildi-427010"
+        }
+      ],
+      "gorsel": "assets/iha/bingol-karliova-sakaoren-sagim-hijyeni-egitimi.jpg",
+      "gorselKucuk": "assets/iha/bingol-karliova-sakaoren-sagim-hijyeni-egitimi-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
+    },
+    {
       "id": "marmarabirlik-zeytin-alimi-64-bin-ton-2026",
       "kategori": "Piyasa",
       "tarih": "2026-11-04",
