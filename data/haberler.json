@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-04T17:12:00+03:00",
+ "guncelleme": "2026-11-04T17:44:00+03:00",
  "kategoriler": [
   {
    "ad": "Hayvancılık",
@@ -53,6 +53,29 @@
   "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
  ],
  "haberler": [
+  {
+   "id": "karaman-33-bin-badem-zeytin-fidani",
+   "kategori": "Hibe",
+   "tarih": "2026-11-04",
+   "eklenme": "2026-11-04T17:44:00+03:00",
+   "motif": "zeytin",
+   "baslik": "Karaman'da çiftçilere yarı yarıya destekle 33 bin badem ve zeytin fidanı verildi",
+   "ozet": "Karaman İl Özel İdaresi'nin \"Yüzde 50 Çiftçi Destekli Fidan Alımı Projesi\" kapsamında üreticilere 33 bin 115 fidan teslim edildi. Dağıtılanların 19 bin 365'i badem (Ferragnes ve Ferroduel), 13 bin 750'si zeytin (Gemlik ve Ayvalık) fidanı. Projenin toplam bütçesi yaklaşık 2,64 milyon lira; maliyetin yarısını İl Özel İdaresi, yarısını çiftçiler üstlendi. Uygulamayı İl Tarım ve Orman Müdürlüğü yürüttü. Vali Hayrettin Çiçek, kuraklık riskine karşı kıraç alanlarda zeytin ve üzüm gibi az su isteyen ürünlere yönelmenin önemine dikkat çekti.",
+   "neYapmali": "Fidan alan üreticiler dikimi kış donlarından önce, iyi drene olan parsellerde tamamlamalı ve ilk yıllarda can suyu planı yapmalı. Benzer bir destekten yararlanmak isteyenler sonraki dönem için il özel idaresi ve il tarım ve orman müdürlüğü duyurularını takip etmeli.",
+   "kaynaklar": [
+    {
+     "ad": "Haberler.com (İHA)",
+     "url": "https://www.haberler.com/cevre/karaman-da-il-ozel-idaresi-nin-projesinde-20394674-haberi/"
+    },
+    {
+     "ad": "Karaman Postası",
+     "url": "https://www.karamanpostasi.com/karamanli-ciftcilere-buyuk-destek-33-bin-fidan-yuzde-50-hibeyle-dagitildi/228890"
+    }
+   ],
+   "gorsel": "assets/iha/karaman-33-bin-badem-zeytin-fidani.jpg",
+   "gorselKucuk": "assets/iha/karaman-33-bin-badem-zeytin-fidani-k.jpg",
+   "gorselKaynak": "Fotoğraf: İHA"
+  },
   {
    "id": "erzurum-58-ariciya-232-ana-ari-kovani",
    "kategori": "Hibe",
