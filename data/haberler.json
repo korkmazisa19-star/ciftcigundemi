@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-04T02:00:00+03:00",
+ "guncelleme": "2026-11-04T06:31:00+03:00",
  "kategoriler": [
   {
    "ad": "Hayvancılık",
@@ -38,20 +38,88 @@
   }
  ],
  "mansetler": [
+  "zirai-don-uyarisi-4-9-kasim",
+  "aricilik-son-gun-6-kasim",
   "ordu-findik-serbest-piyasa-160-170-tl",
+  "mersin-zeytinyagi-litre-200-tl",
   "tzob-ekim-2026-uretici-market-fiyatlari",
   "fethiye-sel",
-  "lalahan-genomik-test-merkezi-buzagi-kaybi-20-bin",
-  "zirai-don-uyarisi-4-9-kasim",
-  "ege-pamuk-ekim-alani-yuzde-47-daraldi",
   "kizilinler",
-  "rekabet-kurumu-findik-6-sirket-sorusturma"
+  "mersin-sel-ciftci-destek-belirsiz"
  ],
  "surmanset": [
   "cks-2027-son-gun-31-aralik",
   "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
  ],
  "haberler": [
+  {
+   "id": "mersin-zeytinyagi-litre-200-tl",
+   "kategori": "Piyasa",
+   "tarih": "2026-11-03",
+   "motif": "zeytin",
+   "baslik": "Mersin'de hasat bol, zeytinyağının litresi 200 liraya indi",
+   "ozet": "Mersin'de zeytin hasadı yüksek rekolteyle sürerken zeytinyağı fiyatları düşüşe geçti. Erdemli'de fabrika işleten İsmail Öztürk, stokların fazla olması nedeniyle piyasada fiyatların gerilediğini söyledi; fabrikasında 5 litrelik bidon 1.000 liradan satılıyor. Litresi yaklaşık 200 liraya gelen yağın fiyatı üç yıl önceki düzeye döndü. Üreticiler ise yağışların zamanında gelmesi sayesinde verimden memnun. Bu fiyatlar resmî bir veriye değil, üretici ve fabrika beyanlarına dayanıyor.",
+   "neYapmali": "Yağını satmadan önce birkaç fabrika ve alıcıdan fiyat alın, sıkım ve işçilik maliyetinizi hesaplayın. Ürününüzü bekletecekseniz yağı serin ve ışık almayan bir yerde, uygun kapta saklayın.",
+   "kaynaklar": [
+    {
+     "ad": "Haber Vitrini",
+     "url": "https://www.habervitrini.com/haber/bol-rekolte-zeytin-yagi-fiyati-ni-dusurdu-1793701556248"
+    },
+    {
+     "ad": "Nil RTV",
+     "url": "https://nilrtv.com.tr/mersinde-zeytin-hasadi-bereketli-basladi-zeytinyagi-fiyatlari-3-yil-oncesine-dondu-h32625.html"
+    }
+   ]
+  },
+  {
+   "id": "manisa-kula-selendi-905-uretici-tohum",
+   "kategori": "Hibe",
+   "tarih": "2026-11-03",
+   "motif": "tohum",
+   "baslik": "Manisa'da Kula ve Selendi'deki 905 üreticiye yüzde 75 hibeli tohum",
+   "ozet": "Manisa Büyükşehir Belediyesi, Kula ve Selendi'de 905 üreticiye toplam 272.175 kilo sertifikalı tohum dağıttı. Yüzde 75 hibeyle verilen tohumlar arasında arpa, buğday, beşli karışım yem bitkisi ve süt otu var. Kula'da 258 üretici 80.325 kilo, Selendi'de 647 üretici 191.850 kilo tohum aldı. Dağıtımlara Kırsal Hizmetler Daire Başkanı Yılmaz Usta katıldı; belediye amacın üreticinin girdi maliyetini azaltmak olduğunu belirtti.",
+   "neYapmali": "Manisa'daki üreticiler sonraki dağıtımlar ve başvuru koşulları için Büyükşehir Belediyesi Kırsal Hizmetler Dairesi'ne ya da ziraat odasına danışabilir. Diğer illerdekiler kendi belediyelerinin hibe duyurularını takip etmeli.",
+   "kaynaklar": [
+    {
+     "ad": "Manisa Haber",
+     "url": "https://www.manisahaber.com/buyuksehirden-kula-ve-selendide-905-ureticiye-tohum-destegi"
+    },
+    {
+     "ad": "Manisa Haber X",
+     "url": "https://www.manisahaberx.com/kula-ve-selendide-905-ureticiye-yuzde-75-hibeli-tohum"
+    }
+   ]
+  },
+  {
+   "id": "mersin-sel-ciftci-destek-belirsiz",
+   "kategori": "Zirai Don",
+   "tarih": "2026-11-03",
+   "motif": "sera",
+   "baslik": "Mersin'de selden zarar gören çiftçi destek kararını bekliyor",
+   "ozet": "Mersin'de selin tarla, sera ve ürünlerde yol açtığı zararın tespiti için sahadaki çalışmalar sürüyor. Mersin Ziraat Odası Başkanı Musa Yılmaz, ilçe müdürlüklerinin raporlarını Tarım ve Orman Bakanlığı'na ileteceğini, çiftçilere bütçe ayrılmasının ise Bakanlığın değerlendirmesine bağlı olduğunu söyledi. Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, selzedelerin temel ihtiyaçları için ilk etapta 11 milyon lira aktarıldığını açıklamıştı; bu tutar tarımsal zararlar için ayrılmış değil. Haberde Tarım ve Orman Bakanlığı'ndan çiftçi desteğine ilişkin bir açıklama yer almıyor. Yılmaz, 2026'yı üretici açısından afet yılı olarak nitelendirdi.",
+   "neYapmali": "Zarar gören üreticiler hasar tespitinin dışında kalmamak için ilçe tarım ve orman müdürlüğüyle görüşmeli; tarla ve seradaki zararı fotoğrafla belgelemeli. TARSİM poliçesi olanlar sigorta ihbarı için poliçedeki süre ve koşulları kontrol etmeli.",
+   "kaynaklar": [
+    {
+     "ad": "Çukurova Gazetesi",
+     "url": "https://cukurovagazetesi.com/mersinde-ureticilerin-gozu-tarim-ve-orman-bakanliginda"
+    }
+   ]
+  },
+  {
+   "id": "van-58-cilek-serasi-56-ureticiye-kasimda",
+   "kategori": "Bitkisel Üretim",
+   "tarih": "2026-11-03",
+   "motif": "sera",
+   "baslik": "Van'da kurulan 58 çilek serasının 56'sı kasımda üreticilere veriliyor",
+   "ozet": "Van'da üretimi çeşitlendirmek ve üretici gelirini artırmak amacıyla kurulan 58 çilek serasında çalışmalar tamamlandı. Yaklaşık 500'er metrekarelik seraların 56'sı kasım ayında üreticilere teslim edilecek, 2'si ise Büyükşehir Belediyesi Tarımsal Hizmetler Dairesi'nde eğitim, uygulama ve Ar-Ge için kullanılacak. Her seraya 2 bin 450, toplamda 142 bin 100 çilek fidesi dikildi. İlk hasat önümüzdeki yılın nisan-mayıs aylarında bekleniyor. Proje; Valilik, Büyükşehir Belediyesi, İl Tarım ve Orman Müdürlüğü ile Doğu Anadolu Kalkınma Ajansı iş birliğiyle yürütülüyor.",
+   "neYapmali": "Yararlanıcı seçimini İl Tarım ve Orman Müdürlüğü belirlenen ölçütlere göre yapıyor; ilgilenen Vanlı üreticiler koşulları ve olası yeni dönemleri müdürlükten sormalı.",
+   "kaynaklar": [
+    {
+     "ad": "Ekonomi Politikası",
+     "url": "https://ekonomipolitikasi.com.tr/vanda-56-ureticiye-cilek-serasi-teslim-edilecek/"
+    }
+   ]
+  },
   {
    "id": "butce-2027-tarim-destek",
    "kategori": "Destek",
@@ -1123,13 +1191,13 @@
   {
    "grup": "Girdi",
    "urun": "Motorin (Ankara)",
-   "deger": "97,90",
+   "deger": "101,60",
    "birim": "TL/lt",
    "not": "Pompa fiyatı",
-   "kaynak": "Akaryakıt pompa · 26 Ekim 2026",
+   "kaynak": "BirGün · 3 Kasım 2026",
    "yon": "yukari",
-   "degisim": "+%1,9",
-   "onceki": "3 Ekim: 96,10"
+   "degisim": "+%3,8",
+   "onceki": "26 Ekim: 97,90"
   }
  ],
  "hava": {
