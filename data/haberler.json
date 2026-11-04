@@ -54,6 +54,25 @@
   ],
   "haberler": [
     {
+      "id": "bursa-orhangazi-yaglik-zeytin-25-30-tl",
+      "kategori": "Piyasa",
+      "tarih": "2026-11-03",
+      "eklenme": "2026-11-04T22:30:47+03:00",
+      "motif": "zeytin",
+      "baslik": "Bursa'da yağlık zeytinde fiyat endişesi: Orhangazi'de bazı alım noktaları kilosuna 25-30 lira veriyor",
+      "ozet": "Orhangazi, Gemlik ve İznik'te bu yıl yüksek rekolte beklenirken üreticiyi yağlık zeytin fiyatı kaygılandırıyor. Orhangazi'deki bazı özel alım noktalarında kilogram fiyatının 25-30 lira olduğu aktarılıyor; bu resmî bir alım fiyatı değil. Geçen sezon Marmarabirlik yağlık zeytin için kilosuna 53 lira açıklamıştı, Gemlik Ziraat Odası ise 2026 maliyetini kilogramda 58,14 lira olarak hesapladı. Sofralık standardını tutturamayan ürünün yağlığa yönelmesinin arzı artırıp fiyatı aşağı çekebileceği belirtiliyor. Üreticiler şimdi Marmarabirlik'in 2026-2027 alım fiyatlarını bekliyor.",
+      "neYapmali": "Satış öncesinde birkaç alım noktasından fiyat alın ve kendi kilogram maliyetinizle karşılaştırın. Marmarabirlik ortağıysanız alım kampanyası duyurusunu kooperatifinizden takip edin.",
+      "kaynaklar": [
+        {
+          "ad": "Bursada Bugün",
+          "url": "https://www.bursadabugun.com/haber/bursa-da-zeytin-ureticisini-fiyat-endisesi-sardi-yuksek-rekolte-sevindirirken-yaglik-zeytin-fiyatlari-korkutuyor-1960783.html"
+        }
+      ],
+      "gorsel": "assets/iha/bursa-orhangazi-yaglik-zeytin-25-30-tl.jpg",
+      "gorselKucuk": "assets/iha/bursa-orhangazi-yaglik-zeytin-25-30-tl-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA (temsili)"
+    },
+    {
       "id": "usak-ulubey-omurca-corek-otu-23-uretici",
       "kategori": "Bitkisel Üretim",
       "tarih": "2026-11-04",
