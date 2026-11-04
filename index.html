@@ -820,6 +820,40 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
   }
 
   /* ---------- yönlendirme ---------- */
+
+  /* ---------- ziyaret ölçümü (Google Analytics 4) ---------- */
+  var GA_ID = "__GA_ID__", okumaZ = null;
+  if (/^G-[A-Z0-9]+$/.test(GA_ID) && /ciftcigundemi\.com$/.test(location.hostname)) {
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = function () { dataLayer.push(arguments); };
+    gtag("js", new Date()); gtag("config", GA_ID, { send_page_view: false });
+    var gs = document.createElement("script"); gs.async = true; gs.src = "https://www.googletagmanager.com/gtag/js?id=" + GA_ID; document.head.appendChild(gs);
+  }
+  function izle(ad, p) { try { if (window.gtag) gtag("event", ad, p || {}); } catch (x) {} }
+  function sayfaOlc(h) {
+    var hb = HABER[h], yol = !h ? "/" : hb ? "/haber/" + h : "/" + h;
+    izle("page_view", { page_title: hb ? hb.baslik : document.title, page_location: location.origin + yol, page_path: yol, haber_kategori: hb ? hb.kategori : undefined });
+    clearTimeout(okumaZ); window.removeEventListener("scroll", okumaKaydir);
+    if (hb) { okumaH = hb; okumaGitti = false; okumaZ = setTimeout(function () { okumaBitti("sure"); }, 20000); window.addEventListener("scroll", okumaKaydir, { passive: true }); }
+  }
+  var okumaH = null, okumaGitti = false;
+  function okumaBitti(neden) {
+    if (okumaGitti || !okumaH || location.hash.slice(1) !== okumaH.id || document.hidden) return;
+    okumaGitti = true; window.removeEventListener("scroll", okumaKaydir);
+    izle("haber_okundu", { haber_id: okumaH.id, haber_baslik: okumaH.baslik, haber_kategori: okumaH.kategori, okuma_olcutu: neden });
+  }
+  function okumaKaydir() { var d = document.documentElement; if ((window.scrollY + window.innerHeight) / d.scrollHeight > 0.6 && d.scrollHeight > window.innerHeight * 1.3) okumaBitti("kaydirma"); }
+  document.addEventListener("click", function (ev) {
+    var a = ev.target.closest && ev.target.closest("a"); if (!a) return;
+    var href = a.getAttribute("href") || "";
+    if (a.closest(".canli-l") || /canli-yayin|tarimtv\.gov\.tr|koy-tv-canli/.test(href)) izle("canli_yayin_tikla", { kanal: (a.firstChild && a.firstChild.textContent || a.textContent).trim() });
+    else if (a.closest(".kaynak-satir")) izle("kaynak_tikla", { kaynak: a.textContent.trim(), link_url: href });
+    else if (href.charAt(0) === "#" && HABER[href.slice(1)]) {
+      var yer = a.closest(".slider") ? "slider" : a.closest(".surmanset") ? "surmanset" : a.closest(".dortlu") ? "son_eklenenler" : a.closest(".blok") ? "kategori_blogu" : a.closest(".sondakika, #sondakika") ? "son_dakika" : "diger";
+      izle("haber_tikla", { haber_id: href.slice(1), konum: yer });
+    }
+  }, true);
+
   function rota() {
     clearInterval(slaytZamanlayici);
     var h = location.hash.slice(1), k;
@@ -832,10 +866,11 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
     else if (HABER[h]) { var kk = KAT[HABER[h].kategori]; menu(kk ? "kategori-" + kk.slug : null); haberSayfa(HABER[h]); }
     else { menu(""); anaSayfa(); }
     window.scrollTo(0, 0);
+    sayfaOlc(h);
   }
 
   document.getElementById("arama").addEventListener("submit", function (ev) {
-    ev.preventDefault(); var q = document.getElementById("arama-kutu").value.trim(); if (q && V) aramaSayfa(q);
+    ev.preventDefault(); var q = document.getElementById("arama-kutu").value.trim(); if (q && V) { aramaSayfa(q); izle("search", { search_term: q }); }
   });
   document.getElementById("arama-ac").addEventListener("click", function () {
     var f = document.getElementById("arama"), ac = !f.classList.contains("acik");
