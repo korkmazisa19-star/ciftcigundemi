@@ -2,7 +2,7 @@ name: Haber sayfalarini uret
 on:
   push:
     branches: [main]
-    paths: ["data/haberler.json", "index.html", "_build/**"]
+    paths: ["data/haberler.json", "data/sayfalar.json", "index.html", "_build/**"]
   workflow_dispatch:
 permissions:
   contents: write
@@ -19,7 +19,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A haber sitemap.xml rss.xml 404.html
+          git add -A haber sitemap.xml rss.xml 404.html hakkimizda gizlilik-politikasi kvkk-aydinlatma-metni cerez-politikasi iletisim
           if git diff --cached --quiet; then echo "degisiklik yok"; exit 0; fi
           git commit -m "Haber sayfalari, site haritasi ve RSS guncellendi"
           for i in 1 2 3; do git pull --rebase origin main && git push origin HEAD:main && break; sleep 5; done

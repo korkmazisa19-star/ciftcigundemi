@@ -282,6 +282,17 @@ button { font: inherit; color: inherit; }
 .paylas button { background: var(--kagit); border: 1px solid var(--cizgi); }
 .paylas .fb { background: #1877f2; color: #fff; } .paylas .xx { background: #111; color: #fff; } .paylas .tg { background: #229ed9; color: #fff; }
 .paylas a:hover, .paylas button:hover { filter: brightness(1.08); }
+.cerez { position: fixed; left: 16px; right: 16px; bottom: 16px; z-index: 50; max-width: 760px; margin: 0 auto; background: var(--yuzey); color: var(--murekkep); border: 1px solid var(--cizgi); border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,.18); padding: 16px 18px; display: flex; flex-wrap: wrap; gap: 12px 18px; align-items: center; }
+.cerez[hidden] { display: none; }
+.cerez p { margin: 0; flex: 1 1 380px; font-size: 14px; line-height: 1.5; } .cerez p b { display: block; font-size: 15px; margin-bottom: 2px; }
+.cerez-btn { display: flex; gap: 10px; }
+.cerez-btn button { min-height: 44px; padding: 10px 20px; border-radius: 999px; font: 800 15px/1 Archivo, sans-serif; cursor: pointer; border: 1px solid var(--cizgi); background: var(--kagit); color: var(--murekkep); }
+.cerez-btn #cerez-kabul { background: #2f7d32; border-color: #2f7d32; color: #fff; }
+.cerez-ac { background: none; border: 0; padding: 0; color: inherit; font: inherit; cursor: pointer; text-decoration: underline; }
+.metin-sayfa .guncel { color: var(--soluk); font-size: 14px; }
+.metin-sayfa ul { padding-left: 22px; } .metin-sayfa li { margin: 6px 0; }
+.tablo { width: 100%; border-collapse: collapse; font-size: 15px; margin: 8px 0 16px; } .tablo th, .tablo td { border: 1px solid var(--cizgi); padding: 8px 10px; text-align: left; vertical-align: top; } .tablo th { background: var(--kagit); }
+.tablo-kutu { overflow-x: auto; }
 .etk { margin: 18px 10px 6px; padding: 16px 18px; border: 1px solid var(--cizgi); border-radius: 10px; background: var(--yuzey); display: flex; flex-wrap: wrap; align-items: center; gap: 12px; }
 .etk-soru { font-weight: 800; font-size: 15px; margin-right: auto; }
 .etk button { display: inline-flex; align-items: center; gap: 8px; min-height: 44px; padding: 8px 16px; border-radius: 999px; border: 1px solid var(--cizgi); background: var(--kagit); color: var(--murekkep); font: 700 15px/1 Archivo, sans-serif; cursor: pointer; }
@@ -372,6 +383,7 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
 }
 </style>
 <meta name="google-adsense-account" content="ca-pub-7811220187612166">
+<script>window.dataLayer=window.dataLayer||[];window.gtag=window.gtag||function(){dataLayer.push(arguments);};(function(){var c="";try{c=localStorage.getItem("cg-cerez")||"";}catch(x){}var g=c==="kabul"?"granted":"denied";gtag("consent","default",{ad_storage:g,ad_user_data:g,ad_personalization:g,analytics_storage:g,wait_for_update:500});})();</script>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7811220187612166" crossorigin="anonymous"></script>
 </head>
 <body>
@@ -383,7 +395,7 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
       <a href="https://www.ciftcitv.com/canli-yayin" target="_blank" rel="noopener">Canlı TV</a>
       <a href="#takvim">Başvuru takvimi</a>
       <a href="#fiyatlar">Fiyatlar</a>
-      <a href="#hakkimizda">Hakkımızda</a>
+      <a href="hakkimizda/">Hakkımızda</a>
     </nav>
   </div>
 </div>
@@ -443,7 +455,15 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
     <div><h3>Çiftçi Gündemi</h3><ul>
       <li><a href="#takvim">Başvuru takvimi</a></li>
       <li><a href="#fiyatlar">Fiyat panosu</a></li>
-      <li><a href="#hakkimizda">Hakkımızda</a></li>
+      <li><a href="hakkimizda/">Hakkımızda</a></li>
+      <li><a href="iletisim/">İletişim</a></li>
+      <li><a href="rss.xml">RSS</a></li>
+    </ul></div>
+    <div><h3>Yasal</h3><ul>
+      <li><a href="gizlilik-politikasi/">Gizlilik Politikası</a></li>
+      <li><a href="kvkk-aydinlatma-metni/">KVKK Aydınlatma Metni</a></li>
+      <li><a href="cerez-politikasi/">Çerez Politikası</a></li>
+      <li><button type="button" class="cerez-ac" id="cerez-ayar">Çerez ayarları</button></li>
     </ul></div>
     <div><h3>Resmî bağlantılar</h3><ul>
       <li><a href="https://www.tarimorman.gov.tr/" rel="noopener" target="_blank">Tarım ve Orman Bakanlığı</a></li>
@@ -456,12 +476,16 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
     <span>Özetler yapay zekâ desteğiyle hazırlanır. Başvurudan önce resmî kaynaktan teyit edin.</span>
   </div></div>
 </footer>
+<div class="cerez" id="cerez" role="dialog" aria-live="polite" aria-label="Çerez tercihi" hidden>
+  <p><b>Çerez tercihiniz</b> Sitemizi geliştirmek için ziyaret istatistiklerini ölçüyor ve reklam gösteriyoruz. Bunun için analitik ve reklam çerezlerini yalnızca onay verirseniz kullanırız. <a href="cerez-politikasi/">Çerez Politikası</a></p>
+  <div class="cerez-btn"><button type="button" id="cerez-red">Reddet</button><button type="button" id="cerez-kabul">Kabul et</button></div>
+</div>
 
 <script>
 (function () {
   "use strict";
   var TZ = "Europe/Istanbul";
-  var V = null, KAT = {}, HABER = {};
+  var V = null, KAT = {}, HABER = {}, SAY = {};
   var slaytZamanlayici = null, sdZamanlayici = null, sdSira = 0;
   var hareketAz = window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches;
 
@@ -930,13 +954,28 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
       "</tbody></table></div></section>"; }).join("");
     document.title = "Fiyat panosu · Çiftçi Gündemi";
   }
-  function hakkimizda() {
-    document.getElementById("icerik").innerHTML =
-      '<header class="sayfa-bas"><h1>Hakkımızda</h1></header><div class="metin-sayfa">' +
-      "<h2>Çiftçi Gündemi nedir?</h2><p>Çiftçinin cebini ve takvimini ilgilendiren gelişmeleri tek yerde toplayan bir tarım haber sitesi. Destek ödemeleri, hibe ve başvuru tarihleri, TMO ve süt fiyatları, sektörden önemli haberler.</p>" +
-      "<h2>Haberler nasıl hazırlanıyor?</h2><p>Tarım ve Orman Bakanlığı, TMO, Ulusal Süt Konseyi, il müdürlükleri, belediyeler ve ulusal basın her gün taranır. Her haber kendi cümlelerimizle kısaca özetlenir, sonuna \"Ne yapmalı?\" notu eklenir ve asıl kaynağın bağlantısı verilir. Özetler yapay zekâ desteğiyle hazırlanır.</p>" +
-      "<h2>Önemli not</h2><p>Başvuru yapmadan önce tarih ve şartları resmî kaynaktan ya da il/ilçe tarım ve orman müdürlüğünüzden teyit edin.</p></div>";
-    document.title = "Hakkımızda · Çiftçi Gündemi";
+  function sabitSayfa(slug) {
+    var p = SAY[slug];
+    var govde = p.govde.replace("<!--ILETISIM_FORMU-->", FBV ? '<form class="yorum-form" id="iletisim-form"><label>Adınız<input type="text" name="ad" maxlength="60" required autocomplete="name"></label>' +
+      '<label>E-posta adresiniz<input type="email" name="eposta" maxlength="120" required autocomplete="email" style="font:400 16px/1.4 Literata,serif;padding:10px 12px;border:1px solid var(--cizgi);border-radius:8px;background:var(--kagit);color:var(--murekkep)"></label>' +
+      '<label>Konu<select name="konu" style="font:400 16px/1.4 Literata,serif;padding:10px 12px;border:1px solid var(--cizgi);border-radius:8px;background:var(--kagit);color:var(--murekkep)"><option>Haber önerisi</option><option>Düzeltme talebi</option><option>Yorum kaldırma / KVKK talebi</option><option>Reklam ve iş birliği</option><option>Diğer</option></select></label>' +
+      '<label>Mesajınız<textarea name="mesaj" maxlength="2000" required></textarea></label>' +
+      '<label class="onay"><input type="checkbox" name="onay" required>Bilgilerimin yalnızca talebime yanıt verilmesi için işlenmesini kabul ediyorum.</label>' +
+      '<button type="submit">Gönder</button><p class="yorum-not" id="iletisim-not" role="status"></p></form>' : "");
+    document.getElementById("icerik").innerHTML = '<header class="sayfa-bas"><h1>' + e(p.baslik) + '</h1></header><div class="metin-sayfa">' + govde.replace(/<table class="tablo">/g, '<div class="tablo-kutu"><table class="tablo">').replace(/<\/table>/g, "</table></div>") + "</div>";
+    document.title = p.baslik + " · Çiftçi Gündemi";
+    var f = document.getElementById("iletisim-form");
+    if (f) f.addEventListener("submit", function (ev) {
+      ev.preventDefault();
+      var not = document.getElementById("iletisim-not"), ad = f.ad.value.trim(), ep = f.eposta.value.trim(), ms = f.mesaj.value.trim();
+      if (ad.length < 2 || ms.length < 5 || !/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(ep)) { not.textContent = "Lütfen adınızı, geçerli bir e-posta adresini ve mesajınızı yazın."; return; }
+      f.querySelector("button").disabled = true; not.textContent = "Gönderiliyor…";
+      fetch(fsUrl("/mesajlar"), { method: "POST", headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ fields: { ad: { stringValue: ad.slice(0, 60) }, eposta: { stringValue: ep.slice(0, 120) }, konu: { stringValue: f.konu.value }, mesaj: { stringValue: ms.slice(0, 2000) }, zaman: { timestampValue: new Date().toISOString() } } })
+      }).then(function (r) { if (!r.ok) throw new Error(r.status); f.reset(); not.textContent = "Teşekkürler, mesajınız bize ulaştı."; izle("iletisim_gonder", { konu: f.konu.value }); })
+        .catch(function () { not.textContent = "Mesaj gönderilemedi, biraz sonra tekrar deneyin."; })
+        .then(function () { f.querySelector("button").disabled = false; });
+    });
   }
   function aramaSayfa(q) {
     var t = q.toLocaleLowerCase("tr-TR");
@@ -953,7 +992,7 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
   var GA_ID = "G-W4NZZ6WPXF", okumaZ = null;
   if (/^G-[A-Z0-9]+$/.test(GA_ID) && /ciftcigundemi\.com$/.test(location.hostname)) {
     window.dataLayer = window.dataLayer || [];
-    window.gtag = function () { dataLayer.push(arguments); };
+    window.gtag = window.gtag || function () { dataLayer.push(arguments); };
     gtag("js", new Date()); gtag("config", GA_ID, { send_page_view: false });
     var gs = document.createElement("script"); gs.async = true; gs.src = "https://www.googletagmanager.com/gtag/js?id=" + GA_ID; document.head.appendChild(gs);
   }
@@ -996,13 +1035,14 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
     clearInterval(slaytZamanlayici);
     var h = location.hash.slice(1), k;
     if (!h && yolHaber()) h = yolHaber();
+    if (!h) { var ys = location.pathname.match(/^\/([a-z0-9-]+)\/?$/); if (ys && SAY[ys[1]]) h = ys[1]; }
     document.title = "Çiftçi Gündemi";
     if (!h && (location.pathname === "/" || location.pathname === "/index.html")) { menu(""); anaSayfa(); }
     else if (!h) { menu(""); bulunamadi(); }
     else if (h.indexOf("kategori-") === 0 && (k = V.kategoriler.filter(function (x) { return "kategori-" + x.slug === h; })[0])) { menu(h); kategoriSayfa(k); }
     else if (h === "takvim") { menu(h); takvimSayfa(); }
     else if (h === "fiyatlar") { menu(h); fiyatSayfa(); }
-    else if (h === "hakkimizda") { menu(null); hakkimizda(); }
+    else if (SAY[h]) { menu(null); sabitSayfa(h); }
     else if (HABER[h]) { var kk = KAT[HABER[h].kategori]; menu(kk ? "kategori-" + kk.slug : null); haberSayfa(HABER[h]); }
     else if (h || (location.pathname !== "/" && location.pathname !== "/index.html")) { menu(""); bulunamadi(); }
     else { menu(""); anaSayfa(); }
@@ -1019,7 +1059,23 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
   });
   window.addEventListener("hashchange", function () { if (V) rota(); });
 
-  fetch("data/haberler.json", { cache: "no-store" })
+  /* ---------- çerez tercihi ---------- */
+  (function () {
+    var b = document.getElementById("cerez"), sec = "";
+    try { sec = localStorage.getItem("cg-cerez") || ""; } catch (x) {}
+    function kaydet(v) {
+      try { localStorage.setItem("cg-cerez", v); } catch (x) {}
+      var g = v === "kabul" ? "granted" : "denied";
+      if (window.gtag) gtag("consent", "update", { ad_storage: g, ad_user_data: g, ad_personalization: g, analytics_storage: g });
+      b.hidden = true;
+    }
+    if (!sec) b.hidden = false;
+    document.getElementById("cerez-kabul").addEventListener("click", function () { kaydet("kabul"); });
+    document.getElementById("cerez-red").addEventListener("click", function () { kaydet("red"); });
+    document.getElementById("cerez-ayar").addEventListener("click", function () { b.hidden = false; document.getElementById("cerez-kabul").focus(); });
+  })();
+
+  fetch("data/sayfalar.json").then(function (r) { return r.ok ? r.json() : {}; }).catch(function () { return {}; }).then(function (sy) { SAY = sy || {}; return fetch("data/haberler.json", { cache: "no-store" }); })
     .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
     .then(function (j) {
       V = j;

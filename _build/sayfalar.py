@@ -107,6 +107,20 @@ def sayfa(tpl, h, V, FOTO):
     out = re.sub(r'(<main class="kap" id="icerik">)(.*?)(</main>)', lambda m: m.group(1) + govde + m.group(3), out, count=1, flags=re.S)
     return out
 
+
+def sabit_sayfa(tpl, slug, sp):
+    url = f"{SITE}/{slug}/"
+    bas = (f'<title>{e(sp["baslik"])} · Çiftçi Gündemi</title>\n<meta name="description" content="{e(sp["aciklama"])}">\n'
+           f'<link rel="canonical" href="{url}">\n<meta property="og:title" content="{e(sp["baslik"])}">\n'
+           f'<meta property="og:description" content="{e(sp["aciklama"])}">\n<meta property="og:type" content="website">\n'
+           f'<meta property="og:url" content="{url}">\n<meta property="og:image" content="{SITE}/assets/logo-profil-1080.png">')
+    out = re.sub(r"<title>.*?</title>", "", tpl, count=1, flags=re.S)
+    for pat in [r'<meta name="description"[^>]*>\n?', r'<meta property="og:[a-z_:]+"[^>]*>\n?', r'<link rel="canonical"[^>]*>\n?']:
+        out = re.sub(pat, "", out)
+    out = out.replace('<base href="/">', '<base href="/">\n' + bas, 1)
+    govde = f'<header class="sayfa-bas"><h1>{e(sp["baslik"])}</h1></header><div class="metin-sayfa">{sp["govde"].replace("<!--ILETISIM_FORMU-->", "")}</div>'
+    return re.sub(r'(<main class="kap" id="icerik">)(.*?)(</main>)', lambda m: m.group(1) + govde + m.group(3), out, count=1, flags=re.S)
+
 def main():
     tpl = open(os.path.join(KOK, "index.html"), encoding="utf-8").read()
     V = json.load(open(os.path.join(KOK, "data", "haberler.json"), encoding="utf-8"))
@@ -118,12 +132,18 @@ def main():
         if not re.fullmatch(r"[a-z0-9-]{3,120}", h["id"]): continue
         d = os.path.join(hd, h["id"]); os.makedirs(d, exist_ok=True)
         open(os.path.join(d, "index.html"), "w", encoding="utf-8").write(sayfa(tpl, h, V, FOTO))
+    SAY = json.load(open(os.path.join(KOK, "data", "sayfalar.json"), encoding="utf-8")) if os.path.exists(os.path.join(KOK, "data", "sayfalar.json")) else {}
+    for slug, sp in SAY.items():
+        d = os.path.join(KOK, slug); os.makedirs(d, exist_ok=True)
+        open(os.path.join(d, "index.html"), "w", encoding="utf-8").write(sabit_sayfa(tpl, slug, sp))
     # 404
     t404 = tpl.replace('<base href="/">', '<base href="/">\n<meta name="robots" content="noindex">', 1)
     open(os.path.join(KOK, "404.html"), "w", encoding="utf-8").write(t404)
     # sitemap (+ Google News: son 2 gün)
     simdi = datetime.datetime.now(TZ)
     sat = [f'<url><loc>{SITE}/</loc><lastmod>{simdi.isoformat(timespec="seconds")}</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>']
+    for slug in SAY:
+        sat.append(f'<url><loc>{SITE}/{slug}/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>')
     for h in haberler:
         z = zaman(h); ek = ""
         try:
