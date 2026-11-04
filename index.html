@@ -610,7 +610,7 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
     var src = h.gorsel, not = h.gorselKaynak;
     if (!src && FOTO[h.id]) { src = (buyuk ? V.fotograflar.klasor : V.fotograflar.kucuk) + FOTO[h.id]; not = ""; }
     if (src && !buyuk && h.gorselKucuk) src = h.gorselKucuk;
-    if (h.video && buyuk && kunye) return '<div class="gorsel video"><video controls playsinline preload="none" poster="' + e(src || "") + '"><source src="' + e(h.video) + '" type="video/mp4"></video>' +
+    if (h.video && buyuk && kunye) return '<div class="gorsel video"><video controls controlsList="nodownload noplaybackrate" disablePictureInPicture disableRemotePlayback oncontextmenu="return false;" playsinline preload="none" poster="' + e(src || "") + '"><source src="' + e(h.video) + '" type="video/mp4"></video>' +
       (not ? '<span class="foto-not">' + e(not) + "</span>" : "") + "</div>";
     var rozet = h.video ? '<span class="vid-rozet">▶ Video</span>' : "";
     if (src) return '<div class="gorsel">' + rozet + '<img src="' + e(src) + '" alt="' + e(h.gorselAciklama || h.baslik) + '" loading="lazy" decoding="async">' +
