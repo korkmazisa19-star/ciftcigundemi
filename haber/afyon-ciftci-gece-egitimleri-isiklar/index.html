@@ -21,6 +21,8 @@
 
 <link rel="alternate" type="application/rss+xml" title="Çiftçi Gündemi" href="https://ciftcigundemi.com/rss.xml">
 <link rel="icon" type="image/svg+xml" href="assets/logo-simge.svg">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&family=Literata:opsz,wght@7..72,400;7..72,600&display=swap" rel="stylesheet">
@@ -377,6 +379,15 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
 }
 /* Mobil başlık, çekmece ve mobil düzen */
 .ust-dugme { display: flex; align-items: center; gap: 8px; }
+.zil { display: inline-grid; place-items: center; width: 42px; height: 42px; padding: 0; border-radius: 8px; border: 1.5px solid var(--murekkep); background: transparent; color: var(--murekkep); cursor: pointer; }
+.zil[hidden] { display: none; }
+.zil[aria-pressed="true"] { background: #2f7d32; border-color: #2f7d32; color: #fff; }
+.bildirim-kart { position: fixed; right: 16px; bottom: 16px; z-index: 49; width: min(360px, calc(100% - 32px)); background: var(--yuzey); color: var(--murekkep); border: 1px solid var(--cizgi); border-left: 4px solid #2f7d32; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,.18); padding: 14px 16px; }
+.bildirim-kart[hidden] { display: none; }
+.bildirim-kart p { margin: 0 0 10px; font-size: 14px; line-height: 1.5; } .bildirim-kart p b { display: block; font-size: 15px; margin-bottom: 2px; }
+.bildirim-kart .cerez-btn button { min-height: 40px; padding: 8px 16px; font-size: 14px; }
+.bildirim-kart #bildirim-evet { background: #2f7d32; border-color: #2f7d32; color: #fff; }
+.bildirim-not { font-size: 13px; color: var(--soluk, #666); margin-top: 8px !important; }
 .ham { display: none; }
 .cekmece[hidden], .mobil-bant, .mobil-bas { display: none; }
 @media (max-width: 760px) {
@@ -385,6 +396,7 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
   .ust { background: var(--marka); border-bottom: 0; position: sticky; top: 0; z-index: 30; --logo-1: #ffffff; --logo-2: #d9ecc9; --logo-3: #e8f1e3; box-shadow: 0 2px 8px rgba(0,0,0,.18); }
   .ust .kap { flex-wrap: wrap; padding-top: 10px; padding-bottom: 10px; gap: 10px; }
   .logo-link .logo-svg { height: 38px; }
+  .zil { border: 1px solid rgba(255,255,255,.35); background: rgba(255,255,255,.14); color: #fff; }
   .menu-ac, .ham { display: inline-grid; place-items: center; width: 42px; height: 42px; padding: 0; border-radius: 8px; border: 1px solid rgba(255,255,255,.35); background: rgba(255,255,255,.14); color: #fff; cursor: pointer; }
   .menu-ac span { display: none; }
   .menu-ac[aria-expanded="true"], .ham[aria-expanded="true"] { background: rgba(255,255,255,.3); }
@@ -475,6 +487,9 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
       <button type="submit" aria-label="Ara"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg></button>
     </form>
     <div class="ust-dugme">
+      <button class="zil" id="zil" type="button" aria-pressed="false" aria-label="Haber bildirimlerini aç" title="Haber bildirimleri" hidden>
+        <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 8a6 6 0 0 1 12 0c0 7 3 9 3 9H3s3-2 3-9"/><path d="M10.3 21a1.9 1.9 0 0 0 3.4 0"/></svg>
+      </button>
       <button class="menu-ac" id="arama-ac" type="button" aria-controls="arama" aria-expanded="false" aria-label="Ara">
         <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg><span> Ara</span>
       </button>
@@ -565,6 +580,12 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
     <span>Özetler yapay zekâ desteğiyle hazırlanır. Başvurudan önce resmî kaynaktan teyit edin.</span>
   </div></div>
 </footer>
+<div class="bildirim-kart" id="bildirim-kart" role="dialog" aria-live="polite" aria-label="Haber bildirimleri" hidden>
+  <p><b>Yeni haberler bildirim olarak gelsin mi?</b> Hibe, destek, fiyat ve zirai don haberlerini yayımlandığı anda telefonunuza ya da bilgisayarınıza gönderelim. İstediğiniz zaman kapatabilirsiniz.</p>
+  <div class="cerez-btn"><button type="button" id="bildirim-hayir">Şimdi değil</button><button type="button" id="bildirim-evet">Bildirimleri aç</button></div>
+  <p class="bildirim-not" id="bildirim-not" hidden></p>
+</div>
+
 <div class="cerez" id="cerez" role="dialog" aria-live="polite" aria-label="Çerez tercihi" hidden>
   <p><b>Çerez tercihiniz</b> Sitemizi geliştirmek için ziyaret istatistiklerini ölçüyor ve reklam gösteriyoruz. Bunun için analitik ve reklam çerezlerini yalnızca onay verirseniz kullanırız. <a href="cerez-politikasi/">Çerez Politikası</a></p>
   <div class="cerez-btn"><button type="button" id="cerez-red">Reddet</button><button type="button" id="cerez-kabul">Kabul et</button></div>
@@ -1199,6 +1220,62 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
     document.getElementById("cerez-kabul").addEventListener("click", function () { kaydet("kabul"); });
     document.getElementById("cerez-red").addEventListener("click", function () { kaydet("red"); });
     document.getElementById("cerez-ayar").addEventListener("click", function () { b.hidden = false; document.getElementById("cerez-kabul").focus(); });
+  })();
+
+  /* ---------- haber bildirimleri (Firebase Cloud Messaging) ---------- */
+  (function () {
+    var VAPID = "__VAPID__";
+    var FBC = { apiKey: FB.apiKey, authDomain: "ciftcigundemi.firebaseapp.com", projectId: FB.projectId, messagingSenderId: "962026471192", appId: "1:962026471192:web:9c3cb319231fdb5350e86d" };
+    var zil = document.getElementById("zil"), kart = document.getElementById("bildirim-kart"), not = document.getElementById("bildirim-not");
+    var destek = "serviceWorker" in navigator && "PushManager" in window && "Notification" in window && window.isSecureContext && VAPID.indexOf("__") !== 0;
+    var ios = /iP(hone|ad|od)/.test(navigator.userAgent), kurulu = window.matchMedia && matchMedia("(display-mode: standalone)").matches || navigator.standalone;
+    function al(k) { try { return localStorage.getItem(k) || ""; } catch (x) { return ""; } }
+    function koy(k, v) { try { localStorage.setItem(k, v); } catch (x) {} }
+    if (!destek) {
+      if (ios && !kurulu && "serviceWorker" in navigator && VAPID.indexOf("__") !== 0) { zil.hidden = false; zil.addEventListener("click", function () { kart.hidden = false; document.getElementById("bildirim-evet").hidden = true; not.hidden = false; not.textContent = "iPhone ve iPad'de bildirim için önce Safari'de Paylaş > Ana Ekrana Ekle ile siteyi ana ekrana ekleyin, sonra oradan açıp bu düğmeye dokunun."; }); }
+      document.getElementById("bildirim-hayir").addEventListener("click", function () { kart.hidden = true; });
+      return;
+    }
+    zil.hidden = false;
+    function durum() { var a = Notification.permission === "granted" && al("cg-bildirim") === "acik"; zil.setAttribute("aria-pressed", a ? "true" : "false"); zil.setAttribute("aria-label", a ? "Haber bildirimleri açık" : "Haber bildirimlerini aç"); return a; }
+    function yukle(src) { return new Promise(function (ok, hata) { var e = document.createElement("script"); e.src = src; e.onload = ok; e.onerror = hata; document.head.appendChild(e); }); }
+    function sha(t) { return crypto.subtle.digest("SHA-256", new TextEncoder().encode(t)).then(function (b) { return Array.prototype.map.call(new Uint8Array(b), function (x) { return ("0" + x.toString(16)).slice(-2); }).join(""); }); }
+    var hazir = null;
+    function messaging() {
+      if (!hazir) hazir = yukle("https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js")
+        .then(function () { return yukle("https://www.gstatic.com/firebasejs/10.12.2/firebase-messaging-compat.js"); })
+        .then(function () { if (!firebase.apps.length) firebase.initializeApp(FBC); return navigator.serviceWorker.register("/firebase-messaging-sw.js", { scope: "/" }); })
+        .then(function (kayit) { return { m: firebase.messaging(), kayit: kayit }; });
+      return hazir;
+    }
+    function tokenKaydet() {
+      return messaging().then(function (o) { return o.m.getToken({ vapidKey: VAPID, serviceWorkerRegistration: o.kayit }); })
+        .then(function (tk) {
+          if (!tk) throw new Error("token yok");
+          if (al("cg-bildirim-token") === tk) return tk;
+          return sha(tk).then(function (id) {
+            return fetch(fsUrl("/bildirim/" + id), { method: "PATCH", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ fields: { token: { stringValue: tk }, zaman: { timestampValue: new Date().toISOString() } } }) });
+          }).then(function (r) { if (!r.ok) throw new Error("kayit " + r.status); koy("cg-bildirim-token", tk); return tk; });
+        });
+    }
+    function ac() {
+      not.hidden = true;
+      Notification.requestPermission().then(function (izin) {
+        if (izin !== "granted") { koy("cg-bildirim", "red"); kart.hidden = false; not.hidden = false; not.textContent = izin === "denied" ? "Bildirim izni kapalı. Açmak için tarayıcı adres çubuğundaki kilit simgesinden bu site için bildirimlere izin verin." : "İzin verilmedi. İstediğiniz zaman zil simgesinden açabilirsiniz."; durum(); return; }
+        return tokenKaydet().then(function () { koy("cg-bildirim", "acik"); kart.hidden = true; durum(); if (window.gtag) gtag("event", "bildirim_acildi"); });
+      }).catch(function () { kart.hidden = false; not.hidden = false; not.textContent = "Bildirim kaydı şu an yapılamadı, biraz sonra tekrar deneyin."; });
+    }
+    zil.addEventListener("click", function () {
+      if (durum()) { kart.hidden = false; document.getElementById("bildirim-evet").hidden = true; not.hidden = false; not.textContent = "Bildirimler açık. Kapatmak için tarayıcınızın site ayarlarından bu sitenin bildirim iznini kaldırabilirsiniz."; return; }
+      document.getElementById("bildirim-evet").hidden = false; ac();
+    });
+    document.getElementById("bildirim-evet").addEventListener("click", ac);
+    document.getElementById("bildirim-hayir").addEventListener("click", function () { kart.hidden = true; koy("cg-bildirim-sor", String(Date.now())); });
+    if (durum()) { tokenKaydet().catch(function () {}); return; }
+    var son = +al("cg-bildirim-sor") || 0;
+    if (Notification.permission === "default" && Date.now() - son > 7 * 864e5) {
+      setTimeout(function () { if (!document.getElementById("cerez").hidden) return; kart.hidden = false; }, 15000);
+    }
   })();
 
   fetch("data/sayfalar.json").then(function (r) { return r.ok ? r.json() : {}; }).catch(function () { return {}; }).then(function (sy) { SAY = sy || {}; return fetch("data/haberler.json", { cache: "no-store" }); })

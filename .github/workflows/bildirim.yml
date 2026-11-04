@@ -1,0 +1,35 @@
+name: Haber bildirimi gonder
+on:
+  workflow_run:
+    workflows: ["Haber sayfalarini uret"]
+    types: [completed]
+  schedule:
+    - cron: "15 4 * * *"   # 07:15 TR: gece biriken haberi sabah gönder
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: bildirim
+  cancel-in-progress: false
+jobs:
+  gonder:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { ref: main }
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - name: Bildirim gonder
+        env:
+          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+        run: |
+          if [ -z "$FIREBASE_SERVICE_ACCOUNT" ]; then echo "Gizli anahtar tanimli degil, atlaniyor."; exit 0; fi
+          cd _build/bildirim && npm install --no-audit --no-fund --silent && node gonder.mjs
+      - name: Durumu kaydet
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/bildirim-durum.json 2>/dev/null || true
+          if git diff --cached --quiet; then echo "degisiklik yok"; exit 0; fi
+          git commit -m "Bildirim durumu guncellendi"
+          for i in 1 2 3; do git pull --rebase origin main && git push origin HEAD:main && break; sleep 5; done
