@@ -784,7 +784,7 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
 
   /* ---------- etkileşim: paylaş, beğen, yorum ---------- */
   // Firebase (Firestore) yapılandırması: proje açılınca doldurulur. Boşken paylaşım çalışır, beğeni ve yorum "yakında" görünür.
-  var FB = { apiKey: "", projectId: "" };
+  var FB = { apiKey: "AIzaSyCFacQOHSwfbsbPsmVuM_xmncBrZphK3XU", projectId: "ciftcigundemi" };
   var FBV = /^[A-Za-z0-9_-]{20,}$/.test(FB.apiKey) && /^[a-z0-9-]{4,}$/.test(FB.projectId);
   function fsUrl(yol) { return "https://firestore.googleapis.com/v1/projects/" + FB.projectId + "/databases/(default)/documents" + yol + (yol.indexOf("?") < 0 ? "?" : "&") + "key=" + FB.apiKey; }
   var IKON = {
