@@ -54,6 +54,29 @@
   ],
   "haberler": [
     {
+      "id": "diyarbakir-cungus-mercimek-tohumu-dagitimi",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-04",
+      "eklenme": "2026-11-04T20:33:28+03:00",
+      "motif": "tohum",
+      "baslik": "Diyarbakır Çüngüş'te üreticilere mercimek tohumu verildi",
+      "ozet": "Diyarbakır'ın Çüngüş ilçesinde Tarım ve Orman Müdürlüğü, üreticilere mercimek tohumu dağıttı. Dağıtıma Kaymakam Murat Ak, İlçe Tarım ve Orman Müdürü Yusuf Güden ve bölgedeki çok sayıda üretici katıldı. Ak, açılışta çiftçilere verimli bir sezon diledi. Haberlerde dağıtılan tohum miktarı, yararlanan üretici sayısı ve destek oranı paylaşılmadı.",
+      "neYapmali": "Çüngüş'te tohum desteğiyle ilgilenen üreticiler, yeni dağıtım olup olmadığını ve başvuru koşullarını İlçe Tarım ve Orman Müdürlüğü'nden öğrenebilir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA / Tigris Haber",
+          "url": "https://www.tigrishaber.com/diyarbakirda-ciftcilere-tohum-dagitildi-173542h.htm"
+        },
+        {
+          "ad": "Aksiyon",
+          "url": "https://www.aksiyon.com.tr/cungus-te-ciftcilere-mercimek-tohumu-destegiyle-bereket-umudu-387664"
+        }
+      ],
+      "gorsel": "assets/iha/diyarbakir-cungus-mercimek-tohumu-dagitimi.jpg",
+      "gorselKucuk": "assets/iha/diyarbakir-cungus-mercimek-tohumu-dagitimi-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
+    },
+    {
       "id": "mersin-kdakp-yuzde-100-hibeli-motorlu-capa",
       "kategori": "Hibe",
       "tarih": "2026-11-03",
