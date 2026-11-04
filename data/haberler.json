@@ -54,6 +54,25 @@
   ],
   "haberler": [
     {
+      "id": "mersin-gulnar-kucukbas-fidan-solar-kamera",
+      "kategori": "Destek",
+      "tarih": "2026-11-04",
+      "eklenme": "2026-11-04T23:31:18+03:00",
+      "motif": "para",
+      "baslik": "Mersin Büyükşehir, Gülnar'da üreticilere fidan, solar kamera ve küçükbaş desteği verdi",
+      "ozet": "Mersin Büyükşehir Belediyesi Tarımsal Hizmetler Dairesi, Gülnar'da tarımsal destek dağıtım töreni düzenledi. Törende üreticilere zeytin, badem, alıç ve ceviz fidanı ile solar kamera verildi; kurum küçükbaş hayvan desteği de sağlandığını duyurdu. Başkan Vekili Gülşah Yıldırım Genç, \"Hadi Gel Köyümüze Destek Verelim\" projesinde 60 yeni yetiştiriciye ulaşılmasının öngörüldüğünü, destek tutarının da yaklaşık 53 milyon lira olduğunu söyledi. Haberde dağıtılan fidan ve hayvan adedi ile yararlanan üretici sayısı yer almadı.",
+      "neYapmali": "Gülnar ve çevresindeki üreticiler yeni dağıtım ve başvuru koşullarını Mersin Büyükşehir Belediyesi Tarımsal Hizmetler Dairesi'nden öğrenebilir. Fidan alanlar dikim ve bakım takvimini ilçe tarım teknisyeniyle netleştirmeli.",
+      "kaynaklar": [
+        {
+          "ad": "Mersin Haber / İHA",
+          "url": "https://www.mersinhaber.com/haber-mersinde-ureticilere-kucukbas-hayvan-ve-fidan-destegi/835582"
+        }
+      ],
+      "gorsel": "assets/iha/mersin-gulnar-kucukbas-fidan-solar-kamera.jpg",
+      "gorselKucuk": "assets/iha/mersin-gulnar-kucukbas-fidan-solar-kamera-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
+    },
+    {
       "id": "bursa-orhangazi-yaglik-zeytin-25-30-tl",
       "kategori": "Piyasa",
       "tarih": "2026-11-03",
