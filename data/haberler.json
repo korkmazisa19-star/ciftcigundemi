@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-04T17:44:00+03:00",
+ "guncelleme": "2026-11-04T18:30:17+03:00",
  "kategoriler": [
   {
    "ad": "Hayvancılık",
@@ -53,6 +53,25 @@
   "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
  ],
  "haberler": [
+  {
+   "id": "niksar-ceviz-16-bin-dekar-festival",
+   "kategori": "Bitkisel Üretim",
+   "tarih": "2026-11-04",
+   "eklenme": "2026-11-04T18:30:17+03:00",
+   "motif": "tohum",
+   "baslik": "Niksar'da ceviz alanı 16 bin dekara ulaştı: 2 bin 500 çiftçi 4 bin ton üretiyor",
+   "ozet": "Tokat'ın Niksar ilçesinde 10'uncu Altın Ceviz Yöresel Ürünler ve Kültür Festivali başladı; etkinlik dört gün sürecek. Açılışta paylaşılan verilere göre ilçedeki ceviz alanı, geçmiş yıllardaki yaklaşık 2 bin dekardan 16 bin dekar dolayına yükseldi. Tokat'ta yılda yaklaşık 14 bin ton ceviz alınıyor, bunun 4 bin tonunu Niksar'daki 2 bin 500 çiftçi üretiyor. Uzmanlar iklim değişikliğine karşı akıllı sulama, kurutma makinelerinin yaygınlaşması ve işlenmiş ürüne geçiş önerdi. Belediye ve kaymakamlık ise bir ceviz müzesi açmayı ve üretici birliği kurmayı planlıyor.",
+   "neYapmali": "Niksar'daki ceviz üreticileri kurulması planlanan birlik için belediye ve kaymakamlıkla görüşebilir. Yeni bahçe ya da sulama yatırımı düşünenler destek seçeneklerini ilçe tarım müdürlüğünden sorabilir.",
+   "kaynaklar": [
+    {
+     "ad": "Kelkit Vadisi Gazetesi",
+     "url": "https://kelkitvadisi.com.tr/haber/10940-niksar-cevizi-rekora-kosuyor-uretimde-8-kat-artis"
+    }
+   ],
+   "gorsel": "assets/iha/niksar-ceviz-16-bin-dekar-festival.jpg",
+   "gorselKucuk": "assets/iha/niksar-ceviz-16-bin-dekar-festival-k.jpg",
+   "gorselKaynak": "Fotoğraf: İHA (temsili)"
+  },
   {
    "id": "karaman-33-bin-badem-zeytin-fidani",
    "kategori": "Hibe",
