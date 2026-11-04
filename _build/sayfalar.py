@@ -141,7 +141,8 @@ def main():
     open(os.path.join(KOK, "404.html"), "w", encoding="utf-8").write(t404)
     # sitemap (+ Google News: son 2 gün)
     simdi = datetime.datetime.now(TZ)
-    sat = [f'<url><loc>{SITE}/</loc><lastmod>{simdi.isoformat(timespec="seconds")}</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>']
+    enson = datetime.datetime.fromisoformat(zaman(haberler[0])) if haberler else simdi
+    sat = [f'<url><loc>{SITE}/</loc><lastmod>{enson.isoformat(timespec="seconds")}</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>']
     for slug in SAY:
         sat.append(f'<url><loc>{SITE}/{slug}/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>')
     for h in haberler:
@@ -168,7 +169,7 @@ def main():
         '<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel>'
         f'<title>Çiftçi Gündemi</title><link>{SITE}/</link><description>Destek, hibe, son başvuru tarihleri, tarım fiyatları ve zirai don uyarıları.</description>'
         f'<language>tr</language><atom:link href="{SITE}/rss.xml" rel="self" type="application/rss+xml"/>'
-        f'<lastBuildDate>{format_datetime(simdi)}</lastBuildDate>' + "".join(ogeler) + "</channel></rss>\n")
+        f'<lastBuildDate>{format_datetime(enson)}</lastBuildDate>' + "".join(ogeler) + "</channel></rss>\n")
     print(f"{len(haberler)} haber sayfası, sitemap, rss ve 404 üretildi")
 
 if __name__ == "__main__":

@@ -283,6 +283,9 @@ button { font: inherit; color: inherit; }
 .cerez-btn button { min-height: 44px; padding: 10px 20px; border-radius: 999px; font: 800 15px/1 Archivo, sans-serif; cursor: pointer; border: 1px solid var(--cizgi); background: var(--kagit); color: var(--murekkep); }
 .cerez-btn #cerez-kabul { background: #2f7d32; border-color: #2f7d32; color: #fff; }
 .cerez-ac { background: none; border: 0; padding: 0; color: inherit; font: inherit; cursor: pointer; text-decoration: underline; }
+.cok-ok { list-style: none; margin: 0; padding: 4px 14px 10px; }
+.cok-ok li a { display: flex; gap: 12px; align-items: flex-start; padding: 10px 0; border-bottom: 1px solid var(--cizgi); color: inherit; text-decoration: none; font-weight: 700; font-size: 15px; line-height: 1.35; }
+.cok-ok li:last-child a { border-bottom: 0; } .cok-ok b { font: 800 22px/1 Archivo, sans-serif; color: var(--marka); min-width: 20px; } .cok-ok a:hover span { color: var(--marka); }
 .metin-sayfa .guncel { color: var(--soluk); font-size: 14px; }
 .metin-sayfa ul { padding-left: 22px; } .metin-sayfa li { margin: 6px 0; }
 .tablo { width: 100%; border-collapse: collapse; font-size: 15px; margin: 8px 0 16px; } .tablo th, .tablo td { border: 1px solid var(--cizgi); padding: 8px 10px; text-align: left; vertical-align: top; } .tablo th { background: var(--kagit); }
@@ -687,8 +690,27 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
     kutu.querySelectorAll(".fy-sek button").forEach(function (x) { x.setAttribute("aria-selected", x === b ? "true" : "false"); });
     kutu.querySelectorAll(".fy li").forEach(function (li) { li.hidden = li.getAttribute("data-g") !== g; });
   });
+  function saatEk(h) {
+    if (!h.eklenme || h.eklenme.slice(0, 10) !== h.tarih) return "";
+    return ", " + new Intl.DateTimeFormat("tr-TR", { timeZone: TZ, hour: "2-digit", minute: "2-digit" }).format(new Date(h.eklenme));
+  }
+  function cokOkunanDoldur() {
+    var kutu = document.getElementById("cok-okunan"); if (!kutu || !FBV) return;
+    fetch("https://firestore.googleapis.com/v1/projects/" + FB.projectId + "/databases/(default)/documents:runQuery?key=" + FB.apiKey, {
+      method: "POST", headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ structuredQuery: { from: [{ collectionId: "tepkiler" }], orderBy: [{ field: { fieldPath: "okunma" }, direction: "DESCENDING" }], limit: 12 } })
+    }).then(function (r) { return r.ok ? r.json() : []; }).then(function (rows) {
+      var l = (rows || []).filter(function (x) { return x.document; }).map(function (x) {
+        var id = x.document.name.split("/").pop(); return { h: HABER[id], n: +((x.document.fields.okunma || {}).integerValue || 0) };
+      }).filter(function (x) { return x.h && x.n >= 3; }).slice(0, 5);
+      if (l.length < 3) return;
+      kutu.innerHTML = '<div class="kutu-bas">En çok okunanlar</div><ol class="cok-ok">' + l.map(function (x, i) {
+        return '<li><a href="' + hUrl(x.h.id) + '"><b>' + (i + 1) + "</b><span>" + e(x.h.baslik) + "</span></a></li>"; }).join("") + "</ol>";
+      kutu.hidden = false;
+    }).catch(function () {});
+  }
   function yanSutun() {
-    return '<aside class="yan">' +
+    return '<aside class="yan">' + '<section class="kutu" id="cok-okunan" hidden></section>' +
       '<section class="kutu"><div class="kutu-bas">Son başvuru <a href="#takvim">Tümü</a></div><ol>' + takvimListe(5) + "</ol></section>" +
       '<section class="kutu"><div class="kutu-bas">Fiyat panosu <a href="#fiyatlar">Tümü</a></div><div class="fy-sek" role="tablist">' +
       fiyatGruplari().map(function (g, i) { return '<button type="button" role="tab" data-g="' + e(g) + '" aria-selected="' + (i ? "false" : "true") + '">' + e(g) + "</button>"; }).join("") +
@@ -859,6 +881,7 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
       fetch(fsUrl("/tepkiler/" + h.id)).then(function (r) { return r.ok ? r.json() : null; }).then(function (j) {
         var f = (j && j.fields) || {}; function n(k) { return f[k] ? +(f[k].integerValue || 0) : 0; }
         document.getElementById("say-begen").textContent = "(" + n("begen") + ")"; document.getElementById("say-begenme").textContent = "(" + n("begenme") + ")";
+        var os = document.getElementById("okunma-say"); if (os && n("okunma") >= 10) { os.textContent = n("okunma").toLocaleString("tr-TR") + " okunma"; os.hidden = false; }
       }).catch(function () {});
     }
     function oyla(tur) {
@@ -914,7 +937,7 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
     ilgili = ilgili.slice(0, 3);
     var html = '<div class="iki" style="margin-top:0"><article' + katStil(h.kategori) + ">" +
       '<nav class="yol" aria-label="Konum"><a href="#">Ana sayfa</a><span>›</span>' + (k ? '<a href="#kategori-' + k.slug + '">' + e(k.ad) + "</a>" : "") + "</nav>" +
-      '<header class="haber-bas"><h1>' + e(h.baslik) + '</h1><div class="meta"><span class="kat">' + e(h.kategori) + "</span><span>" + tarih(h.tarih, "yil") + "</span><span>Çiftçi Gündemi</span></div></header>" +
+      '<header class="haber-bas"><h1>' + e(h.baslik) + '</h1><div class="meta"><span class="kat">' + e(h.kategori) + "</span><span>" + tarih(h.tarih, "yil") + saatEk(h) + '</span><span>Çiftçi Gündemi</span><span id="okunma-say" hidden></span></div></header>' +
       '<div class="haber-govde">' + gorsel(h, true, true) + '<div class="haber-metin">' + metin + "</div>" +
       (h.neYapmali ? '<div class="ne-yapmali"><strong>Ne yapmalı?</strong><p>' + e(h.neYapmali) + "</p></div>" : "") +
       '<div class="kaynak-satir"><span>Kaynak:</span>' + (h.kaynaklar || []).map(function (x) { return '<a href="' + e(x.url) + '" rel="noopener" target="_blank">' + e(x.ad) + "</a>"; }).join("") + "</div>" +
@@ -1001,9 +1024,15 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
   }
   var okumaH = null, okumaGitti = false;
   function okumaBitti(neden) {
-    if (okumaGitti || !okumaH || location.hash.slice(1) !== okumaH.id || document.hidden) return;
+    if (okumaGitti || !okumaH || (location.hash.slice(1) || yolHaber()) !== okumaH.id || document.hidden) return;
     okumaGitti = true; window.removeEventListener("scroll", okumaKaydir);
     izle("haber_okundu", { haber_id: okumaH.id, haber_baslik: okumaH.baslik, haber_kategori: okumaH.kategori, okuma_olcutu: neden });
+    var anah = "cg-ok-" + okumaH.id, oldu = false;
+    try { oldu = !!localStorage.getItem(anah); localStorage.setItem(anah, "1"); } catch (x) {}
+    if (!oldu && FBV) fetch("https://firestore.googleapis.com/v1/projects/" + FB.projectId + "/databases/(default)/documents:commit?key=" + FB.apiKey, {
+      method: "POST", headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ writes: [{ transform: { document: "projects/" + FB.projectId + "/databases/(default)/documents/tepkiler/" + okumaH.id, fieldTransforms: [{ fieldPath: "okunma", increment: { integerValue: "1" } }] } }] })
+    }).catch(function () {});
   }
   function okumaKaydir() { var d = document.documentElement; if ((window.scrollY + window.innerHeight) / d.scrollHeight > 0.6 && d.scrollHeight > window.innerHeight * 1.3) okumaBitti("kaydirma"); }
   document.addEventListener("click", function (ev) {
@@ -1044,6 +1073,7 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
     else { menu(""); anaSayfa(); }
     window.scrollTo(0, 0);
     sayfaOlc(h);
+    cokOkunanDoldur();
   }
 
   document.getElementById("arama").addEventListener("submit", function (ev) {
