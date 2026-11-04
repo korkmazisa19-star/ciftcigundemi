@@ -54,6 +54,44 @@
   ],
   "haberler": [
     {
+      "id": "ordu-ariciya-22-bin-kutu-varroa-ilaci",
+      "kategori": "Destek",
+      "tarih": "2026-11-04",
+      "eklenme": "2026-11-05T00:31:51+03:00",
+      "motif": "kovan",
+      "baslik": "Ordu'da arıcılara yüzde 100 hibeyle 22 bin kutu Varroa ilacı verildi",
+      "ozet": "Ordu Büyükşehir Belediyesi, arılarda yaygın görülen Varroa zararlısına karşı 22 bin kutu ilacı arıcılara hibe olarak dağıttı. Belediye binası önündeki törende konuşan Başkan Mehmet Hilmi Güler, desteğin tamamının belediyece karşılandığını belirtti. Aktarılan verilere göre kentte 3 bin kayıtlı işletmede 650 bin arılı kovan bulunuyor, yıllık bal üretimi ise 17 bin tonla Türkiye'de ilk sırada yer alıyor. Ordu Arıcılık Araştırma Enstitüsü Müdürü Şeref Cınbırtoğlu, arı ürünlerinin katma değerini artırmak için belediyeyle protokol imzalandığını söyledi. Haberde kişi başına düşen ilaç miktarı ve dağıtım koşulları yer almadı.",
+      "neYapmali": "Ordulu arıcılar ilaçtan yararlanma koşullarını Ordu Arıcılar Birliği, Büyükşehir Belediyesi veya il tarım müdürlüğünden öğrenebilir. İlacı prospektüsüne ve uygulama zamanına uygun kullanmak için veteriner hekim ya da teknik personele danışmak yerinde olur.",
+      "kaynaklar": [
+        {
+          "ad": "Trabzon Haber Merkezi / İGFA",
+          "url": "https://www.trabzonhabermerkezi.com/orduda-aricilara-ucretsiz-varroa-ilaci-destegi-4364217"
+        }
+      ],
+      "gorsel": "assets/iha/ordu-ariciya-22-bin-kutu-varroa-ilaci.jpg",
+      "gorselKucuk": "assets/iha/ordu-ariciya-22-bin-kutu-varroa-ilaci-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA (temsili)"
+    },
+    {
+      "id": "bolu-20-elma-ureticisi-ekuy-sertifikasi",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-04",
+      "eklenme": "2026-11-05T00:30:51+03:00",
+      "motif": "elma",
+      "baslik": "Bolu'da 20 elma üreticisi kalıntısız çıkan numunelerle EKÜY sertifikası aldı",
+      "ozet": "Tarım ve Orman Bakanlığı Gıda ve Kontrol Genel Müdürlüğü, Bolu'da 20 elma üreticisine Entegre ve Kontrollü Ürün Yönetimi (EKÜY) sertifikası ile ürün bandrolü verdi. Üreticiler sezon boyunca izlendi, bu üreticilerden alınan numuneler analiz edildi. Bakanlık, sonuçlarda pestisit kalıntısı görülmediğini bildirdi. Uygulamanın amacı güvenilir gıda üretimini ve kontrollü tarımı yaygınlaştırmak olarak açıklandı.",
+      "neYapmali": "EKÜY kapsamına girmek isteyen üreticiler il veya ilçe tarım müdürlüğünden programın şartlarını ve takvimini sorabilir. Sezon boyunca ilaçlama kayıtlarını düzenli tutmak ve hasat öncesi bekleme sürelerine uymak analiz sonucu açısından önemlidir.",
+      "kaynaklar": [
+        {
+          "ad": "Aksaray Haber / İGFA",
+          "url": "https://aksarayhaber.net/haber/boluda-20-elma-ureticisi-sertifikalandi-106703"
+        }
+      ],
+      "gorsel": "assets/envato/bolu-20-elma-ureticisi-ekuy-sertifikasi.jpg",
+      "gorselKucuk": "assets/envato/bolu-20-elma-ureticisi-ekuy-sertifikasi-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
+    {
       "id": "mersin-gulnar-kucukbas-fidan-solar-kamera",
       "kategori": "Destek",
       "tarih": "2026-11-04",
@@ -2076,7 +2114,6 @@
       ],
       "elma": [
         "elma-1.jpg",
-        "elma-2.jpg",
         "elma-3.jpg",
         "elma-4.jpg"
       ],
