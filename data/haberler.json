@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-05T20:32:24+03:00",
+  "guncelleme": "2026-11-05T21:41:09+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,29 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "nigde-bor-10-portatif-agil-kop-hibe",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-04",
+      "eklenme": "2026-11-05T21:41:09+03:00",
+      "motif": "koyun",
+      "baslik": "Niğde Bor'da 10 küçükbaş yetiştiricisine portatif ağıl teslim edildi",
+      "ozet": "Niğde'nin Bor ilçesinde küçükbaş hayvancılık yapan 10 yetiştiriciye portatif ağıl verildi. Bor İlçe Tarım ve Orman Müdürlüğü'nün hazırladığı ve KOP Bölge Kalkınma İdaresi Başkanlığı'nın hibesiyle yürütülen Bor Portatif Ağıl Projesi'nin bütçesi 3,5 milyon lira. Kurulumu tamamlanan ağıllar, İlçe Müdürü Soner Kahraman'ın da katıldığı yerinde denetimin ardından hak sahiplerine teslim edildi. Projeyle sürülerin barınma koşullarını iyileştirerek hayvan sağlığına ve ilçede küçükbaş hayvancılığın daha verimli yürütülmesine katkı sağlanması amaçlanıyor.",
+      "neYapmali": "Benzer barınak desteklerinden yararlanmak isteyen küçükbaş yetiştiricileri, KOP ve kalkınma ajansı çağrılarını ilçe tarım müdürlüğü aracılığıyla takip edebilir. Başvuru öncesinde işletme ve hayvan kayıtlarının güncel olması gerekir.",
+      "kaynaklar": [
+        {
+          "ad": "Hamle Gazetesi",
+          "url": "https://www.hamlegazetesi.com/haber/borda-ureticilere-agil-destegi-38298"
+        },
+        {
+          "ad": "Niğde Anadolu Haber",
+          "url": "https://nigdeanadoluhaber.com.tr/35-milyonluk-portatif-agillar-ureticilere-teslim-edildi"
+        }
+      ],
+      "gorsel": "assets/envato/nigde-bor-10-portatif-agil-kop-hibe.jpg",
+      "gorselKucuk": "assets/envato/nigde-bor-10-portatif-agil-kop-hibe-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
     {
       "id": "nigde-1-8-milyon-ton-rekolte-ciftci-fiyat-2026",
       "kategori": "Piyasa",
@@ -2594,7 +2617,6 @@
       "koyun": [
         "koyun-1.jpg",
         "koyun-2.jpg",
-        "koyun-3.jpg",
         "koyun-4.jpg",
         "koyun-5.jpg"
       ],
