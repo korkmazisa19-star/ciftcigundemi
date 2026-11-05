@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-05T19:31:36+03:00",
+  "guncelleme": "2026-11-05T20:32:24+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,44 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "nigde-1-8-milyon-ton-rekolte-ciftci-fiyat-2026",
+      "kategori": "Piyasa",
+      "tarih": "2026-11-05",
+      "eklenme": "2026-11-05T20:32:24+03:00",
+      "motif": "elma",
+      "baslik": "Niğde'de dört üründe 1,8 milyon ton rekolte: Üretici verimden memnun, satış fiyatından değil",
+      "ozet": "Hamle Gazetesi'nin 5 Kasım tarihli haberine göre Niğde'de 2026 sezonunda patates, elma, lahana ve kuru fasulyenin toplam rekoltesi 1 milyon 812 bin 376 tona ulaştı. En büyük payı 1 milyon 67 bin 320 tonla patates alırken, elmada 555 bin 469, lahanada 148 bin 117, kuru fasulyede 41 bin 470 ton kaydedildi. Üreticiler verimin iyi olduğunu ancak satış fiyatlarının beklentinin altında kaldığını dile getiriyor. Sulama, gübre, ilaç, işçilik ve akaryakıt giderlerinin yüksekliği hasat gelirini daha belirleyici kılıyor. Haberde ürün bazında bir alım fiyatı paylaşılmadı.",
+      "neYapmali": "Niğdeli üreticiler satış öncesinde borsa ve hal fiyatlarını karşılaştırabilir, depolama imkânı olanlar satışı kademelere yaymayı değerlendirebilir. Gelecek sezon ekim planı için ilçe tarım müdürlüğünden görüş almak faydalı olur.",
+      "kaynaklar": [
+        {
+          "ad": "Hamle Gazetesi",
+          "url": "https://www.hamlegazetesi.com/haber/nigdede-18-milyon-tonluk-bereket-ciftci-fiyatlardan-sikyetci-38334"
+        }
+      ],
+      "gorsel": "assets/envato/nigde-1-8-milyon-ton-rekolte-ciftci-fiyat-2026.jpg",
+      "gorselKucuk": "assets/envato/nigde-1-8-milyon-ton-rekolte-ciftci-fiyat-2026-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
+    {
+      "id": "isparta-199-bin-marul-fidesi-take-yuzde-75",
+      "kategori": "Hibe",
+      "tarih": "2026-11-03",
+      "eklenme": "2026-11-05T20:31:24+03:00",
+      "motif": "sera",
+      "baslik": "Isparta'da sera üreticilerine yüzde 75 hibeyle 199 bin 616 marul fidesi verildi",
+      "ozet": "Isparta İl Tarım ve Orman Müdürlüğü, Tarım Arazilerinin Kullanımının Etkinleştirilmesi (TAKE) Projesi kapsamında üreticilere 199 bin 616 marul fidesi dağıttı. Toplam bütçesi 624 bin 998 lira olan projede 468 bin 748 liralık kısım hibe olarak karşılandı. Fideler, domates seralarında ikinci ürün olarak 32 dekar alana dikilecek. Dağıtıma İl Müdürü Mehmet Tuğrul da katıldı; projeyle seraların yıl boyu üretimde kalması ve arazinin daha verimli kullanılması amaçlanıyor.",
+      "neYapmali": "Seralarda ikinci ürün düşünen üreticiler, benzer TAKE projelerinin çağrı ve şartlarını il veya ilçe tarım müdürlüğünden sorabilir. Yeni dönem başvuruları için çiftçi kayıtlarını güncel tutmak gerekir.",
+      "kaynaklar": [
+        {
+          "ad": "Demokrat Gazetesi",
+          "url": "https://www.demokrat32.com/ureticilere-199-bin-616-marul-fidesi-destegi"
+        }
+      ],
+      "gorsel": "assets/envato/isparta-199-bin-marul-fidesi-take-yuzde-75.jpg",
+      "gorselKucuk": "assets/envato/isparta-199-bin-marul-fidesi-take-yuzde-75-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
     {
       "id": "aydin-cuma-bulusmalari-17-ilce-6-kasim",
       "kategori": "Bitkisel Üretim",
@@ -960,26 +998,6 @@
       "gorselKaynak": "Temsili fotoğraf: Envato"
     },
     {
-      "id": "yozgat-14-uretici-sera-destegi",
-      "kategori": "Hibe",
-      "tarih": "2026-11-02",
-      "eklenme": "2026-11-04T09:16:00+03:00",
-      "motif": "sera",
-      "baslik": "Yozgat'ta 14 üreticiye toplam 5 milyon liralık sera desteği",
-      "ozet": "Yozgat Valiliği, KOP ve TULİP projeleri kapsamında 14 üreticiye sera kurulduğunu açıkladı; desteklerin toplam tutarı 5 milyon 77 bin 588 lira. \"KOP ile Seralar Gelişiyor\" projesiyle merkezdeki 9 üreticiye 525 metrekarelik, TULİP kapsamında ise 5 üreticiye 105 metrekarelik seralar teslim edildi. Seralar Azizli, Sarımbey ve Büyükmahal köylerinin yanı sıra Sorgun, Saraykent, Çekerek ve Akdağmadeni'nde kuruldu. Büyükmahal'de seradan yararlanan ailenin 88 yaşındaki babası Duran Deniz, oğullarının üretime bu yıl başladığını ve onlara destek olduğunu anlattı.",
-      "neYapmali": "Örtü altı üretim için hibe arıyorsanız KOP ve TULİP gibi bölgesel projelerin yeni çağrılarını il tarım ve orman müdürlüğünden ve valilik duyurularından takip edin.",
-      "kaynaklar": [
-        {
-          "ad": "İHA",
-          "url": "https://www.iha.com.tr/"
-        }
-      ],
-      "gorsel": "assets/iha/yozgat-14-uretici-sera-destegi.jpg",
-      "gorselKucuk": "assets/iha/yozgat-14-uretici-sera-destegi-k.jpg",
-      "gorselKaynak": "Fotoğraf/Video: İHA",
-      "video": "assets/video/yozgat-14-uretici-sera-destegi.mp4"
-    },
-    {
       "id": "nigde-elma-yagis-kara-benek",
       "kategori": "Piyasa",
       "tarih": "2026-11-02",
@@ -998,6 +1016,26 @@
       "gorselKucuk": "assets/iha/nigde-elma-yagis-kara-benek-k.jpg",
       "gorselKaynak": "Fotoğraf/Video: İHA",
       "video": "assets/video/nigde-elma-yagis-kara-benek.mp4"
+    },
+    {
+      "id": "yozgat-14-uretici-sera-destegi",
+      "kategori": "Hibe",
+      "tarih": "2026-11-02",
+      "eklenme": "2026-11-04T09:16:00+03:00",
+      "motif": "sera",
+      "baslik": "Yozgat'ta 14 üreticiye toplam 5 milyon liralık sera desteği",
+      "ozet": "Yozgat Valiliği, KOP ve TULİP projeleri kapsamında 14 üreticiye sera kurulduğunu açıkladı; desteklerin toplam tutarı 5 milyon 77 bin 588 lira. \"KOP ile Seralar Gelişiyor\" projesiyle merkezdeki 9 üreticiye 525 metrekarelik, TULİP kapsamında ise 5 üreticiye 105 metrekarelik seralar teslim edildi. Seralar Azizli, Sarımbey ve Büyükmahal köylerinin yanı sıra Sorgun, Saraykent, Çekerek ve Akdağmadeni'nde kuruldu. Büyükmahal'de seradan yararlanan ailenin 88 yaşındaki babası Duran Deniz, oğullarının üretime bu yıl başladığını ve onlara destek olduğunu anlattı.",
+      "neYapmali": "Örtü altı üretim için hibe arıyorsanız KOP ve TULİP gibi bölgesel projelerin yeni çağrılarını il tarım ve orman müdürlüğünden ve valilik duyurularından takip edin.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/"
+        }
+      ],
+      "gorsel": "assets/iha/yozgat-14-uretici-sera-destegi.jpg",
+      "gorselKucuk": "assets/iha/yozgat-14-uretici-sera-destegi-k.jpg",
+      "gorselKaynak": "Fotoğraf/Video: İHA",
+      "video": "assets/video/yozgat-14-uretici-sera-destegi.mp4"
     },
     {
       "id": "bir-suru-olsun-basvuru-4-13-kasim",
@@ -1047,29 +1085,6 @@
       ],
       "gorsel": "assets/envato/tbmm-seker-arastirma-onergesi-reddedildi.jpg",
       "gorselKucuk": "assets/envato/tbmm-seker-arastirma-onergesi-reddedildi-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato"
-    },
-    {
-      "id": "cks-2027-son-gun-31-aralik",
-      "kategori": "Destek",
-      "tarih": "2026-09-06",
-      "motif": "para",
-      "baslik": "ÇKS'de 2027 kaydı için son tarih 31 Aralık: güncellemeyen destek alamayabilir",
-      "ozet": "Tarım ve Orman Bakanlığı'nın 2027 üretim yılı Çiftçi Kayıt Sistemi (ÇKS) başvuruları 1 Eylül'de açıldı ve 31 Aralık 2026 mesai bitiminde kapanacak. Önceki yıllarda kaydı olan ve arazi bilgisi değişmeyen üreticiler işlemi e-Devlet üzerinden yapabiliyor. İlk kez kayıt olacaklar ya da arazisinde değişiklik olanlar il veya ilçe tarım müdürlüğüne, yetki devri yapılan illerde ziraat odasına gitmek zorunda. Temel destek başta olmak üzere tarımsal desteklerden yararlanmak için ÇKS kaydı şart.",
-      "neYapmali": "Kaydınızı e-Devlet'te 'Çiftçi Kayıt Sistemi' ekranından kontrol edin; kira sözleşmesi, tapu ya da ekim bilgisi değiştiyse belgelerinizle ilçe tarım müdürlüğüne gidin. Aralık sonundaki yoğunluğa kalmadan işlemi bitirin.",
-      "kaynaklar": [
-        {
-          "ad": "Yeni Şafak",
-          "url": "https://www.yenisafak.com/mazot-gubre-destekleme-basvurulari-basladi-mi-h-4852567"
-        },
-        {
-          "ad": "Milli Gazete",
-          "url": "https://www.milligazete.com.tr/2027-cks-basvurusu-nasil-yapilir-son-tarih-ne-zaman-e-devletten-yenileme-yapilir-mi-kimler-basvurabilir-tarimsal-destekler-icin-cks-sart-mi"
-        }
-      ],
-      "eklenme": "2026-11-03T12:00:00+03:00",
-      "gorsel": "assets/envato/cks-2027-son-gun-31-aralik.jpg",
-      "gorselKucuk": "assets/envato/cks-2027-son-gun-31-aralik-k.jpg",
       "gorselKaynak": "Temsili fotoğraf: Envato"
     },
     {
@@ -2190,6 +2205,29 @@
       "gorsel": "assets/envato/butce-2027-tarim-destek.jpg",
       "gorselKucuk": "assets/envato/butce-2027-tarim-destek-k.jpg",
       "gorselKaynak": "Temsili fotoğraf: Envato"
+    },
+    {
+      "id": "cks-2027-son-gun-31-aralik",
+      "kategori": "Destek",
+      "tarih": "2026-09-06",
+      "motif": "para",
+      "baslik": "ÇKS'de 2027 kaydı için son tarih 31 Aralık: güncellemeyen destek alamayabilir",
+      "ozet": "Tarım ve Orman Bakanlığı'nın 2027 üretim yılı Çiftçi Kayıt Sistemi (ÇKS) başvuruları 1 Eylül'de açıldı ve 31 Aralık 2026 mesai bitiminde kapanacak. Önceki yıllarda kaydı olan ve arazi bilgisi değişmeyen üreticiler işlemi e-Devlet üzerinden yapabiliyor. İlk kez kayıt olacaklar ya da arazisinde değişiklik olanlar il veya ilçe tarım müdürlüğüne, yetki devri yapılan illerde ziraat odasına gitmek zorunda. Temel destek başta olmak üzere tarımsal desteklerden yararlanmak için ÇKS kaydı şart.",
+      "neYapmali": "Kaydınızı e-Devlet'te 'Çiftçi Kayıt Sistemi' ekranından kontrol edin; kira sözleşmesi, tapu ya da ekim bilgisi değiştiyse belgelerinizle ilçe tarım müdürlüğüne gidin. Aralık sonundaki yoğunluğa kalmadan işlemi bitirin.",
+      "kaynaklar": [
+        {
+          "ad": "Yeni Şafak",
+          "url": "https://www.yenisafak.com/mazot-gubre-destekleme-basvurulari-basladi-mi-h-4852567"
+        },
+        {
+          "ad": "Milli Gazete",
+          "url": "https://www.milligazete.com.tr/2027-cks-basvurusu-nasil-yapilir-son-tarih-ne-zaman-e-devletten-yenileme-yapilir-mi-kimler-basvurabilir-tarimsal-destekler-icin-cks-sart-mi"
+        }
+      ],
+      "eklenme": "2026-11-03T12:00:00+03:00",
+      "gorsel": "assets/envato/cks-2027-son-gun-31-aralik.jpg",
+      "gorselKucuk": "assets/envato/cks-2027-son-gun-31-aralik-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf: Envato"
     }
   ],
   "takvim": [
@@ -2566,7 +2604,6 @@
         "para-5.jpg"
       ],
       "sera": [
-        "sera-1.jpg",
         "sera-2.jpg",
         "sera-4.jpg"
       ],
@@ -2598,7 +2635,6 @@
         "ayva-3.jpg"
       ],
       "elma": [
-        "elma-1.jpg",
         "elma-3.jpg",
         "elma-4.jpg"
       ],
