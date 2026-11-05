@@ -54,6 +54,29 @@
   ],
   "haberler": [
     {
+      "id": "erzincan-cayirli-guzluk-hububat-ekimi",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-05",
+      "eklenme": "2026-11-05T08:48:00+03:00",
+      "motif": "bugday",
+      "baslik": "Erzincan Çayırlı'da güzlük hububat ekimi ziraat mühendisleri eşliğinde başladı",
+      "ozet": "Erzincan'ın Çayırlı ilçesinde yeni üretim sezonu için güzlük hububat ekimine geçildi. Çiftçiler, ziraat mühendislerinin kontrolünde tarlalarına ekim makineleriyle tohum atıyor. Çalışmayla doğru ekim uygulamalarının yaygınlaşması ve sezon hazırlıklarının kış gelmeden tamamlanması amaçlanıyor. İlçeyle birlikte Erzincan genelinde hasadı biten tarlalarda toprak işleme ve sürüm de sürüyor.",
+      "neYapmali": "Güzlük buğday ve arpa ekecek üreticiler sertifikalı ve ilaçlı tohum kullanmalı, ekimi toprak tava geldiğinde yapmalı ve bölgeye uygun tohum miktarı ile ekim derinliği için ilçe tarım ve orman müdürlüğündeki ziraat mühendislerine danışmalı. Ekim yapılan alanları Çiftçi Kayıt Sistemi'ne (ÇKS) zamanında işletmek desteklerden yararlanmak için gerekli.",
+      "kaynaklar": [
+        {
+          "ad": "Habersitesi.com (İHA)",
+          "url": "https://www.habersitesi.com/cayirli-da-guzluk-hububat-ekimleri-yapiliyor-88351h.htm"
+        },
+        {
+          "ad": "Kars Hakimiyet",
+          "url": "https://www.karshakimiyet.com/cayirlida-guzluk-hububat-ekimleri-yapiliyor-122450h.htm"
+        }
+      ],
+      "gorsel": "assets/iha/erzincan-cayirli-guzluk-hububat-ekimi.jpg",
+      "gorselKucuk": "assets/iha/erzincan-cayirli-guzluk-hububat-ekimi-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
+    },
+    {
       "id": "yesil-bodrum-mandalini-abd-miami-ihracat",
       "kategori": "Piyasa",
       "tarih": "2026-11-03",
