@@ -54,6 +54,25 @@
   ],
   "haberler": [
     {
+      "id": "adana-portakal-bahce-fiyati-5-7-tl",
+      "kategori": "Piyasa",
+      "tarih": "2026-11-05",
+      "eklenme": "2026-11-05T11:30:17+03:00",
+      "motif": "narenciye",
+      "baslik": "Adana'da erkenci portakal hasadı başladı: Bahçe fiyatı geçen yılki 27-32 liradan 5-7 liraya indi",
+      "ozet": "Adana'da Navelina ve Fukumoto gibi erkenci portakal çeşitlerinde toplama başladı. İlde yaklaşık 160 bin dönüm alandan 670 bin ton ürün bekleniyor; bahçede kilo fiyatı ise geçen yılın 27-32 lirasına karşılık 5-7 lira seviyesinde. Yüreğir Ziraat Odası Başkanı Mehmet Akın Doğan, geçen yılın dondan etkilendiğini, bu yıl ürünün bol olduğunu ama Karadeniz'deki savaş nedeniyle gemi taşımacılığının aksadığını ve pazara erişimin daraldığını söyledi. Doğan, DFİF üzerinden navlun desteği ile dalında kalan meyve için kilo başına 5 lira destek istedi. 240 dönümde üretim yapan Vedat Yıldız ise tüccarların 5-6 liradan aldığını, talebin zayıf olduğunu aktardı.",
+      "neYapmali": "Üreticiler satış öncesi birden fazla alıcıdan teklif alıp bahçe fiyatlarını karşılaştırabilir. İstenen destekler için henüz açıklanmış bir karar yok; gelişmeleri ziraat odasından ve il tarım müdürlüğünden takip etmek yararlı olur.",
+      "kaynaklar": [
+        {
+          "ad": "Elit Haber",
+          "url": "https://elit-haber.com/haber/adanada-portakal-hasadi-basladi-ve-savasin-etkisiyle-fiyatlar-dustu-93146"
+        }
+      ],
+      "gorsel": "assets/envato/adana-portakal-bahce-fiyati-5-7-tl.jpg",
+      "gorselKucuk": "assets/envato/adana-portakal-bahce-fiyati-5-7-tl-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
+    {
       "id": "nazilli-hasat-oncesi-pestisit-denetimi",
       "kategori": "Bitkisel Üretim",
       "tarih": "2026-11-05",
@@ -2370,7 +2389,6 @@
         "elma-4.jpg"
       ],
       "narenciye": [
-        "narenciye-1.jpg",
         "narenciye-2.jpg",
         "narenciye-3.jpg",
         "narenciye-4.jpg"
