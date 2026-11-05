@@ -54,6 +54,48 @@
   ],
   "haberler": [
     {
+      "id": "diyarbakir-ziraat-odasi-tarsim-pamuk-magdur",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-04",
+      "eklenme": "2026-11-05T04:32:21+03:00",
+      "motif": "pamuk",
+      "baslik": "Diyarbakır Ziraat Odası Başkanı Delil: Yağışın vurduğu pamukta TARSİM üreticinin zararını karşılamıyor",
+      "ozet": "Diyarbakır Ziraat Odası Başkanı Mehmet Cevat Delil, 4 Kasım'da sosyal medya hesabından yaptığı açıklamada bu yıl erken başlayan yağışların pamuk ve mısır üreticilerine zarar verdiğini söyledi. Delil'e göre yağış nedeniyle pamuğun bir bölümü tarlada kaldı, mısır hasadı da yapılamadı. Oda başkanı, Tarım Sigortaları Havuzu'nun (TARSİM) pamuktaki bu zararı karşılamadığını savunarak üreticiye destek çağrısı yaptı. Açıklamada zarar gören alan ya da tutar paylaşılmadı; haberde TARSİM'in bir yanıtı da yer almıyor.",
+      "neYapmali": "Pamuk üreticileri poliçelerinde hangi risklerin teminat altında olduğunu sigorta acentesinden öğrenmeli, zararlarını ilçe tarım müdürlüğüne ve ziraat odasına bildirmeli.",
+      "kaynaklar": [
+        {
+          "ad": "Amida Haber",
+          "url": "https://amidahaber.com/diyarbakir/diyarbakir-ziraat-odasi-baskani-tarsim-pamuk-ciftcisini-magdur-ediyor-239976h"
+        }
+      ],
+      "gorsel": "assets/envato/diyarbakir-ziraat-odasi-tarsim-pamuk-magdur.jpg",
+      "gorselKucuk": "assets/envato/diyarbakir-ziraat-odasi-tarsim-pamuk-magdur-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
+    {
+      "id": "cerkezkoy-ziraat-odasi-bugday-ekim-tav-uyarisi",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-04",
+      "eklenme": "2026-11-05T04:31:21+03:00",
+      "motif": "bugday",
+      "baslik": "Çerkezköy Ziraat Odası'ndan buğday üreticisine: Yağış sonrası ekimde acele etmeyin, toprağın tavını bekleyin",
+      "ozet": "Çerkezköy Ziraat Odası Başkanı Mehmet Ali Çolakoğlu, Çerkezköy ve Kapaklı'da son günlerde düşen yağışların buğday ekimine hazırlanan çiftçi için sevindirici olduğunu söyledi. Çolakoğlu, 4 Kasım'da yansıyan açıklamasında üreticilerden yağıştan sonra tarlalarını değerlendirip uygun nemi beklemelerini istedi. Çok ıslak ve çamurlu toprağı yanlış zamanda işlemenin toprak yapısını bozabileceğini ve ekimi zorlaştırabileceğini belirtti. Oda başkanı, mazot, gübre ve tohum gibi girdilerdeki yüksek maliyetlere de dikkat çekti.",
+      "neYapmali": "Trakya'daki üreticiler ekimden önce tarlanın nem durumunu kontrol etmeli; ekim zamanı için ziraat odasından ya da ilçe tarım müdürlüğünden görüş alabilir.",
+      "kaynaklar": [
+        {
+          "ad": "Çerkezköy Bakış",
+          "url": "https://cerkezkoybakis.com/colakoglundan-ciftcilere-bugday-ekimi-uyarisi-topragin-tavini-iyi-degerlendirin"
+        },
+        {
+          "ad": "Kapaklı Gazetesi",
+          "url": "https://www.kapakligazetesi.com.tr/cerkezkoy-ve-kapaklida-ciftcilere-kritik-uyari-ekim-icin-acele-etmeyin"
+        }
+      ],
+      "gorsel": "assets/envato/cerkezkoy-ziraat-odasi-bugday-ekim-tav-uyarisi.jpg",
+      "gorselKucuk": "assets/envato/cerkezkoy-ziraat-odasi-bugday-ekim-tav-uyarisi-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
+    {
       "id": "erzincan-kemah-kutluova-ceviz-budama-egitimi",
       "kategori": "Bitkisel Üretim",
       "tarih": "2026-11-04",
@@ -2155,7 +2197,6 @@
       ],
       "tohum": [
         "tohum-2.jpg",
-        "tohum-3.jpg",
         "tohum-4.jpg"
       ],
       "traktor": [
@@ -2190,7 +2231,6 @@
       ],
       "pamuk": [
         "pamuk-1.jpg",
-        "pamuk-2.jpg",
         "pamuk-3.jpg"
       ],
       "domates": [
