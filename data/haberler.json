@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-05T18:42:31+03:00",
+  "guncelleme": "2026-11-05T19:31:36+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,29 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "aydin-cuma-bulusmalari-17-ilce-6-kasim",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-05",
+      "eklenme": "2026-11-05T19:31:36+03:00",
+      "motif": "traktor",
+      "baslik": "Aydın'da tarım ekipleri 6 Kasım'da 17 ilçede aynı saatte üreticiyle buluşuyor",
+      "ozet": "Aydın İl Tarım ve Orman Müdürlüğü, \"Cuma Buluşmaları\" kapsamında 6 Kasım Cuma günü saat 14.00'te 17 ilçede üreticilerle bir araya gelecek. Ekipler Efeler'de Baltaköy, Nazilli'de Hasköy-Kavacık, Söke'de Sofular, Çine'de Bucak gibi birer mahallede sahaya çıkacak. Gündemde incirin kurutulup depolanması, zeytin, kestane ve pamuk üretimi ile 2027 Çiftçi Kayıt Sistemi işlemleri var. B-Reçete uygulaması, anız yakmanın önlenmesi ve orman yangınlarına karşı önlemler de konuşulacak.",
+      "neYapmali": "Aydınlı üreticiler kendi ilçelerindeki buluşma noktasını İl veya İlçe Tarım ve Orman Müdürlüğünden teyit edebilir. ÇKS ya da B-Reçete konusunda sorusu olanlar belgelerini yanında götürerek işlemlerini sorabilir.",
+      "kaynaklar": [
+        {
+          "ad": "Habersitesi.com",
+          "url": "https://www.habersitesi.com/aydin-da-17-ilcede-ureticilerle-bulusulacak-88858h.htm"
+        },
+        {
+          "ad": "Marmaris Yeni Sayfa",
+          "url": "https://www.marmarisyenisayfa.com/haber/aydin-da-17-ilcede-ureticilerle-bulusulacak-781871.html"
+        }
+      ],
+      "gorsel": "assets/envato/aydin-cuma-bulusmalari-17-ilce-6-kasim.jpg",
+      "gorselKucuk": "assets/envato/aydin-cuma-bulusmalari-17-ilce-6-kasim-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
     {
       "id": "bitlis-ahlat-patates-hasadi-120-bin-ton-2026",
       "kategori": "Bitkisel Üretim",
@@ -2177,6 +2200,12 @@
       "haber": "aricilik-son-gun-6-kasim"
     },
     {
+      "tarih": "2026-11-06",
+      "baslik": "Aydın'da 17 ilçede Cuma Buluşmaları (14.00)",
+      "kapsam": "Aydın",
+      "haber": "aydin-cuma-bulusmalari-17-ilce-6-kasim"
+    },
+    {
       "tarih": "2026-11-10",
       "baslik": "TİGEM narenciye açık artırması",
       "kapsam": "Boztepe Tarım İşletmesi",
@@ -2553,7 +2582,6 @@
         "tohum-4.jpg"
       ],
       "traktor": [
-        "traktor-2.jpg",
         "traktor-3.jpg",
         "traktor-4.jpg",
         "traktor-5.jpg"
