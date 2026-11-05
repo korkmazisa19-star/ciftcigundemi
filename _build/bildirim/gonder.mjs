@@ -74,7 +74,8 @@ for (const [i, h] of secilen.entries()) {
     });
     cevap.responses.forEach((r, n) => {
       const kod = r.error && r.error.code;
-      if (kod === "messaging/registration-token-not-registered" || kod === "messaging/invalid-registration-token" || kod === "messaging/invalid-argument") silinecek.add(parca[n].ref);
+      if (kod) console.log("hata:", kod, (r.error.message || "").slice(0, 160));
+      if (kod === "messaging/registration-token-not-registered" || kod === "messaging/invalid-registration-token") silinecek.add(parca[n].ref);
     });
     console.log(`${h.id}: ${cevap.successCount} başarılı, ${cevap.failureCount} hatalı`);
   }
