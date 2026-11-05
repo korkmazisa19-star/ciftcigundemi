@@ -54,6 +54,37 @@
   ],
   "haberler": [
     {
+      "id": "aycicegi-gumruk-yuzde-12-komisyonda-aygun-tepki",
+      "kategori": "Piyasa",
+      "tarih": "2026-11-04",
+      "eklenme": "2026-11-05T05:31:54+03:00",
+      "motif": "para",
+      "baslik": "Ayçiçeğinde yüzde 12'lik gümrük vergisi Meclis komisyonunda tartışma konusu oldu",
+      "ozet": "TBMM Plan ve Bütçe Komisyonu'nda Ticaret Bakanlığı'nın 2027 bütçesi görüşülürken CHP Tekirdağ Milletvekili İlhami Özcan Aygun, komisyon masasına ayçiçeği, zeytin ve limon koyarak yağlık ayçiçeği tohumu ithalatına tepki gösterdi. Hasat dönemi için normalde yüzde 20 olan vergi, Ticaret Bakanlığı'nın arz güvenliği ve fiyat istikrarı gerekçesiyle aldığı kararla bu yıl 1 Ekim'den itibaren yüzde 12'ye indirilmişti. Aygun, Trakya'da ayçiçeğinin kilosunun 27 lira olduğunu, bir litre mazot için yaklaşık 4 kilo ürün satmak gerektiğini ve dalındaki limonun kilosunun 1 liraya kadar gerilediğini savundu. Haberlerde Bakan Ömer Bolat'ın bu eleştirilere verdiği bir yanıt yer almadı; Bolat komisyon sunumunda genel olarak dampingli ithalata karşı 155 önlem uygulandığını ve 4 bin 618 ürüne ek gümrük vergisi konduğunu aktardı.",
+      "neYapmali": "Ayçiçeği üreticileri satış kararından önce birliklerin, borsaların ve ziraat odalarının güncel fiyatlarını karşılaştırabilir. Vergi uygulamasındaki değişiklikleri Ticaret Bakanlığı'nın resmî duyurularından takip etmek yararlı olur.",
+      "kaynaklar": [
+        {
+          "ad": "Ankara Masası",
+          "url": "https://www.ankaramasasi.com.tr/haber/2227350/chp-li-aygun-dan-bakan-bolat-a-limonlu-protesto-hangi-ulkenin-bakanisiniz"
+        },
+        {
+          "ad": "Tekirdağ Bakış",
+          "url": "https://tekirdagbakis.com/tekirdag-milletvekili-aygun-bolati-aycicegi-ve-limonla-protesto-etti"
+        },
+        {
+          "ad": "Haberler.com (AA)",
+          "url": "https://www.haberler.com/ekonomi/ticaret-bakanliginin-2027-yili-butcesi-tbmm-plan-20394538-haberi/"
+        },
+        {
+          "ad": "Anadolu Haberler",
+          "url": "https://www.anadoluhaberler.com/haber/aycicegi-tohumu-ithalatinda-gumruk-vergisi-one-cekildi-27334.html"
+        }
+      ],
+      "gorsel": "assets/iha/aycicegi-gumruk-yuzde-12-komisyonda-aygun-tepki.jpg",
+      "gorselKucuk": "assets/iha/aycicegi-gumruk-yuzde-12-komisyonda-aygun-tepki-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA (temsili)"
+    },
+    {
       "id": "diyarbakir-ziraat-odasi-tarsim-pamuk-magdur",
       "kategori": "Bitkisel Üretim",
       "tarih": "2026-11-04",
