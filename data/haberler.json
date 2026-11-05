@@ -54,6 +54,33 @@
   ],
   "haberler": [
     {
+      "id": "zeytin-hasat-maliyeti-karacasu-bandirma-tbmm",
+      "kategori": "Piyasa",
+      "tarih": "2026-11-04",
+      "eklenme": "2026-11-05T14:30:30+03:00",
+      "motif": "zeytin",
+      "baslik": "Zeytinde hasat maliyeti tepkisi: Aydın'da üretici, Bandırma'da eski vekil, Meclis'te Coşar destek istedi",
+      "ozet": "Aydın Karacasu'da 66 yaşındaki üretici Kemal Yıldırım, 4 Kasım'da yerel basına kasa başına 2 bin lira toplama ücreti ödediğini, zeytini ise kilosu 20 liradan sattığını anlattı. Balıkesir'de üreticilerle görüşen 26. Dönem CHP Milletvekili Namık Havutça, üreticilerin günlük yevmiyeyi 1.300-1.500 lira, bazı bahçelerde toplama maliyetini kilo başına 30-40 lira olarak aktardığını belirtti; Havutça alım fiyatının hasat bitmeden açıklanmasını ve kredi borçlarına erteleme tanınmasını istedi. YENİ Parti Antalya Milletvekili Aliye Coşar da TBMM Genel Kurulu'nda zeytin ve zeytinyağı üreticisine hasat döneminde acil hibe ve doğrudan destek paketi çağrısı yaptı. Rakamlar üreticilerin ve konuşmacıların beyanına dayanıyor; bu haberlerde Tarım ve Orman Bakanlığı'nın bir yanıtı yer almıyor.",
+      "neYapmali": "Hasada başlamadan önce kendi bahçenizin kilo başına toplama maliyetini hesaplayıp birliklerin ve alıcıların fiyatlarıyla karşılaştırın. Kredi borcu olan üreticiler güncel erteleme imkânlarını bankalarından ve ziraat odalarından sorabilir.",
+      "kaynaklar": [
+        {
+          "ad": "Aydın Ses Gazetesi",
+          "url": "https://www.sesgazetesi.com.tr/karacasulu-zeytinci-mazot-100-lirayi-asti-ciftcinin-kolundan-kimse-tutmuyor"
+        },
+        {
+          "ad": "Politikam",
+          "url": "https://www.politikam.com/hasat-suruyor-ureticinin-umudu-tukeniyor"
+        },
+        {
+          "ad": "Antalya Körfez Gazetesi",
+          "url": "https://www.antalyakorfez.com/zeytin-agacta-kalabilir-tbmmde-acil-destek-cagrisi"
+        }
+      ],
+      "gorsel": "assets/envato/zeytin-hasat-maliyeti-karacasu-bandirma-tbmm.jpg",
+      "gorselKucuk": "assets/envato/zeytin-hasat-maliyeti-karacasu-bandirma-tbmm-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
+    {
       "id": "samsun-carsamba-130-uretici-marul-fidesi",
       "kategori": "Hibe",
       "tarih": "2026-11-05",
@@ -2433,7 +2460,6 @@
       ],
       "zeytin": [
         "zeytin-1.jpg",
-        "zeytin-2.jpg",
         "zeytin-3.jpg",
         "zeytin-4.jpg",
         "zeytin-5.jpg"
