@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-06T00:41:45+03:00",
+  "guncelleme": "2026-11-06T02:29:54+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,25 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "bolu-hayvan-pazarlari-9-kasimda-aciliyor",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-05",
+      "eklenme": "2026-11-06T02:29:54+03:00",
+      "motif": "sut",
+      "baslik": "Bolu'da kapalı hayvan pazarları 9 Kasım'da yeniden açılıyor",
+      "ozet": "Bolu'da il merkezi ve ilçelerdeki hayvan pazarları, yaklaşık bir buçuk aylık aranın ardından 9 Kasım Pazartesi günü yeniden hizmete giriyor. Pazarlar, İl Tarım ve Orman Müdürlüğü'nün aldığı kısıtlama kararıyla 29 Eylül'de kapatılmıştı. Karar, hayvan hareketlerine yönelik önlemler kapsamında uygulanmıştı; haberde belirli bir hastalık ya da neden belirtilmedi. Yetkililer, pazarlar açıldıktan sonra da hayvan hareketleri ve pazar faaliyetlerine ilişkin geçerli kurallara uyulması gerektiğini hatırlattı.",
+      "neYapmali": "Bolu'da hayvan alıp satacak üreticiler, pazara gitmeden önce hayvan hareketlerine ilişkin güncel kuralları İl veya İlçe Tarım ve Orman Müdürlüğü'nden öğrenmeli.",
+      "kaynaklar": [
+        {
+          "ad": "TV Bolu",
+          "url": "https://tvbolu.com.tr/haber/hayvan-pazarlari-yeniden-aciliyor-tarih-belli-oldu"
+        }
+      ],
+      "gorsel": "assets/envato/bolu-hayvan-pazarlari-9-kasimda-aciliyor.jpg",
+      "gorselKucuk": "assets/envato/bolu-hayvan-pazarlari-9-kasimda-aciliyor-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
     {
       "id": "mus-tiryaki-ciftci-bulusmalari-rejeneratif-tarim-2026",
       "kategori": "Bitkisel Üretim",
@@ -2305,6 +2324,12 @@
       "haber": "aydin-cuma-bulusmalari-17-ilce-6-kasim"
     },
     {
+      "tarih": "2026-11-09",
+      "baslik": "Bolu'da hayvan pazarları yeniden açılıyor",
+      "kapsam": "Bolu",
+      "haber": "bolu-hayvan-pazarlari-9-kasimda-aciliyor"
+    },
+    {
       "tarih": "2026-11-10",
       "baslik": "TİGEM narenciye açık artırması",
       "kapsam": "Boztepe Tarım İşletmesi",
@@ -2666,7 +2691,6 @@
         "sera-4.jpg"
       ],
       "sut": [
-        "sut-1.jpg",
         "sut-2.jpg",
         "sut-3.jpg",
         "sut-4.jpg",
