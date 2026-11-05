@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-05T21:41:09+03:00",
+  "guncelleme": "2026-11-05T22:41:37+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,25 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "konya-aksehir-belediyesi-111-ciftciye-tohumluk-arpa",
+      "kategori": "Destek",
+      "tarih": "2026-11-05",
+      "eklenme": "2026-11-05T22:41:37+03:00",
+      "motif": "bugday",
+      "baslik": "Akşehir Belediyesi 111 çiftçiye 47,9 ton tohumluk arpa hibe etti",
+      "ozet": "Konya'nın Akşehir ilçesinde belediye, kırsal mahallelerde başvuru yapan 111 çiftçiye toplam 47 bin 900 kilogram tohumluk arpa dağıttı. Belediye Başkanı A. Nuri Köksal'ın verdiği bilgiye göre dağıtılan arpanın yaklaşık yüzde 80'i belediyenin Yaşarlar Mahallesi'ndeki 200 dekarlık tarlasında üretildi, kalan kısmı piyasadan alındı. Köksal, daha önce domates, biber ve çilek fidesi verdiklerini hatırlatarak sırada besicilere yemlik arpa, ardından arıcılara ilaç desteği olduğunu söyledi ve desteklerin her yıl artarak süreceğini belirtti.",
+      "neYapmali": "Akşehirli besiciler ve arıcılar, duyurulan yemlik arpa ve ilaç destekleri için başvuru zamanını ve şartlarını belediyeden takip edebilir. Tohumluk arpa alan üreticiler ekimi uygun tava denk getirmeye dikkat etmeli.",
+      "kaynaklar": [
+        {
+          "ad": "Konya Gündem",
+          "url": "https://konyagundem.com/ekonomi/aksehirde-ciftciye-buyuk-destek-70041h"
+        }
+      ],
+      "gorsel": "assets/envato/konya-aksehir-belediyesi-111-ciftciye-tohumluk-arpa.jpg",
+      "gorselKucuk": "assets/envato/konya-aksehir-belediyesi-111-ciftciye-tohumluk-arpa-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
     {
       "id": "nigde-bor-10-portatif-agil-kop-hibe",
       "kategori": "Hayvancılık",
@@ -2590,7 +2609,6 @@
         "balik-5.jpg"
       ],
       "bugday": [
-        "bugday-1.jpg",
         "bugday-2.jpg",
         "bugday-3.jpg",
         "bugday-4.jpg",
