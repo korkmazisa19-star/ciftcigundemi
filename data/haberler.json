@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-05T22:41:37+03:00",
+  "guncelleme": "2026-11-06T00:41:45+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,25 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "mus-tiryaki-ciftci-bulusmalari-rejeneratif-tarim-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-05",
+      "eklenme": "2026-11-06T00:41:45+03:00",
+      "motif": "bugday",
+      "baslik": "Muş'ta buğday ve pancar üreticilerine yenileyici tarım eğitimi: Program 130'u aşkın çiftçiye ulaştı",
+      "ozet": "Tiryaki Agro'nun Muş'ta yürüttüğü Tiryaki Tarım Çiftçi Buluşmaları'nın dördüncüsü yapıldı. Şirketin açıklamasına göre 2026 boyunca dört kez düzenlenen yüz yüze eğitimler ve sezon boyu verilen dijital destekle 130'un üzerinde lider çiftçiye ulaşıldı; programın dijital topluluğunda ise 150'den fazla üretici yer alıyor. Eğitimlerde buğday ve şeker pancarı yetiştiriciliği, yenileyici (rejeneratif) tarım, tarımsal karbon ayak izi, bütçeleme, finansal okuryazarlık ve dijital tarım konuları işlendi. Program toprak analizi ve uydu tabanlı tarla izlemeyi de içeriyor.",
+      "neYapmali": "Muş ve çevresindeki buğday ve pancar üreticileri, toprak analizi ve uydu takibi gibi uygulamalara katılım şartlarını program yürütücüsünden öğrenebilir. Toprak analizi yaptırmak, gübre planlamasında maliyeti düşürmenin ilk adımıdır.",
+      "kaynaklar": [
+        {
+          "ad": "Ekonomi Gazetesi",
+          "url": "https://www.ekonomigazetesi.com/sirket-haberleri/tiryaki-agro-rejeneratif-tarimi-musta-ciftcilerle-birlikte-gelistiriyor-91470"
+        }
+      ],
+      "gorsel": "assets/envato/mus-tiryaki-ciftci-bulusmalari-rejeneratif-tarim-2026.jpg",
+      "gorselKucuk": "assets/envato/mus-tiryaki-ciftci-bulusmalari-rejeneratif-tarim-2026-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
     {
       "id": "konya-aksehir-belediyesi-111-ciftciye-tohumluk-arpa",
       "kategori": "Destek",
@@ -2609,7 +2628,6 @@
         "balik-5.jpg"
       ],
       "bugday": [
-        "bugday-2.jpg",
         "bugday-3.jpg",
         "bugday-4.jpg",
         "bugday-5.jpg"
