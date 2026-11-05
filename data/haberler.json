@@ -54,6 +54,29 @@
   ],
   "haberler": [
     {
+      "id": "nazilli-hasat-oncesi-pestisit-denetimi",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-05",
+      "eklenme": "2026-11-05T10:48:00+03:00",
+      "motif": "tohum",
+      "baslik": "Nazilli'de hasat öncesi pestisit denetimi: Bahçelerden numune alınıp laboratuvara gönderiliyor",
+      "ozet": "Aydın'ın Nazilli ilçesinde İlçe Tarım ve Orman Müdürlüğü ekipleri, hasat dönemine gelen ürünlerde ilaç kalıntısı olup olmadığını belirlemek için üretim alanlarından numune topluyor. Bakanlığın Hasat Öncesi Pestisit Denetim Programı kapsamındaki kontrollerde bitki koruma ürünlerinin mevzuata ve etiketine uygun kullanılıp kullanılmadığına bakılıyor. Laboratuvara gönderilen numunelerde yasaklı ya da tavsiye dışı ilaç, aşırı doz ve hasattan önce uyulması gereken bekleme süresi ihlali aranıyor. Denetimlerle bilinçli ilaç kullanımının yaygınlaşması ve tüketiciye güvenilir ürün ulaşması amaçlanıyor.",
+      "neYapmali": "Hasada yakın ilaçlama yapacak üreticiler, ürün etiketinde yazan son ilaçlama ile hasat arasındaki bekleme süresine mutlaka uymalı ve yalnızca o ürün için ruhsatlı ilaçları kullanmalı. İlaç uygulamalarını Bitki Koruma Ürünleri Kayıt Sistemine işletmek, olası bir kalıntı tespitinde üreticiyi korur.",
+      "kaynaklar": [
+        {
+          "ad": "Habersitesi.com (İHA)",
+          "url": "https://www.habersitesi.com/nazilli-de-hasat-oncesi-pestisit-denetimi-88489h.htm"
+        },
+        {
+          "ad": "Son Dakika",
+          "url": "https://www.sondakika.com/yerel/haber-nazilli-de-hasat-oncesi-pestisit-denetiminde-guven-20397298/"
+        }
+      ],
+      "gorsel": "assets/iha/nazilli-hasat-oncesi-pestisit-denetimi.jpg",
+      "gorselKucuk": "assets/iha/nazilli-hasat-oncesi-pestisit-denetimi-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
+    },
+    {
       "id": "duzce-kahverengi-kokarca-kislak-ilaclama-2026",
       "kategori": "Bitkisel Üretim",
       "tarih": "2026-11-05",
