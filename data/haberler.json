@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-05T17:42:22+03:00",
+  "guncelleme": "2026-11-05T18:42:31+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,25 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "bitlis-ahlat-patates-hasadi-120-bin-ton-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-05",
+      "eklenme": "2026-11-05T18:42:31+03:00",
+      "motif": "traktor",
+      "baslik": "Ahlat'ta patates hasadı başladı: 30 bin dekardan 120 bin ton ürün bekleniyor",
+      "ozet": "Bitlis'in Ahlat ilçesinde yemeklik ve tohumluk patates hasadı başladı. Ahlat Ziraat Odası Genel Sekreteri Hüseyin Demirden, ilçede yaklaşık 30 bin dekarda patates yetiştirildiğini ve bu yıl 120 bin ton civarında rekolte beklendiğini söyledi. Ahlat patatesi çevre illerin yanı sıra zincir marketlere ve yurt dışına gönderiliyor. Hasat döneminde aralıksız süren yağışlar tarlaları çamura çevirdi ve çalışmaları aksattı; Demirden yağış nedeniyle birçok çiftçinin mağdur olduğunu, hasadın yaklaşık 15 gün daha süreceğini belirtti. 500 dekarda üretim yapan İrfan Ak ise yaklaşık 2 bin 500 ton ürün aldığını, verimden memnun olduğunu ve depodaki ürünün satışına birkaç gün içinde başlayacaklarını anlattı.",
+      "neYapmali": "Ahlat ve çevresindeki üreticilerin sert soğuklar başlamadan hasadı tamamlayıp ürünü depoya alması önem taşıyor. Islak hasat edilen patatesin depolamadan önce kurumaya bırakılması çürüme kayıplarını azaltır; yağış kaynaklı zararlar için ziraat odası ve ilçe tarım müdürlüğüyle iletişime geçilebilir.",
+      "kaynaklar": [
+        {
+          "ad": "Habersitesi.com",
+          "url": "https://www.habersitesi.com/turkiye-nin-patates-ambarlari-ahlat-ta-hasat-basladi-88446h.htm"
+        }
+      ],
+      "gorsel": "assets/envato/bitlis-ahlat-patates-hasadi-120-bin-ton-2026.jpg",
+      "gorselKucuk": "assets/envato/bitlis-ahlat-patates-hasadi-120-bin-ton-2026-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
     {
       "id": "rize-findikli-kivi-fiyati-yari-yariya-dustu-2026",
       "kategori": "Piyasa",
@@ -2534,7 +2553,6 @@
         "tohum-4.jpg"
       ],
       "traktor": [
-        "traktor-1.jpg",
         "traktor-2.jpg",
         "traktor-3.jpg",
         "traktor-4.jpg",
