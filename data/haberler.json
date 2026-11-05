@@ -54,6 +54,29 @@
   ],
   "haberler": [
     {
+      "id": "erzincan-kemah-kutluova-ceviz-budama-egitimi",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-04",
+      "eklenme": "2026-11-05T03:47:00+03:00",
+      "motif": "tohum",
+      "baslik": "Erzincan Kemah'ta ceviz üreticilerine bahçede bakım ve budama eğitimi",
+      "ozet": "Kemah İlçe Tarım ve Orman Müdürlüğü, Kutluova köyünde ceviz yetiştiren çiftçilerle bir araya geldi. Bahçede yapılan toplantıda ceviz ağaçlarına doğru bakımın nasıl yapılacağı ve budamanın hangi yöntemlerle uygulanacağı anlatıldı. Verimi ve iç kalitesini artırmaya yönelik konuların ele alındığı eğitimde üreticilerin soruları da yanıtlandı. Müdürlük, köylerde benzer bilgilendirme toplantılarının süreceğini açıkladı.",
+      "neYapmali": "Ceviz üreticileri budamayı yaprak dökümünden sonra, ağaçların dinlenme döneminde planlamalı; kuru, hastalıklı ve iç içe geçmiş dalları öncelikle almalı. Bahçesine özel öneri isteyenler ilçe tarım ve orman müdürlüğünden teknik personel ziyareti talep edebilir.",
+      "kaynaklar": [
+        {
+          "ad": "Marmaris Yeni Sayfa (İHA)",
+          "url": "https://www.marmarisyenisayfa.com/haber/kemah-ta-ceviz-ureticilerine-bakim-ve-budama-egitimi-verildi-781245.html"
+        },
+        {
+          "ad": "Patnos Haber Gazetesi",
+          "url": "https://www.patnoshabergazetesi.com/erzincan-kemahta-ceviz-ureticilerine-bakim-ve-budama-egitimi-verildi/105075"
+        }
+      ],
+      "gorsel": "assets/iha/erzincan-kemah-kutluova-ceviz-budama-egitimi.jpg",
+      "gorselKucuk": "assets/iha/erzincan-kemah-kutluova-ceviz-budama-egitimi-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
+    },
+    {
       "id": "bingol-karliova-sakaoren-sagim-hijyeni-egitimi",
       "kategori": "Hayvancılık",
       "tarih": "2026-11-04",
