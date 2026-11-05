@@ -54,6 +54,29 @@
   ],
   "haberler": [
     {
+      "id": "duzce-kahverengi-kokarca-kislak-ilaclama-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-05",
+      "eklenme": "2026-11-05T09:48:00+03:00",
+      "motif": "findik",
+      "baslik": "Düzce'de kahverengi kokarcaya karşı kışlak mücadelesi: 60 bin 800 noktada ilaçlama yapıldı",
+      "ozet": "Düzce İl Tarım ve Orman Müdürlüğü, fındık bahçelerine zarar veren kahverengi kokarcaya (Halyomorpha halys) karşı kış dönemi mücadelesini muhtarlarla birlikte sürdürüyor. Zararlının kışı geçirdiği metruk binalar, depolar, samanlıklar, garajlar, boş ahırlar ve kümeslerde bu sonbahar 60 bin 800 noktada ilaçlama yapıldı; çalışmalar devam ediyor. 2026 yılı içinde 490 noktada toplam 131 bin 200 samuray arısı doğaya salındı, 500 kişiye bitki koruma ürünü uygulayıcı belgesi verildi. Bakanlık ve İl Özel İdaresi katkısıyla 11 bin üreticiye 5 bin 545 litre bitki koruma ürünü, ayrıca 5 bin litre biyosidal ürün ile 10 bin 880 feromon ve tuzak dağıtıldı. İl Müdürü Esra Uzun, yaklaşık 632 bin dekar fındık alanı bulunan ilde mücadelenin yalnızca hasat sezonuyla sınırlı kalmadığını vurguladı.",
+      "neYapmali": "Kahverengi kokarcanın kışladığı depo, samanlık ve boş yapıları olan üreticiler, ilaçlama için köy muhtarlığına ya da ilçe tarım ve orman müdürlüğüne bildirimde bulunabilir. Bu yapılarda kendi başınıza ilaçlama yapacaksanız yalnızca ruhsatlı ürünleri, etiketindeki doza uyarak ve koruyucu ekipmanla kullanın.",
+      "kaynaklar": [
+        {
+          "ad": "Haberler.com (İHA)",
+          "url": "https://www.haberler.com/cevre/duzce-de-kahverengi-kokarca-kislak-mucadelesinde-20396844-haberi/"
+        },
+        {
+          "ad": "Düzce İl Tarım ve Orman Müdürlüğü (2025 kışlak mücadelesi)",
+          "url": "https://duzce.tarimorman.gov.tr/Haber/1387/Duzcede-Kahverengi-Kokarca-Ile-Kislak-Mucadelesi-Basladi"
+        }
+      ],
+      "gorsel": "assets/iha/duzce-kahverengi-kokarca-kislak-ilaclama-2026.jpg",
+      "gorselKucuk": "assets/iha/duzce-kahverengi-kokarca-kislak-ilaclama-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
+    },
+    {
       "id": "erzincan-cayirli-guzluk-hububat-ekimi",
       "kategori": "Bitkisel Üretim",
       "tarih": "2026-11-05",
