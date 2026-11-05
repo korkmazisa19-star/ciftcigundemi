@@ -54,6 +54,29 @@
   ],
   "haberler": [
     {
+      "id": "yesil-bodrum-mandalini-abd-miami-ihracat",
+      "kategori": "Piyasa",
+      "tarih": "2026-11-03",
+      "eklenme": "2026-11-05T07:48:00+03:00",
+      "motif": "narenciye",
+      "baslik": "Coğrafi işaretli yeşil Bodrum mandalini ilk kez ABD'ye gönderildi",
+      "ozet": "Bodrum Belediyesi Tarımsal Hizmetler Müdürlüğü ile Bodrum Belediye AŞ'nin yürüttüğü katma değer çalışması kapsamında, coğrafi işaretli yeşil Bodrum mandalini Amerika Birleşik Devletleri'ne ulaştı. Miami'de içecek sektöründe faaliyet gösteren Türk firması Drink Salmakis, Bodrum'dan ilk kez yeşil mandalin satın aldı. Aroması kaybolmasın diye hasattan sonra Muğla Bayır'daki bir meyve suyu tesisinde soğuk proseste sıkılan meyveler, katkısız olarak dondurulup deniz yoluyla donuk zincirde gönderildi. Ürünün firmanın içecek ve kokteyl karışımlarında Bodrum adıyla kullanılması planlanıyor. Belediye Başkan Yardımcısı Ercan Pehlivan, adımın üreticinin emeğini ve yörenin tarım mirasını dünyaya tanıtmak açısından önemli olduğunu söyledi.",
+      "neYapmali": "Yeşil mandalin hasadı yapan Bodrum üreticileri, endüstriyel alım ve fiyat bilgisi için Bodrum Belediyesi Tarımsal Hizmetler Müdürlüğü ile iletişime geçebilir. Coğrafi işaretli ürünü satarken tescil adını ve menşeini doğru belirtmek, ürünün değerini korumaya yardımcı olur.",
+      "kaynaklar": [
+        {
+          "ad": "Habersitesi.com (İHA)",
+          "url": "https://www.habersitesi.com/yesil-bodrum-mandalini-rotasini-amerika-ya-cevirdi-87536h.htm"
+        },
+        {
+          "ad": "Bodrum Gündem",
+          "url": "https://www.bodrumgundem.com/2026/11/03/yesil-bodrum-mandalini-rotasini-amerikaya-cevirdi-2/"
+        }
+      ],
+      "gorsel": "assets/iha/yesil-bodrum-mandalini-abd-miami-ihracat.jpg",
+      "gorselKucuk": "assets/iha/yesil-bodrum-mandalini-abd-miami-ihracat-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
+    },
+    {
       "id": "ayvalik-tagsisli-zeytinyagi-yilda-50-bin-ton",
       "kategori": "Piyasa",
       "tarih": "2026-11-03",
