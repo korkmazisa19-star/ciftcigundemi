@@ -54,6 +54,44 @@
   ],
   "haberler": [
     {
+      "id": "samsun-carsamba-130-uretici-marul-fidesi",
+      "kategori": "Hibe",
+      "tarih": "2026-11-05",
+      "eklenme": "2026-11-05T13:31:44+03:00",
+      "motif": "sera",
+      "baslik": "Çarşamba'da selden etkilenen 130 örtü altı üreticisine 1,4 milyon marul fidesi hibe edilecek",
+      "ozet": "Samsun Büyükşehir Belediyesi ile İl Tarım ve Orman Müdürlüğü, ağustostaki sellerden zarar gören Çarşamba üreticileri için \"Marul Fidesi Projesi\"ni hayata geçirdi. Proje kapsamında 36 mahalleden 130 örtü altı üreticisine 1 milyon 400 bin marul fidesi ile 9 ton 15-15-15 kompoze gübre hibe edilecek. Ağustos 2026'daki aşırı yağışlar nedeniyle ilçede iki kez sel ve su baskını yaşanmış, 47 mahallede toplam 1.179 çiftçi etkilenmişti. Çarşamba Öğretmenevi'ndeki programda DSİ'nin öngördüğü 6 denize çıkış yapısından 4'ünün tamamlandığı, kalan 2 yapının 2027 programına alındığı aktarıldı.",
+      "neYapmali": "Projeden yararlanacak üreticiler teslim gün ve yerini Çarşamba İlçe Tarım ve Orman Müdürlüğü'nden öğrenebilir. Fideyi dikmeden önce sera zemininin drenajını ve su tahliyesini kontrol etmek, yeni bir yağışta kayıp riskini azaltır.",
+      "kaynaklar": [
+        {
+          "ad": "Haber Sitesi",
+          "url": "https://www.habersitesi.com/carsamba-da-selden-zarar-goren-ureticilere-marul-fidesi-ve-gubre-destegi-88705h.htm"
+        }
+      ],
+      "gorsel": "assets/envato/samsun-carsamba-130-uretici-marul-fidesi.jpg",
+      "gorselKucuk": "assets/envato/samsun-carsamba-130-uretici-marul-fidesi-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
+    {
+      "id": "sanliurfa-suruc-pinarbasi-300-dekar-su-baskini",
+      "kategori": "Zirai Don",
+      "tarih": "2026-11-05",
+      "eklenme": "2026-11-05T13:30:44+03:00",
+      "motif": "misir",
+      "baslik": "Şanlıurfa Suruç'ta tıkanan menfezler 300 dekar tarlayı su altında bıraktı: Mısır biçilemiyor",
+      "ozet": "Şanlıurfa'nın kuzey ve doğusundaki kuvvetli yağışın sürüklediği çalı ve dallar menfezleri tıkayınca drenaj kanalları taştı. Suruç'un kuzeyindeki kırsal Pınarbaşı Mahallesi'nde yaklaşık 300 dekar mısır, pamuk ve sebze tarlası su altında kaldı; ürünler çürümeye başladı. Yaklaşık bir haftadır yağış almayan bölgeye suyun yukarıdaki köylerden geldiğini anlatan çiftçi Halil Ada, biçerdöverin tarlaya giremediğini söyleyerek yetkililerden köprü ve menfezlerin açılmasını istedi. Haberde resmî kurumların bir açıklamasına yer verilmedi.",
+      "neYapmali": "Zarar gören üreticiler durumu tarla ve parsel bilgileriyle ilçe tarım müdürlüğüne bildirmeli, poliçesi olanlar TARSİM'e hasar ihbarında bulunmalı. Tıkalı menfez ve kanallar için ilgili kuruma yazılı başvuru yapılması ve hasarın fotoğraflanması yararlı olur.",
+      "kaynaklar": [
+        {
+          "ad": "Haber Sitesi",
+          "url": "https://www.habersitesi.com/sanliurfa-da-tarim-arazileri-su-altinda-kaldi-88700h.htm"
+        }
+      ],
+      "gorsel": "assets/envato/sanliurfa-suruc-pinarbasi-300-dekar-su-baskini.jpg",
+      "gorselKucuk": "assets/envato/sanliurfa-suruc-pinarbasi-300-dekar-su-baskini-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
+    {
       "id": "aksaray-seker-pancari-hasadi-2026-basladi",
       "kategori": "Bitkisel Üretim",
       "tarih": "2026-11-05",
@@ -2372,7 +2410,6 @@
       "sera": [
         "sera-1.jpg",
         "sera-2.jpg",
-        "sera-3.jpg",
         "sera-4.jpg",
         "sera-5.jpg"
       ],
@@ -2427,7 +2464,6 @@
         "domates-4.jpg"
       ],
       "misir": [
-        "misir-1.jpg",
         "misir-2.jpg",
         "misir-3.jpg",
         "misir-4.jpg"
