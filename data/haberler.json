@@ -54,6 +54,29 @@
   ],
   "haberler": [
     {
+      "id": "aksaray-seker-pancari-hasadi-2026-basladi",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-05",
+      "eklenme": "2026-11-05T12:48:00+03:00",
+      "motif": "pancar",
+      "baslik": "Aksaray'da şeker pancarı hasadı başladı: Bu yıl üretimin 1 milyon 61 bin tona gerilemesi bekleniyor",
+      "ozet": "Türkiye'nin dördüncü büyük şeker pancarı üreticisi Aksaray'da 2026 hasadı, Vali Murat Duru ve İl Tarım ve Orman Müdürü Nejdet Demir'in katıldığı programla Yeşilova Kasabası'nda başladı. Vali Duru, bir üreticinin tarlasında hasat makinesini kendisi kullandı. Paylaşılan verilere göre ilde geçen yıl 163 bin dekarda dekar başına yaklaşık 7 bin 513 kilo verimle 1 milyon 226 bin ton pancar üretilmişti. Bu yıl ekim alanının 141 bin 70 dekara inmesi ve verim benzer kalsa da toplam üretimin yaklaşık 1 milyon 61 bin tona gerilemesi bekleniyor. Pancar fabrikalarda şekere işlenirken posası da hayvan yemi olarak kullanılıyor.",
+      "neYapmali": "Pancar üreticileri söküm ve teslim takvimini bağlı oldukları şeker fabrikası ve pancar kooperatifinden takip etmeli; sökülen pancarı tarlada uzun süre bekletmeden, toprağı iyice silkelenmiş halde teslim etmek fire kesintisini azaltır.",
+      "kaynaklar": [
+        {
+          "ad": "Aksaray Haberleri",
+          "url": "https://www.aksarayhaberleri.gen.tr/vali-murat-duru-direksiyon-basina-gecti-aksarayda-pancar-hasadi-basladi/24919"
+        },
+        {
+          "ad": "Sultanhanı Gazetesi",
+          "url": "https://www.sultanhanigazetesi.com/turkiyenin-4-buyuk-pancar-ureticisi-aksarayda-hasat-bereketi/28356"
+        }
+      ],
+      "gorsel": "assets/envato/aksaray-seker-pancari-hasadi-2026-basladi.jpg",
+      "gorselKucuk": "assets/envato/aksaray-seker-pancari-hasadi-2026-basladi-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
+    {
       "id": "adana-portakal-bahce-fiyati-5-7-tl",
       "kategori": "Piyasa",
       "tarih": "2026-11-05",
@@ -2415,7 +2438,6 @@
         "nar-3.jpg"
       ],
       "pancar": [
-        "pancar-1.jpg",
         "pancar-2.jpg",
         "pancar-3.jpg"
       ],
