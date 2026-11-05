@@ -54,6 +54,48 @@
   ],
   "haberler": [
     {
+      "id": "duzce-findik-hasat-filesi-45-yatirimci-8-milyon-hibe",
+      "kategori": "Hibe",
+      "tarih": "2026-11-05",
+      "eklenme": "2026-11-05T15:32:22+03:00",
+      "motif": "findik",
+      "baslik": "Düzce'de 45 yatırımcıya fındık hasat filesi hibesi: Toplam ödeme 8 milyon lirayı buluyor",
+      "ozet": "Düzce İl Tarım ve Orman Müdürlüğü, Kırsal Kalkınma Yatırım Programı kapsamında fındık hasat filesi desteği için hibe sözleşmelerini imzalamaya başladı. İl Müdürü Esra Uzun'un verdiği bilgiye göre 2026'da ilde 45 yatırımcı desteğe hak kazandı; ilk aşamada 16 kişiyle sözleşme yapıldı, süreç sürüyor. 45 proje için toplam hibe ödemesi 8 milyon 8 bin 186 lira olarak açıklandı. Uzun, filenin hasat işçiliğini azalttığını, gelecek yılın ürününü taşıyan sürgünleri koruduğunu ve eğimli bahçelerde de kullanılabildiğini anlattı. Fındığın bekletilmeden patozdan geçirilip uygun koşullarda kurutulmasının aflatoksin riskini düşürdüğüne de dikkat çekti.",
+      "neYapmali": "Desteğe hak kazanan Düzceli üreticiler sözleşme işlemleri için İl Tarım ve Orman Müdürlüğü ile görüşmeli. Sonraki dönem başvurularını izlemek isteyenler de kırsal kalkınma birimlerinden bilgi alabilir.",
+      "kaynaklar": [
+        {
+          "ad": "Haber380",
+          "url": "https://www.haber380.com/haber-findik-hasat-filesi-destegi-icin-hibe-sozlesmeleri-imzalandi-91007.html"
+        }
+      ],
+      "gorsel": "assets/envato/duzce-findik-hasat-filesi-45-yatirimci-8-milyon-hibe.jpg",
+      "gorselKucuk": "assets/envato/duzce-findik-hasat-filesi-45-yatirimci-8-milyon-hibe-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
+    {
+      "id": "antalya-buyuksehir-91-uretici-sera-sensoru",
+      "kategori": "Hibe",
+      "tarih": "2026-11-05",
+      "eklenme": "2026-11-05T15:31:22+03:00",
+      "motif": "sera",
+      "baslik": "Antalya'da 91 seracıya dijital sensör hibesi: Sıcaklık, nem ve don riski telefondan izlenecek",
+      "ozet": "Antalya Büyükşehir Belediyesi, Dijital Tarım Projesi kapsamında örtü altı üreticilerine sensör vermeyi sürdürüyor. Son dağıtımda Aksu'nun Murtuna ve Gökdere mahalleleri ile Kaş'ın Ahatlı mahallesinde toplam 91 üretici destek aldı; bunun 61'i Aksu'daki iki mahalleye gitti. Cihazlar seranın sıcaklık ve nemini telefona anlık aktarıyor, ani sıcaklık değişiminde ve don riskinde alarm kurulabiliyor. Üreticiler, kışın sobayla ısıtılan seralarda gece nöbetine daha az ihtiyaç duyacaklarını söylüyor. Proje Elmalı, Kumluca, Demre, Finike, Kaş, Serik ve Aksu'da uygulanıyor.",
+      "neYapmali": "Projenin uygulandığı bölgelerdeki seracılar başvuru koşullarını Büyükşehir Belediyesi Tarımsal Hizmetler Dairesi'nden sorabilir. Haberde başvuru tarihi veya şartı açıklanmadığı için güncel bilgiyi kurumdan teyit etmek gerekir.",
+      "kaynaklar": [
+        {
+          "ad": "Mersin Haber / İHA",
+          "url": "https://www.mersinhaber.com/haber-buyuksehirden-ureticilere-dijital-tarim-destegi-antalya/836681"
+        },
+        {
+          "ad": "Herkes Duysun",
+          "url": "https://herkesduysun.com/ekonomi/buyuksehir-den-ureticilere-dijital-tarim-destegi-051126391/"
+        }
+      ],
+      "gorsel": "assets/envato/antalya-buyuksehir-91-uretici-sera-sensoru.jpg",
+      "gorselKucuk": "assets/envato/antalya-buyuksehir-91-uretici-sera-sensoru-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
+    {
       "id": "zeytin-hasat-maliyeti-karacasu-bandirma-tbmm",
       "kategori": "Piyasa",
       "tarih": "2026-11-04",
@@ -2409,7 +2451,6 @@
         "don-5.jpg"
       ],
       "findik": [
-        "findik-1.jpg",
         "findik-2.jpg",
         "findik-3.jpg"
       ],
@@ -2437,8 +2478,7 @@
       "sera": [
         "sera-1.jpg",
         "sera-2.jpg",
-        "sera-4.jpg",
-        "sera-5.jpg"
+        "sera-4.jpg"
       ],
       "sut": [
         "sut-1.jpg",
