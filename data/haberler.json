@@ -54,6 +54,29 @@
   ],
   "haberler": [
     {
+      "id": "ayvalik-tagsisli-zeytinyagi-yilda-50-bin-ton",
+      "kategori": "Piyasa",
+      "tarih": "2026-11-03",
+      "eklenme": "2026-11-05T06:48:00+03:00",
+      "motif": "zeytin",
+      "baslik": "Ayvalık'tan sahte zeytinyağı uyarısı: Sektöre göre yılda yaklaşık 50 bin ton tağşişli yağ satılıyor",
+      "ozet": "21. Uluslararası Ayvalık Zeytin Hasat ve Turizm Festivali'nde zeytinyağındaki taklit ve tağşiş (karışım) sorunu konuşuldu. Sektör temsilcileri, net bir resmî veri olmamakla birlikte piyasaya her yıl yaklaşık 50 bin ton hileli yağ sürüldüğünü ve bu ürünlerde en sık Ayvalık adının kullanıldığını öne sürdü. Ayvalık Belediye Başkanı Mesut Ergin, tespit ettikleri firmalar için Ticaret Odası ile birlikte bakanlığa şikâyette bulunup dava açtıklarını, ancak caydırıcı yasal düzenlemenin bakanlıklarca yapılması gerektiğini söyledi. Ayvalık Ticaret Odası Başkanı Halil Aykut, sahte satıcıların çoğunlukla internetten ve var olmayan adreslerle çalıştığını, mevcut para cezalarının hileden elde edilen kazancı karşılamadığını belirtti. Odanın Genç Girişimciler Kurulu Başkanı Mustafa Kürlek de belli bir sayının üzerindeki vakaların nitelikli dolandırıcılık kapsamına alınmasını istedi.",
+      "neYapmali": "Zeytinyağı alırken adresi ve firması belli, ulaşılabilir üreticileri ya da coğrafi işaretli, barkodlu ürünleri tercih edin; piyasa fiyatının çok altındaki yağlara karşı dikkatli olun. Şüpheli ürünleri Tarım ve Orman Bakanlığı'nın ALO 174 Gıda Hattı'na bildirebilir, bakanlığın taklit ve tağşiş listesini kontrol edebilirsiniz.",
+      "kaynaklar": [
+        {
+          "ad": "Herkes Duysun (İHA)",
+          "url": "https://herkesduysun.com/ekonomi/yilda-50-bin-ton-tagsisli-zeytinyagi-satiliyor-en-cok-ayvalik-adi-kullaniliyor-031126212/"
+        },
+        {
+          "ad": "Gazete Rize",
+          "url": "https://www.gazeterize.com/yilda-50-bin-ton-tagsisli-zeytinyagi-satiliyor-en-cok-ayvalik-adi-kullaniliyor"
+        }
+      ],
+      "gorsel": "assets/iha/ayvalik-tagsisli-zeytinyagi-yilda-50-bin-ton.jpg",
+      "gorselKucuk": "assets/iha/ayvalik-tagsisli-zeytinyagi-yilda-50-bin-ton-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
+    },
+    {
       "id": "aycicegi-gumruk-yuzde-12-komisyonda-aygun-tepki",
       "kategori": "Piyasa",
       "tarih": "2026-11-04",
