@@ -178,6 +178,11 @@ button { font: inherit; color: inherit; }
 .slayt-yazi { position: absolute; left: 0; right: 0; bottom: 0; padding: 26px 28px 22px; color: #fff; }
 .slayt-yazi h2 { margin: 10px 0 0; font-weight: 900; font-size: clamp(24px, 3.4vw, 42px); line-height: 1.05; text-wrap: balance; text-shadow: 0 2px 12px rgba(0,0,0,.3); }
 .slayt:hover h2 { text-decoration: underline; text-decoration-thickness: 3px; text-underline-offset: 6px; text-decoration-color: var(--hasat); }
+.manset-tasarim { padding: 0 28px 30px; }
+.manset-tasarim h2 { margin-top: 12px; font-size: clamp(30px, 4.3vw, 54px); line-height: 1.22; letter-spacing: -.01em; text-transform: uppercase; text-shadow: none; max-width: 16ch; }
+.manset-tasarim h2 span { background: var(--hasat); color: #141008; padding: .02em .28em; -webkit-box-decoration-break: clone; box-decoration-break: clone; }
+.slayt:hover .manset-tasarim h2 { text-decoration: none; }
+.slayt:hover .manset-tasarim h2 span { background: #fff; }
 .slaytlar { touch-action: pan-y; user-select: none; -webkit-user-drag: none; }
 .slaytlar img { -webkit-user-drag: none; }
 .sl-ok { position: absolute; top: calc(50% - 40px); z-index: 3; width: 42px; height: 42px; border: 0; border-radius: 50%; background: rgba(0,0,0,.45); color: #fff; font-size: 28px; line-height: 1; cursor: pointer; opacity: 0; transition: opacity .2s; }
@@ -417,6 +422,8 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
   .slider { border-radius: 6px; box-shadow: none; }
   .slaytlar { aspect-ratio: 4 / 3.2; }
   .slayt-yazi h2 { font-size: 22px; line-height: 1.12; text-transform: uppercase; letter-spacing: .005em; }
+  .manset-tasarim { padding: 0 16px 20px; }
+  .manset-tasarim h2 { font-size: 30px; line-height: 1.24; max-width: 14ch; }
   .sayfalama { justify-content: center; gap: 6px; padding: 12px 10px; flex-wrap: wrap; }
   .sayfalama button { flex: none; width: 8px; height: 8px; padding: 0; font-size: 0; border: 0; border-radius: 99px; background: rgba(255,255,255,.35); transition: width .2s; }
   .sayfalama button[aria-current="true"] { width: 22px; background: var(--sondakika); border: 0; }
@@ -888,7 +895,7 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
       '<div class="slider" id="slider"><div class="slaytlar">' +
       mans.map(function (h, i) {
         return '<a class="slayt' + (i === 0 ? " aktif" : "") + '" href="' + hUrl(h.id) + '"' + katStil(h.kategori) + (i ? ' tabindex="-1" aria-hidden="true"' : "") + ">" + gorsel(h, true) +
-          '<span class="ortu"></span><div class="slayt-yazi"><span class="kat">' + e(h.kategori) + "</span><h2>" + e(h.baslik) + "</h2></div></a>";
+          '<span class="ortu"></span><div class="slayt-yazi' + (h.manset ? " manset-tasarim" : "") + '"><span class="kat">' + e(h.kategori) + "</span><h2" + (h.manset ? ' aria-label="' + e(h.baslik) + '"' : "") + "><span>" + e(h.manset || h.baslik) + "</span></h2></div></a>";
       }).join("") +
       '</div><button type="button" class="sl-ok geri" aria-label="Önceki manşet">‹</button><button type="button" class="sl-ok ileri" aria-label="Sonraki manşet">›</button>' +
       '<div class="sayfalama" role="tablist" aria-label="Manşet haberleri">' +
