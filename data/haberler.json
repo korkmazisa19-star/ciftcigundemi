@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-06T06:33:49+03:00",
+  "guncelleme": "2026-11-06T07:30:44+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,25 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "narenciye-tarsus-izmir-ureticiler-limon-1-4-tl-mandalina-sokum",
+      "kategori": "Piyasa",
+      "tarih": "2026-11-05",
+      "eklenme": "2026-11-06T07:30:44+03:00",
+      "motif": "narenciye",
+      "baslik": "Narenciye üreticisi fiyattan şikâyetçi: Tarsus'ta limona 1-4 lira teklif ediliyor, bir üretici mandalina bahçesini söküyor",
+      "ozet": "BirGün'ün 5 Kasım tarihli haberine göre Mersin Tarsus'ta limon, portakal ve nar yetiştiren Mustafa Teke, tüccarların limon için kilo başına 1-4 lira önerdiğini aktardı; aynı üründe üretim maliyeti 8-10 lira, market fiyatı 45-50 lira olarak veriliyor. Teke, 120 dönümlük mandalina bahçesini sökmeye başladığını söyledi. Narda da kilo fiyatının geçen yılki 25-30 liradan 15-20 liraya indiği, yağış nedeniyle ürünün yüzde 40-70'inin çatladığı belirtildi. İzmir Özdere Ahmetbeyli'deki üretici Akın Türe ise mandalinaya 2-3 lira teklif edildiğini, köyünde ürünün en az yarısının dalda kalacağını tahmin ediyor. Ticaret Bakanı Ömer Bolat ise aynı günlerde TBMM Plan ve Bütçe Komisyonu'nda yaptığı sunumda ihracat rekorlarını, yerli üretimin ve tüketicinin korunmasını öne çıkardı.",
+      "neYapmali": "Ağaç sökmek gibi geri dönüşü zor bir karardan önce ilçe tarım müdürlüğü ve ziraat odasından alternatif ürün ve destek bilgisi alın. Tüccarla satışta fiyatı ve ödeme koşullarını yazılı hâle getirin.",
+      "kaynaklar": [
+        {
+          "ad": "BirGün",
+          "url": "https://www.birgun.net/haber/uretici-agaclarini-sokuyor-bakan-basari-masali-anlatiyor-744646"
+        }
+      ],
+      "gorsel": "assets/envato/narenciye-tarsus-izmir-ureticiler-limon-1-4-tl-mandalina-sokum.jpg",
+      "gorselKucuk": "assets/envato/narenciye-tarsus-izmir-ureticiler-limon-1-4-tl-mandalina-sokum-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
     {
       "id": "sap-hayvan-pazarlari-ticaret-durdu-kredi-riski",
       "kategori": "Hayvancılık",
@@ -2798,7 +2817,6 @@
       ],
       "narenciye": [
         "narenciye-2.jpg",
-        "narenciye-3.jpg",
         "narenciye-4.jpg"
       ],
       "pamuk": [
