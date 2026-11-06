@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-06T23:32:00+03:00",
+  "guncelleme": "2026-11-07T00:30:21+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,26 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "bayburt-seker-pancari-155-bin-ton-rekolte-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-06",
+      "eklenme": "2026-11-07T00:30:21+03:00",
+      "motif": "pancar",
+      "baslik": "Bayburt'ta pancar hasadı sürüyor: 31 bin 700 dekardan yaklaşık 155 bin ton ürün bekleniyor",
+      "manset": "Bayburt tarlasından \"155 bin ton\" pancar",
+      "ozet": "Bayburt'ta şeker pancarı sökümü devam ediyor ve il genelinde bu yıl yaklaşık 155 bin ton ürün alınması öngörülüyor. Pancar ekimi 31 bin 700 dekarlık alanda yapıldı. Yeni sulama yatırımlarıyla sulanabilir arazinin genişlemesi rekolte beklentisini olumlu etkiliyor; modern söküm makineleri de hasadı hızlandırıp iş gücü ihtiyacını azaltıyor. İl Tarım ve Orman Müdürü Ebubekir Köse, hasat sırasında tarlaları ziyaret ederek üreticilerin sorun ve taleplerini dinledi.",
+      "neYapmali": "Pancarını teslim edecek üreticiler söküm sonrası ürünü uzun süre tarlada bekletmeden fabrika takvimine göre teslim etmeli; sulama ve hasatla ilgili sorunlarını İl ya da İlçe Tarım ve Orman Müdürlüğüne iletebilir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA / Mersin Haber",
+          "url": "https://mersinhaber.com/haber-bayburtta-seker-pancari-rekoltesinin-155-bin-ton-olmasi-bekleniyor/837743"
+        }
+      ],
+      "gorsel": "assets/envato/bayburt-seker-pancari-155-bin-ton-rekolte-2026.jpg",
+      "gorselKucuk": "assets/envato/bayburt-seker-pancari-155-bin-ton-rekolte-2026-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
     {
       "id": "seferihisar-mandalina-ureticisi-kulturpark-ucretsiz-pazar",
       "kategori": "Piyasa",
@@ -2760,18 +2780,6 @@
   ],
   "takvim": [
     {
-      "tarih": "2026-11-06",
-      "baslik": "Arıcılık desteği başvurusu",
-      "kapsam": "Türkiye geneli",
-      "haber": "aricilik-son-gun-6-kasim"
-    },
-    {
-      "tarih": "2026-11-06",
-      "baslik": "Aydın'da 17 ilçede Cuma Buluşmaları (14.00)",
-      "kapsam": "Aydın",
-      "haber": "aydin-cuma-bulusmalari-17-ilce-6-kasim"
-    },
-    {
       "tarih": "2026-11-09",
       "baslik": "Bolu'da hayvan pazarları yeniden açılıyor",
       "kapsam": "Bolu",
@@ -3176,9 +3184,7 @@
         "nar-2.jpg",
         "nar-3.jpg"
       ],
-      "pancar": [
-        "pancar-2.jpg"
-      ],
+      "pancar": [],
       "kestane": []
     }
   }
