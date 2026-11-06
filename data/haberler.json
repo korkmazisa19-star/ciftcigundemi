@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-06T18:31:50+03:00",
+  "guncelleme": "2026-11-06T19:41:35+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,25 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "corum-hitit-toprak-calistayi-humik-asit-50-bin-litre",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-06",
+      "eklenme": "2026-11-06T19:41:35+03:00",
+      "motif": "tohum",
+      "baslik": "Çorum'da toprak çalıştayı: Bakanlık bu yıl 50 bin litre hümik asidi yedi bölgeye dağıtıyor",
+      "ozet": "Hitit Üniversitesi Sürdürülebilirlik Ofisi, Çorum'da \"İklim Değişikliği Perspektifinden Toprak ve Sürdürülebilir Tarım Çalıştayı\" düzenledi. Tarım ve Orman Bakanlığı Eğitim ve Yayın Dairesi Başkanı Bülent Kahraman Çolakoğlu, bir protokolle elde edilen 30 bin litre hümik asidin 40 ilde, 600 çiftçinin 6 bin dekarlık alanında denendiğini ve verimin ortalama yüzde 30 arttığını gözlemlediklerini anlattı; bu oran kendi değerlendirmeleri. Çolakoğlu, bu yıl 50 bin litre hümik asidin yedi bölgedeki il müdürlüklerine dağıtıldığını ve uygulamanın meralara da genişletildiğini söyledi. Çalıştayda toprak sağlığı, kuraklık ve erozyon, mera ve hayvancılık ile sürdürülebilir toprak yönetimi başlıklarında masalar kuruldu.",
+      "neYapmali": "Hümik asit uygulamasına katılmak isteyen üreticiler il veya ilçe tarım müdürlüğüne bölgelerinde dağıtım yapılıp yapılmadığını sorabilir. Herhangi bir toprak düzenleyiciyi kullanmadan önce toprak analizi yaptırmak doğru dozu belirlemeye yardımcı olur.",
+      "kaynaklar": [
+        {
+          "ad": "Aksiyon",
+          "url": "https://aksiyon.com.tr/toprak-sagligi-ve-verimlilik-hitit-universitesi-nde-masaya-yatirildi-389678"
+        }
+      ],
+      "gorsel": "assets/envato/corum-hitit-toprak-calistayi-humik-asit-50-bin-litre.jpg",
+      "gorselKucuk": "assets/envato/corum-hitit-toprak-calistayi-humik-asit-50-bin-litre-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
     {
       "id": "tmo-findik-cks-tuccar-manav-2-yil-alim-yasagi",
       "kategori": "Piyasa",
@@ -2972,8 +2991,7 @@
         "balik-5.jpg"
       ],
       "bugday": [
-        "bugday-4.jpg",
-        "bugday-5.jpg"
+        "bugday-4.jpg"
       ],
       "don": [
         "don-2.jpg",
