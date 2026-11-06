@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-06T19:41:35+03:00",
+  "guncelleme": "2026-11-06T20:41:35+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,29 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "bursa-nilufer-75-bin-cilek-fidesi-yuzde-70-hibe",
+      "kategori": "Hibe",
+      "tarih": "2026-11-06",
+      "eklenme": "2026-11-06T20:41:35+03:00",
+      "motif": "sera",
+      "baslik": "Bursa Nilüfer'de çiftçilere yüzde 70 hibeyle 75 bin çilek fidesi dağıtıldı",
+      "ozet": "Nilüfer Belediyesi ve Nilüfer Tarımsal Kalkınma Kooperatifi (NİLKOOP), İnegazi, Atlas ve Kuruçeşme mahallelerindeki üreticilere yüzde 70 hibeyle 75 bin sertifikalı çilek fidesi verdi. Projede kadın çiftçilerin üretime katılımına öncelik tanındı; İnegazi ve Atlas'ta mevcut üretimin artırılması, Kuruçeşme'de ise yeni üretim alanı açılması hedefleniyor. Belediye Başkan Yardımcısı Zerrin Güleş, TÜİK'in 2025 verilerine göre ilçede 167 dekarda bin 265 ton çilek üretildiğini aktardı. Çiftçilere dikim ve bakım eğitimi verilecek; belediye teknik personeli sezon boyunca sahayı izleyecek, ürünün satışında NİLKOOP destek olacak.",
+      "neYapmali": "Fide alan üreticiler dikim ve bakım eğitimlerine katılmalı; sonraki dönem fide desteği için belediyenin kırsal hizmetler birimi ve NİLKOOP ile iletişimde kalabilir.",
+      "kaynaklar": [
+        {
+          "ad": "Yeniçağ",
+          "url": "https://www.yenicaggazetesi.com/bursa-niluferde-ciftcilere-yuzde-70-hibeyle-75-bin-cilek-fidesi-dagitildi-1088759h.htm"
+        },
+        {
+          "ad": "Mersin Haber",
+          "url": "https://www.mersinhaber.com/haber-bursa-niluferde-ciftcilere-75-bin-cilek-fidesi-dagitildi/837996"
+        }
+      ],
+      "gorsel": "assets/envato/bursa-nilufer-75-bin-cilek-fidesi-yuzde-70-hibe.jpg",
+      "gorselKucuk": "assets/envato/bursa-nilufer-75-bin-cilek-fidesi-yuzde-70-hibe-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
     {
       "id": "corum-hitit-toprak-calistayi-humik-asit-50-bin-litre",
       "kategori": "Bitkisel Üretim",
@@ -3019,9 +3042,7 @@
         "para-4.jpg",
         "para-5.jpg"
       ],
-      "sera": [
-        "sera-4.jpg"
-      ],
+      "sera": [],
       "sut": [
         "sut-2.jpg",
         "sut-4.jpg",
