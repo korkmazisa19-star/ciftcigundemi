@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-07T00:30:21+03:00",
+  "guncelleme": "2026-11-07T02:31:14+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,30 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "istanbul-beykoz-marmara-veteriner-yol-kontrol-istasyonu-acildi",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-06",
+      "eklenme": "2026-11-07T02:31:14+03:00",
+      "motif": "sut",
+      "baslik": "Anadolu'dan Trakya'ya hayvan sevkine yeni denetim: Beykoz'da veteriner yol kontrol istasyonu açıldı",
+      "manset": "\"7,5 milyon\" hayvan yolda denetlendi",
+      "ozet": "Tarım ve Orman Bakanı İbrahim Yumaklı, 6 Kasım'da İstanbul Beykoz'un Riva bölgesinde kurulan Marmara Veteriner Yol Kontrol ve Denetim İstasyonu'nu hizmete açtı. Erzurum, Elazığ, Kayseri, Çankırı ve Ankara'dan sonra altıncı olan istasyonda araçlardaki hayvanların küpe ve kimlik kayıtları, veteriner sağlık raporları ve aracın hijyen koşulları kontrol edilecek. Bakanın verdiği bilgiye göre mevcut beş istasyonda yaklaşık 48 bin 853 araç ve 7,5 milyon canlı hayvan denetlendi; 2 bin 204 araçta ve 22 bin 817 hayvanda uygunsuzluk bulundu. Kontrol noktasından kaçmak için başka yol kullananlara toplam yaklaşık 36 milyon liralık yaptırım uygulandığı belirtildi. Yeni istasyonla, şaptan ari sayılan Trakya'ya Anadolu'dan gelen hayvan hareketlerinin denetim altına alınması hedefleniyor.",
+      "neYapmali": "Trakya'ya hayvan sevk edecek yetiştiriciler, yola çıkmadan önce hayvanların küpelerini, kayıtlarını ve veteriner sağlık raporunu eksiksiz hazırlamalı; aracın hijyen şartlarını da kontrol ettirmeli. Belgeler konusunda soru varsa il ya da ilçe tarım ve orman müdürlüğüne danışılabilir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA / Bursa Hakimiyet",
+          "url": "https://www.bursahakimiyet.com.tr/ekonomi/yumakli-anadolu-dan-trakya-ya-hayvan-hareketlerinin-kontrolsuz-olma-hususunu-bu-yolla-bitirmis-olacagiz-1745774"
+        },
+        {
+          "ad": "İHA / İşçi Haber",
+          "url": "https://www.iscihaber.net/gundem/bakan-yumakli-acikladi-75-milyon-hayvan-denetlendi-36-milyon-liralik-yaptirim-uygulandi/279318"
+        }
+      ],
+      "gorsel": "assets/envato/istanbul-beykoz-marmara-veteriner-yol-kontrol-istasyonu-acildi.jpg",
+      "gorselKucuk": "assets/envato/istanbul-beykoz-marmara-veteriner-yol-kontrol-istasyonu-acildi-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
     {
       "id": "alasehir-zeytin-hasadi-uzumde-dusuk-fiyat-2026",
       "kategori": "Bitkisel Üretim",
@@ -3163,7 +3187,6 @@
       "sera": [],
       "sut": [
         "sut-2.jpg",
-        "sut-4.jpg",
         "sut-5.jpg"
       ],
       "tohum": [],
