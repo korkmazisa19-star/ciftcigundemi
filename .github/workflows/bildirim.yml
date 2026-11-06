@@ -27,7 +27,7 @@ jobs:
       - name: Bildirim gonder
         env:
           FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
-          TEST: ${{ github.event.inputs.test == 'true' && '1' || '0' }}
+          TEST: ${{ (inputs.test == true || inputs.test == 'true') && '1' || '0' }}
         run: |
           if [ -z "$FIREBASE_SERVICE_ACCOUNT" ]; then echo "Gizli anahtar tanimli degil, atlaniyor."; exit 0; fi
           cd _build/bildirim && npm install --no-audit --no-fund --silent && node gonder.mjs
