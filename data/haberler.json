@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-06T05:29:45+03:00",
+  "guncelleme": "2026-11-06T06:33:49+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,48 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "sap-hayvan-pazarlari-ticaret-durdu-kredi-riski",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-05",
+      "eklenme": "2026-11-06T06:33:49+03:00",
+      "motif": "sut",
+      "baslik": "Şap nedeniyle kapanan hayvan pazarları üreticiyi sıkıştırdı: Hayvan ahırda kaldı, kredi ödemeleri riske girdi",
+      "ozet": "Memurlar.Net'in 5 Kasım'da aktardığı Ekonomim haberine göre şap görülen il ve ilçelerde canlı hayvan pazarlarının geçici olarak kapatılması ticareti neredeyse durdurdu. Haberde aralarında Kars, Amasya, Bursa'nın İnegöl, Denizli'nin Acıpayam ilçeleri ve Kütahya'nın da bulunduğu 17 ilin adı geçiyor. Her ildeki pazarda günlük 75-150 milyon liralık alım satım yapıldığı, bazı illerde kapanmanın iki ayı aştığı aktarılıyor. Kars'ta hayvan alım satımı yapan Resul Topyaka, günde 500-1.000 büyükbaş hayvanın el değiştirdiği ticaretin durduğunu ve üreticinin hayvanı ahırda beslemek zorunda kaldığını söyledi; bir hayvanın aylık yem ve bakım gideri yaklaşık 7 bin lira olarak hesaplanıyor. Haberde, Bakanlığın yılda iki ya da üç kez ücretsiz aşılama yaptığı belirtilirken, veteriner hekim Bilal Sarı yaylalardaki hayvanların aşı dönemini kaçırmış olabileceğini dile getirdi.",
+      "neYapmali": "Hayvan alıp satacak üreticiler pazarın açılış tarihini ve sevk şartlarını önce il veya ilçe tarım müdürlüğünden öğrenmeli, aşısı kaçan hayvanlar için resmî veterinerle görüşmeli. Kredi ödemesinde zorlanacaklar erken aşamada bankası veya kooperatifiyle konuşmalı.",
+      "kaynaklar": [
+        {
+          "ad": "Memurlar.Net (Ekonomim haberi)",
+          "url": "https://www.memurlar.net/haber/1183129/sap-hastaligi-hayvancilik-sektorunu-vurdu.html"
+        }
+      ],
+      "gorsel": "assets/envato/sap-hayvan-pazarlari-ticaret-durdu-kredi-riski.jpg",
+      "gorselKucuk": "assets/envato/sap-hayvan-pazarlari-ticaret-durdu-kredi-riski-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
+    {
+      "id": "adana-19-tarim-sera-bahce-fuari-80-firma",
+      "kategori": "Makine",
+      "tarih": "2026-11-04",
+      "eklenme": "2026-11-06T06:32:49+03:00",
+      "motif": "traktor",
+      "baslik": "Adana'da 19. Tarım ve Sera-Bahçe Fuarı 80 firmayla açıldı: Ziyaret 8 Kasım'a kadar sürüyor",
+      "ozet": "19. Tarım ve Sera-Bahçe Fuarı, 4 Kasım'da TÜYAP Adana Uluslararası Fuar ve Kongre Merkezi'nde kapılarını açtı. Anadolu Ajansı'nın aktardığına göre beş gün sürecek fuara 80 firma katılıyor; traktör, biçerdöver ve diğer tarım makinelerinin yanı sıra sera, bahçe, hayvancılık ve süt endüstrisi ürünleri sergileniyor. Vali Mustafa Yavuz açılışta Adana'nın sanayi kadar tarımda da güçlü bir kent olduğunu vurguladı. TÜYAP Fuarlar Yapım Genel Müdürü İlhan Ersözlü ise Irak, İran ve Suriye'den heyetlerin geldiğini, 17 ülkeden ziyaretçinin çevrim içi ön kayıt yaptırdığını söyledi.",
+      "neYapmali": "Makine ya da sera yatırımı düşünen üreticiler 8 Kasım'a kadar fuarda firmaların fiyat ve ödeme şartlarını karşılaştırabilir. Hibe kapsamında alım yapacaklar satın alma kurallarını önce tarım müdürlüğüne sormalı.",
+      "kaynaklar": [
+        {
+          "ad": "Adana Post (AA)",
+          "url": "https://www.adanapost.com/ekonomi/adanada-19-tarim-ve-sera-bahce-fuari-acildi-224847h"
+        },
+        {
+          "ad": "Canlı Gaste (AA)",
+          "url": "https://www.canligaste.com/adana-da-19-tarim-ve-sera-bahce-fuari-80-firmayla-acildi/942641/"
+        }
+      ],
+      "gorsel": "assets/envato/adana-19-tarim-sera-bahce-fuari-80-firma.jpg",
+      "gorselKucuk": "assets/envato/adana-19-tarim-sera-bahce-fuari-80-firma-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
     {
       "id": "mersin-toroslar-belediyesi-safran-ilk-hasat",
       "kategori": "Bitkisel Üretim",
@@ -2730,7 +2772,6 @@
       ],
       "sut": [
         "sut-2.jpg",
-        "sut-3.jpg",
         "sut-4.jpg",
         "sut-5.jpg"
       ],
@@ -2738,7 +2779,6 @@
         "tohum-2.jpg"
       ],
       "traktor": [
-        "traktor-4.jpg",
         "traktor-5.jpg"
       ],
       "zeytin": [
