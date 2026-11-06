@@ -42,6 +42,7 @@ const db = admin.firestore();
 const snap = await db.collection("bildirim").get();
 const kayitlar = snap.docs.map(d => ({ ref: d.ref, token: d.get("token") })).filter(k => typeof k.token === "string");
 console.log(`${kayitlar.length} abone, ${taze.length} yeni haber.`);
+for (const d of snap.docs) { const z = d.get("zaman"); console.log("abone kaydı:", z && z.toDate ? z.toDate().toISOString() : "?", "token uzunluğu", (d.get("token") || "").length); }
 
 const secilen = taze.slice(0, EN_FAZLA);
 for (const h of taze) gonderilen.add(h.id);
