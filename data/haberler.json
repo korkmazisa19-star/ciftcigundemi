@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-06T15:31:27+03:00",
+  "guncelleme": "2026-11-06T16:42:07+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,25 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "adiyaman-celikhan-yuzde-60-hibe-25er-kucukbas",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-06",
+      "eklenme": "2026-11-06T16:42:07+03:00",
+      "motif": "koyun",
+      "baslik": "Adıyaman Çelikhan'da çiftçilere yüzde 60 hibeyle 25'er küçükbaş hayvan verildi",
+      "ozet": "Adıyaman'ın Çelikhan ilçesinde, Adıyaman Valiliği'nin finanse ettiği Hayvancılığı Geliştirme Projesi kapsamında çiftçilere 25'er küçükbaş hayvan teslim edildi. Hayvanlar yüzde 60 hibeyle, ayni destek olarak verildi. Teslim programına Vali Yardımcısı Emine Karataş ve Çelikhan Kaymakamı Özgür Pelvan katıldı. İlçe Tarım ve Orman Müdürlüğü, projenin ilçede hayvancılığı geliştirmeyi ve üreticileri desteklemeyi amaçladığını bildirdi. Haberde destekten yararlanan çiftçi sayısı ve proje bütçesi yer almıyor.",
+      "neYapmali": "Çelikhan ve çevresindeki yetiştiriciler, projenin yeni dönemleri ve başvuru şartları için ilçe tarım ve orman müdürlüğüne danışabilir. Teslim alınan hayvanların küpe ve kayıt işlemlerinin TÜRKVET'te eksiksiz yapılması gerekir.",
+      "kaynaklar": [
+        {
+          "ad": "Son Dakika (İHA)",
+          "url": "https://www.sondakika.com/yerel/haber-celikhan-da-ciftcilere-valilik-destekli-projede-25-20402440/"
+        }
+      ],
+      "gorsel": "assets/envato/adiyaman-celikhan-yuzde-60-hibe-25er-kucukbas.jpg",
+      "gorselKucuk": "assets/envato/adiyaman-celikhan-yuzde-60-hibe-25er-kucukbas-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
     {
       "id": "odunpazari-15-ton-yunus-tohumluk-bugday-300-cuval",
       "kategori": "Bitkisel Üretim",
@@ -2906,7 +2925,6 @@
       "koyun": [
         "koyun-1.jpg",
         "koyun-2.jpg",
-        "koyun-4.jpg",
         "koyun-5.jpg"
       ],
       "para": [
