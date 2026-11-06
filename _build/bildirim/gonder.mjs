@@ -14,6 +14,31 @@ const SESSIZ = [23, 7];             // TR saatiyle 23:00–07:00 arası gönderi
 const sa = process.env.FIREBASE_SERVICE_ACCOUNT;
 if (!sa) { console.log("FIREBASE_SERVICE_ACCOUNT yok, bildirim atlanıyor."); process.exit(0); }
 
+// Test modu: sessiz saat ve yeni haber şartı olmadan tüm abonelere deneme bildirimi gönderir,
+// her abonenin sonucunu yazar, hiçbir kaydı silmez ve durum dosyasına dokunmaz.
+if (process.env.TEST === "1") {
+  admin.initializeApp({ credential: admin.credential.cert(JSON.parse(sa)) });
+  const proje = JSON.parse(sa).project_id;
+  const snap = await admin.firestore().collection("bildirim").get();
+  console.log(`TEST: proje ${proje}, ${snap.size} abone kaydı.`);
+  for (const d of snap.docs) {
+    const tk = d.get("token"), z = d.get("zaman");
+    const zaman = z && z.toDate ? z.toDate().toISOString() : "?";
+    if (typeof tk !== "string") { console.log("kayıt", d.id.slice(0, 8), zaman, "token yok"); continue; }
+    try {
+      const id = await admin.messaging().send({
+        token: tk,
+        webpush: {
+          notification: { title: "Çiftçi Gündemi · Deneme bildirimi", body: "Bu bir deneme bildirimidir. Görüyorsanız bildirimler çalışıyor.", icon: `${SITE}/assets/ikon-192.png`, data: { link: SITE + "/" } },
+          fcmOptions: { link: SITE + "/" }, headers: { TTL: "3600", Urgency: "high" }
+        }
+      });
+      console.log("kayıt", d.id.slice(0, 8), zaman, "uç:", tk.split(":")[0].slice(0, 6) + "…", "BAŞARILI", id.split("/").pop());
+    } catch (e) { console.log("kayıt", d.id.slice(0, 8), zaman, "HATA", e.code, (e.message || "").slice(0, 200)); }
+  }
+  process.exit(0);
+}
+
 const V = JSON.parse(fs.readFileSync(path.join(KOK, "data", "haberler.json"), "utf8"));
 const haberler = [...V.haberler].sort((a, b) => String(b.eklenme || b.tarih).localeCompare(String(a.eklenme || a.tarih)));
 let durum = fs.existsSync(DURUM) ? JSON.parse(fs.readFileSync(DURUM, "utf8")) : null;

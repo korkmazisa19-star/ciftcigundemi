@@ -6,6 +6,11 @@ on:
   schedule:
     - cron: "15 4 * * *"   # 07:15 TR: gece biriken haberi sabah gönder
   workflow_dispatch:
+    inputs:
+      test:
+        description: "Deneme bildirimi gonder (sessiz saat ve yeni haber sarti yok, kayit silinmez)"
+        type: boolean
+        default: false
 permissions:
   contents: write
 concurrency:
@@ -22,6 +27,7 @@ jobs:
       - name: Bildirim gonder
         env:
           FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+          TEST: ${{ github.event.inputs.test == 'true' && '1' || '0' }}
         run: |
           if [ -z "$FIREBASE_SERVICE_ACCOUNT" ]; then echo "Gizli anahtar tanimli degil, atlaniyor."; exit 0; fi
           cd _build/bildirim && npm install --no-audit --no-fund --silent && node gonder.mjs
