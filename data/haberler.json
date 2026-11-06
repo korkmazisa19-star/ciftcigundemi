@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-06T14:30:00+03:00",
+  "guncelleme": "2026-11-06T15:31:27+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,48 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "odunpazari-15-ton-yunus-tohumluk-bugday-300-cuval",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-05",
+      "eklenme": "2026-11-06T15:31:27+03:00",
+      "motif": "bugday",
+      "baslik": "Odunpazarı Belediyesi üreticilere 15 ton Yunus çeşidi tohumluk buğday dağıttı",
+      "ozet": "Eskişehir'de Odunpazarı Belediyesi, üretim maliyetini azaltmak amacıyla çiftçilerle bir araya geldi ve Yunus çeşidi tohumluk buğdayı dağıttı. 5 Kasım'da duyurulan etkinlikte toplam 15 ton tohum, 50'şer kiloluk 300 çuval hâlinde verildi. Buluşmaya Başkan Kazım Kurt ile Odunpazarı Ziraat Odası Başkanı Burhan Çelikoğlu ve Geçit Kuşağı Tarımsal Araştırma Enstitüsü yetkilileri katıldı. Kurt, dağıtılan tohumun önümüzdeki yıllarda çoğalarak daha fazla üreticiye ulaşmasını beklediklerini söyledi; tarım politikasında üreticiye doğrudan desteğin esas olması gerektiğini savundu.",
+      "neYapmali": "Eskişehir'deki üreticiler sonraki dağıtımlar için belediye ve Odunpazarı Ziraat Odası ile görüşebilir. Tohumu alanlar ekim zamanı ve çeşit özellikleri için ilçe tarım müdürlüğünden bilgi almalı.",
+      "kaynaklar": [
+        {
+          "ad": "İstikbal Gazetesi",
+          "url": "https://istikbalgazetesi.com/odunpazarindan-ureticiye-yerel-tohum-destegi"
+        },
+        {
+          "ad": "Gazete Vatan",
+          "url": "https://www.gazetevatan.com/galeri/eskisehirde-ureticiye-destek-300-cuval-dagitildi-2461768"
+        }
+      ],
+      "gorsel": "assets/envato/odunpazari-15-ton-yunus-tohumluk-bugday-300-cuval.jpg",
+      "gorselKucuk": "assets/envato/odunpazari-15-ton-yunus-tohumluk-bugday-300-cuval-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
+    {
+      "id": "tbmm-durmaz-elma-limon-5-tl-market-fiyat-farki",
+      "kategori": "Piyasa",
+      "tarih": "2026-11-06",
+      "eklenme": "2026-11-06T15:30:27+03:00",
+      "motif": "elma",
+      "baslik": "Elma ve limondaki fiyat farkı Meclis'te: Durmaz, mazottan ÖTV ve KDV kaldırılmasını istedi",
+      "ozet": "CHP Tokat Milletvekili Kadim Durmaz, TBMM Genel Kurulu'ndaki konuşmasında üretici ile market arasındaki fiyat farkını gündeme getirdi. Durmaz'a göre üretici elmayı 5 liraya bile satamazken aynı ürün markette 60-70 liraya, limon ise 50-60 liraya kadar satılıyor. Milletvekili, 100 lirayı aştığını söylediği mazotta çiftçiden ÖTV ve KDV alınmamasını, taban fiyatların ekimden önce açıklanmasını talep etti. Kaynak haberde Tarım ve Orman Bakanlığı'nın bu sözlere verdiği bir yanıt yer almıyor.",
+      "neYapmali": "Bu sözler bir milletvekilinin talepleridir, resmî bir karar anlamına gelmez. Üreticiler satış öncesinde birkaç alıcıdan teklif alıp hal ve borsa fiyatlarıyla karşılaştırabilir.",
+      "kaynaklar": [
+        {
+          "ad": "Ekonomi Politikası",
+          "url": "https://ekonomipolitikasi.com.tr/elma-fiyatlari-meclis-gundeminde-ciftci-5-liraya-satamiyor/"
+        }
+      ],
+      "gorsel": "assets/envato/tbmm-durmaz-elma-limon-5-tl-market-fiyat-farki.jpg",
+      "gorselKucuk": "assets/envato/tbmm-durmaz-elma-limon-5-tl-market-fiyat-farki-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
     {
       "id": "marmarabirlik-avrupa-market-zinciri-74-ulke-ihracat",
       "kategori": "Piyasa",
@@ -2840,7 +2882,6 @@
         "balik-5.jpg"
       ],
       "bugday": [
-        "bugday-3.jpg",
         "bugday-4.jpg",
         "bugday-5.jpg"
       ],
@@ -2897,8 +2938,7 @@
         "ayva-3.jpg"
       ],
       "elma": [
-        "elma-3.jpg",
-        "elma-4.jpg"
+        "elma-3.jpg"
       ],
       "narenciye": [
         "narenciye-2.jpg",
