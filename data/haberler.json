@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-06T02:29:54+03:00",
+  "guncelleme": "2026-11-06T04:30:25+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,25 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "elazig-hos-40-bin-ton-uzum-alici-isikver-tbmm",
+      "kategori": "Piyasa",
+      "tarih": "2026-11-05",
+      "eklenme": "2026-11-06T04:30:25+03:00",
+      "motif": "traktor",
+      "baslik": "Elazığ'da üzüm üreticisi alıcı bulamıyor: Milletvekili Işıkver, Hoş bölgesindeki 40 bin ton için taban fiyat istedi",
+      "ozet": "MHP Elazığ Milletvekili Semih Işıkver, Ticaret Bakanlığı'nın 2027 bütçesinin görüşüldüğü komisyon toplantısında ilin bağcılarının sorunlarını gündeme getirdi. Işıkver'e göre Hoş bölgesi köylerinde yaklaşık 40 bin ton sofralık üzüm pazar bulamadı ve bu durum yaklaşık 30 bin kişiyi etkiliyor. İl Tarım ve Orman Müdürlüğü verilerine dayanarak Elazığ'da 108 bin 284 dekarda bağ bulunduğunu, yaklaşık 7 bin ailenin bu işle uğraştığını ve yıllık ortalama üretimin 120 bin ton olduğunu aktardı. Milletvekili, TMO ya da Tarım Kredi eliyle kamu alımı, taban fiyat, ürünün yurt, okul, kışla ve huzurevlerinde değerlendirilmesi ile bölgesel bir meyve suyu ve şıra tesisi talep etti. Bunlar Işıkver'in değerlendirmesi ve önerileri olup kaynak haberde Bakanlık tarafının bir yanıtı yer almıyor.",
+      "neYapmali": "Elinde ürün kalan bağcılar stok miktarını ilçe tarım müdürlüğü ve ziraat odasına bildirebilir. Kamu alımı ya da taban fiyat konusunda şimdilik açıklanmış bir karar bulunmadığından satış planı yaparken resmî duyuruları takip etmekte fayda var.",
+      "kaynaklar": [
+        {
+          "ad": "Elazığ Sonsöz",
+          "url": "https://www.elazigsonsoz.com/isikver-tbmm-de-uzum-ureticilerinin-sesi-olmaya-devam-ediyor/17267"
+        }
+      ],
+      "gorsel": "assets/envato/elazig-hos-40-bin-ton-uzum-alici-isikver-tbmm.jpg",
+      "gorselKucuk": "assets/envato/elazig-hos-40-bin-ton-uzum-alici-isikver-tbmm-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
     {
       "id": "bolu-hayvan-pazarlari-9-kasimda-aciliyor",
       "kategori": "Hayvancılık",
@@ -2701,7 +2720,6 @@
         "tohum-4.jpg"
       ],
       "traktor": [
-        "traktor-3.jpg",
         "traktor-4.jpg",
         "traktor-5.jpg"
       ],
