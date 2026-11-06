@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-06T08:30:00+03:00",
+  "guncelleme": "2026-11-06T09:32:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,48 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "sarigol-kestane-hasadi-2026-170-220-tl",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-04",
+      "eklenme": "2026-11-06T09:32:00+03:00",
+      "motif": "kestane",
+      "baslik": "Sarıgöl'de kestane hasadı başladı: İriliğine göre kilosu 170-220 liradan alıcı buluyor",
+      "ozet": "Manisa'nın Sarıgöl ilçesinde 2026 kestane hasadına Karacaali, Beyharman ve Kızılçukur mahallelerinde başlandı. Bölgede yetiştirilen şekerci çeşidinde üreticiler rekoltenin geçen yılın üzerinde olduğunu söylüyor, ancak haberde kesin bir miktar verilmiyor. Toplanan ürün boylarına göre ayrılarak iç piyasaya ve ihracata sunuluyor. Fiyatlar iriliğe göre kilogram başına 170 ile 220 lira arasında değişiyor. Bilgileri aktaran isim, bölge üreticilerinden Ahmet Özdemir.",
+      "neYapmali": "Üreticiler ürünü boylarına göre ayırıp farklı alıcılardan teklif alarak fiyatı karşılaştırabilir. Kestaneyi hasattan sonra serin ve havadar yerde tutmak kayıpları azaltır.",
+      "kaynaklar": [
+        {
+          "ad": "Aydın Denge (İHA)",
+          "url": "https://www.aydindenge.com.tr/ekonomi/04/11/2026/sarigolde-kestane-hasadi-basladi"
+        },
+        {
+          "ad": "Son Dakika",
+          "url": "https://www.sondakika.com/ekonomi/haber-sarigol-de-2026-kestane-hasadi-basladi-kilogrami-1-20395426/"
+        }
+      ],
+      "gorsel": "assets/envato/sarigol-kestane-hasadi-2026-170-220-tl.jpg",
+      "gorselKucuk": "assets/envato/sarigol-kestane-hasadi-2026-170-220-tl-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
+    {
+      "id": "manisa-teknotarim-2026-fuar-8-kasim",
+      "kategori": "Makine",
+      "tarih": "2026-11-05",
+      "eklenme": "2026-11-06T09:31:00+03:00",
+      "motif": "traktor",
+      "baslik": "Manisa'da 20. Tarım ve Hayvancılık Fuarı kapılarını açtı: TEKNOTARIM'26 8 Kasım'a kadar ziyaret edilebilecek",
+      "ozet": "Manisa 20. Uluslararası Tarım ve Hayvancılık Fuarı (TEKNOTARIM'26) Manisa Fuar Merkezi'nde ziyarete açıldı. Fuar, Manisa İl Tarım ve Orman Müdürlüğü, Manisa Büyükşehir Belediyesi ve TACT Fuarcılık iş birliğiyle düzenleniyor. Ziyaretçiler 8 Kasım'a kadar her gün 10.00-19.00 arasında fuarı gezebilecek. Açılış konuşmalarında girdi maliyetleri, iklim değişikliği, suyun verimli kullanımı ve modern sulama öne çıktı.",
+      "neYapmali": "Makine, sulama ya da hayvancılık ekipmanı almayı düşünen üreticiler fuarda farklı firmaların fiyat ve ödeme koşullarını yan yana görebilir. Hibe kapsamındaki bir alım planlanıyorsa koşullar önceden il veya ilçe tarım müdürlüğünden sorulmalı.",
+      "kaynaklar": [
+        {
+          "ad": "Haber Erk",
+          "url": "https://www.habererk.com/haber/manisa-daki-tarim-fuari-8-kasim-a-kadar-acik_359853/"
+        }
+      ],
+      "gorsel": "assets/envato/manisa-teknotarim-2026-fuar-8-kasim.jpg",
+      "gorselKucuk": "assets/envato/manisa-teknotarim-2026-fuar-8-kasim-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
     {
       "id": "elbistan-pancar-c-kotasi-1750-tl-uretici-eylemi",
       "kategori": "Piyasa",
@@ -2824,9 +2866,7 @@
       "tohum": [
         "tohum-2.jpg"
       ],
-      "traktor": [
-        "traktor-5.jpg"
-      ],
+      "traktor": [],
       "zeytin": [
         "zeytin-1.jpg",
         "zeytin-3.jpg",
@@ -2869,9 +2909,7 @@
       "pancar": [
         "pancar-2.jpg"
       ],
-      "kestane": [
-        "kestane-1.jpg"
-      ]
+      "kestane": []
     }
   }
 }
