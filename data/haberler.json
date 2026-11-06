@@ -54,6 +54,26 @@
   ],
   "haberler": [
     {
+      "id": "alasehir-zeytin-hasadi-uzumde-dusuk-fiyat-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-04",
+      "eklenme": "2026-11-07T01:50:00+03:00",
+      "motif": "zeytin",
+      "baslik": "Alaşehir'de zeytin hasadı başladı: Üzümde fiyattan yakınan üretici zeytindeki verimden memnun",
+      "manset": "Üzüm üzdü, zeytin \"yüz güldürdü\"",
+      "ozet": "Manisa'nın Alaşehir ilçesinde yoğun geçen üzüm sezonunun ardından zeytin hasadına geçildi. İlçede yaklaşık 80 bin dekar alanda hem sofralık hem yağlık zeytin yetiştiriliyor. İki dekarlık zeytinliğinde hasada başlayan üretici Mahmut Çetin, bu yıl üzüm fiyatlarının düşük kaldığını ve bağdan beklediği geliri elde edemediğini, buna karşılık ağaçlarının dolu olduğunu ve zeytinde rekoltenin iyi olduğunu söyledi. Çetin, ürünün bir kısmını ailenin yıllık sofralık ihtiyacı için ayırıp kalanını fabrikada yağa çektiriyor. Baklacı Mahallesi'nde evlerinin önündeki ağaçlardan hasat yapan vatandaşlar da yıllık zeytin ihtiyaçlarını bu ağaçlardan karşıladıklarını anlattı.",
+      "neYapmali": "Yağlık zeytini toplar toplamaz bekletmeden sıkıma götürmek, kasalarda havadar saklamak yağ kalitesini korur; sıkım öncesi fabrikanın randıman ve ücret koşullarını sormakta fayda var.",
+      "kaynaklar": [
+        {
+          "ad": "Alaşehir Manşet",
+          "url": "https://www.alasehirmanset.com/amp/haber/alasehir-de-zeytin-hasadi-basladi-zeytinde-rekolte-yuz-guldurdu/877/"
+        }
+      ],
+      "gorsel": "assets/envato/alasehir-zeytin-hasadi-uzumde-dusuk-fiyat-2026.jpg",
+      "gorselKucuk": "assets/envato/alasehir-zeytin-hasadi-uzumde-dusuk-fiyat-2026-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
+    {
       "id": "bayburt-seker-pancari-155-bin-ton-rekolte-2026",
       "kategori": "Bitkisel Üretim",
       "tarih": "2026-11-06",
@@ -3149,7 +3169,6 @@
       "tohum": [],
       "traktor": [],
       "zeytin": [
-        "zeytin-1.jpg",
         "zeytin-3.jpg",
         "zeytin-5.jpg"
       ],
