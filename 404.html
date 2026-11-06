@@ -179,7 +179,8 @@ button { font: inherit; color: inherit; }
 .slayt-yazi h2 { margin: 10px 0 0; font-weight: 900; font-size: clamp(24px, 3.4vw, 42px); line-height: 1.05; text-wrap: balance; text-shadow: 0 2px 12px rgba(0,0,0,.3); }
 .slayt:hover h2 { text-decoration: underline; text-decoration-thickness: 3px; text-underline-offset: 6px; text-decoration-color: var(--hasat); }
 .manset-tasarim { padding: 0 28px 30px; }
-.manset-tasarim h2 { margin-top: 12px; font-size: clamp(30px, 4.2vw, 52px); font-weight: 700; line-height: 1.24; letter-spacing: -.005em; text-transform: none; text-shadow: none; max-width: 17ch; }
+.manset-tasarim h2 { margin-top: 12px; font-size: clamp(28px, 3.9vw, 48px); font-weight: 600; line-height: 1.26; letter-spacing: .005em; text-transform: uppercase; text-shadow: none; max-width: 18ch; }
+.manset-tasarim h2 b { font-weight: 900; }
 .manset-tasarim h2 span { background: var(--k, var(--marka)); color: #fff; padding: .04em .32em; border-radius: 3px; -webkit-box-decoration-break: clone; box-decoration-break: clone; }
 .slayt:hover .manset-tasarim h2 { text-decoration: none; }
 .slayt:hover .manset-tasarim h2 span { background: #fff; color: var(--k, var(--marka)); }
@@ -423,7 +424,7 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
   .slaytlar { aspect-ratio: 4 / 3.2; }
   .slayt-yazi h2 { font-size: 22px; line-height: 1.12; text-transform: uppercase; letter-spacing: .005em; }
   .manset-tasarim { padding: 0 16px 20px; }
-  .manset-tasarim h2 { font-size: 28px; line-height: 1.26; max-width: 15ch; text-transform: none; }
+  .manset-tasarim h2 { font-size: 26px; line-height: 1.28; max-width: 16ch; text-transform: uppercase; }
   .sayfalama { justify-content: center; gap: 6px; padding: 12px 10px; flex-wrap: wrap; }
   .sayfalama button { flex: none; width: 8px; height: 8px; padding: 0; font-size: 0; border: 0; border-radius: 99px; background: rgba(255,255,255,.35); transition: width .2s; }
   .sayfalama button[aria-current="true"] { width: 22px; background: var(--sondakika); border: 0; }
@@ -603,6 +604,7 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
   var hareketAz = window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches;
 
   /* ---------- yardımcılar ---------- */
+  function mansetHTML(t) { return e(t).replace(/&quot;(.+?)&quot;|[“”](.+?)[“”]/g, function (_, a, b) { return "<b>“" + (a || b) + "”</b>"; }); }
   function e(s) { return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]; }); }
   function hUrl(id) { return "haber/" + id + "/"; }
   function yolHaber() { var m = location.pathname.match(/^\/haber\/([a-z0-9-]+)\/?$/); return m ? m[1] : ""; }
@@ -895,7 +897,7 @@ footer ul a:hover { text-decoration: underline; text-underline-offset: 3px; }
       '<div class="slider" id="slider"><div class="slaytlar">' +
       mans.map(function (h, i) {
         return '<a class="slayt' + (i === 0 ? " aktif" : "") + '" href="' + hUrl(h.id) + '"' + katStil(h.kategori) + (i ? ' tabindex="-1" aria-hidden="true"' : "") + ">" + gorsel(h, true) +
-          '<span class="ortu"></span><div class="slayt-yazi' + (h.manset ? " manset-tasarim" : "") + '"><span class="kat">' + e(h.kategori) + "</span><h2" + (h.manset ? ' aria-label="' + e(h.baslik) + '"' : "") + "><span>" + e(h.manset || h.baslik) + "</span></h2></div></a>";
+          '<span class="ortu"></span><div class="slayt-yazi' + (h.manset ? " manset-tasarim" : "") + '"><span class="kat">' + e(h.kategori) + "</span><h2" + (h.manset ? ' aria-label="' + e(h.baslik) + '"' : "") + "><span>" + (h.manset ? mansetHTML(h.manset) : e(h.baslik)) + "</span></h2></div></a>";
       }).join("") +
       '</div><button type="button" class="sl-ok geri" aria-label="Önceki manşet">‹</button><button type="button" class="sl-ok ileri" aria-label="Sonraki manşet">›</button>' +
       '<div class="sayfalama" role="tablist" aria-label="Manşet haberleri">' +

@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-06T22:33:00+03:00",
+  "guncelleme": "2026-11-06T23:32:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -54,6 +54,26 @@
   ],
   "haberler": [
     {
+      "id": "seferihisar-mandalina-ureticisi-kulturpark-ucretsiz-pazar",
+      "kategori": "Piyasa",
+      "tarih": "2026-11-06",
+      "eklenme": "2026-11-06T23:32:00+03:00",
+      "motif": "narenciye",
+      "baslik": "Seferihisar'ın mandalina üreticisine Kültürpark'ta ücretsiz satış alanı önerisi",
+      "ozet": "Seferihisar Belediyesi, 6 Kasım Cuma günü ilçedeki Satsuma mandalina üreticilerini belediye düğün salonunda bir araya getirdi. Toplantıda İzmir Büyükşehir Belediyesi Tarımsal Hizmetler Dairesi Başkanı Bülent Üngür, Seferihisarlı üreticilerin ürünlerini aracısız satabilmesi için Alsancak Kültürpark'ta ücretsiz çadır ve tezgâhlı bir pazar kurulmasını önerdi; pazarın 14-15 Kasım'da açılması planlanıyor. Seferihisar'da ilçe içinde bir mandalina borsası kurulması fikri de masaya geldi. İzmir'deki yaklaşık 2 bin 500 mandalina üreticisinin 998'i Seferihisar'da bulunuyor. Başkan Vekili Fuat Gümüş, mazot, gübre, ilaç ve işçilik maliyetlerindeki artışa dikkat çekti; kurusu, meyve suyu gibi işlenmiş ürünler ve kooperatiflerin güçlendirilmesi de önerildi.",
+      "neYapmali": "Kültürpark pazarında yer almak isteyen Seferihisarlı üreticiler, katılım koşulları ve kayıt için Seferihisar Belediyesi ile ilçe ziraat odasına başvurabilir; pazar tarihinin kesinleşip kesinleşmediğini belediyeden teyit etmekte yarar var.",
+      "kaynaklar": [
+        {
+          "ad": "İlkses Gazetesi",
+          "url": "https://ilkses.com.tr/izmir/seferihisar-da-mandalina-ureticisine-ucretsiz-pazar-mujdesi-466805"
+        }
+      ],
+      "manset": "Mandalinaya Kültürpark'ta \"ücretsiz\" tezgâh",
+      "gorsel": "assets/envato/seferihisar-mandalina-ureticisi-kulturpark-ucretsiz-pazar.jpg",
+      "gorselKucuk": "assets/envato/seferihisar-mandalina-ureticisi-kulturpark-ucretsiz-pazar-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
+    {
       "id": "batman-56-ciftci-yuzde-75-hibe-34-ton-mercimek-tohumu",
       "kategori": "Hibe",
       "tarih": "2026-11-06",
@@ -71,7 +91,7 @@
       "gorsel": "assets/envato/batman-56-ciftci-yuzde-75-hibe-34-ton-mercimek-tohumu.jpg",
       "gorselKucuk": "assets/envato/batman-56-ciftci-yuzde-75-hibe-34-ton-mercimek-tohumu-k.jpg",
       "gorselKaynak": "Temsili fotoğraf",
-      "manset": "Tohumun dörtte üçü devletten"
+      "manset": "Tohumun \"dörtte üçü\" devletten"
     },
     {
       "id": "safranbolu-tso-safran-kilosu-900-bin-tl-2026",
@@ -91,7 +111,7 @@
       "gorsel": "assets/envato/safranbolu-tso-safran-kilosu-900-bin-tl-2026.jpg",
       "gorselKucuk": "assets/envato/safranbolu-tso-safran-kilosu-900-bin-tl-2026-k.jpg",
       "gorselKaynak": "Temsili fotoğraf",
-      "manset": "Kilosu 900 bin lira"
+      "manset": "Kilosu \"900 bin lira\"!"
     },
     {
       "id": "sakarya-hendek-8-tarim-hayvancilik-fuari-165-firma",
@@ -111,7 +131,7 @@
       "gorsel": "assets/envato/sakarya-hendek-8-tarim-hayvancilik-fuari-165-firma.jpg",
       "gorselKucuk": "assets/envato/sakarya-hendek-8-tarim-hayvancilik-fuari-165-firma-k.jpg",
       "gorselKaynak": "Temsili fotoğraf",
-      "manset": "165 marka tek çatı altında"
+      "manset": "\"165 marka\" tek çatı altında"
     },
     {
       "id": "bursa-nilufer-75-bin-cilek-fidesi-yuzde-70-hibe",
@@ -135,7 +155,7 @@
       "gorsel": "assets/envato/bursa-nilufer-75-bin-cilek-fidesi-yuzde-70-hibe.jpg",
       "gorselKucuk": "assets/envato/bursa-nilufer-75-bin-cilek-fidesi-yuzde-70-hibe-k.jpg",
       "gorselKaynak": "Temsili fotoğraf",
-      "manset": "75 bin fide toprağa iniyor"
+      "manset": "\"75 bin\" çilek fidesi toprağa iniyor"
     },
     {
       "id": "corum-hitit-toprak-calistayi-humik-asit-50-bin-litre",
@@ -155,7 +175,7 @@
       "gorsel": "assets/envato/corum-hitit-toprak-calistayi-humik-asit-50-bin-litre.jpg",
       "gorselKucuk": "assets/envato/corum-hitit-toprak-calistayi-humik-asit-50-bin-litre-k.jpg",
       "gorselKaynak": "Temsili fotoğraf",
-      "manset": "Verimi yüzde 30 artırdı mı?"
+      "manset": "Verimi \"yüzde 30\" artırdı mı?"
     },
     {
       "id": "tmo-findik-cks-tuccar-manav-2-yil-alim-yasagi",
@@ -179,7 +199,7 @@
       "gorsel": "assets/envato/tmo-findik-cks-tuccar-manav-2-yil-alim-yasagi.jpg",
       "gorselKucuk": "assets/envato/tmo-findik-cks-tuccar-manav-2-yil-alim-yasagi-k.jpg",
       "gorselKaynak": "Temsili fotoğraf",
-      "manset": "Belgeni verirsen iki yıl yandın"
+      "manset": "Belgeni verirsen \"iki yıl\" yandın!"
     },
     {
       "id": "izmir-iyi-tarim-mobil-uygulama-hibe-don-uyarisi",
@@ -203,7 +223,7 @@
       "gorsel": "assets/envato/izmir-iyi-tarim-mobil-uygulama-hibe-don-uyarisi.jpg",
       "gorselKucuk": "assets/envato/izmir-iyi-tarim-mobil-uygulama-hibe-don-uyarisi-k.jpg",
       "gorselKaynak": "Temsili fotoğraf",
-      "manset": "Hibe de don uyarısı da cebinde"
+      "manset": "Hibe de don uyarısı da \"cebinde\""
     },
     {
       "id": "samsun-havza-ziraat-odasi-600-kadin-ciftci-kadin-muhendis",
@@ -223,7 +243,7 @@
       "gorsel": "assets/envato/samsun-havza-ziraat-odasi-600-kadin-ciftci-kadin-muhendis.jpg",
       "gorselKucuk": "assets/envato/samsun-havza-ziraat-odasi-600-kadin-ciftci-kadin-muhendis-k.jpg",
       "gorselKaynak": "Temsili fotoğraf",
-      "manset": "600 kadın çiftçiye kadın mühendis"
+      "manset": "\"600 kadın çiftçiye\" kadın mühendis"
     },
     {
       "id": "adiyaman-celikhan-yuzde-60-hibe-25er-kucukbas",
@@ -243,7 +263,7 @@
       "gorsel": "assets/envato/adiyaman-celikhan-yuzde-60-hibe-25er-kucukbas.jpg",
       "gorselKucuk": "assets/envato/adiyaman-celikhan-yuzde-60-hibe-25er-kucukbas-k.jpg",
       "gorselKaynak": "Temsili fotoğraf",
-      "manset": "Her çiftçiye 25 küçükbaş"
+      "manset": "Her çiftçiye \"25 küçükbaş\""
     },
     {
       "id": "odunpazari-15-ton-yunus-tohumluk-bugday-300-cuval",
@@ -267,7 +287,7 @@
       "gorsel": "assets/envato/odunpazari-15-ton-yunus-tohumluk-bugday-300-cuval.jpg",
       "gorselKucuk": "assets/envato/odunpazari-15-ton-yunus-tohumluk-bugday-300-cuval-k.jpg",
       "gorselKaynak": "Temsili fotoğraf",
-      "manset": "300 çuval Yunus buğdayı dağıtıldı"
+      "manset": "\"300 çuval\" Yunus buğdayı dağıtıldı"
     },
     {
       "id": "tbmm-durmaz-elma-limon-5-tl-market-fiyat-farki",
@@ -287,7 +307,7 @@
       "gorsel": "assets/envato/tbmm-durmaz-elma-limon-5-tl-market-fiyat-farki.jpg",
       "gorselKucuk": "assets/envato/tbmm-durmaz-elma-limon-5-tl-market-fiyat-farki-k.jpg",
       "gorselKaynak": "Temsili fotoğraf",
-      "manset": "Tarlada 5, markette 70 lira"
+      "manset": "Tarlada 5, markette \"70 lira\"!"
     },
     {
       "id": "marmarabirlik-avrupa-market-zinciri-74-ulke-ihracat",
@@ -307,7 +327,7 @@
       "gorsel": "assets/envato/marmarabirlik-avrupa-market-zinciri-74-ulke-ihracat.jpg",
       "gorselKucuk": "assets/envato/marmarabirlik-avrupa-market-zinciri-74-ulke-ihracat-k.jpg",
       "gorselKaynak": "Temsili fotoğraf",
-      "manset": "Zeytin Avrupa raflarına giriyor"
+      "manset": "Zeytin \"Avrupa raflarına\" giriyor"
     },
     {
       "id": "sarigol-kestane-hasadi-2026-170-220-tl",
@@ -331,7 +351,7 @@
       "gorsel": "assets/envato/sarigol-kestane-hasadi-2026-170-220-tl.jpg",
       "gorselKucuk": "assets/envato/sarigol-kestane-hasadi-2026-170-220-tl-k.jpg",
       "gorselKaynak": "Temsili fotoğraf",
-      "manset": "Kestanede fiyat iriliğe göre"
+      "manset": "Kestanenin kilosu \"220 liraya\" çıktı"
     },
     {
       "id": "manisa-teknotarim-2026-fuar-8-kasim",
@@ -351,7 +371,7 @@
       "gorsel": "assets/envato/manisa-teknotarim-2026-fuar-8-kasim.jpg",
       "gorselKucuk": "assets/envato/manisa-teknotarim-2026-fuar-8-kasim-k.jpg",
       "gorselKaynak": "Temsili fotoğraf",
-      "manset": "Fuar kapıları 8 Kasım'a kadar açık"
+      "manset": "Fuar kapıları \"8 Kasım\"a kadar açık"
     },
     {
       "id": "elbistan-pancar-c-kotasi-1750-tl-uretici-eylemi",
@@ -379,7 +399,7 @@
       "gorsel": "assets/envato/elbistan-pancar-c-kotasi-1750-tl-uretici-eylemi.jpg",
       "gorselKucuk": "assets/envato/elbistan-pancar-c-kotasi-1750-tl-uretici-eylemi-k.jpg",
       "gorselKaynak": "Temsili fotoğraf",
-      "manset": "Pancarcı fabrika kapısında"
+      "manset": "Pancarcı \"fabrika kapısında\"!"
     },
     {
       "id": "narenciye-tarsus-izmir-ureticiler-limon-1-4-tl-mandalina-sokum",
@@ -399,7 +419,7 @@
       "gorsel": "assets/envato/narenciye-tarsus-izmir-ureticiler-limon-1-4-tl-mandalina-sokum.jpg",
       "gorselKucuk": "assets/envato/narenciye-tarsus-izmir-ureticiler-limon-1-4-tl-mandalina-sokum-k.jpg",
       "gorselKaynak": "Temsili fotoğraf",
-      "manset": "Limona 1 lira teklif edildi"
+      "manset": "Limona \"1 lira\" teklif edildi!"
     },
     {
       "id": "sap-hayvan-pazarlari-ticaret-durdu-kredi-riski",
@@ -3134,7 +3154,6 @@
         "elma-3.jpg"
       ],
       "narenciye": [
-        "narenciye-2.jpg",
         "narenciye-4.jpg"
       ],
       "pamuk": [
