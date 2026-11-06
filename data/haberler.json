@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-06T04:30:25+03:00",
+  "guncelleme": "2026-11-06T05:29:45+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,25 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "mersin-toroslar-belediyesi-safran-ilk-hasat",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-05",
+      "eklenme": "2026-11-06T05:29:45+03:00",
+      "motif": "tohum",
+      "baslik": "Mersin Toroslar'da belediyenin deneme sahasından ilk safran hasadı alındı",
+      "ozet": "Toroslar Belediyesi, Kayrakkeşli Mahallesi'ndeki kendi arazisinde kurduğu deneme sahasında ilk safran ürününü topladı. Ağustos sonunda dikilen soğanlar çiçek açınca yapılan hasada Başkan Abdurrahman Yıldız, üretici kadınlar ve muhtarlar katıldı. Belediye, bitkinin bölge toprağına ve iklimine uyumunu ile verimini inceleyecek; elde ettiği deneyimi çiftçilerle paylaşmayı ve üreticilere soğan ulaştırmayı planlıyor. Darısekisi Mahallesi'nde belediyenin soğan desteğiyle üretime geçen Zeliha Mecit de projeden memnun olduğunu söyledi. Haberde hasat miktarı, verim ya da satış fiyatı paylaşılmadı.",
+      "neYapmali": "Geniş arazisi olmayan Toroslarlı üreticiler soğan desteği için belediyenin Tarımsal Hizmetler Müdürlüğü'ne danışabilir. Yatırım kararından önce verim ve satış imkânını il ya da ilçe tarım müdürlüğüyle de görüşmekte fayda var.",
+      "kaynaklar": [
+        {
+          "ad": "Mersin Haber",
+          "url": "https://www.mersinhaber.com/haber-toroslarda-kirmizi-altin-safranin-ilk-hasadi-yapildi/837446"
+        }
+      ],
+      "gorsel": "assets/envato/mersin-toroslar-belediyesi-safran-ilk-hasat.jpg",
+      "gorselKucuk": "assets/envato/mersin-toroslar-belediyesi-safran-ilk-hasat-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
     {
       "id": "elazig-hos-40-bin-ton-uzum-alici-isikver-tbmm",
       "kategori": "Piyasa",
@@ -2716,8 +2735,7 @@
         "sut-5.jpg"
       ],
       "tohum": [
-        "tohum-2.jpg",
-        "tohum-4.jpg"
+        "tohum-2.jpg"
       ],
       "traktor": [
         "traktor-4.jpg",
