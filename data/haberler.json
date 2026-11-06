@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-06T21:41:43+03:00",
+  "guncelleme": "2026-11-06T22:33:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,44 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "batman-56-ciftci-yuzde-75-hibe-34-ton-mercimek-tohumu",
+      "kategori": "Hibe",
+      "tarih": "2026-11-06",
+      "eklenme": "2026-11-06T22:33:00+03:00",
+      "motif": "tohum",
+      "baslik": "Batman'da 56 çiftçiye yüzde 75 hibeyle 34 ton sertifikalı mercimek tohumu verildi",
+      "ozet": "Batman İl Tarım ve Orman Müdürlüğü, Tarım Arazilerinin Kullanımının Etkinleştirilmesi (TAKE) Projesi kapsamında 56 çiftçiye 34 ton sertifikalı mercimek tohumu dağıttı. Tohum bedelinin yüzde 75'i hibe olarak karşılanıyor; dağıtım 6 Kasım'da Tarım Kredi Kooperatifi bahçesinde yapıldı. İl Müdürü Necdet Tuncer, projeyle ilde 2021'den bu yana 40 milyon liranın üzerinde destek verildiğini, bu yılki bütçenin yaklaşık 10 milyon lira olduğunu ve 500 civarında çiftçinin yararlanmasının beklendiğini aktardı. Tuncer, mercimeğin toprağa azot bağladığını, böylece ardından ekilen buğday ve arpada nadas ve gübre ihtiyacının azaldığını vurguladı.",
+      "neYapmali": "TAKE Projesi kapsamındaki hibeli tohum dağıtımlarından yararlanmak isteyen Batmanlı üreticiler, başvuru koşulları ve sonraki dağıtım takvimi için ilçe tarım ve orman müdürlüklerine danışabilir.",
+      "kaynaklar": [
+        {
+          "ad": "Anadolu Ajansı (Son Dakika)",
+          "url": "https://www.sondakika.com/guncel/haber-batman-da-56-ciftciye-yuzde-75-hibeli-34-ton-serti-20402839/"
+        }
+      ],
+      "gorsel": "assets/envato/batman-56-ciftci-yuzde-75-hibe-34-ton-mercimek-tohumu.jpg",
+      "gorselKucuk": "assets/envato/batman-56-ciftci-yuzde-75-hibe-34-ton-mercimek-tohumu-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
+    {
+      "id": "safranbolu-tso-safran-kilosu-900-bin-tl-2026",
+      "kategori": "Piyasa",
+      "tarih": "2026-11-06",
+      "eklenme": "2026-11-06T22:32:00+03:00",
+      "motif": "para",
+      "baslik": "Safranbolu safranında 2026 hasat fiyatı belli oldu: Kilogramı 900 bin lira",
+      "ozet": "Safranbolu Ticaret ve Sanayi Odası (TSO) Meclisi, bu yıl hasat edilen Safranbolu safranının satış fiyatını belirledi. 6 Kasım'da yapılan açıklamaya göre 2026 hasadı safranın kilogramı 900 bin lira olacak; bu da gram başına 900 liraya karşılık geliyor. TSO Yönetim Kurulu Başkanı Erol Altuntepe, fiyatın üreticinin emeğini karşılaması ve ürünün marka değerini korumak amacıyla belirlendiğini söyledi. Altuntepe, safranın uluslararası tescili ve süren projelerle markanın yurt içi ve yurt dışında güçlendirilmesinin hedeflendiğini de ifade etti.",
+      "neYapmali": "Safranbolu'da safran yetiştiren üreticiler satışlarında TSO'nun açıkladığı fiyatı referans alabilir; güncel uygulama ve satış koşulları için Safranbolu TSO ile görüşmeleri faydalı olur.",
+      "kaynaklar": [
+        {
+          "ad": "Anadolu Ajansı (Son Dakika)",
+          "url": "https://www.sondakika.com/guncel/haber-safranbolu-tso-meclisi-2026-hasadi-safranin-kilosu-20403041/"
+        }
+      ],
+      "gorsel": "assets/envato/safranbolu-tso-safran-kilosu-900-bin-tl-2026.jpg",
+      "gorselKucuk": "assets/envato/safranbolu-tso-safran-kilosu-900-bin-tl-2026-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
     {
       "id": "sakarya-hendek-8-tarim-hayvancilik-fuari-165-firma",
       "kategori": "Makine",
@@ -3056,8 +3094,7 @@
       ],
       "para": [
         "para-3.jpg",
-        "para-4.jpg",
-        "para-5.jpg"
+        "para-4.jpg"
       ],
       "sera": [],
       "sut": [
@@ -3065,9 +3102,7 @@
         "sut-4.jpg",
         "sut-5.jpg"
       ],
-      "tohum": [
-        "tohum-2.jpg"
-      ],
+      "tohum": [],
       "traktor": [],
       "zeytin": [
         "zeytin-1.jpg",
