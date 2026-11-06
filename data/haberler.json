@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-06T17:41:57+03:00",
+  "guncelleme": "2026-11-06T18:31:50+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,52 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "tmo-findik-cks-tuccar-manav-2-yil-alim-yasagi",
+      "kategori": "Piyasa",
+      "tarih": "2026-11-06",
+      "eklenme": "2026-11-06T18:31:50+03:00",
+      "motif": "findik",
+      "baslik": "TMO'dan fındıkta ÇKS uyarısı: Belgesini tüccara kullandıran üretici iki yıl alım dışı kalacak",
+      "ozet": "TMO, tüccar ve manavların üreticilere ait ÇKS belgeleriyle kurumun alım noktalarına fındık satmaya çalıştığına dair bildirimler aldığını 6 Kasım'da açıkladı. Kurum, belgesini bilerek bu iş için veren üreticinin kabuklu fındık alımlarından iki yıl süreyle çıkarılacağını, satışa kalkışan ya da aracılık edenler hakkında idari ve hukuki işlem başlatılacağını bildirdi. Somut delil bulunması halinde dolandırıcılık ve belgede sahtecilik hükümleri kapsamında savcılığa suç duyurusunda bulunulacak. TMO, 24 Ağustos'tan bu yana yaklaşık 152 bin üreticiden 190 bin ton kabuklu fındık aldığını, en az 50 bin ton daha satış beklediğini belirtti. Alımların, ürün arzı sürdüğü müddetçe 31 Aralık 2026'ya kadar devam edeceği duyuruldu.",
+      "neYapmali": "ÇKS kaydınızı ve üretici belgelerinizi başkasına vermeyin, yalnızca kendi ürününüzle randevu alın. Teslimat tarihinizi ve randevu durumunuzu en yakın TMO alım noktasından teyit edin.",
+      "kaynaklar": [
+        {
+          "ad": "Medya Detay",
+          "url": "https://www.medyadetay.com/tuccara-satis-yapan-uretici-2-yil-alim-disi-kalacak"
+        },
+        {
+          "ad": "Haberlisin",
+          "url": "https://www.haberlisin.com/tmodan-findik-ureticilerine-uyari-2-yil-alim-yasagi"
+        }
+      ],
+      "gorsel": "assets/envato/tmo-findik-cks-tuccar-manav-2-yil-alim-yasagi.jpg",
+      "gorselKucuk": "assets/envato/tmo-findik-cks-tuccar-manav-2-yil-alim-yasagi-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
+    {
+      "id": "izmir-iyi-tarim-mobil-uygulama-hibe-don-uyarisi",
+      "kategori": "Destek",
+      "tarih": "2026-11-06",
+      "eklenme": "2026-11-06T18:30:50+03:00",
+      "motif": "para",
+      "baslik": "İzmir'de çiftçiye tek uygulama: Hibe başvurusu, don uyarısı ve hal fiyatları \"İyi Tarım İzmir\"de",
+      "ozet": "İzmir Büyükşehir Belediyesi, kendi ekibiyle geliştirdiği \"İyi Tarım İzmir\" mobil uygulamasını üreticilerin kullanımına sundu. Çiftçiler uygulamadan zeytin kasası ve zirai dona karşı kullanılan agril örtü gibi hibelere başvurabiliyor, belgelerini ve parsellerini sisteme yükleyebiliyor. İl genelindeki 13 erken uyarı istasyonunun verileriyle don, sel ve hava bildirimleri gönderiliyor. Fotoğrafla bitki analizi, yapay zekâ destekli danışmanlık ve sebze, meyve, balık için son 7 günlük hal fiyatları da aynı yerde yer alıyor. Tarımsal Hizmetler Dairesi Başkanı Bülent Üngür, erken uyarı ağının ilin tüm üretim alanlarına yayılmasının hedeflendiğini söyledi.",
+      "neYapmali": "İzmirli üreticiler uygulamayı iOS ya da Android mağazasından veya iyitarim.izmir.bel.tr adresinden açıp parsellerini kaydedebilir. Hibelerin başvuru tarihleri ve şartları uygulama içinden takip edilmeli.",
+      "kaynaklar": [
+        {
+          "ad": "Ayancık Gazetesi",
+          "url": "https://www.ayancikgazetesi.com/ciftciye-destek-olan-tarlayi-koruyan-mahsulu-gelistiren-uygulama/154729"
+        },
+        {
+          "ad": "Aksaray Haber",
+          "url": "https://aksarayhaber.net/haber/iyi-tarim-izmir-ciftcinin-dijital-yol-arkadasi-oldu-106879"
+        }
+      ],
+      "gorsel": "assets/envato/izmir-iyi-tarim-mobil-uygulama-hibe-don-uyarisi.jpg",
+      "gorselKucuk": "assets/envato/izmir-iyi-tarim-mobil-uygulama-hibe-don-uyarisi-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
     {
       "id": "samsun-havza-ziraat-odasi-600-kadin-ciftci-kadin-muhendis",
       "kategori": "Bitkisel Üretim",
@@ -2655,6 +2701,12 @@
       "baslik": "2027 ÇKS kaydı ve güncelleme",
       "kapsam": "Türkiye geneli",
       "haber": "cks-2027-son-gun-31-aralik"
+    },
+    {
+      "tarih": "2026-12-31",
+      "baslik": "TMO kabuklu fındık alımı (ürün arzı sürdükçe)",
+      "kapsam": "TMO alım noktaları",
+      "haber": "tmo-findik-cks-tuccar-manav-2-yil-alim-yasagi"
     }
   ],
   "fiyatlar": [
@@ -2924,15 +2976,13 @@
         "bugday-5.jpg"
       ],
       "don": [
-        "don-1.jpg",
         "don-2.jpg",
         "don-3.jpg",
         "don-4.jpg",
         "don-5.jpg"
       ],
       "findik": [
-        "findik-2.jpg",
-        "findik-3.jpg"
+        "findik-2.jpg"
       ],
       "kovan": [
         "kovan-1.jpg",
