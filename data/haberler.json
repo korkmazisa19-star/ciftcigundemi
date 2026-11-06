@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-06T07:30:44+03:00",
+  "guncelleme": "2026-11-06T08:30:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,33 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "elbistan-pancar-c-kotasi-1750-tl-uretici-eylemi",
+      "kategori": "Piyasa",
+      "tarih": "2026-11-04",
+      "eklenme": "2026-11-06T08:30:00+03:00",
+      "motif": "pancar",
+      "baslik": "Elbistan'da pancar üreticileri fabrika önünde: Kota fazlası için önerilen 1.750 lirayı kabul etmiyorlar",
+      "ozet": "Kahramanmaraş'ın Elbistan ve Afşin ilçelerinden gelen şeker pancarı üreticileri, Mutlucan Elbistan Şeker Fabrikası önünde eylem yaptı. Tepkinin nedeni, kota fazlası pancar için \"C kotası\" adıyla tonuna 1.750 lira ödenmek istenmesi. Üreticiler, birkaç gün önce bu fiyatın 3.500 lira olarak bildirildiğini, ardından yarıya indirildiğini öne sürüyor ve 4.500 lira talep ediyor. Çözüm çıkmazsa fabrika önünde nöbet tutabileceklerini, pancarı tarlada bırakabileceklerini ve gelecek yıl ekmeyebileceklerini söylediler. Yerel haberlerde fabrika yönetiminin bir açıklamasına yer verilmedi; konu Meclis'e de taşındı.",
+      "neYapmali": "Kota fazlası pancarı olan üreticiler, teslimattan önce fabrikanın uygulayacağı fiyatı ve ödeme koşullarını yazılı olarak öğrenmeli. Sözleşme ve kota hakları için pancar kooperatifine ya da ziraat odasına danışılabilir.",
+      "kaynaklar": [
+        {
+          "ad": "Maraş Gündem",
+          "url": "https://www.marasgundem.com.tr/video-haber/elbistanda-seker-pancari-ureticilerinden-fabrika-onunde-c-kotasi-eylemi-1548741h"
+        },
+        {
+          "ad": "Sözcü",
+          "url": "https://www.sozcu.com.tr/limondan-pancara-uzumden-zeytine-uretici-kan-agliyor-p376492"
+        },
+        {
+          "ad": "Yeşil Afşin Gazetesi",
+          "url": "https://www.yesilafsin.com/pancar-ureticilerinden-c-kotasi-protestosu-hakkimizi-istiyoruz"
+        }
+      ],
+      "gorsel": "assets/envato/elbistan-pancar-c-kotasi-1750-tl-uretici-eylemi.jpg",
+      "gorselKucuk": "assets/envato/elbistan-pancar-c-kotasi-1750-tl-uretici-eylemi-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
     {
       "id": "narenciye-tarsus-izmir-ureticiler-limon-1-4-tl-mandalina-sokum",
       "kategori": "Piyasa",
@@ -2840,8 +2867,7 @@
         "nar-3.jpg"
       ],
       "pancar": [
-        "pancar-2.jpg",
-        "pancar-3.jpg"
+        "pancar-2.jpg"
       ],
       "kestane": [
         "kestane-1.jpg"
