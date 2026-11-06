@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-06T09:32:00+03:00",
+  "guncelleme": "2026-11-06T14:30:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,25 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "marmarabirlik-avrupa-market-zinciri-74-ulke-ihracat",
+      "kategori": "Piyasa",
+      "tarih": "2026-11-06",
+      "eklenme": "2026-11-06T14:30:00+03:00",
+      "motif": "zeytin",
+      "baslik": "Marmarabirlik, Avrupa'da 6-7 bin şubeli bir market zincirine girmeye hazırlanıyor",
+      "ozet": "74 ülkeye ihracat yapan Marmarabirlik, Avrupa'da etnik marketlerin ötesine geçip uluslararası perakende zincirlerinde yer almayı hedefliyor. Yönetim Kurulu Başkanı Ali Yıldız, daha önce giremedikleri ve yaklaşık 6-7 bin şubesi bulunan bir süpermarket zincirine girmenin eşiğinde olduklarını söyledi; zincirin adı açıklanmadı. Yıldız, Rusya'da bir e-ticaret platformunda haftalık 6 bin adet satışa ulaştıklarını, Orta Doğu'da yeşil zeytin ve zeytinyağına talep olduğunu aktardı. Türkiye genelinde 3 milyon 800 bin ton zeytin rekoltesi beklendiğini belirten Yıldız, işçilik ve akaryakıt giderlerinin arttığı bir yılda yüksek rekoltenin üreticiye kayıp yazmaması gerektiğini vurguladı. Birliğin alım planı bu haberde yaklaşık 60 bin ton olarak geçiyor; alım kampanyasının başlangıcında 64 bin ton açıklanmıştı.",
+      "neYapmali": "Ortak üreticiler teslimat ve alım koşullarını bağlı oldukları kooperatiften teyit edebilir. İhracat planları henüz alım fiyatına dair bir bilgi içermediğinden satış kararında resmî fiyat açıklaması izlenmelidir.",
+      "kaynaklar": [
+        {
+          "ad": "Ekonomi Gazetesi",
+          "url": "https://www.ekonomigazetesi.com/sirket-haberleri/marmarabirlik-avrupanin-dev-market-zincirini-gundemine-aldi-91538"
+        }
+      ],
+      "gorsel": "assets/envato/marmarabirlik-avrupa-market-zinciri-74-ulke-ihracat.jpg",
+      "gorselKucuk": "assets/envato/marmarabirlik-avrupa-market-zinciri-74-ulke-ihracat-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
     {
       "id": "sarigol-kestane-hasadi-2026-170-220-tl",
       "kategori": "Bitkisel Üretim",
@@ -2870,7 +2889,6 @@
       "zeytin": [
         "zeytin-1.jpg",
         "zeytin-3.jpg",
-        "zeytin-4.jpg",
         "zeytin-5.jpg"
       ],
       "ayva": [
