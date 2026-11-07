@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-07T19:30:36+03:00",
+  "guncelleme": "2026-11-07T21:35:17+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,60 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "yumakli-rusya-tir-analiz-yuzde-10-20-rasff-yuzde-74",
+      "kategori": "Piyasa",
+      "tarih": "2026-11-06",
+      "eklenme": "2026-11-07T21:35:17+03:00",
+      "motif": "para",
+      "baslik": "Bakan Yumaklı: Rusya'ya giden meyve-sebze tırlarında analiz sıklığı yüzde 10-20'ye indirildi",
+      "manset": "Rusya kapısında \"analiz\" yükü hafifledi",
+      "ozet": "Tarım ve Orman Bakanı İbrahim Yumaklı, 6 Kasım'da İstanbul'da gazetecilerle bir araya gelerek ihracat ve gıda güvenilirliğine ilişkin soruları yanıtladı. Yumaklı, Rusya'nın daha önce Türkiye'den giden her iki tırdan birini analize aldığını, yapılan görüşmelerle bu oranın bazı ürün gruplarında yüzde 20'ye, bazılarında yüzde 10'a kadar düşürüldüğünü söyledi. Bakan, Karadeniz'deki sefer sorununun meyve ihracatında hâlâ en büyük güçlüklerden biri olduğunu da belirtti. Yumaklı ayrıca son üç yılda Avrupa'nın hızlı uyarı sistemi RASFF'teki bildirimlerin yüzde 74 azaldığını, hektar başına pestisit kullanımının AB'de 3,2, Türkiye'de 2,3 kilogram olduğunu aktardı. Arıcılıkta ise ülke genelinde arılık taraması başlatıldığını, kurallara uymayan işletmelerin kayıtlarının iptal edildiğini ifade etti.",
+      "neYapmali": "Rusya'ya ürün gönderen üreticiler ve ihracatçılar, ilaçlama kayıtlarını ve hasat öncesi bekleme sürelerini eksiksiz tutarak kalıntı riskini azaltmalı; güncel analiz uygulamalarını il tarım ve orman müdürlüğünden ya da bağlı oldukları ihracatçı birliğinden teyit etmeli. Arıcılar da arılık kayıtlarının güncel ve kurallara uygun olduğunu kontrol etmeli.",
+      "kaynaklar": [
+        {
+          "ad": "TRT Haber",
+          "url": "https://www.trthaber.com/haber/gundem/bakan-yumakli-gida-guvenligi-kirmizi-cizgimiz-962406.html"
+        }
+      ]
+    },
+    {
+      "id": "kilis-zeytin-hasadi-35-bin-ton-11600-ton-zeytinyagi-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-06",
+      "eklenme": "2026-11-07T21:22:38+03:00",
+      "motif": "zeytin",
+      "baslik": "Kilis'te zeytin hasadı başladı: Vali Kalaylı 35 bin ton zeytin ve 11 bin 600 ton yağ bekliyor",
+      "manset": "Kilis'te \"11 bin 600 ton\" zeytinyağı",
+      "ozet": "Kilis'te yeni sezon zeytin hasadı, Vali Ömer Kalaylı'nın da katıldığı bir programla başladı. Kalaylı ve beraberindeki heyet hasada katıldıktan sonra Organik Zeytin Üreticileri Birliği'nin tesislerinde incelemelerde bulundu. Vali, ilde yaklaşık 5 milyon zeytin ağacı bulunduğunu, bu yıl yaklaşık 35 bin ton zeytin rekoltesi beklendiğini söyledi. Yağ veriminin yüksek olduğunu belirten Kalaylı, sezon boyunca yaklaşık 11 bin 600 ton zeytinyağı elde edilmesini öngördü. Programa İl Tarım ve Orman Müdürü Levent Küçük ile birlik başkanı Hüseyin Polat da katıldı.",
+      "neYapmali": "Kilisli üreticiler hasat ettikleri zeytini bekletmeden sıkımhaneye ulaştırmalı; satış ve fiyat için birlik ile il tarım müdürlüğü duyurularını takip etmeli.",
+      "kaynaklar": [
+        {
+          "ad": "Anadolu Ajansı (Batman Sonsöz)",
+          "url": "https://www.batmansonsoz.net/haber/zeytin-hasadi-basladi-114564.html"
+        }
+      ],
+      "gorsel": "assets/envato/kilis-zeytin-hasadi-35-bin-ton-11600-ton-zeytinyagi-2026.jpg",
+      "gorselKucuk": "assets/envato/kilis-zeytin-hasadi-35-bin-ton-11600-ton-zeytinyagi-2026-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
+    {
+      "id": "yalova-iki-ayda-4709-ton-hamsi-karaya-cikti-2026",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-06",
+      "eklenme": "2026-11-07T21:21:38+03:00",
+      "motif": "balik",
+      "baslik": "Yalova'da av sezonunun ilk iki ayında 4 bin 709 ton hamsi karaya çıktı: Geçen sezonun tamamı aşıldı",
+      "manset": "İki ayda \"4.709 ton\" hamsi!",
+      "ozet": "Yalova'da 1 Eylül-2 Kasım 2026 arasındaki 62 günde dokuz hamsi çıkış noktasında kesintisiz denetim yapıldı. Bu sürede 313 bin 938 kasaya karşılık gelen 4 bin 709 ton hamsi karaya çıkarıldı; bu miktar, bir önceki sezonun tamamında indirilen 2 bin 709 tonu geride bıraktı. Aynı dönemde 48,5 ton sardalya, 46 ton istavrit kaydedildi, hedef dışı av olarak da 20 adet orkinos tutuldu. Denetimlerde 1.118 E-Seyir belgesi düzenlendi ve 1.277 nakil aracı kontrol edildi.",
+      "neYapmali": "Balıkçılar her seferde E-Seyir belgesini eksiksiz düzenlemeli, avı nakil belgesiyle taşımalı; hedef dışı türler ve boy sınırları için il tarım müdürlüğünün av yasaklarını kontrol etmeli.",
+      "kaynaklar": [
+        {
+          "ad": "Manşet Gazetesi",
+          "url": "https://www.manset.com.tr/yalovada-2-ayda-4-bin-709-ton-hamsi-karaya-cikarildi"
+        }
+      ]
+    },
     {
       "id": "erdek-zeytin-kooperatifi-alim-7-kasim-7-bin-ton-kota",
       "kategori": "Bitkisel Üretim",
@@ -3670,9 +3724,7 @@
         "traktor-8.jpg",
         "traktor-9.jpg"
       ],
-      "zeytin": [
-        "zeytin-5.jpg"
-      ],
+      "zeytin": [],
       "ayva": [
         "ayva-1.jpg",
         "ayva-2.jpg",
