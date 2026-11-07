@@ -68,7 +68,10 @@
           "ad": "Haberler.com (Anadolu Ajansı)",
           "url": "https://www.haberler.com/ekonomi/karabuk-eskipazar-da-lahana-hasadi-basladi-2-bin-20402706-haberi/"
         }
-      ]
+      ],
+      "gorsel": "assets/envato/karabuk-eskipazar-lahana-hasadi-2500-ton-2026.jpg",
+      "gorselKucuk": "assets/envato/karabuk-eskipazar-lahana-hasadi-2500-ton-2026-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
     },
     {
       "id": "mgm-zirai-don-7-10-kasim-alti-bolge",
@@ -3267,13 +3270,22 @@
         "balik-4.jpg",
         "balik-5.jpg"
       ],
-      "bugday": [],
+      "bugday": [
+        "bugday-6.jpg",
+        "bugday-7.jpg",
+        "bugday-8.jpg",
+        "bugday-9.jpg"
+      ],
       "don": [
         "don-2.jpg",
         "don-3.jpg",
         "don-4.jpg"
       ],
-      "findik": [],
+      "findik": [
+        "findik-5.jpg",
+        "findik-6.jpg",
+        "findik-7.jpg"
+      ],
       "kovan": [
         "kovan-1.jpg",
         "kovan-2.jpg",
@@ -3290,13 +3302,26 @@
         "para-3.jpg",
         "para-4.jpg"
       ],
-      "sera": [],
+      "sera": [
+        "sera-6.jpg",
+        "sera-7.jpg",
+        "sera-8.jpg"
+      ],
       "sut": [
         "sut-2.jpg",
         "sut-5.jpg"
       ],
-      "tohum": [],
-      "traktor": [],
+      "tohum": [
+        "tohum-6.jpg",
+        "tohum-7.jpg",
+        "tohum-8.jpg"
+      ],
+      "traktor": [
+        "traktor-6.jpg",
+        "traktor-7.jpg",
+        "traktor-8.jpg",
+        "traktor-9.jpg"
+      ],
       "zeytin": [
         "zeytin-3.jpg",
         "zeytin-5.jpg"
@@ -3306,7 +3331,11 @@
         "ayva-2.jpg",
         "ayva-3.jpg"
       ],
-      "elma": [],
+      "elma": [
+        "elma-5.jpg",
+        "elma-6.jpg",
+        "elma-7.jpg"
+      ],
       "narenciye": [
         "narenciye-4.jpg"
       ],
@@ -3329,8 +3358,21 @@
         "nar-2.jpg",
         "nar-3.jpg"
       ],
-      "pancar": [],
-      "kestane": []
+      "pancar": [
+        "pancar-4.jpg",
+        "pancar-5.jpg",
+        "pancar-6.jpg"
+      ],
+      "kestane": [
+        "kestane-2.jpg",
+        "kestane-3.jpg"
+      ],
+      "patates": [
+        "patates-1.jpg"
+      ],
+      "lahana": [
+        "lahana-1.jpg"
+      ]
     }
   }
 }
