@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-07T14:30:00+03:00",
+  "guncelleme": "2026-11-07T16:31:36+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,30 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "bayburt-hayvan-pazari-sap-kisitlama-kalkti-6-kasim",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-06",
+      "eklenme": "2026-11-07T16:31:36+03:00",
+      "motif": "sut",
+      "baslik": "Bayburt'ta şap kısıtlamaları kaldırıldı: Hayvan pazarı bir ay sonra yeniden açıldı",
+      "manset": "Bir ay sonra pazar \"yeniden açık\"",
+      "ozet": "Bayburt İl Tarım ve Orman Müdürlüğü, şap hastalığı nedeniyle 6 Ekim'de getirilen hayvan hareketi kısıtlamalarının komisyon kararıyla kaldırıldığını duyurdu. Kısıtlamalar kapsamında Bayburt Hayvan Pazarı kapatılmış, il merkeziyle ilçelerin tüm köy ve mahallelerinde hayvan giriş-çıkışı durdurulmuştu. Kararla birlikte pazar 6 Kasım itibarıyla yeniden açıldı ve üreticiler hayvan alım satımına başlayabildi. Müdürlük, hastalığın yeniden yayılmaması için resmî duyuruların ve veteriner hekim önerilerinin takip edilmesini istedi.",
+      "neYapmali": "Pazara hayvan götürmeden önce küpe, kayıt ve aşı durumunuzu kontrol edin; yeni alınan hayvanları bir süre sürüden ayrı tutup hastalık belirtisi görürseniz il ya da ilçe tarım müdürlüğüne bildirin.",
+      "kaynaklar": [
+        {
+          "ad": "Karadeniz Gazete (İHA)",
+          "url": "https://karadenizgazete.com.tr/karadeniz/bayburt/bayburt-hayvan-pazari-yeniden-acildi-sap-hastaligi-kisitlamalari-kaldirildi/631778"
+        },
+        {
+          "ad": "Mersin Haber (İHA)",
+          "url": "https://www.mersinhaber.com/haber-bayburtta-hayvan-pazari-sap-hastaligi-nedeniyle-kapatilmisti-ve-yeniden-acildi/837754"
+        }
+      ],
+      "gorsel": "assets/envato/bayburt-hayvan-pazari-sap-kisitlama-kalkti-6-kasim.jpg",
+      "gorselKucuk": "assets/envato/bayburt-hayvan-pazari-sap-kisitlama-kalkti-6-kasim-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
     {
       "id": "bilecik-osmaneli-soguk-hava-deposu-15-milyon-861-bin-tl-hibe",
       "kategori": "Hibe",
@@ -3484,7 +3508,6 @@
         "sera-8.jpg"
       ],
       "sut": [
-        "sut-2.jpg",
         "sut-5.jpg"
       ],
       "tohum": [
