@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-08T01:31:14+03:00",
+  "guncelleme": "2026-11-08T02:32:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,26 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "sivas-sarkisla-besi-osb-fizibilite-parselasyon-protokolu",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-07",
+      "eklenme": "2026-11-08T02:32:00+03:00",
+      "motif": "sut",
+      "baslik": "Sivas Şarkışla'daki besi OSB'si için fizibilite ve parselasyon protokolü imzalandı",
+      "manset": "Şarkışla'da besiye \"organize\" düzen",
+      "ozet": "Sivas'ın Şarkışla ilçesinde kurulacak Tarıma Dayalı İhtisas (Besi) Organize Sanayi Bölgesi'nin fizibilite ve parselasyon hizmetleri için protokol imzalandı. Törende Sivas Valisi Yılmaz Şimşek ile Orta Anadolu Kalkınma Ajansı (ORAN) yetkilileri yer aldı; ORAN Genel Sekreteri Yunus Emre Şeker, İl Tarım ve Orman Müdürü Salih İnan ve Şarkışla TDİOSB Müdürü Kaan Hançer de katıldı. Projeyle ilçedeki büyükbaş besiciliğinin planlı bir yapıya kavuşturulması, modern üretim modellerinin yaygınlaşması ve bölgede istihdamın artması hedefleniyor. Habere göre protokolde bütçe, alan büyüklüğü, parsel sayısı ya da tamamlanma takvimi paylaşılmadı.",
+      "neYapmali": "Şarkışla ve çevresindeki besiciler, ileride açılacak parsel tahsisleri ve başvuru koşulları hakkında bilgi almak için Şarkışla TDİOSB Müdürlüğü ile İl Tarım ve Orman Müdürlüğü duyurularını takip edebilir.",
+      "kaynaklar": [
+        {
+          "ad": "Sivas Ekspres",
+          "url": "https://www.sivasekspres.com/haber/sivas-hayvanciliginda-yeni-donem-hazirligi-100091.html"
+        }
+      ],
+      "gorsel": "assets/envato/sivas-sarkisla-besi-osb-fizibilite-parselasyon-protokolu.jpg",
+      "gorselKucuk": "assets/envato/sivas-sarkisla-besi-osb-fizibilite-parselasyon-protokolu-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
     {
       "id": "mgm-8-kasim-20-ilde-kar-sicaklik-3-6-derece-dusus",
       "kategori": "Zirai Don",
@@ -3779,9 +3799,7 @@
         "sera-6.jpg",
         "sera-8.jpg"
       ],
-      "sut": [
-        "sut-5.jpg"
-      ],
+      "sut": [],
       "tohum": [
         "tohum-6.jpg",
         "tohum-7.jpg",
