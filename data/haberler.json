@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-07T12:31:36+03:00",
+  "guncelleme": "2026-11-07T13:34:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,44 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "sigir-karkasi-sicak-agirlik-resmi-gazete-yonetmelik-2026",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-07",
+      "eklenme": "2026-11-07T13:34:00+03:00",
+      "motif": "sut",
+      "baslik": "Sığır karkasında fiyat artık sıcak ağırlıktan hesaplanacak: Yönetmelik değişikliği Resmî Gazete'de",
+      "manset": "Karkasta fiyat \"sıcak ağırlıktan\"",
+      "ozet": "Tarım ve Orman Bakanlığının hazırladığı Sığır Karkasının Sınıflandırılmasına Dair Yönetmelik değişikliği Resmî Gazete'de yayımlanarak yürürlüğe girdi. Düzenlemeyle karkas sığır etinin pazar fiyatı soğuk ağırlık yerine sıcak karkas ağırlığı üzerinden belirlenecek. Önceki uygulamada soğumaya bağlı fire kabulüyle soğuk ağırlıktan yüzde 2'lik bir kesinti yapılıyordu; değişiklik bu kesintinin alım ve ödemede ortadan kalkmasını amaçlıyor. Yönetmelik kapsamındaki işler de Gıda ve Kontrol Genel Müdürlüğünden Hayvancılık Genel Müdürlüğüne devredildi.",
+      "neYapmali": "Besiciler kesimhaneye hayvan verirken tartımın ve faturanın sıcak karkas ağırlığı üzerinden yapıldığını kontrol etmeli. Uygulamayla ilgili sorular için il tarım ve orman müdürlüğüne danışılabilir.",
+      "kaynaklar": [
+        {
+          "ad": "A Haber (AA)",
+          "url": "https://www.ahaber.com.tr/ekonomi/2026/11/07/sigir-karkas-etinin-pazar-fiyatinda-sicak-agirlik-donemi-basladi"
+        },
+        {
+          "ad": "Sözcü",
+          "url": "https://www.sozcu.com.tr/amp/et-fiyatlarina-yeni-duzenleme-artik-o-kriter-esas-alinacak-p376861"
+        }
+      ]
+    },
+    {
+      "id": "bafra-ovasi-pirasa-hasadi-16-bin-ton-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-07",
+      "eklenme": "2026-11-07T13:33:00+03:00",
+      "motif": "tohum",
+      "baslik": "Bafra Ovası'nda pırasa hasadı hız kazandı: 4 bin dekardan 16 bin ton ürün bekleniyor",
+      "manset": "Tarlada kilosu \"18-20 lira\"",
+      "ozet": "Samsun'un Bafra Ovası'nda haziranda dikilen pırasada hasat kasımda yoğunlaştı. Ovada yaklaşık 4 bin dekarda yapılan üretimden bu sezon 16 bin ton rekolte bekleniyor. Bafra Sebze Üreticileri Birliği Başkanı Adem Aşçı, Kızılırmak suyuyla sulanan ürünün tarlada kilogramının 18-20 liradan alıcı bulduğunu söyledi. Pırasa faturalı olarak hallere satılıyor ve Karadeniz, İç Anadolu ile İstanbul'a gönderiliyor.",
+      "neYapmali": "Üreticiler hal satışlarında faturalı işlem yapmalı ve güncel fiyatları satıştan önce hal kayıt sisteminden kontrol etmeli.",
+      "kaynaklar": [
+        {
+          "ad": "Haberler.com (AA)",
+          "url": "https://www.haberler.com/guncel/bafra-ovasi-nda-pirasa-hasadi-kasimda-yogunlasti-20404074-haberi/"
+        }
+      ]
+    },
     {
       "id": "izmir-kislik-sebze-hasadi-10-gun-erken-brokoli-2026",
       "kategori": "Bitkisel Üretim",
