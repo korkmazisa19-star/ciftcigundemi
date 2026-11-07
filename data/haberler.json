@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-07T13:34:00+03:00",
+  "guncelleme": "2026-11-07T14:30:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,26 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "bilecik-osmaneli-soguk-hava-deposu-15-milyon-861-bin-tl-hibe",
+      "kategori": "Hibe",
+      "tarih": "2026-11-07",
+      "eklenme": "2026-11-07T14:30:00+03:00",
+      "motif": "elma",
+      "baslik": "Bilecik Osmaneli'de 1994 yapımı soğuk hava deposu Bakanlık hibesiyle yenilendi: Elmanın saklama süresi bir yıla çıktı",
+      "manset": "Eski depoya \"15,9 milyon lira\" hibe",
+      "ozet": "Bilecik'in Osmaneli ilçesine bağlı Çerkeşli köyünde 1994'te kurulan 800 metrekarelik soğuk hava deposu, Tarım ve Orman Bakanlığının Kırsal Kalkınma Yatırımlarının Desteklenmesi Programı kapsamında 15 milyon 861 bin liralık hibeyle modernize edildi. İşletmeci Ali Aslan'ın Nisan 2025'te il müdürlüğüne yaptığı başvuru ağustosta kabul edildi, tesis Aralık 2025'te yeniden açıldı. Hibeyle 8 evaporatör, 2 amonyak pompası, amonyak tankı ve ayrıştırıcısı, pistonlu kompresör alındı, yalıtım da yenilendi. AA'nın 7 Kasım'daki haberine göre elmanın depoda kalma süresi 6 aydan 1 yıla, şeftalininki 45 günden 3 aya, armut ve ayvanınki 3 aydan 6 aya çıktı. Aslan, elektrikten tasarruf ettiklerini ve ürünleri başta İstanbul, Ankara ve İzmir olmak üzere ülke geneline gönderdiklerini söyledi.",
+      "neYapmali": "Soğuk hava deposu kurmak ya da eski tesisini yenilemek isteyen üreticiler, Kırsal Kalkınma Yatırımlarının Desteklenmesi Programı'nın yeni çağrı dönemini ve başvuru şartlarını il tarım ve orman müdürlüğünden takip etmeli. Başvuru öncesi proje maliyetini ve öz katkı payını netleştirmek süreci hızlandırır.",
+      "kaynaklar": [
+        {
+          "ad": "Anadolu Ajansı (Sondakika.com aracılığıyla)",
+          "url": "https://www.sondakika.com/ekonomi/haber-bilecik-osmaneli-de-ali-aslan-in-deposu-15-milyon--20404249/"
+        }
+      ],
+      "gorsel": "assets/envato/bilecik-osmaneli-soguk-hava-deposu-15-milyon-861-bin-tl-hibe.jpg",
+      "gorselKucuk": "assets/envato/bilecik-osmaneli-soguk-hava-deposu-15-milyon-861-bin-tl-hibe-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
     {
       "id": "sigir-karkasi-sicak-agirlik-resmi-gazete-yonetmelik-2026",
       "kategori": "Hayvancılık",
@@ -3488,7 +3508,6 @@
         "ayva-3.jpg"
       ],
       "elma": [
-        "elma-5.jpg",
         "elma-6.jpg",
         "elma-7.jpg"
       ],
