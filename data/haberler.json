@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-07T21:35:17+03:00",
+  "guncelleme": "2026-11-07T23:29:54+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,27 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "yumakli-ekim-117-bin-gida-denetimi-200-milyon-tl-ceza",
+      "kategori": "Piyasa",
+      "tarih": "2026-11-07",
+      "eklenme": "2026-11-07T23:29:54+03:00",
+      "motif": "para",
+      "baslik": "Bakan Yumaklı gıda denetimi rakamlarını açıkladı: Ekimde 117 bin denetim, yaklaşık 200 milyon lira ceza",
+      "manset": "Bir ayda \"117 bin\" gıda denetimi",
+      "ozet": "Tarım ve Orman Bakanı İbrahim Yumaklı, 7 Kasım'da CNN TÜRK'e verdiği röportajda taklit ve tağşişe yönelik son verileri paylaştı. Bakanlık yıl genelinde 1,1 milyon, yalnızca ekim ayında ise 117 bin gıda denetimi yaptı. Ekimdeki denetimlerde tespit edilen uygunsuzluklar için yaklaşık 200 milyon lira idari para cezası kesildi. Yumaklı, uygunsuzluk sayısının genel olarak azaldığını, denetimlerin genişlemesiyle bazı yeni vakaların ortaya çıktığını ve cezalı işletmelerin takip denetimiyle kontrol edildiğini söyledi. Bakan ayrıca Meclis'teki hal düzenlemesinin üreticiden satış noktasına giden yolu kısaltarak maliyetleri düşürmesini beklediklerini belirtti.",
+      "neYapmali": "Ürününü doğrudan satan üreticiler ve işletmeler etiket, izlenebilirlik ve kayıt belgelerini eksiksiz tutmalı; şüpheli bir gıdayı ALO 174 Gıda Hattı'na bildirebilir.",
+      "kaynaklar": [
+        {
+          "ad": "CNN Türk",
+          "url": "https://www.cnnturk.com/turkiye/bakan-yumakli-cnn-turke-konustu-gida-guvenliginde-taviz-yok-dedi-denetim-rakamlarini-paylasti-3490297"
+        },
+        {
+          "ad": "Vatan",
+          "url": "https://www.gazetevatan.com/gundem/tarim-ve-orman-bakani-ibrahim-yumakli-gida-guvenliginde-taviz-yok-dedi-denetim-rakamlarini-paylasti-2462438"
+        }
+      ]
+    },
     {
       "id": "yumakli-rusya-tir-analiz-yuzde-10-20-rasff-yuzde-74",
       "kategori": "Piyasa",
