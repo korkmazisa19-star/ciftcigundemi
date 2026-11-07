@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-07T07:29:57+03:00",
+  "guncelleme": "2026-11-07T08:30:51+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,23 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "karabuk-eskipazar-lahana-hasadi-2500-ton-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-06",
+      "eklenme": "2026-11-07T08:30:51+03:00",
+      "motif": "tohum",
+      "baslik": "Eskipazar lahanasında hasat başladı: 500 dekardan 2 bin 500 ton ürün hedefleniyor",
+      "manset": "Tek başı \"20 kilo\" geliyor!",
+      "ozet": "Karabük'ün Eskipazar ilçesinde 500 dekarlık alanda yetiştirilen lahananın hasadına başlandı; il tarım müdürlüğü bu yıl 2 bin 500 tonluk rekolte bekliyor. İl Tarım ve Orman Müdürü Yasin Önder, ürün için 2025'te Eskipazar Kaymakamlığı adına coğrafi işaret başvurusu yapıldığını ve tescil bülteninin yayımlanmasının beklendiğini belirtti. Üreticilerin anlattığına göre lahana başları 20 kiloya kadar ulaşabiliyor, ürün pazarda kilogram başına 40-50 liradan satılıyor. Hasat kasım ve aralık boyunca sürecek; Karahasanlar köyünde Tarım ve Orman ile Gençlik ve Spor bakanlıklarının yürüttüğü gönüllü hasat etkinliği de düzenlendi.",
+      "neYapmali": "Eskipazar'daki lahana üreticileri coğrafi işaret tescilinin sonucunu ve etiket kullanım koşullarını Karabük İl Tarım ve Orman Müdürlüğünden takip edebilir. Ürünü kasım-aralık döneminde depolama ve satış planını erken yaparak pazara sunmak fiyat kaybını azaltabilir.",
+      "kaynaklar": [
+        {
+          "ad": "Haberler.com (Anadolu Ajansı)",
+          "url": "https://www.haberler.com/ekonomi/karabuk-eskipazar-da-lahana-hasadi-basladi-2-bin-20402706-haberi/"
+        }
+      ]
+    },
     {
       "id": "mgm-zirai-don-7-10-kasim-alti-bolge",
       "kategori": "Zirai Don",
