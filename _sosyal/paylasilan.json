@@ -2,20 +2,20 @@
  "aciklama": "Sosyal medya paylasim durumu. 'onceden' = gorev kurulmadan once ele alindi, tekrar paylasilmaz.",
  "haberler": {
   "erzurum-tekman-3500-donum-aycicegi-hasadi-2026": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
+   "facebook": "ok",
+   "instagram": "hata",
+   "x": "ok",
+   "tiktok": "hata",
+   "youtube": "hata",
    "deneme": 0,
    "zaman": "2026-11-07T21:04:36+03:00"
   },
   "bayburt-hayvan-pazari-sap-kisitlama-kalkti-6-kasim": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
+   "facebook": "ok",
+   "instagram": "hata",
+   "x": "ok",
+   "tiktok": "hata",
+   "youtube": "hata",
    "deneme": 0,
    "zaman": "2026-11-07T21:04:36+03:00"
   },
