@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-07T02:31:14+03:00",
+  "guncelleme": "2026-11-07T03:30:39+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,30 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "hal-yasasi-ak-parti-grubunda-komisyon-yumakli-bolat",
+      "kategori": "Piyasa",
+      "tarih": "2026-11-06",
+      "eklenme": "2026-11-07T03:30:39+03:00",
+      "motif": "para",
+      "baslik": "Yeni hal düzenlemesinde sona yaklaşılıyor: Taslak AK Parti grubunda, sırada Meclis komisyonu var",
+      "manset": "Hal yasasında \"son aşama\"",
+      "ozet": "Tarım ve Orman Bakanı İbrahim Yumaklı, 6 Kasım'da yayımlanan söyleşisinde yeni hal düzenlemesinin AK Parti grubundaki çalışmaların ardından son halini aldığını ve komisyona gitmesinin beklendiğini söyledi. Yumaklı'ya göre düzenleme üretici birlikleri ile kooperatiflere hallerde ve pazar yerlerinde daha geniş rol verecek, büyük perakendecilerin belirli bir miktara kadar doğrudan üreticiden ürün almasının önünü açacak ve sözleşmeli üretimi teşvik edecek. Ticaret Bakanı Ömer Bolat da 4 Kasım'da taslağın Meclis'teki gruplarına sunulduğunu açıklamış; kooperatiflere hal ve pazarlarda yer, hal kurulumu için mali destek ve vergi muafiyeti öngörüldüğünü belirtmişti. Basına yansıyan bilgilere göre yaklaşık 30 maddelik ilk taslak 9 maddeye indirildi. Metin henüz resmî olarak kanunlaşmadı; ayrıntılar Meclis sürecinde netleşecek.",
+      "neYapmali": "Sebze-meyve üreticileri, düzenlemenin kooperatif ve birliklere tanıyacağı hal ve pazar yeri haklarından yararlanabilmek için bağlı oldukları üretici örgütünün çalışmalarını takip edebilir. Kesin kurallar için kanun metninin Resmî Gazete'de yayımlanması beklenmeli.",
+      "kaynaklar": [
+        {
+          "ad": "Memurlar.net",
+          "url": "https://www.memurlar.net/haber/1183247/bakan-yumakli-gida-guvenilirligi-kirmizi-cizgimiz-kimin-ne-oldugu-umurumda-bile-degil.html"
+        },
+        {
+          "ad": "Sabah",
+          "url": "https://www.sabah.com.tr/ekonomi/tarladan-rafa-donemi-basliyor-hal-yasasinda-sona-gelindi-fahis-komisyona-hapis-cezasi-7694905"
+        }
+      ],
+      "gorsel": "assets/envato/hal-yasasi-ak-parti-grubunda-komisyon-yumakli-bolat.jpg",
+      "gorselKucuk": "assets/envato/hal-yasasi-ak-parti-grubunda-komisyon-yumakli-bolat-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
     {
       "id": "istanbul-beykoz-marmara-veteriner-yol-kontrol-istasyonu-acildi",
       "kategori": "Hayvancılık",
@@ -3213,7 +3237,6 @@
       "domates": [
         "domates-1.jpg",
         "domates-2.jpg",
-        "domates-3.jpg",
         "domates-4.jpg"
       ],
       "misir": [
