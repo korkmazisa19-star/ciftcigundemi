@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-07T17:29:46+03:00",
+  "guncelleme": "2026-11-07T19:30:36+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,26 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "erdek-zeytin-kooperatifi-alim-7-kasim-7-bin-ton-kota",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-06",
+      "eklenme": "2026-11-07T19:30:36+03:00",
+      "motif": "zeytin",
+      "baslik": "Erdek Zeytin Kooperatifi yeni sezon alımına başlıyor: Birlik 7 bin ton kota tanıdı",
+      "manset": "Erdek'te zeytine \"7 bin ton\" kota",
+      "ozet": "Erdek Zeytin Kooperatifi, 2026-2027 iş yılının ürün alımlarına 7 Kasım Cumartesi günü Gedeve Depoları'nda başlıyor. Kooperatif Başkanı Abdullah Şenol'un açıklamasına göre birlik kooperatife 7 bin tonluk kota ayırdı. Ortakların bireysel kotası, son beş yılda teslim ettikleri ortalama miktarın yüzde 64 artırılmasıyla belirlendi; bu kotanın yüzde 80'i sofralık, yüzde 20'si yağlık olarak teslim edilebilecek. 180-410 barem aralığındaki taneler sofralık, 411 ve üzeri elek altı taneler yağlık sayılacak. Dolu vuran zeytinler fiyat farkıyla sofralık kotadan ayrı kalemde alınacak; açıklamada alım fiyatına yer verilmedi.",
+      "neYapmali": "Kooperatif ortakları kendi kotalarını kooperatif binasından öğrenip teslimatı sofralık-yağlık oranına göre planlamalı. Dolu zararı olanlar Dolu Vuruğu Raporu getirirse ayni kredi borçlarının ertelenmesini talep edebilir.",
+      "kaynaklar": [
+        {
+          "ad": "Yeni Erdek Gazetesi",
+          "url": "https://yenierdekgazetesi.com/haber/erdek-zeytin-kooperatifinden-aciklama-yeni-alim-donemi-basliyor-63609"
+        }
+      ],
+      "gorsel": "assets/envato/erdek-zeytin-kooperatifi-alim-7-kasim-7-bin-ton-kota.jpg",
+      "gorselKucuk": "assets/envato/erdek-zeytin-kooperatifi-alim-7-kasim-7-bin-ton-kota-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
     {
       "id": "erzurum-tekman-3500-donum-aycicegi-hasadi-2026",
       "kategori": "Bitkisel Üretim",
@@ -832,7 +852,8 @@
       ],
       "gorsel": "assets/envato/sap-hayvan-pazarlari-ticaret-durdu-kredi-riski.jpg",
       "gorselKucuk": "assets/envato/sap-hayvan-pazarlari-ticaret-durdu-kredi-riski-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorselKaynak": "Temsili fotoğraf",
+      "manset": "Hayvan ahırda, kredi \"riske girdi\""
     },
     {
       "id": "adana-19-tarim-sera-bahce-fuari-80-firma",
@@ -855,7 +876,8 @@
       ],
       "gorsel": "assets/envato/adana-19-tarim-sera-bahce-fuari-80-firma.jpg",
       "gorselKucuk": "assets/envato/adana-19-tarim-sera-bahce-fuari-80-firma-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorselKaynak": "Temsili fotoğraf",
+      "manset": "Adana'da sera fuarı \"80 firmayla\" açıldı"
     },
     {
       "id": "mersin-toroslar-belediyesi-safran-ilk-hasat",
@@ -874,7 +896,8 @@
       ],
       "gorsel": "assets/envato/mersin-toroslar-belediyesi-safran-ilk-hasat.jpg",
       "gorselKucuk": "assets/envato/mersin-toroslar-belediyesi-safran-ilk-hasat-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorselKaynak": "Temsili fotoğraf",
+      "manset": "Toroslar'da \"ilk safran\" hasadı"
     },
     {
       "id": "elazig-hos-40-bin-ton-uzum-alici-isikver-tbmm",
@@ -893,7 +916,8 @@
       ],
       "gorsel": "assets/envato/elazig-hos-40-bin-ton-uzum-alici-isikver-tbmm.jpg",
       "gorselKucuk": "assets/envato/elazig-hos-40-bin-ton-uzum-alici-isikver-tbmm-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorselKaynak": "Temsili fotoğraf",
+      "manset": "Hoş üzümü \"alıcı bekliyor\""
     },
     {
       "id": "bolu-hayvan-pazarlari-9-kasimda-aciliyor",
@@ -912,7 +936,8 @@
       ],
       "gorsel": "assets/envato/bolu-hayvan-pazarlari-9-kasimda-aciliyor.jpg",
       "gorselKucuk": "assets/envato/bolu-hayvan-pazarlari-9-kasimda-aciliyor-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorselKaynak": "Temsili fotoğraf",
+      "manset": "Bolu'da pazarlar \"9 Kasım'da\" açılıyor"
     },
     {
       "id": "mus-tiryaki-ciftci-bulusmalari-rejeneratif-tarim-2026",
@@ -931,7 +956,8 @@
       ],
       "gorsel": "assets/envato/mus-tiryaki-ciftci-bulusmalari-rejeneratif-tarim-2026.jpg",
       "gorselKucuk": "assets/envato/mus-tiryaki-ciftci-bulusmalari-rejeneratif-tarim-2026-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorselKaynak": "Temsili fotoğraf",
+      "manset": "Muş'ta \"yenileyici tarım\" eğitimi"
     },
     {
       "id": "konya-aksehir-belediyesi-111-ciftciye-tohumluk-arpa",
@@ -950,7 +976,8 @@
       ],
       "gorsel": "assets/envato/konya-aksehir-belediyesi-111-ciftciye-tohumluk-arpa.jpg",
       "gorselKucuk": "assets/envato/konya-aksehir-belediyesi-111-ciftciye-tohumluk-arpa-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorselKaynak": "Temsili fotoğraf",
+      "manset": "Akşehir'de \"47,9 ton\" arpa hibesi"
     },
     {
       "id": "nigde-bor-10-portatif-agil-kop-hibe",
@@ -973,7 +1000,8 @@
       ],
       "gorsel": "assets/envato/nigde-bor-10-portatif-agil-kop-hibe.jpg",
       "gorselKucuk": "assets/envato/nigde-bor-10-portatif-agil-kop-hibe-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorselKaynak": "Temsili fotoğraf",
+      "manset": "Bor'da \"10 portatif ağıl\" teslim"
     },
     {
       "id": "nigde-1-8-milyon-ton-rekolte-ciftci-fiyat-2026",
@@ -992,7 +1020,8 @@
       ],
       "gorsel": "assets/envato/nigde-1-8-milyon-ton-rekolte-ciftci-fiyat-2026.jpg",
       "gorselKucuk": "assets/envato/nigde-1-8-milyon-ton-rekolte-ciftci-fiyat-2026-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorselKaynak": "Temsili fotoğraf",
+      "manset": "Rekolte iyi, fiyat \"memnun etmedi\""
     },
     {
       "id": "isparta-199-bin-marul-fidesi-take-yuzde-75",
@@ -1011,7 +1040,8 @@
       ],
       "gorsel": "assets/envato/isparta-199-bin-marul-fidesi-take-yuzde-75.jpg",
       "gorselKucuk": "assets/envato/isparta-199-bin-marul-fidesi-take-yuzde-75-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorselKaynak": "Temsili fotoğraf",
+      "manset": "Isparta'da \"199 bin\" marul fidesi"
     },
     {
       "id": "aydin-cuma-bulusmalari-17-ilce-6-kasim",
@@ -1034,7 +1064,8 @@
       ],
       "gorsel": "assets/envato/aydin-cuma-bulusmalari-17-ilce-6-kasim.jpg",
       "gorselKucuk": "assets/envato/aydin-cuma-bulusmalari-17-ilce-6-kasim-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorselKaynak": "Temsili fotoğraf",
+      "manset": "Aydın'da \"17 ilçede\" çiftçi buluşması"
     },
     {
       "id": "bitlis-ahlat-patates-hasadi-120-bin-ton-2026",
@@ -1053,7 +1084,8 @@
       ],
       "gorsel": "assets/iha/bitlis-ahlat-patates-hasadi-120-bin-ton-2026.jpg",
       "gorselKucuk": "assets/iha/bitlis-ahlat-patates-hasadi-120-bin-ton-2026-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA"
+      "gorselKaynak": "Fotoğraf: İHA",
+      "manset": "Ahlat'ta \"120 bin ton\" patates"
     },
     {
       "id": "rize-findikli-kivi-fiyati-yari-yariya-dustu-2026",
@@ -1072,7 +1104,8 @@
       ],
       "gorsel": "assets/envato/rize-findikli-kivi-fiyati-yari-yariya-dustu-2026.jpg",
       "gorselKucuk": "assets/envato/rize-findikli-kivi-fiyati-yari-yariya-dustu-2026-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorselKaynak": "Temsili fotoğraf",
+      "manset": "Kivide fiyat \"yarı yarıya\" düştü!"
     },
     {
       "id": "samsun-kkyp-yedek-liste-6-basvuru-hibe-hakki",
@@ -1091,7 +1124,8 @@
       ],
       "gorsel": "assets/envato/samsun-kkyp-yedek-liste-6-basvuru-hibe-hakki.jpg",
       "gorselKucuk": "assets/envato/samsun-kkyp-yedek-liste-6-basvuru-hibe-hakki-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorselKaynak": "Temsili fotoğraf",
+      "manset": "KKYP'de \"6 yedek\" hibe hakkı aldı"
     },
     {
       "id": "duzce-findik-hasat-filesi-45-yatirimci-8-milyon-hibe",
@@ -1110,7 +1144,8 @@
       ],
       "gorsel": "assets/envato/duzce-findik-hasat-filesi-45-yatirimci-8-milyon-hibe.jpg",
       "gorselKucuk": "assets/envato/duzce-findik-hasat-filesi-45-yatirimci-8-milyon-hibe-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorselKaynak": "Temsili fotoğraf",
+      "manset": "Düzce'de \"45 yatırımcıya\" hasat filesi"
     },
     {
       "id": "antalya-buyuksehir-91-uretici-sera-sensoru",
@@ -1133,7 +1168,8 @@
       ],
       "gorsel": "assets/envato/antalya-buyuksehir-91-uretici-sera-sensoru.jpg",
       "gorselKucuk": "assets/envato/antalya-buyuksehir-91-uretici-sera-sensoru-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorselKaynak": "Temsili fotoğraf",
+      "manset": "Seracıya \"dijital sensör\" hibesi"
     },
     {
       "id": "zeytin-hasat-maliyeti-karacasu-bandirma-tbmm",
@@ -1160,7 +1196,8 @@
       ],
       "gorsel": "assets/envato/zeytin-hasat-maliyeti-karacasu-bandirma-tbmm.jpg",
       "gorselKucuk": "assets/envato/zeytin-hasat-maliyeti-karacasu-bandirma-tbmm-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorselKaynak": "Temsili fotoğraf",
+      "manset": "Zeytinde \"hasat maliyeti\" tepkisi"
     },
     {
       "id": "samsun-carsamba-130-uretici-marul-fidesi",
@@ -1179,7 +1216,8 @@
       ],
       "gorsel": "assets/envato/samsun-carsamba-130-uretici-marul-fidesi.jpg",
       "gorselKucuk": "assets/envato/samsun-carsamba-130-uretici-marul-fidesi-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorselKaynak": "Temsili fotoğraf",
+      "manset": "Çarşamba'ya \"1,4 milyon\" marul fidesi"
     },
     {
       "id": "sanliurfa-suruc-pinarbasi-300-dekar-su-baskini",
@@ -1198,7 +1236,8 @@
       ],
       "gorsel": "assets/envato/sanliurfa-suruc-pinarbasi-300-dekar-su-baskini.jpg",
       "gorselKucuk": "assets/envato/sanliurfa-suruc-pinarbasi-300-dekar-su-baskini-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorselKaynak": "Temsili fotoğraf",
+      "manset": "Suruç'ta \"300 dekar\" su altında"
     },
     {
       "id": "aksaray-seker-pancari-hasadi-2026-basladi",
@@ -1221,7 +1260,8 @@
       ],
       "gorsel": "assets/envato/aksaray-seker-pancari-hasadi-2026-basladi.jpg",
       "gorselKucuk": "assets/envato/aksaray-seker-pancari-hasadi-2026-basladi-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorselKaynak": "Temsili fotoğraf",
+      "manset": "Aksaray'da \"pancar hasadı\" başladı"
     },
     {
       "id": "adana-portakal-bahce-fiyati-5-7-tl",
@@ -1240,7 +1280,8 @@
       ],
       "gorsel": "assets/envato/adana-portakal-bahce-fiyati-5-7-tl.jpg",
       "gorselKucuk": "assets/envato/adana-portakal-bahce-fiyati-5-7-tl-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorselKaynak": "Temsili fotoğraf",
+      "manset": "Portakal bahçede \"5-7 liraya\" indi!"
     },
     {
       "id": "nazilli-hasat-oncesi-pestisit-denetimi",
@@ -1263,7 +1304,8 @@
       ],
       "gorsel": "assets/iha/nazilli-hasat-oncesi-pestisit-denetimi.jpg",
       "gorselKucuk": "assets/iha/nazilli-hasat-oncesi-pestisit-denetimi-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA"
+      "gorselKaynak": "Fotoğraf: İHA",
+      "manset": "Nazilli'de \"pestisit denetimi\""
     },
     {
       "id": "duzce-kahverengi-kokarca-kislak-ilaclama-2026",
@@ -1286,7 +1328,8 @@
       ],
       "gorsel": "assets/iha/duzce-kahverengi-kokarca-kislak-ilaclama-2026.jpg",
       "gorselKucuk": "assets/iha/duzce-kahverengi-kokarca-kislak-ilaclama-2026-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA"
+      "gorselKaynak": "Fotoğraf: İHA",
+      "manset": "Düzce'de \"60 bin 800\" noktada ilaçlama"
     },
     {
       "id": "erzincan-cayirli-guzluk-hububat-ekimi",
@@ -1309,7 +1352,8 @@
       ],
       "gorsel": "assets/iha/erzincan-cayirli-guzluk-hububat-ekimi.jpg",
       "gorselKucuk": "assets/iha/erzincan-cayirli-guzluk-hububat-ekimi-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA"
+      "gorselKaynak": "Fotoğraf: İHA",
+      "manset": "Çayırlı'da \"güzlük ekim\" başladı"
     },
     {
       "id": "yesil-bodrum-mandalini-abd-miami-ihracat",
@@ -1332,7 +1376,8 @@
       ],
       "gorsel": "assets/iha/yesil-bodrum-mandalini-abd-miami-ihracat.jpg",
       "gorselKucuk": "assets/iha/yesil-bodrum-mandalini-abd-miami-ihracat-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA"
+      "gorselKaynak": "Fotoğraf: İHA",
+      "manset": "Bodrum mandalini \"ABD yolunda\""
     },
     {
       "id": "ayvalik-tagsisli-zeytinyagi-yilda-50-bin-ton",
@@ -1355,7 +1400,8 @@
       ],
       "gorsel": "assets/iha/ayvalik-tagsisli-zeytinyagi-yilda-50-bin-ton.jpg",
       "gorselKucuk": "assets/iha/ayvalik-tagsisli-zeytinyagi-yilda-50-bin-ton-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA"
+      "gorselKaynak": "Fotoğraf: İHA",
+      "manset": "Yılda \"50 bin ton\" sahte zeytinyağı!"
     },
     {
       "id": "aycicegi-gumruk-yuzde-12-komisyonda-aygun-tepki",
@@ -1386,7 +1432,8 @@
       ],
       "gorsel": "assets/iha/aycicegi-gumruk-yuzde-12-komisyonda-aygun-tepki.jpg",
       "gorselKucuk": "assets/iha/aycicegi-gumruk-yuzde-12-komisyonda-aygun-tepki-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA (temsili)"
+      "gorselKaynak": "Fotoğraf: İHA (temsili)",
+      "manset": "Ayçiçeğinde \"yüzde 12\" gümrük tartışması"
     },
     {
       "id": "diyarbakir-ziraat-odasi-tarsim-pamuk-magdur",
@@ -1405,7 +1452,8 @@
       ],
       "gorsel": "assets/envato/diyarbakir-ziraat-odasi-tarsim-pamuk-magdur.jpg",
       "gorselKucuk": "assets/envato/diyarbakir-ziraat-odasi-tarsim-pamuk-magdur-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorselKaynak": "Temsili fotoğraf",
+      "manset": "Pamukta \"TARSİM\" zararı karşılamıyor"
     },
     {
       "id": "cerkezkoy-ziraat-odasi-bugday-ekim-tav-uyarisi",
@@ -1428,7 +1476,8 @@
       ],
       "gorsel": "assets/envato/cerkezkoy-ziraat-odasi-bugday-ekim-tav-uyarisi.jpg",
       "gorselKucuk": "assets/envato/cerkezkoy-ziraat-odasi-bugday-ekim-tav-uyarisi-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorselKaynak": "Temsili fotoğraf",
+      "manset": "Buğdayda \"tavı bekleyin\" uyarısı"
     },
     {
       "id": "erzincan-kemah-kutluova-ceviz-budama-egitimi",
@@ -1451,7 +1500,8 @@
       ],
       "gorsel": "assets/iha/erzincan-kemah-kutluova-ceviz-budama-egitimi.jpg",
       "gorselKucuk": "assets/iha/erzincan-kemah-kutluova-ceviz-budama-egitimi-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA"
+      "gorselKaynak": "Fotoğraf: İHA",
+      "manset": "Kemah'ta \"ceviz budama\" eğitimi"
     },
     {
       "id": "bingol-karliova-sakaoren-sagim-hijyeni-egitimi",
@@ -1474,7 +1524,8 @@
       ],
       "gorsel": "assets/iha/bingol-karliova-sakaoren-sagim-hijyeni-egitimi.jpg",
       "gorselKucuk": "assets/iha/bingol-karliova-sakaoren-sagim-hijyeni-egitimi-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA"
+      "gorselKaynak": "Fotoğraf: İHA",
+      "manset": "Karlıova'da \"sağım hijyeni\" eğitimi"
     },
     {
       "id": "marmarabirlik-zeytin-alimi-64-bin-ton-2026",
@@ -1493,7 +1544,8 @@
       ],
       "gorsel": "assets/iha/marmarabirlik-zeytin-alimi-64-bin-ton-2026.jpg",
       "gorselKucuk": "assets/iha/marmarabirlik-zeytin-alimi-64-bin-ton-2026-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA"
+      "gorselKaynak": "Fotoğraf: İHA",
+      "manset": "Marmarabirlik'ten \"64 bin ton\" hedef"
     },
     {
       "id": "ordu-ariciya-22-bin-kutu-varroa-ilaci",
@@ -1512,7 +1564,8 @@
       ],
       "gorsel": "assets/iha/ordu-ariciya-22-bin-kutu-varroa-ilaci.jpg",
       "gorselKucuk": "assets/iha/ordu-ariciya-22-bin-kutu-varroa-ilaci-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA (temsili)"
+      "gorselKaynak": "Fotoğraf: İHA (temsili)",
+      "manset": "Ordu'da arıcıya \"22 bin kutu\" ilaç"
     },
     {
       "id": "bolu-20-elma-ureticisi-ekuy-sertifikasi",
@@ -1531,7 +1584,8 @@
       ],
       "gorsel": "assets/envato/bolu-20-elma-ureticisi-ekuy-sertifikasi.jpg",
       "gorselKucuk": "assets/envato/bolu-20-elma-ureticisi-ekuy-sertifikasi-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorselKaynak": "Temsili fotoğraf",
+      "manset": "Bolu'da 20 üreticiye \"EKÜY\" sertifikası"
     },
     {
       "id": "mersin-gulnar-kucukbas-fidan-solar-kamera",
@@ -1550,7 +1604,8 @@
       ],
       "gorsel": "assets/iha/mersin-gulnar-kucukbas-fidan-solar-kamera.jpg",
       "gorselKucuk": "assets/iha/mersin-gulnar-kucukbas-fidan-solar-kamera-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA"
+      "gorselKaynak": "Fotoğraf: İHA",
+      "manset": "Gülnar'a \"fidan ve solar kamera\""
     },
     {
       "id": "bursa-orhangazi-yaglik-zeytin-25-30-tl",
@@ -1569,7 +1624,8 @@
       ],
       "gorsel": "assets/iha/bursa-orhangazi-yaglik-zeytin-25-30-tl.jpg",
       "gorselKucuk": "assets/iha/bursa-orhangazi-yaglik-zeytin-25-30-tl-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA (temsili)"
+      "gorselKaynak": "Fotoğraf: İHA (temsili)",
+      "manset": "Yağlık zeytin \"25-30 liraya\" düştü"
     },
     {
       "id": "usak-ulubey-omurca-corek-otu-23-uretici",
@@ -1588,7 +1644,8 @@
       ],
       "gorsel": "assets/envato/usak-ulubey-omurca-corek-otu-23-uretici.jpg",
       "gorselKucuk": "assets/envato/usak-ulubey-omurca-corek-otu-23-uretici-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorselKaynak": "Temsili fotoğraf",
+      "manset": "Ulubey'de \"çörek otu\" desteği"
     },
     {
       "id": "balikesir-gonen-manyas-293-uretici-sut-otu",
@@ -1611,7 +1668,8 @@
       ],
       "gorsel": "assets/envato/balikesir-gonen-manyas-293-uretici-sut-otu.jpg",
       "gorselKucuk": "assets/envato/balikesir-gonen-manyas-293-uretici-sut-otu-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorselKaynak": "Temsili fotoğraf",
+      "manset": "Gönen ve Manyas'a \"14 ton\" tohum"
     },
     {
       "id": "diyarbakir-cungus-mercimek-tohumu-dagitimi",
@@ -1634,7 +1692,8 @@
       ],
       "gorsel": "assets/iha/diyarbakir-cungus-mercimek-tohumu-dagitimi.jpg",
       "gorselKucuk": "assets/iha/diyarbakir-cungus-mercimek-tohumu-dagitimi-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA"
+      "gorselKaynak": "Fotoğraf: İHA",
+      "manset": "Çüngüş'te \"mercimek tohumu\" dağıtıldı"
     },
     {
       "id": "mersin-kdakp-yuzde-100-hibeli-motorlu-capa",
@@ -1657,7 +1716,8 @@
       ],
       "gorsel": "assets/iha/mersin-kdakp-yuzde-100-hibeli-motorlu-capa.jpg",
       "gorselKucuk": "assets/iha/mersin-kdakp-yuzde-100-hibeli-motorlu-capa-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA"
+      "gorselKaynak": "Fotoğraf: İHA",
+      "manset": "Mersin'de \"hibeli çapa\" dağıtıldı"
     },
     {
       "id": "niksar-ceviz-16-bin-dekar-festival",
@@ -1676,7 +1736,8 @@
       ],
       "gorsel": "assets/iha/niksar-ceviz-16-bin-dekar-festival.jpg",
       "gorselKucuk": "assets/iha/niksar-ceviz-16-bin-dekar-festival-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA (temsili)"
+      "gorselKaynak": "Fotoğraf: İHA (temsili)",
+      "manset": "Niksar'da ceviz \"16 bin dekar\""
     },
     {
       "id": "karaman-33-bin-badem-zeytin-fidani",
@@ -1699,7 +1760,8 @@
       ],
       "gorsel": "assets/iha/karaman-33-bin-badem-zeytin-fidani.jpg",
       "gorselKucuk": "assets/iha/karaman-33-bin-badem-zeytin-fidani-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA"
+      "gorselKaynak": "Fotoğraf: İHA",
+      "manset": "Karaman'a \"33 bin\" fidan desteği"
     },
     {
       "id": "erzurum-58-ariciya-232-ana-ari-kovani",
@@ -1722,7 +1784,8 @@
       ],
       "gorsel": "assets/iha/erzurum-58-ariciya-232-ana-ari-kovani.jpg",
       "gorselKucuk": "assets/iha/erzurum-58-ariciya-232-ana-ari-kovani-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA"
+      "gorselKaynak": "Fotoğraf: İHA",
+      "manset": "Erzurum'da arıcıya \"232 kovan\""
     },
     {
       "id": "batman-gercus-safran-hasadi-800-metrekare",
@@ -1745,7 +1808,8 @@
       ],
       "gorsel": "assets/iha/batman-gercus-safran-hasadi-800-metrekare.jpg",
       "gorselKucuk": "assets/iha/batman-gercus-safran-hasadi-800-metrekare-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA"
+      "gorselKaynak": "Fotoğraf: İHA",
+      "manset": "Gercüş'te safran \"800 metrekareye\" çıktı"
     },
     {
       "id": "tmo-findik-alimi-14-kasima-uzatildi",
@@ -1764,7 +1828,8 @@
       ],
       "gorsel": "assets/iha/tmo-findik-alimi-14-kasima-uzatildi.jpg",
       "gorselKucuk": "assets/iha/tmo-findik-alimi-14-kasima-uzatildi-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA (temsili)"
+      "gorselKaynak": "Fotoğraf: İHA (temsili)",
+      "manset": "TMO fındıkta \"son gün 14 Kasım\""
     },
     {
       "id": "meteoroloji-4-kasim-23-il-yagis-uyarisi",
@@ -1787,7 +1852,8 @@
       ],
       "gorsel": "assets/iha/meteoroloji-4-kasim-23-il-yagis-uyarisi.jpg",
       "gorselKucuk": "assets/iha/meteoroloji-4-kasim-23-il-yagis-uyarisi-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA (temsili)"
+      "gorselKaynak": "Fotoğraf: İHA (temsili)",
+      "manset": "İki ilde yağışa \"turuncu kod\"!"
     },
     {
       "id": "yagis-66-yil-dsi-150-is-makinesi",
@@ -1810,7 +1876,8 @@
       ],
       "gorsel": "assets/iha/yagis-66-yil-dsi-150-is-makinesi.jpg",
       "gorselKucuk": "assets/iha/yagis-66-yil-dsi-150-is-makinesi-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA"
+      "gorselKaynak": "Fotoğraf: İHA",
+      "manset": "Yağış \"66 yılın zirvesinde\""
     },
     {
       "id": "misir-fiyati-ekimde-yuzde-10-6-dustu",
@@ -1833,7 +1900,8 @@
       ],
       "gorsel": "assets/iha/misir-fiyati-ekimde-yuzde-10-6-dustu.jpg",
       "gorselKucuk": "assets/iha/misir-fiyati-ekimde-yuzde-10-6-dustu-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA (temsili)"
+      "gorselKaynak": "Fotoğraf: İHA (temsili)",
+      "manset": "Mısırda \"40 ayın\" en sert düşüşü"
     },
     {
       "id": "ciftci-destek-9-ay-115-5-milyar",
@@ -1856,7 +1924,8 @@
       ],
       "gorsel": "assets/envato/ciftci-destek-9-ay-115-5-milyar.jpg",
       "gorselKucuk": "assets/envato/ciftci-destek-9-ay-115-5-milyar-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato"
+      "gorselKaynak": "Temsili fotoğraf: Envato",
+      "manset": "Çiftçiye \"115,5 milyar lira\" destek"
     },
     {
       "id": "edirne-sut-birligi-cig-sut-28-50",
@@ -1879,7 +1948,8 @@
       ],
       "gorsel": "assets/envato/edirne-sut-birligi-cig-sut-28-50.jpg",
       "gorselKucuk": "assets/envato/edirne-sut-birligi-cig-sut-28-50-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato"
+      "gorselKaynak": "Temsili fotoğraf: Envato",
+      "manset": "Edirne'de çiğ süt \"28,50 lira\""
     },
     {
       "id": "arsin-ziraat-odasi-kredi-erteleme-cagrisi",
@@ -1898,7 +1968,8 @@
       ],
       "gorsel": "assets/envato/arsin-ziraat-odasi-kredi-erteleme-cagrisi.jpg",
       "gorselKucuk": "assets/envato/arsin-ziraat-odasi-kredi-erteleme-cagrisi-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato"
+      "gorselKaynak": "Temsili fotoğraf: Envato",
+      "manset": "Arsin'den \"faizsiz erteleme\" talebi"
     },
     {
       "id": "afyon-ciftci-gece-egitimleri-isiklar",
@@ -1917,7 +1988,8 @@
       ],
       "gorsel": "assets/envato/afyon-ciftci-gece-egitimleri-isiklar.jpg",
       "gorselKucuk": "assets/envato/afyon-ciftci-gece-egitimleri-isiklar-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato"
+      "gorselKaynak": "Temsili fotoğraf: Envato",
+      "manset": "Afyon'da çiftçiye \"gece eğitimi\""
     },
     {
       "id": "nigde-elma-yagis-kara-benek",
@@ -1937,7 +2009,8 @@
       "gorsel": "assets/iha/nigde-elma-yagis-kara-benek.jpg",
       "gorselKucuk": "assets/iha/nigde-elma-yagis-kara-benek-k.jpg",
       "gorselKaynak": "Fotoğraf/Video: İHA",
-      "video": "assets/video/nigde-elma-yagis-kara-benek.mp4"
+      "video": "assets/video/nigde-elma-yagis-kara-benek.mp4",
+      "manset": "Elma meyve suyuna, kilosu \"2,5 lira\"!"
     },
     {
       "id": "yozgat-14-uretici-sera-destegi",
@@ -1957,7 +2030,8 @@
       "gorsel": "assets/iha/yozgat-14-uretici-sera-destegi.jpg",
       "gorselKucuk": "assets/iha/yozgat-14-uretici-sera-destegi-k.jpg",
       "gorselKaynak": "Fotoğraf/Video: İHA",
-      "video": "assets/video/yozgat-14-uretici-sera-destegi.mp4"
+      "video": "assets/video/yozgat-14-uretici-sera-destegi.mp4",
+      "manset": "Yozgat'ta \"5 milyon liralık\" sera desteği"
     },
     {
       "id": "bir-suru-olsun-basvuru-4-13-kasim",
@@ -1984,7 +2058,8 @@
       ],
       "gorsel": "assets/envato/bir-suru-olsun-basvuru-4-13-kasim.jpg",
       "gorselKucuk": "assets/envato/bir-suru-olsun-basvuru-4-13-kasim-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato"
+      "gorselKaynak": "Temsili fotoğraf: Envato",
+      "manset": "\"Bir Sürü Olsun\" başvuruları başladı"
     },
     {
       "id": "tbmm-seker-arastirma-onergesi-reddedildi",
@@ -2007,7 +2082,8 @@
       ],
       "gorsel": "assets/envato/tbmm-seker-arastirma-onergesi-reddedildi.jpg",
       "gorselKucuk": "assets/envato/tbmm-seker-arastirma-onergesi-reddedildi-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato"
+      "gorselKaynak": "Temsili fotoğraf: Envato",
+      "manset": "Şeker araştırması \"kabul edilmedi\""
     },
     {
       "id": "mersin-zeytinyagi-litre-200-tl",
@@ -2030,7 +2106,8 @@
       "eklenme": "2026-11-04T07:59:00+03:00",
       "gorsel": "assets/iha/mersin-zeytinyagi-litre-200-tl.jpg",
       "gorselKucuk": "assets/iha/mersin-zeytinyagi-litre-200-tl-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA"
+      "gorselKaynak": "Fotoğraf: İHA",
+      "manset": "Zeytinyağı litresi \"200 liraya\" indi"
     },
     {
       "id": "manisa-kula-selendi-905-uretici-tohum",
@@ -2053,7 +2130,8 @@
       "eklenme": "2026-11-04T07:58:00+03:00",
       "gorsel": "assets/iha/manisa-kula-selendi-905-uretici-tohum.jpg",
       "gorselKucuk": "assets/iha/manisa-kula-selendi-905-uretici-tohum-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA"
+      "gorselKaynak": "Fotoğraf: İHA",
+      "manset": "Kula ve Selendi'ye \"hibeli tohum\""
     },
     {
       "id": "mersin-sel-ciftci-destek-belirsiz",
@@ -2072,7 +2150,8 @@
       "eklenme": "2026-11-04T07:57:00+03:00",
       "gorsel": "assets/envato/mersin-sel-ciftci-destek-belirsiz.jpg",
       "gorselKucuk": "assets/envato/mersin-sel-ciftci-destek-belirsiz-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato"
+      "gorselKaynak": "Temsili fotoğraf: Envato",
+      "manset": "Mersin'de çiftçi \"destek bekliyor\""
     },
     {
       "id": "van-58-cilek-serasi-56-ureticiye-kasimda",
@@ -2091,7 +2170,8 @@
       "eklenme": "2026-11-04T07:56:00+03:00",
       "gorsel": "assets/envato/van-58-cilek-serasi-56-ureticiye-kasimda.jpg",
       "gorselKucuk": "assets/envato/van-58-cilek-serasi-56-ureticiye-kasimda-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato"
+      "gorselKaynak": "Temsili fotoğraf: Envato",
+      "manset": "Van'da \"56 çilek serası\" teslimde"
     },
     {
       "id": "nevsehir-cerezlik-kabak-hasadi",
@@ -2110,7 +2190,8 @@
       "eklenme": "2026-11-04T07:55:00+03:00",
       "gorsel": "assets/envato/nevsehir-cerezlik-kabak-hasadi.jpg",
       "gorselKucuk": "assets/envato/nevsehir-cerezlik-kabak-hasadi-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato"
+      "gorselKaynak": "Temsili fotoğraf: Envato",
+      "manset": "Çerezlik kabakta \"hasat zamanı\""
     },
     {
       "id": "findik-ihracati-ilk-iki-ay-494-milyon-dolar",
@@ -2129,7 +2210,8 @@
       "eklenme": "2026-11-04T07:54:00+03:00",
       "gorsel": "assets/iha/findik-ihracati-ilk-iki-ay-494-milyon-dolar.jpg",
       "gorselKucuk": "assets/iha/findik-ihracati-ilk-iki-ay-494-milyon-dolar-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA (temsili)"
+      "gorselKaynak": "Fotoğraf: İHA (temsili)",
+      "manset": "Fındık ihracatı \"494,6 milyon dolar\""
     },
     {
       "id": "ekim-2026-tarim-ihracati-3-35-milyar-dolar",
@@ -2148,7 +2230,8 @@
       "eklenme": "2026-11-04T07:53:00+03:00",
       "gorsel": "assets/envato/ekim-2026-tarim-ihracati-3-35-milyar-dolar.jpg",
       "gorselKucuk": "assets/envato/ekim-2026-tarim-ihracati-3-35-milyar-dolar-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato"
+      "gorselKaynak": "Temsili fotoğraf: Envato",
+      "manset": "Tarım ihracatı \"3,35 milyar dolar\""
     },
     {
       "id": "antalya-hal-ekim-domates-fiyati-iki-katina",
@@ -2167,7 +2250,8 @@
       "eklenme": "2026-11-04T07:52:00+03:00",
       "gorsel": "assets/iha/antalya-hal-ekim-domates-fiyati-iki-katina.jpg",
       "gorselKucuk": "assets/iha/antalya-hal-ekim-domates-fiyati-iki-katina-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA"
+      "gorselKaynak": "Fotoğraf: İHA",
+      "manset": "Domates bir yılda \"iki katına\" çıktı!"
     },
     {
       "id": "tokat-yesilirmak-600-milyon-islah",
@@ -2186,7 +2270,8 @@
       "eklenme": "2026-11-04T07:51:00+03:00",
       "gorsel": "assets/envato/tokat-yesilirmak-600-milyon-islah.jpg",
       "gorselKucuk": "assets/envato/tokat-yesilirmak-600-milyon-islah-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato"
+      "gorselKaynak": "Temsili fotoğraf: Envato",
+      "manset": "Yeşilırmak'a \"600 milyon liralık\" ıslah"
     },
     {
       "id": "zirai-don-uyarisi-4-9-kasim",
@@ -2217,7 +2302,8 @@
       "eklenme": "2026-11-04T07:50:00+03:00",
       "gorsel": "assets/iha/zirai-don-uyarisi-4-9-kasim.jpg",
       "gorselKucuk": "assets/iha/zirai-don-uyarisi-4-9-kasim-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA (temsili)"
+      "gorselKaynak": "Fotoğraf: İHA (temsili)",
+      "manset": "İç kesimlere \"zirai don\" uyarısı!"
     },
     {
       "id": "bayburt-buzagi-kuzu-1-aralik",
@@ -2240,7 +2326,8 @@
       "eklenme": "2026-11-04T07:49:00+03:00",
       "gorsel": "assets/envato/bayburt-buzagi-kuzu-1-aralik.jpg",
       "gorselKucuk": "assets/envato/bayburt-buzagi-kuzu-1-aralik-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato"
+      "gorselKaynak": "Temsili fotoğraf: Envato",
+      "manset": "Buzağı desteğinde \"son gün 1 Aralık\""
     },
     {
       "id": "sakarya-ayva-60-bin-ton",
@@ -2263,7 +2350,8 @@
       "eklenme": "2026-11-04T07:48:00+03:00",
       "gorsel": "assets/iha/sakarya-ayva-60-bin-ton.jpg",
       "gorselKucuk": "assets/iha/sakarya-ayva-60-bin-ton-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA"
+      "gorselKaynak": "Fotoğraf: İHA",
+      "manset": "Ayva bol, fiyat \"şikâyet konusu\""
     },
     {
       "id": "diyarbakir-yagis-pamuk-misir-hasat",
@@ -2286,7 +2374,8 @@
       "eklenme": "2026-11-04T07:47:00+03:00",
       "gorsel": "assets/iha/diyarbakir-yagis-pamuk-misir-hasat.jpg",
       "gorselKucuk": "assets/iha/diyarbakir-yagis-pamuk-misir-hasat-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA (temsili)"
+      "gorselKaynak": "Fotoğraf: İHA (temsili)",
+      "manset": "Diyarbakır'da \"afet bölgesi\" talebi"
     },
     {
       "id": "fethiye-sel",
@@ -2306,7 +2395,8 @@
       "gorselKucuk": "assets/iha/fethiye-sel-k.jpg",
       "gorselKaynak": "Fotoğraf/Video: İHA",
       "video": "assets/video/fethiye-sel.mp4",
-      "eklenme": "2026-11-04T07:46:00+03:00"
+      "eklenme": "2026-11-04T07:46:00+03:00",
+      "manset": "Fethiye'de seralar \"su altında\""
     },
     {
       "id": "kizilinler",
@@ -2326,7 +2416,8 @@
       "gorselKucuk": "assets/iha/kizilinler-k.jpg",
       "gorselKaynak": "Fotoğraf/Video: İHA",
       "video": "assets/video/kizilinler.mp4",
-      "eklenme": "2026-11-04T07:45:00+03:00"
+      "eklenme": "2026-11-04T07:45:00+03:00",
+      "manset": "Kızılinler kabağına \"coğrafi işaret\""
     },
     {
       "id": "ahlat-ivesi",
@@ -2346,7 +2437,8 @@
       "gorselKucuk": "assets/iha/ahlat-ivesi-k.jpg",
       "gorselKaynak": "Fotoğraf/Video: İHA",
       "video": "assets/video/ahlat-ivesi.mp4",
-      "eklenme": "2026-11-04T07:44:00+03:00"
+      "eklenme": "2026-11-04T07:44:00+03:00",
+      "manset": "Ahlat'ta \"ivesi koyunu\" ıslahı"
     },
     {
       "id": "erzincan-ceviz",
@@ -2366,7 +2458,8 @@
       "gorselKucuk": "assets/iha/erzincan-ceviz-k.jpg",
       "gorselKaynak": "Fotoğraf/Video: İHA",
       "video": "assets/video/erzincan-ceviz.mp4",
-      "eklenme": "2026-11-04T07:43:00+03:00"
+      "eklenme": "2026-11-04T07:43:00+03:00",
+      "manset": "Erzincan'da ceviz \"serada kuruyor\""
     },
     {
       "id": "antalya-tirnak",
@@ -2386,7 +2479,8 @@
       "gorselKucuk": "assets/iha/antalya-tirnak-k.jpg",
       "gorselKaynak": "Fotoğraf/Video: İHA",
       "video": "assets/video/antalya-tirnak.mp4",
-      "eklenme": "2026-11-04T07:42:00+03:00"
+      "eklenme": "2026-11-04T07:42:00+03:00",
+      "manset": "Antalya'da \"ücretsiz tırnak\" bakımı"
     },
     {
       "id": "hatay-mandalina",
@@ -2406,7 +2500,8 @@
       "gorselKucuk": "assets/iha/hatay-mandalina-k.jpg",
       "gorselKaynak": "Fotoğraf/Video: İHA",
       "video": "assets/video/hatay-mandalina.mp4",
-      "eklenme": "2026-11-04T07:41:00+03:00"
+      "eklenme": "2026-11-04T07:41:00+03:00",
+      "manset": "Hatay'da \"100 ton\" mandalina öğrencilere"
     },
     {
       "id": "resmi-gazete-3-kasim-mera-orman-koylusu",
@@ -2429,7 +2524,8 @@
       "eklenme": "2026-11-04T07:40:00+03:00",
       "gorsel": "assets/envato/resmi-gazete-3-kasim-mera-orman-koylusu.jpg",
       "gorselKucuk": "assets/envato/resmi-gazete-3-kasim-mera-orman-koylusu-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato"
+      "gorselKaynak": "Temsili fotoğraf: Envato",
+      "manset": "Mera ve orman köylüsüne \"yeni düzenleme\""
     },
     {
       "id": "canik-salep-tohumu-destegi",
@@ -2448,7 +2544,8 @@
       "eklenme": "2026-11-04T07:39:00+03:00",
       "gorsel": "assets/iha/canik-salep-tohumu-destegi.jpg",
       "gorselKucuk": "assets/iha/canik-salep-tohumu-destegi-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA"
+      "gorselKaynak": "Fotoğraf: İHA",
+      "manset": "Canik'e \"500 kilo\" salep tohumu"
     },
     {
       "id": "onarici-tarim-bugday-verim-yuzde-22",
@@ -2467,7 +2564,8 @@
       "eklenme": "2026-11-04T07:38:00+03:00",
       "gorsel": "assets/iha/onarici-tarim-bugday-verim-yuzde-22.jpg",
       "gorselKucuk": "assets/iha/onarici-tarim-bugday-verim-yuzde-22-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA"
+      "gorselKaynak": "Fotoğraf: İHA",
+      "manset": "Onarıcı tarımla verim \"yüzde 22\" arttı"
     },
     {
       "id": "ipard-3-4-milyar-avro-yatirim",
@@ -2486,7 +2584,8 @@
       "eklenme": "2026-11-04T07:37:00+03:00",
       "gorsel": "assets/envato/ipard-3-4-milyar-avro-yatirim.jpg",
       "gorselKucuk": "assets/envato/ipard-3-4-milyar-avro-yatirim-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato"
+      "gorselKaynak": "Temsili fotoğraf: Envato",
+      "manset": "IPARD'la \"3,4 milyar avro\" yatırım"
     },
     {
       "id": "ege-pamuk-ekim-alani-yuzde-47-daraldi",
@@ -2505,7 +2604,8 @@
       "eklenme": "2026-11-04T07:36:00+03:00",
       "gorsel": "assets/envato/ege-pamuk-ekim-alani-yuzde-47-daraldi.jpg",
       "gorselKucuk": "assets/envato/ege-pamuk-ekim-alani-yuzde-47-daraldi-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato"
+      "gorselKaynak": "Temsili fotoğraf: Envato",
+      "manset": "Ege'de pamuk \"yüzde 47\" daraldı"
     },
     {
       "id": "istanbul-hamsi-hal-150-tezgah-350",
@@ -2524,7 +2624,8 @@
       "eklenme": "2026-11-04T07:35:00+03:00",
       "gorsel": "assets/envato/istanbul-hamsi-hal-150-tezgah-350.jpg",
       "gorselKucuk": "assets/envato/istanbul-hamsi-hal-150-tezgah-350-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato"
+      "gorselKaynak": "Temsili fotoğraf: Envato",
+      "manset": "Hamsi halde 150, tezgahta \"350 lira\""
     },
     {
       "id": "agri-hayvan-borsasi-acildi-kars-kisitlama-kalkti",
@@ -2547,7 +2648,8 @@
       "eklenme": "2026-11-04T07:34:00+03:00",
       "gorsel": "assets/envato/agri-hayvan-borsasi-acildi-kars-kisitlama-kalkti.jpg",
       "gorselKucuk": "assets/envato/agri-hayvan-borsasi-acildi-kars-kisitlama-kalkti-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato"
+      "gorselKaynak": "Temsili fotoğraf: Envato",
+      "manset": "Ağrı ve Kars'ta \"şap gevşemesi\""
     },
     {
       "id": "ordu-findik-serbest-piyasa-160-170-tl",
@@ -2566,7 +2668,8 @@
       "eklenme": "2026-11-04T07:33:00+03:00",
       "gorsel": "assets/iha/ordu-findik-serbest-piyasa-160-170-tl.jpg",
       "gorselKucuk": "assets/iha/ordu-findik-serbest-piyasa-160-170-tl-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA (temsili)"
+      "gorselKaynak": "Fotoğraf: İHA (temsili)",
+      "manset": "Ordu'da fındık \"160-170 liraya\" geriledi"
     },
     {
       "id": "aricilik-son-gun-6-kasim",
@@ -2585,7 +2688,8 @@
       "eklenme": "2026-11-04T07:32:00+03:00",
       "gorsel": "assets/envato/aricilik-son-gun-6-kasim.jpg",
       "gorselKucuk": "assets/envato/aricilik-son-gun-6-kasim-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato"
+      "gorselKaynak": "Temsili fotoğraf: Envato",
+      "manset": "Arıcılıkta başvuru \"6 Kasım'a\" uzadı"
     },
     {
       "id": "denizli-mazot-gubre",
@@ -2608,7 +2712,8 @@
       "eklenme": "2026-11-04T07:31:00+03:00",
       "gorsel": "assets/envato/denizli-mazot-gubre.jpg",
       "gorselKucuk": "assets/envato/denizli-mazot-gubre-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato"
+      "gorselKaynak": "Temsili fotoğraf: Envato",
+      "manset": "Denizli'de \"mazot ve gübre\" desteği"
     },
     {
       "id": "cig-sut-fiyat-bekleniyor",
@@ -2631,7 +2736,8 @@
       "eklenme": "2026-11-04T07:30:00+03:00",
       "gorsel": "assets/envato/cig-sut-fiyat-bekleniyor.jpg",
       "gorselKucuk": "assets/envato/cig-sut-fiyat-bekleniyor-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato"
+      "gorselKaynak": "Temsili fotoğraf: Envato",
+      "manset": "Çiğ sütte \"yeni fiyat\" bekleniyor"
     },
     {
       "id": "malatya-su-urunleri",
@@ -2650,7 +2756,8 @@
       "eklenme": "2026-11-04T07:29:00+03:00",
       "gorsel": "assets/envato/malatya-su-urunleri.jpg",
       "gorselKucuk": "assets/envato/malatya-su-urunleri-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato"
+      "gorselKaynak": "Temsili fotoğraf: Envato",
+      "manset": "Su ürünlerinde \"başvuru dönemi\" açıldı"
     },
     {
       "id": "manavgat-saganak-400-donum-pamuk-kabak",
@@ -2669,7 +2776,8 @@
       "eklenme": "2026-11-04T07:28:00+03:00",
       "gorsel": "assets/iha/manavgat-saganak-400-donum-pamuk-kabak.jpg",
       "gorselKucuk": "assets/iha/manavgat-saganak-400-donum-pamuk-kabak-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA"
+      "gorselKaynak": "Fotoğraf: İHA",
+      "manset": "Manavgat'ta zarar \"10 milyon lirayı\" aştı"
     },
     {
       "id": "rekabet-kurumu-findik-6-sirket-sorusturma",
@@ -2688,7 +2796,8 @@
       "eklenme": "2026-11-04T07:27:00+03:00",
       "gorsel": "assets/envato/rekabet-kurumu-findik-6-sirket-sorusturma.jpg",
       "gorselKucuk": "assets/envato/rekabet-kurumu-findik-6-sirket-sorusturma-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato"
+      "gorselKaynak": "Temsili fotoğraf: Envato",
+      "manset": "Fındıkta \"6 şirkete\" soruşturma!"
     },
     {
       "id": "tmo-2027-bugday-misir-alim-ongorusu",
@@ -2707,7 +2816,8 @@
       "eklenme": "2026-11-04T07:26:00+03:00",
       "gorsel": "assets/envato/tmo-2027-bugday-misir-alim-ongorusu.jpg",
       "gorselKucuk": "assets/envato/tmo-2027-bugday-misir-alim-ongorusu-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato"
+      "gorselKaynak": "Temsili fotoğraf: Envato",
+      "manset": "TMO'dan 2027'de \"5 milyon ton\" buğday"
     },
     {
       "id": "tzob-ekim-2026-uretici-market-fiyatlari",
@@ -2726,7 +2836,8 @@
       "eklenme": "2026-11-04T07:25:00+03:00",
       "gorsel": "assets/envato/tzob-ekim-2026-uretici-market-fiyatlari.jpg",
       "gorselKucuk": "assets/envato/tzob-ekim-2026-uretici-market-fiyatlari-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato"
+      "gorselKaynak": "Temsili fotoğraf: Envato",
+      "manset": "Domates markette \"yüzde 62,9\" zamlandı"
     },
     {
       "id": "sapanca-golu-eylem-plani-25-5-milyar",
@@ -2745,7 +2856,8 @@
       "eklenme": "2026-11-04T07:24:00+03:00",
       "gorsel": "assets/iha/sapanca-golu-eylem-plani-25-5-milyar.jpg",
       "gorselKucuk": "assets/iha/sapanca-golu-eylem-plani-25-5-milyar-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA"
+      "gorselKaynak": "Fotoğraf: İHA",
+      "manset": "Sapanca'ya \"25,5 milyar liralık\" plan"
     },
     {
       "id": "elbistan-sap-karantinasi-5-mahalle",
@@ -2764,7 +2876,8 @@
       "eklenme": "2026-11-04T07:23:00+03:00",
       "gorsel": "assets/envato/elbistan-sap-karantinasi-5-mahalle.jpg",
       "gorselKucuk": "assets/envato/elbistan-sap-karantinasi-5-mahalle-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato"
+      "gorselKaynak": "Temsili fotoğraf: Envato",
+      "manset": "Elbistan'da \"şap karantinası\""
     },
     {
       "id": "antalya-tavsan-yuregi-zeytin-hasadi",
@@ -2783,7 +2896,8 @@
       "eklenme": "2026-11-04T07:22:00+03:00",
       "gorsel": "assets/iha/antalya-tavsan-yuregi-zeytin-hasadi.jpg",
       "gorselKucuk": "assets/iha/antalya-tavsan-yuregi-zeytin-hasadi-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA"
+      "gorselKaynak": "Fotoğraf: İHA",
+      "manset": "Tavşan yüreğinde \"10 bin ton\" rekolte"
     },
     {
       "id": "denizli-tarfu-2026-tarim-fuari",
@@ -2802,7 +2916,8 @@
       "eklenme": "2026-11-04T07:21:00+03:00",
       "gorsel": "assets/envato/denizli-tarfu-2026-tarim-fuari.jpg",
       "gorselKucuk": "assets/envato/denizli-tarfu-2026-tarim-fuari-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato"
+      "gorselKaynak": "Temsili fotoğraf: Envato",
+      "manset": "Denizli'de \"TARFU 2026\" açıldı"
     },
     {
       "id": "lalahan-genomik-test-merkezi-buzagi-kaybi-20-bin",
@@ -2821,7 +2936,8 @@
       "eklenme": "2026-11-04T07:20:00+03:00",
       "gorsel": "assets/envato/lalahan-genomik-test-merkezi-buzagi-kaybi-20-bin.jpg",
       "gorselKucuk": "assets/envato/lalahan-genomik-test-merkezi-buzagi-kaybi-20-bin-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato"
+      "gorselKaynak": "Temsili fotoğraf: Envato",
+      "manset": "Buzağı kaybında tazminat \"20 bin lira\""
     },
     {
       "id": "tmo-kasim-hububat",
@@ -2840,7 +2956,8 @@
       "eklenme": "2026-11-04T07:19:00+03:00",
       "gorsel": "assets/envato/tmo-kasim-hububat.jpg",
       "gorselKucuk": "assets/envato/tmo-kasim-hububat-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato"
+      "gorselKaynak": "Temsili fotoğraf: Envato",
+      "manset": "TMO'dan \"zamsız\" hububat satışı"
     },
     {
       "id": "corum-pancar-dekarda-15-ton",
@@ -2859,7 +2976,8 @@
       "eklenme": "2026-11-04T07:18:00+03:00",
       "gorsel": "assets/iha/corum-pancar-dekarda-15-ton.jpg",
       "gorselKucuk": "assets/iha/corum-pancar-dekarda-15-ton-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA"
+      "gorselKaynak": "Fotoğraf: İHA",
+      "manset": "Pancarda dekardan \"15 ton\" verim"
     },
     {
       "id": "sinop-kdakp-genc-kadin-ciftci-185-milyon-hibe",
@@ -2878,7 +2996,8 @@
       "eklenme": "2026-11-04T07:17:00+03:00",
       "gorsel": "assets/envato/sinop-kdakp-genc-kadin-ciftci-185-milyon-hibe.jpg",
       "gorselKucuk": "assets/envato/sinop-kdakp-genc-kadin-ciftci-185-milyon-hibe-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato"
+      "gorselKaynak": "Temsili fotoğraf: Envato",
+      "manset": "Sinop'a \"185 milyon liralık\" hibe"
     },
     {
       "id": "tigem-bugday-arpa-narenciye-ihalesi-kasim",
@@ -2897,7 +3016,8 @@
       "eklenme": "2026-11-04T07:16:00+03:00",
       "gorsel": "assets/iha/tigem-bugday-arpa-narenciye-ihalesi-kasim.jpg",
       "gorselKucuk": "assets/iha/tigem-bugday-arpa-narenciye-ihalesi-kasim-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA (temsili)"
+      "gorselKaynak": "Fotoğraf: İHA (temsili)",
+      "manset": "TİGEM'den \"buğday ve narenciye\" ihalesi"
     },
     {
       "id": "cop31-antalya-atb-tarim-su-gundemi",
@@ -2920,7 +3040,8 @@
       "eklenme": "2026-11-04T07:15:00+03:00",
       "gorsel": "assets/envato/cop31-antalya-atb-tarim-su-gundemi.jpg",
       "gorselKucuk": "assets/envato/cop31-antalya-atb-tarim-su-gundemi-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato"
+      "gorselKaynak": "Temsili fotoğraf: Envato",
+      "manset": "COP31 öncesi \"tarım ve su\" gündemi"
     },
     {
       "id": "gemlik-yaglik-zeytin-maliyeti-58-tl",
@@ -2939,7 +3060,8 @@
       "eklenme": "2026-11-04T07:14:00+03:00",
       "gorsel": "assets/iha/gemlik-yaglik-zeytin-maliyeti-58-tl.jpg",
       "gorselKucuk": "assets/iha/gemlik-yaglik-zeytin-maliyeti-58-tl-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA"
+      "gorselKaynak": "Fotoğraf: İHA",
+      "manset": "Yağlık zeytin maliyeti \"58,14 lira\""
     },
     {
       "id": "pancar-besinci-avans-952-milyon",
@@ -2962,7 +3084,8 @@
       "eklenme": "2026-11-04T07:13:00+03:00",
       "gorsel": "assets/iha/pancar-besinci-avans-952-milyon.jpg",
       "gorselKucuk": "assets/iha/pancar-besinci-avans-952-milyon-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA (temsili)"
+      "gorselKaynak": "Fotoğraf: İHA (temsili)",
+      "manset": "Pancara \"952 milyon liralık\" avans"
     },
     {
       "id": "zeytin-zeytinyagi-ihracati-dokuz-ayda-yuzde-28-geriledi",
@@ -2981,7 +3104,8 @@
       "eklenme": "2026-11-04T07:12:00+03:00",
       "gorsel": "assets/iha/zeytin-zeytinyagi-ihracati-dokuz-ayda-yuzde-28-geriledi.jpg",
       "gorselKucuk": "assets/iha/zeytin-zeytinyagi-ihracati-dokuz-ayda-yuzde-28-geriledi-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA (temsili)"
+      "gorselKaynak": "Fotoğraf: İHA (temsili)",
+      "manset": "Zeytin ihracatı \"yüzde 28\" geriledi"
     },
     {
       "id": "aydin-kestane-ilk-alim-600-tl",
@@ -3000,7 +3124,8 @@
       "eklenme": "2026-11-04T07:11:00+03:00",
       "gorsel": "assets/iha/aydin-kestane-ilk-alim-600-tl.jpg",
       "gorselKucuk": "assets/iha/aydin-kestane-ilk-alim-600-tl-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA"
+      "gorselKaynak": "Fotoğraf: İHA",
+      "manset": "İlk kestane kilosu \"600 lira\"!"
     },
     {
       "id": "zeytin-rekor-rekolte",
@@ -3023,7 +3148,8 @@
       "eklenme": "2026-11-04T07:10:00+03:00",
       "gorsel": "assets/envato/zeytin-rekor-rekolte.jpg",
       "gorselKucuk": "assets/envato/zeytin-rekor-rekolte-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato"
+      "gorselKaynak": "Temsili fotoğraf: Envato",
+      "manset": "Zeytinde rekor rekolte, \"zor sezon\""
     },
     {
       "id": "turktraktor-dokuz-ay",
@@ -3046,7 +3172,8 @@
       "eklenme": "2026-11-04T07:09:00+03:00",
       "gorsel": "assets/envato/turktraktor-dokuz-ay.jpg",
       "gorselKucuk": "assets/envato/turktraktor-dokuz-ay-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato"
+      "gorselKaynak": "Temsili fotoğraf: Envato",
+      "manset": "TürkTraktör'de iç satış \"yüzde 26\" düştü"
     },
     {
       "id": "dogubayazit-yuzde-70-hibeli-bugday-tohumu",
@@ -3065,7 +3192,8 @@
       "eklenme": "2026-11-04T07:08:00+03:00",
       "gorsel": "assets/envato/dogubayazit-yuzde-70-hibeli-bugday-tohumu.jpg",
       "gorselKucuk": "assets/envato/dogubayazit-yuzde-70-hibeli-bugday-tohumu-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato"
+      "gorselKaynak": "Temsili fotoğraf: Envato",
+      "manset": "Doğubayazıt'a \"hibeli buğday tohumu\""
     },
     {
       "id": "tuik-bitkisel-uretim-2-tahmin-2026",
@@ -3084,7 +3212,8 @@
       "eklenme": "2026-11-04T07:07:00+03:00",
       "gorsel": "assets/envato/tuik-bitkisel-uretim-2-tahmin-2026.jpg",
       "gorselKucuk": "assets/envato/tuik-bitkisel-uretim-2-tahmin-2026-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato"
+      "gorselKaynak": "Temsili fotoğraf: Envato",
+      "manset": "Tahılda \"yüzde 30\" artış bekleniyor"
     },
     {
       "id": "ankara-tohum-gubre",
@@ -3103,7 +3232,8 @@
       "eklenme": "2026-11-04T07:06:00+03:00",
       "gorsel": "assets/envato/ankara-tohum-gubre.jpg",
       "gorselKucuk": "assets/envato/ankara-tohum-gubre-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato"
+      "gorselKaynak": "Temsili fotoğraf: Envato",
+      "manset": "Ankara'da başvuru \"23 Kasım'da\" bitiyor"
     },
     {
       "id": "butce-2027-tarim-destek",
@@ -3126,7 +3256,8 @@
       "eklenme": "2026-11-04T07:05:00+03:00",
       "gorsel": "assets/envato/butce-2027-tarim-destek.jpg",
       "gorselKucuk": "assets/envato/butce-2027-tarim-destek-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato"
+      "gorselKaynak": "Temsili fotoğraf: Envato",
+      "manset": "Tarım desteğine \"235 milyar lira\""
     },
     {
       "id": "cks-2027-son-gun-31-aralik",
@@ -3149,7 +3280,8 @@
       "eklenme": "2026-11-03T12:00:00+03:00",
       "gorsel": "assets/envato/cks-2027-son-gun-31-aralik.jpg",
       "gorselKucuk": "assets/envato/cks-2027-son-gun-31-aralik-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato"
+      "gorselKaynak": "Temsili fotoğraf: Envato",
+      "manset": "ÇKS'de \"son tarih 31 Aralık\""
     }
   ],
   "takvim": [
@@ -3539,7 +3671,6 @@
         "traktor-9.jpg"
       ],
       "zeytin": [
-        "zeytin-3.jpg",
         "zeytin-5.jpg"
       ],
       "ayva": [
