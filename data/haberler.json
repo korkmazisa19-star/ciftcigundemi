@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-07T06:30:40+03:00",
+  "guncelleme": "2026-11-07T07:29:57+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,30 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "mgm-zirai-don-7-10-kasim-alti-bolge",
+      "kategori": "Zirai Don",
+      "tarih": "2026-11-06",
+      "eklenme": "2026-11-07T07:29:57+03:00",
+      "motif": "don",
+      "baslik": "Meteoroloji'den hafta sonu için yeni zirai don uyarısı: Altı bölgede hafif ve yer yer orta şiddette don bekleniyor",
+      "manset": "Cumartesi gecesi \"altı bölgede\" don!",
+      "ozet": "Meteoroloji Genel Müdürlüğü (MGM), 6 Kasım'da yayımladığı uyarıda cumartesiyi pazara bağlayan geceden itibaren zirai don beklendiğini bildirdi. Uyarı Marmara'nın güneydoğusu, İç Anadolu, Karadeniz'in iç kesimleri, İç Ege, Akdeniz'in iç ve yüksek kesimleri ile Doğu Anadolu'yu kapsıyor. Donun hafif, yer yer de orta şiddette olması öngörülüyor. Habere göre risk 7 Kasım saat 22.00'de başlayıp 10 Kasım sabah 10.00'a kadar sürecek. Ankara Valiliği de başkentte aynı gece başlayacak don için üreticileri tedbirli olmaya çağırdı.",
+      "neYapmali": "Örtü altı ve açık alandaki hassas sebze, fide ve geç hasat ürünlerinizi 7 Kasım akşamından önce örtü, sulama ya da ısıtma gibi yöntemlerle korumaya alın; ilinize ait güncel tahmini MGM'nin sitesinden takip edin.",
+      "kaynaklar": [
+        {
+          "ad": "Anadolu Ajansı",
+          "url": "https://www.aa.com.tr/tr/gundem/meteorolojiden-zirai-don-uyarisi/4114390"
+        },
+        {
+          "ad": "ABC Gazetesi",
+          "url": "https://abcgazetesi.com.tr/turkiye/meteoroloji-6-bolge-icin-zirai-don-uyarisinda-bulundu-876460"
+        }
+      ],
+      "gorsel": "assets/envato/mgm-zirai-don-7-10-kasim-alti-bolge.jpg",
+      "gorselKucuk": "assets/envato/mgm-zirai-don-7-10-kasim-alti-bolge-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
     {
       "id": "rekabet-kurumu-findik-7-sirket-sorusturma-ferrero-taahhut",
       "kategori": "Piyasa",
@@ -3126,10 +3150,10 @@
     }
   ],
   "hava": {
-    "donem": "4-9 Kasım",
-    "kaynak": "MGM tahmini, il merkezleri",
-    "haber": "zirai-don-uyarisi-4-9-kasim",
-    "genel": "İç kesimlerde yerel ölçekte zirai don riski",
+    "donem": "7-10 Kasım",
+    "kaynak": "MGM zirai don uyarısı (6 Kasım 2026); il değerleri MGM'nin 3 Kasım il merkezi tahmininden",
+    "haber": "mgm-zirai-don-7-10-kasim-alti-bolge",
+    "genel": "Marmara'nın güneydoğusu, İç Anadolu, Karadeniz'in iç kesimleri, İç Ege, Akdeniz'in iç ve yüksek kesimleri ile Doğu Anadolu'da 7 Kasım gecesinden itibaren hafif, yer yer orta şiddette zirai don bekleniyor",
     "iller": [
       {
         "il": "Erzurum",
@@ -3230,8 +3254,7 @@
       "don": [
         "don-2.jpg",
         "don-3.jpg",
-        "don-4.jpg",
-        "don-5.jpg"
+        "don-4.jpg"
       ],
       "findik": [],
       "kovan": [
