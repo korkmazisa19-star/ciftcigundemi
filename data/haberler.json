@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-07T23:29:54+03:00",
+  "guncelleme": "2026-11-08T01:31:14+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,34 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "mgm-8-kasim-20-ilde-kar-sicaklik-3-6-derece-dusus",
+      "kategori": "Zirai Don",
+      "tarih": "2026-11-07",
+      "eklenme": "2026-11-08T01:31:14+03:00",
+      "motif": "don",
+      "baslik": "Meteoroloji'den pazar günü için kar uyarısı: 20 ilde kar bekleniyor, sıcaklıklar normalin altına iniyor",
+      "manset": "Pazar günü \"20 ile\" kar geliyor!",
+      "ozet": "Meteoroloji Genel Müdürlüğü'nün tahminine göre 8 Kasım Pazar günü Bolu, Karabük, Kastamonu, Amasya, Tokat, Sivas, Niğde, Nevşehir, Kayseri, Gümüşhane, Erzincan, Bayburt, Erzurum, Muş, Bitlis, Ardahan, Kars, Ağrı, Van ve Hakkari'de kar yağışı görülecek. Hava sıcaklıklarının yurt genelinde mevsim normallerinin 3 ila 6 derece altına düşmesi öngörülüyor. Batı Karadeniz'de Düzce, Zonguldak ve Bartın için kuvvetli sağanak uyarısı yapıldı; bu illerin iç ve yüksek kesimleriyle Bolu'da 5-20 santimetre kar örtüsü oluşabileceği bildirildi. Marmara, Ege kıyıları, Batı Akdeniz ve Karadeniz kıyılarında rüzgârın yer yer fırtına şiddetine ulaşması bekleniyor.",
+      "neYapmali": "Kar beklenen illerdeki üreticiler ahır ve ağılların çatı ile havalandırmasını kontrol etmeli, hayvanlar için yem ve su stoğunu önceden hazırlamalı. Rüzgâr uyarısı olan kıyı bölgelerinde sera örtüleri ve plastik tünellerin bağlantıları sağlamlaştırılmalı; güncel uyarılar mgm.gov.tr'den takip edilmeli.",
+      "kaynaklar": [
+        {
+          "ad": "Sabah",
+          "url": "https://www.sabah.com.tr/trend/galeri/yasam/son-dakika-kara-kis-kapiya-dayandi-meteoroloji-alarm-verdi-20-il-icin-kar-uyarisi"
+        },
+        {
+          "ad": "Yeni Asır",
+          "url": "https://www.yeniasir.com.tr/yasam/2026/11/07/son-dakika-kara-kis-geldi-meteoroloji-saat-verdi-20-ilde-kar-yagisi-alarmi"
+        },
+        {
+          "ad": "Aksiyon",
+          "url": "https://www.aksiyon.com.tr/bati-karadeniz-de-kuvvetli-saganak-ve-yuksek-kesimlerde-kar-uyarisi-389837"
+        }
+      ],
+      "gorsel": "assets/envato/mgm-8-kasim-20-ilde-kar-sicaklik-3-6-derece-dusus.jpg",
+      "gorselKucuk": "assets/envato/mgm-8-kasim-20-ilde-kar-sicaklik-3-6-derece-dusus-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
     {
       "id": "yumakli-ekim-117-bin-gida-denetimi-200-milyon-tl-ceza",
       "kategori": "Piyasa",
@@ -3724,7 +3752,6 @@
       ],
       "don": [
         "don-2.jpg",
-        "don-3.jpg",
         "don-4.jpg"
       ],
       "findik": [
