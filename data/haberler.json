@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-07T16:31:36+03:00",
+  "guncelleme": "2026-11-07T17:29:46+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,23 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "erzurum-tekman-3500-donum-aycicegi-hasadi-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-07",
+      "eklenme": "2026-11-07T17:29:46+03:00",
+      "motif": "tohum",
+      "baslik": "Kırıkkaleli üretici Tekman'da 3 bin 500 dönüm ayçiçeği ekti: Hasat yağışlara takıldı, fiyat beklentinin altında",
+      "manset": "Tekman'da \"3 bin 500 dönüm\" ayçiçeği",
+      "ozet": "Kırıkkale'nin Hacılar Kasabası'ndan Erzurum'un Tekman ilçesine gelen Murat Koyuncu, dört ayrı köyden kiraladığı toplam 3 bin 500 dönüm araziye ayçiçeği ekti. Şimdiye kadar bu alanın 400 dönümünde hasat tamamlandı; yağışlar nedeniyle biçerdöverler zaman zaman durmak zorunda kaldı. Koyuncu, yaban domuzları ve kargaların bu yıl ürüne ciddi zarar verdiğini ancak genel verimin yine de iyi olduğunu anlattı. Üreticinin en büyük şikâyeti ise ayçiçeği fiyatlarının beklentisinin altında kalması. Toplanan ürün, brandalar üzerine serilerek kurumaya bırakılıyor.",
+      "neYapmali": "Yaban hayvanı zararı yaşayan üreticiler, ürünleri TARSİM kapsamındaysa hasar ihbarını gecikmeden yapmalı ve zararı il/ilçe tarım müdürlüğüne bildirmeli. Satış öncesinde nem oranını düşürmek için ürünü iyi kurutmak fiyat kaybını azaltır.",
+      "kaynaklar": [
+        {
+          "ad": "Van Postası Gazetesi (İHA)",
+          "url": "https://vanpostasigazetesi.com/haber/kirikkaleden-tekmana-gelen-yatirimci-dev-aycicegi-tarlalarinda-hasat-yapiyor-402327"
+        }
+      ]
+    },
     {
       "id": "bayburt-hayvan-pazari-sap-kisitlama-kalkti-6-kasim",
       "kategori": "Hayvancılık",
