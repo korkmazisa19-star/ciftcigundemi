@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-07T05:30:12+03:00",
+  "guncelleme": "2026-11-07T06:30:40+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,30 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "rekabet-kurumu-findik-7-sirket-sorusturma-ferrero-taahhut",
+      "kategori": "Piyasa",
+      "tarih": "2026-11-06",
+      "eklenme": "2026-11-07T06:30:40+03:00",
+      "motif": "findik",
+      "baslik": "Fındık soruşturmasında şirket sayısı yediye çıktı: Ferrero'nun alım taahhütleri de incelenecek",
+      "manset": "Fındıkta soruşturma \"7 şirkete\" genişledi",
+      "ozet": "Rekabet Kurumu, 22 Ekim'de altı şirketle başlattığı fındık soruşturmasının kapsamını 6 Kasım'da yedi şirkete genişletti. İncelenen firmalar Ferrero Fındık, Atalay Fındık, Balsu Gıda, Karaçuha Tarım, Ofi Tarım, Özyılmaz Fındık ve Şenocak Gıda olarak açıklandı. Kurum, bu şirketlerin üreticiden alım fiyatlarını ve alım politikalarını birlikte belirleyip belirlemediğini ve piyasadaki fiyat oluşumunu etkileyip etkilemediğini araştıracak. Ferrero'nun 2024'te bağlayıcı hale gelen taahhütlerine, yani kabuklu fındığı TMO fiyatının altında almama, sezonda 100 bin tonu aşmama ve eylül-aralık döneminde en az 45 bin ton alma sözüne uyup uymadığı da ele alınacak. Soruşturma açılması ihlal bulunduğu anlamına gelmiyor; haberlerde şirketlerden bir açıklamaya yer verilmedi.",
+      "neYapmali": "Fındığınızı satarken fiyatı ve tarihi gösteren müstahsil makbuzunu mutlaka alın ve saklayın; TMO fiyatının altında alım teklifi ya da alıcılar arasında anlaşmalı fiyat izlenimi gibi durumları ziraat odanız aracılığıyla Rekabet Kurumu'na bildirebilirsiniz.",
+      "kaynaklar": [
+        {
+          "ad": "Habertürk",
+          "url": "https://haberturk.com/ekonomi/rekabet-kurumu-ndan-7-sirkete-findik-piyasasi-sorusturmasi-3925371"
+        },
+        {
+          "ad": "Milliyet Uzmanpara",
+          "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/findikta-fiyat-sorusturmasi-buyuyor-7-sirket-mercek-altinda-7695587"
+        }
+      ],
+      "gorsel": "assets/envato/rekabet-kurumu-findik-7-sirket-sorusturma-ferrero-taahhut.jpg",
+      "gorselKucuk": "assets/envato/rekabet-kurumu-findik-7-sirket-sorusturma-ferrero-taahhut-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
     {
       "id": "elma-4-milyon-427-bin-ton-cips-mama-tzym-kiraz",
       "kategori": "Piyasa",
@@ -3209,9 +3233,7 @@
         "don-4.jpg",
         "don-5.jpg"
       ],
-      "findik": [
-        "findik-2.jpg"
-      ],
+      "findik": [],
       "kovan": [
         "kovan-1.jpg",
         "kovan-2.jpg",
