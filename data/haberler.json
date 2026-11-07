@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-07T03:30:39+03:00",
+  "guncelleme": "2026-11-07T05:30:12+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,26 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "elma-4-milyon-427-bin-ton-cips-mama-tzym-kiraz",
+      "kategori": "Piyasa",
+      "tarih": "2026-11-06",
+      "eklenme": "2026-11-07T05:30:12+03:00",
+      "motif": "elma",
+      "baslik": "Elmada bol rekolte üreticiyi zorluyor: Ziraat mühendislerinden cips, mama ve sirke önerisi",
+      "manset": "Elmada rekolte \"yüzde 97,4\" arttı",
+      "ozet": "Türk Ziraat Yüksek Mühendisleri Birliği Genel Başkanı Fehmi Kiraz, 2026'da elma üretiminin bir önceki yıla göre yüzde 97,4 artışla 4 milyon 427 bin tona çıkmasının beklendiğini hatırlattı. Kiraz'a göre geçen yılki don ve kuraklık kayıplarının ardından gelen bu bolluk; yükselen girdi maliyetleri, daralan ihracat ve düşen alım fiyatları nedeniyle üreticiye kazanç getirmiyor. Isparta, Karaman, Niğde, Elmalı ve Göksun'da binlerce ton elmanın dalda ya da depoda beklediğini belirten Kiraz, ürünün yalnızca konsantreye gitmemesi için elma cipsi, dondurularak kurutulmuş elma, bebek maması püresi ve organik sirke tesislerinin desteklenmesini önerdi. Birlik ayrıca meyve suyu fabrikalarının alımlarında maliyet esaslı taban fiyat, Tarım Kredi ve kamu kurumlarınca müdahale alımı, navlun desteği ve soğuk hava depolarının elektrik giderlerine destek istedi.",
+      "neYapmali": "Deposunda elma bekleyen üreticiler, satış kararından önce bölgelerindeki ziraat odası ve üretici birliklerinden güncel alım tekliflerini ve olası işleme tesisi ya da kooperatif alımlarını öğrenebilir. Depolama maliyetini düşürmek için enerji giderlerini ve ürün kalitesini düzenli takip etmek faydalı olur.",
+      "kaynaklar": [
+        {
+          "ad": "Anadolu Ajansı",
+          "url": "https://www.aa.com.tr/tr/ekonomi/elmada-yuksek-rekolteye-cips-ve-mama-formulu/4113688"
+        }
+      ],
+      "gorsel": "assets/envato/elma-4-milyon-427-bin-ton-cips-mama-tzym-kiraz.jpg",
+      "gorselKucuk": "assets/envato/elma-4-milyon-427-bin-ton-cips-mama-tzym-kiraz-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
     {
       "id": "hal-yasasi-ak-parti-grubunda-komisyon-yumakli-bolat",
       "kategori": "Piyasa",
@@ -3224,9 +3244,7 @@
         "ayva-2.jpg",
         "ayva-3.jpg"
       ],
-      "elma": [
-        "elma-3.jpg"
-      ],
+      "elma": [],
       "narenciye": [
         "narenciye-4.jpg"
       ],
