@@ -72,7 +72,10 @@
           "ad": "Vatan",
           "url": "https://www.gazetevatan.com/gundem/tarim-ve-orman-bakani-ibrahim-yumakli-gida-guvenliginde-taviz-yok-dedi-denetim-rakamlarini-paylasti-2462438"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/yumakli-ekim-117-bin-gida-denetimi-200-milyon-tl-ceza.jpg",
+      "gorselKucuk": "assets/iha/yumakli-ekim-117-bin-gida-denetimi-200-milyon-tl-ceza-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA (temsili)"
     },
     {
       "id": "yumakli-rusya-tir-analiz-yuzde-10-20-rasff-yuzde-74",
@@ -89,7 +92,10 @@
           "ad": "TRT Haber",
           "url": "https://www.trthaber.com/haber/gundem/bakan-yumakli-gida-guvenligi-kirmizi-cizgimiz-962406.html"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/yumakli-rusya-tir-analiz-yuzde-10-20-rasff-yuzde-74.jpg",
+      "gorselKucuk": "assets/iha/yumakli-rusya-tir-analiz-yuzde-10-20-rasff-yuzde-74-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA (temsili)"
     },
     {
       "id": "kilis-zeytin-hasadi-35-bin-ton-11600-ton-zeytinyagi-2026",
@@ -126,7 +132,10 @@
           "ad": "Manşet Gazetesi",
           "url": "https://www.manset.com.tr/yalovada-2-ayda-4-bin-709-ton-hamsi-karaya-cikarildi"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/yalova-iki-ayda-4709-ton-hamsi-karaya-cikti-2026.jpg",
+      "gorselKucuk": "assets/iha/yalova-iki-ayda-4709-ton-hamsi-karaya-cikti-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA (temsili)"
     },
     {
       "id": "erdek-zeytin-kooperatifi-alim-7-kasim-7-bin-ton-kota",
@@ -163,7 +172,10 @@
           "ad": "Van Postası Gazetesi (İHA)",
           "url": "https://vanpostasigazetesi.com/haber/kirikkaleden-tekmana-gelen-yatirimci-dev-aycicegi-tarlalarinda-hasat-yapiyor-402327"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/erzurum-tekman-3500-donum-aycicegi-hasadi-2026.jpg",
+      "gorselKucuk": "assets/iha/erzurum-tekman-3500-donum-aycicegi-hasadi-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "bayburt-hayvan-pazari-sap-kisitlama-kalkti-6-kasim",
