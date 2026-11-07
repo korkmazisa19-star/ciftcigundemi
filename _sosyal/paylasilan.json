@@ -3,21 +3,27 @@
  "haberler": {
   "erzurum-tekman-3500-donum-aycicegi-hasadi-2026": {
    "facebook": "ok",
-   "instagram": "hata",
+   "instagram": "ok",
    "x": "hata",
    "tiktok": "hata",
    "youtube": "hata",
    "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
+   "zaman": "2026-11-07T22:08:03+03:00",
+   "linkler": {
+    "instagram": "https://www.instagram.com/benidegorya/p/DfckEUSMg25/"
+   }
   },
   "bayburt-hayvan-pazari-sap-kisitlama-kalkti-6-kasim": {
    "facebook": "ok",
-   "instagram": "hata",
+   "instagram": "ok",
    "x": "hata",
    "tiktok": "hata",
    "youtube": "hata",
    "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
+   "zaman": "2026-11-07T22:08:03+03:00",
+   "linkler": {
+    "instagram": "https://www.instagram.com/benidegorya/p/DfckOW4MEzX/"
+   }
   },
   "bilecik-osmaneli-soguk-hava-deposu-15-milyon-861-bin-tl-hibe": {
    "facebook": "onceden",
@@ -1332,6 +1338,36 @@
    "youtube": "onceden",
    "deneme": 0,
    "zaman": "2026-11-07T21:04:36+03:00"
+  },
+  "yumakli-rusya-tir-analiz-yuzde-10-20-rasff-yuzde-74": {
+   "facebook": "ok",
+   "instagram": "ok",
+   "x": "ok",
+   "tiktok": "ok",
+   "youtube": "hata",
+   "deneme": 1,
+   "zaman": "2026-11-07T22:15:04+03:00",
+   "linkler": {
+    "facebook": "https://www.facebook.com/photo/?fbid=122104558089534819",
+    "x": "https://x.com/ciftcigundemi/status/2119144303658221895",
+    "instagram": "https://www.instagram.com/reel/Dfc5jdqsCvo/",
+    "tiktok": "https://www.tiktok.com/@ciftcigundemi/video/7705509625705090356"
+   }
+  },
+  "kilis-zeytin-hasadi-35-bin-ton-11600-ton-zeytinyagi-2026": {
+   "facebook": "ok",
+   "instagram": "ok",
+   "x": "ok",
+   "tiktok": "ok",
+   "youtube": "hata",
+   "deneme": 1,
+   "zaman": "2026-11-07T22:15:04+03:00",
+   "linkler": {
+    "facebook": "https://www.facebook.com/photo/?fbid=122104559223534819",
+    "x": "https://x.com/ciftcigundemi/status/2119144600673923353",
+    "instagram": "https://www.instagram.com/reel/Dfc5w4IsR7h/",
+    "tiktok": "https://www.tiktok.com/@ciftcigundemi/video/7705509873601023250"
+   }
   }
  }
 }
