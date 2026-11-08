@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-08T15:35:12+03:00",
+  "guncelleme": "2026-11-08T18:43:33+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -89,7 +89,9 @@
           "url": "https://www.aydindenge.com.tr/denizli/08/11/2026/civrilde-alternatif-urun-de-ureticinin-yuzunu-guldurmedi"
         }
       ],
-      "gorsel": null
+      "gorsel": "assets/envato/civril-cennet-hurmasi-fiyat-50-tlden-15-tlye-yevmiye-1750.jpg",
+      "gorselKucuk": "assets/envato/civril-cennet-hurmasi-fiyat-50-tlden-15-tlye-yevmiye-1750-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf: Envato"
     },
     {
       "id": "manavgat-susami-hasat-kasima-kaldi-yuzde-54-yag-2026",
