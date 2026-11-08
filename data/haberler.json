@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-08T18:43:33+03:00",
+  "guncelleme": "2026-11-08T21:30:30+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,24 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "bilecik-bayirkoy-yuzde-50-zeytin-hurma-fidani-20-kasim",
+      "kategori": "Hibe",
+      "tarih": "2026-11-08",
+      "eklenme": "2026-11-08T21:30:30+03:00",
+      "motif": "zeytin",
+      "baslik": "Bilecik Bayırköy'de zeytin ve Trabzon hurması fidanının yarı bedeli belediyeden: Başvurular 20 Kasım'a kadar",
+      "manset": "Fidan bedelinin \"yarısı\" belediyeden",
+      "ozet": "Bilecik'in Bayırköy Belediyesi, beldede meyveciliği yaygınlaştırmak amacıyla üreticilere zeytin ve Trabzon hurması fidanı dağıtacağını duyurdu. Fidan bedelinin yüzde 50'sini belediye üstlenecek, kalan kısmı başvuru sahibi ödeyecek. Destekten beldede ikamet edenler yararlanabiliyor; fidanların belde sınırlarındaki tarım arazisine dikilmesi gerekiyor. Başvurular 20 Kasım 2026 Cuma gününe kadar belediye hizmet binasında alınacak. Duyuruda fidan adedi ve birim fiyat yer almıyor.",
+      "neYapmali": "Yararlanmak isteyen üreticiler ikametgâh belgesi, arazinin tapusu ya da kullanım hakkını gösteren belge ve kimlik fotokopisiyle 20 Kasım'a kadar belediye hizmet binasına başvurmalı; ödeyecekleri tutarı başvuru sırasında sormalı.",
+      "kaynaklar": [
+        {
+          "ad": "Gündem Bilecik",
+          "url": "https://www.gundembilecik.com/bayirkoy-belediyesinden-ureticilere-yuzde-50-destekli-fidan-dagitimi/"
+        }
+      ],
+      "gorsel": null
+    },
     {
       "id": "yuregir-ziraat-odasi-erkenci-narenciye-kg-5-tl-nakit-destek",
       "kategori": "Piyasa",
@@ -762,12 +780,16 @@
       "eklenme": "2026-11-06T22:33:00+03:00",
       "motif": "tohum",
       "baslik": "Batman'da 56 çiftçiye yüzde 75 hibeyle 34 ton sertifikalı mercimek tohumu verildi",
-      "ozet": "Batman İl Tarım ve Orman Müdürlüğü, Tarım Arazilerinin Kullanımının Etkinleştirilmesi (TAKE) Projesi kapsamında 56 çiftçiye 34 ton sertifikalı mercimek tohumu dağıttı. Tohum bedelinin yüzde 75'i hibe olarak karşılanıyor; dağıtım 6 Kasım'da Tarım Kredi Kooperatifi bahçesinde yapıldı. İl Müdürü Necdet Tuncer, projeyle ilde 2021'den bu yana 40 milyon liranın üzerinde destek verildiğini, bu yılki bütçenin yaklaşık 10 milyon lira olduğunu ve 500 civarında çiftçinin yararlanmasının beklendiğini aktardı. Tuncer, mercimeğin toprağa azot bağladığını, böylece ardından ekilen buğday ve arpada nadas ve gübre ihtiyacının azaldığını vurguladı.",
+      "ozet": "Batman İl Tarım ve Orman Müdürlüğü, Tarım Arazilerinin Kullanımının Etkinleştirilmesi (TAKE) Projesi kapsamında 56 çiftçiye 34 ton sertifikalı mercimek tohumu dağıttı. Tohum bedelinin yüzde 75'i hibe olarak karşılanıyor; dağıtım 6 Kasım'da Tarım Kredi Kooperatifi bahçesinde yapıldı. İl Müdürü Necdet Tuncer, projeyle ilde 2021'den bu yana 40 milyon liranın üzerinde destek verildiğini, bu yılki bütçenin yaklaşık 10 milyon lira olduğunu ve 500 civarında çiftçinin yararlanmasının beklendiğini aktardı. Tuncer, mercimeğin toprağa azot bağladığını, böylece ardından ekilen buğday ve arpada nadas ve gübre ihtiyacının azaldığını vurguladı. Müdürlüğün 7 Kasım'da paylaştığı toplam verilere göre bu yıl proje kapsamında 340 üreticiye 137,7 ton sertifikalı tohum verildi ve yaklaşık 10 bin dekarda mercimek üretimi hedefleniyor; son beş yılda ise 2.631 üreticiye 992,55 ton tohum ulaştırıldı.",
       "neYapmali": "TAKE Projesi kapsamındaki hibeli tohum dağıtımlarından yararlanmak isteyen Batmanlı üreticiler, başvuru koşulları ve sonraki dağıtım takvimi için ilçe tarım ve orman müdürlüklerine danışabilir.",
       "kaynaklar": [
         {
           "ad": "Anadolu Ajansı (Son Dakika)",
           "url": "https://www.sondakika.com/guncel/haber-batman-da-56-ciftciye-yuzde-75-hibeli-34-ton-serti-20402839/"
+        },
+        {
+          "ad": "Herkes Duysun",
+          "url": "https://herkesduysun.com/ekonomi/batman-da-340-ureticiye-137-ton-sertifikali-mercimek-tohumu-dagitildi-071126444/"
         }
       ],
       "gorsel": "assets/envato/batman-56-ciftci-yuzde-75-hibe-34-ton-mercimek-tohumu.jpg",
@@ -3588,6 +3610,12 @@
       "baslik": "TMO fındık alımı son günü",
       "kapsam": "TMO alım noktaları",
       "haber": "tmo-findik-alimi-14-kasima-uzatildi"
+    },
+    {
+      "tarih": "2026-11-20",
+      "baslik": "Yüzde 50 destekli zeytin ve hurma fidanı başvurusu",
+      "kapsam": "Bilecik (Bayırköy)",
+      "haber": "bilecik-bayirkoy-yuzde-50-zeytin-hurma-fidani-20-kasim"
     },
     {
       "tarih": "2026-11-23",
