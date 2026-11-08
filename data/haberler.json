@@ -69,7 +69,9 @@
           "url": "https://www.aa.com.tr/tr/ekonomi/manavgat-susaminin-hasadi-yagislarla-uzadi/4115607"
         }
       ],
-      "gorsel": null
+      "gorsel": "assets/envato/manavgat-susami-hasat-kasima-kaldi-yuzde-54-yag-2026.jpg",
+      "gorselKucuk": "assets/envato/manavgat-susami-hasat-kasima-kaldi-yuzde-54-yag-2026-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
     },
     {
       "id": "sakarya-12-mahalle-mera-31-ton-gubre-1800-dekar",
