@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-08T07:29:54+03:00",
+  "guncelleme": "2026-11-08T08:30:29+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,24 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "manavgat-susami-hasat-kasima-kaldi-yuzde-54-yag-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-08",
+      "eklenme": "2026-11-08T08:30:29+03:00",
+      "motif": "tohum",
+      "baslik": "Coğrafi işaretli Manavgat susamında hasat yağış nedeniyle kasıma sarktı",
+      "manset": "Susam hasadı \"kasıma\" kaldı",
+      "ozet": "Antalya'nın Manavgat ilçesinde coğrafi işaret tescilli susamın hasadı, normalde ağustos sonu ile eylül sonu arasında tamamlanırken bu yıl erken düşen yağışlar yüzünden kasım ayına kadar uzadı. Nisan ve mayısta ekilen ürünü yetiştiren üretici Mustafa Fettahoğlu, yağışın sevindirdiğini ancak hasadı geciktirdiğini, durumun ürüne büyük zarar vermese de risk oluşturduğunu söyledi. Yaklaşık yüzde 54 yağ oranına sahip Manavgat susamı, kavrulduktan sonra elde edilen tahinde bu oranın yüzde 60-65'e çıkmasıyla biliniyor. Üreticiler ürünü tahin ve helvaya işliyor; yöredeki tahin talebi üretimi canlı tutuyor.",
+      "neYapmali": "Hasadı geciken susam üreticileri, tarladaki ürünü yağış aralarında hasat edip kapsülleri kuru ve havadar ortamda kurutmalı; nemli depolanan tanede küflenme ve kalite kaybına dikkat etmeli. Ürün kaybı yaşayanlar ilçe tarım ve orman müdürlüğüne ve TARSİM poliçesi varsa sigorta şirketine başvurabilir.",
+      "kaynaklar": [
+        {
+          "ad": "Anadolu Ajansı",
+          "url": "https://www.aa.com.tr/tr/ekonomi/manavgat-susaminin-hasadi-yagislarla-uzadi/4115607"
+        }
+      ],
+      "gorsel": null
+    },
     {
       "id": "sakarya-12-mahalle-mera-31-ton-gubre-1800-dekar",
       "kategori": "Hayvancılık",
