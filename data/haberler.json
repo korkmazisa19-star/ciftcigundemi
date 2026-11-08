@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-08T02:32:00+03:00",
+  "guncelleme": "2026-11-08T03:31:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,30 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "afyonkarahisar-hayvan-pazarlari-7-kasim-yeniden-acildi",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-07",
+      "eklenme": "2026-11-08T03:31:00+03:00",
+      "motif": "sut",
+      "baslik": "Afyonkarahisar'da hayvan pazarları 40 gün sonra yeniden açıldı: Aşısız ve belgesiz hayvan alınmayacak",
+      "manset": "40 günlük bekleyiş \"bitti\"!",
+      "ozet": "Afyonkarahisar'da komşu illerdeki şap vakaları nedeniyle 28 Eylül'de kapatılan hayvan pazarları 7 Kasım Cumartesi itibarıyla yeniden faaliyete başladı. İl Tarım ve Orman Müdürlüğü, yoğun aşılama ve karantina takibiyle hastalık riskinin en aza indirildiğini bildirdi. Kararın merkezle birlikte Sultandağı, Bolvadin, Sandıklı, Dinar ve Emirdağ gibi ilçelerdeki pazarları da kapsadığı belirtildi. Yetkililer pazar alanlarındaki dezenfeksiyon ve veteriner kontrollerinin artırıldığını, aşısı ve belgesi olmayan hiçbir hayvanın pazara kabul edilmeyeceğini vurguladı.",
+      "neYapmali": "Pazara hayvan götürecek üreticiler aşı kayıtlarını ve sevk belgelerini önceden hazırlamalı; ilçedeki pazarın çalışma günlerini ve yerel kurallarını ilçe tarım müdürlüğünden teyit etmeli.",
+      "kaynaklar": [
+        {
+          "ad": "Kocatepe Gazetesi",
+          "url": "https://www.kocatepegazetesi.com/afyon-da-40-gundur-kapaliydi-bugun-yeniden-aciliyor/412532"
+        },
+        {
+          "ad": "Afyon Türkeli Gazetesi",
+          "url": "https://www.afyonturkeligazetesi.com/afyonkarahisarda-hayvan-pazarlari-yeniden-aciliyor-tarih-belli-oldu/149544"
+        }
+      ],
+      "gorsel": "assets/envato/afyonkarahisar-hayvan-pazarlari-7-kasim-yeniden-acildi.jpg",
+      "gorselKucuk": "assets/envato/afyonkarahisar-hayvan-pazarlari-7-kasim-yeniden-acildi-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
     {
       "id": "sivas-sarkisla-besi-osb-fizibilite-parselasyon-protokolu",
       "kategori": "Hayvancılık",
@@ -3788,8 +3812,7 @@
       ],
       "koyun": [
         "koyun-1.jpg",
-        "koyun-2.jpg",
-        "koyun-5.jpg"
+        "koyun-2.jpg"
       ],
       "para": [
         "para-3.jpg",
