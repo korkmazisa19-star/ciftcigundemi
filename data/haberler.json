@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-08T08:30:29+03:00",
+  "guncelleme": "2026-11-08T15:35:12+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,44 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "yuregir-ziraat-odasi-erkenci-narenciye-kg-5-tl-nakit-destek",
+      "kategori": "Piyasa",
+      "tarih": "2026-11-08",
+      "eklenme": "2026-11-08T15:36:12+03:00",
+      "motif": "narenciye",
+      "baslik": "Yüreğir Ziraat Odası: Erkenci limon ve mandalinada üretici zararda, kilo başına en az 5 lira nakit destek verilsin",
+      "manset": "Erkenci narenciyede \"5 lira\" çağrısı",
+      "ozet": "Adana'daki Yüreğir Ziraat Odası Başkanı Mehmet Akın Doğan, 8 Kasım'da yaptığı değerlendirmede erkenci limon ve mandalina üreticisinin yükselen girdi maliyetleri ile düşük satış fiyatları arasında sıkıştığını söyledi. Doğan'a göre alıcı bulamayan ürünün bir kısmı dalda kalıyor, bir kısmı da maliyetinin altında satılıyor. Başkan, kilogram başına en az 5 lira nakdî yardım, Destekleme ve Fiyat İstikrar Fonu desteğinin zamanında açıklanması ve yüksek TIR navlununa karşı nakliye desteği istedi. Zararın Çiftçi Kayıt Sistemi kayıtları üzerinden sahada tespit edilmesini ve Ziraat Bankası kredilerinin yeni yük getirmeden ertelenmesini de talep etti. Haberde Bakanlık ya da bankadan bu taleplere verilmiş bir yanıt yer almıyor.",
+      "neYapmali": "Zarar eden üreticiler bahçe ve üretim bilgilerinin Çiftçi Kayıt Sistemi’nde güncel olduğunu kontrol etmeli, olası bir destek ya da tespit çalışması için ilçe tarım müdürlüğü ve ziraat odasıyla temas kurmalı. Kredi borcu olanlar yapılandırma imkânını bankalarından sormalı.",
+      "kaynaklar": [
+        {
+          "ad": "Ekonomi Politikası",
+          "url": "https://ekonomipolitikasi.com.tr/erkenci-narenciyede-kriz-ciftci-iflasin-esiginde/"
+        }
+      ],
+      "gorsel": "assets/envato/yuregir-ziraat-odasi-erkenci-narenciye-kg-5-tl-nakit-destek.jpg",
+      "gorselKucuk": "assets/envato/yuregir-ziraat-odasi-erkenci-narenciye-kg-5-tl-nakit-destek-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
+    {
+      "id": "civril-cennet-hurmasi-fiyat-50-tlden-15-tlye-yevmiye-1750",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-08",
+      "eklenme": "2026-11-08T15:35:12+03:00",
+      "motif": "para",
+      "baslik": "Çivril'de cennet hurması üreticisi sezonu zararla kapattı: Fiyat 50 liradan 15 liraya kadar indi",
+      "manset": "Hurmada kilo \"50'den 15 liraya\"!",
+      "ozet": "Denizli'nin Çivril ilçesine bağlı Işıklı Mahallesi'nde alternatif ürün olarak cennet hurmasına yönelen üreticiler bu sezon beklediğini bulamadı. Yaklaşık beş yıldır bu ürünü yetiştiren ve 160 ağacı bulunan Osman Yavuz, geçen yıl 50 lira olan kilo fiyatının 15 liraya kadar gerilediğini, sezonu zararla kapattığını anlattı. Yavuz'un aktardığına göre günlük işçi yevmiyesi 750 liradan 1.750 liraya, mazotun litresi de 60 liradan 100 liraya çıktı; gübre de pahalandı. Mahallede yaklaşık 15 üretici bu ürünle uğraşıyor. Yavuz, yalnızca ürün değiştirmenin çözüm olmadığını, emeğin karşılığını bulacak bir satış fiyatı gerektiğini söylüyor.",
+      "neYapmali": "Alternatif ürüne geçmeyi düşünen üreticiler dikimden önce pazar, alıcı ve işçilik maliyetini il ya da ilçe tarım müdürlüğü ile ziraat odasından alacakları bilgilerle hesaplamalı. Mevcut üreticiler kooperatif ya da ortak satış imkânlarını araştırabilir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA / Aydın Denge",
+          "url": "https://www.aydindenge.com.tr/denizli/08/11/2026/civrilde-alternatif-urun-de-ureticinin-yuzunu-guldurmedi"
+        }
+      ],
+      "gorsel": null
+    },
     {
       "id": "manavgat-susami-hasat-kasima-kaldi-yuzde-54-yag-2026",
       "kategori": "Bitkisel Üretim",
@@ -3950,9 +3988,7 @@
         "elma-6.jpg",
         "elma-7.jpg"
       ],
-      "narenciye": [
-        "narenciye-4.jpg"
-      ],
+      "narenciye": [],
       "pamuk": [
         "pamuk-1.jpg",
         "pamuk-3.jpg"
