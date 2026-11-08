@@ -1,1403 +1,1473 @@
 {
- "aciklama": "Sosyal medya paylasim durumu. 'onceden' = gorev kurulmadan once ele alindi, tekrar paylasilmaz.",
- "haberler": {
-  "erzurum-tekman-3500-donum-aycicegi-hasadi-2026": {
-   "facebook": "ok",
-   "instagram": "ok",
-   "x": "hata",
-   "tiktok": "hata",
-   "youtube": "hata",
-   "deneme": 0,
-   "zaman": "2026-11-07T22:08:03+03:00",
-   "linkler": {
-    "instagram": "https://www.instagram.com/benidegorya/p/DfckEUSMg25/"
-   }
-  },
-  "bayburt-hayvan-pazari-sap-kisitlama-kalkti-6-kasim": {
-   "facebook": "ok",
-   "instagram": "ok",
-   "x": "hata",
-   "tiktok": "hata",
-   "youtube": "hata",
-   "deneme": 0,
-   "zaman": "2026-11-07T22:08:03+03:00",
-   "linkler": {
-    "instagram": "https://www.instagram.com/benidegorya/p/DfckOW4MEzX/"
-   }
-  },
-  "bilecik-osmaneli-soguk-hava-deposu-15-milyon-861-bin-tl-hibe": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "sigir-karkasi-sicak-agirlik-resmi-gazete-yonetmelik-2026": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "bafra-ovasi-pirasa-hasadi-16-bin-ton-2026": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "izmir-kislik-sebze-hasadi-10-gun-erken-brokoli-2026": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "antalya-asetam-akilli-sera-cop31-biyoempedans-sensor": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "turuncgil-sezonu-7-milyon-ton-2-milyar-dolar-2026": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "sinop-mertoglu-celtik-tarlalari-su-basti-2026": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "samsun-havza-cilek-fidesi-damla-sulama-destegi-2026": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "tmo-misir-stok-takviyesi-ithalat-arz-riski-2026": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "karabuk-eskipazar-lahana-hasadi-2500-ton-2026": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "mgm-zirai-don-7-10-kasim-alti-bolge": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "rekabet-kurumu-findik-7-sirket-sorusturma-ferrero-taahhut": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "elma-4-milyon-427-bin-ton-cips-mama-tzym-kiraz": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "hal-yasasi-ak-parti-grubunda-komisyon-yumakli-bolat": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "istanbul-beykoz-marmara-veteriner-yol-kontrol-istasyonu-acildi": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "alasehir-zeytin-hasadi-uzumde-dusuk-fiyat-2026": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "bayburt-seker-pancari-155-bin-ton-rekolte-2026": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "seferihisar-mandalina-ureticisi-kulturpark-ucretsiz-pazar": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "batman-56-ciftci-yuzde-75-hibe-34-ton-mercimek-tohumu": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "safranbolu-tso-safran-kilosu-900-bin-tl-2026": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "sakarya-hendek-8-tarim-hayvancilik-fuari-165-firma": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "bursa-nilufer-75-bin-cilek-fidesi-yuzde-70-hibe": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "corum-hitit-toprak-calistayi-humik-asit-50-bin-litre": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "tmo-findik-cks-tuccar-manav-2-yil-alim-yasagi": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "izmir-iyi-tarim-mobil-uygulama-hibe-don-uyarisi": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "samsun-havza-ziraat-odasi-600-kadin-ciftci-kadin-muhendis": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "adiyaman-celikhan-yuzde-60-hibe-25er-kucukbas": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "odunpazari-15-ton-yunus-tohumluk-bugday-300-cuval": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "tbmm-durmaz-elma-limon-5-tl-market-fiyat-farki": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "marmarabirlik-avrupa-market-zinciri-74-ulke-ihracat": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "sarigol-kestane-hasadi-2026-170-220-tl": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "manisa-teknotarim-2026-fuar-8-kasim": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "elbistan-pancar-c-kotasi-1750-tl-uretici-eylemi": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "narenciye-tarsus-izmir-ureticiler-limon-1-4-tl-mandalina-sokum": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "sap-hayvan-pazarlari-ticaret-durdu-kredi-riski": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "adana-19-tarim-sera-bahce-fuari-80-firma": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "mersin-toroslar-belediyesi-safran-ilk-hasat": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "elazig-hos-40-bin-ton-uzum-alici-isikver-tbmm": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "bolu-hayvan-pazarlari-9-kasimda-aciliyor": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "mus-tiryaki-ciftci-bulusmalari-rejeneratif-tarim-2026": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "konya-aksehir-belediyesi-111-ciftciye-tohumluk-arpa": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "nigde-bor-10-portatif-agil-kop-hibe": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "nigde-1-8-milyon-ton-rekolte-ciftci-fiyat-2026": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "isparta-199-bin-marul-fidesi-take-yuzde-75": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "aydin-cuma-bulusmalari-17-ilce-6-kasim": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "bitlis-ahlat-patates-hasadi-120-bin-ton-2026": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "rize-findikli-kivi-fiyati-yari-yariya-dustu-2026": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "samsun-kkyp-yedek-liste-6-basvuru-hibe-hakki": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "duzce-findik-hasat-filesi-45-yatirimci-8-milyon-hibe": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "antalya-buyuksehir-91-uretici-sera-sensoru": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "zeytin-hasat-maliyeti-karacasu-bandirma-tbmm": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "samsun-carsamba-130-uretici-marul-fidesi": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "sanliurfa-suruc-pinarbasi-300-dekar-su-baskini": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "aksaray-seker-pancari-hasadi-2026-basladi": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "adana-portakal-bahce-fiyati-5-7-tl": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "nazilli-hasat-oncesi-pestisit-denetimi": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "duzce-kahverengi-kokarca-kislak-ilaclama-2026": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "erzincan-cayirli-guzluk-hububat-ekimi": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "yesil-bodrum-mandalini-abd-miami-ihracat": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "ayvalik-tagsisli-zeytinyagi-yilda-50-bin-ton": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "aycicegi-gumruk-yuzde-12-komisyonda-aygun-tepki": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "diyarbakir-ziraat-odasi-tarsim-pamuk-magdur": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "cerkezkoy-ziraat-odasi-bugday-ekim-tav-uyarisi": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "erzincan-kemah-kutluova-ceviz-budama-egitimi": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "bingol-karliova-sakaoren-sagim-hijyeni-egitimi": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "marmarabirlik-zeytin-alimi-64-bin-ton-2026": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "ordu-ariciya-22-bin-kutu-varroa-ilaci": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "bolu-20-elma-ureticisi-ekuy-sertifikasi": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "mersin-gulnar-kucukbas-fidan-solar-kamera": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "bursa-orhangazi-yaglik-zeytin-25-30-tl": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "usak-ulubey-omurca-corek-otu-23-uretici": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "balikesir-gonen-manyas-293-uretici-sut-otu": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "diyarbakir-cungus-mercimek-tohumu-dagitimi": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "mersin-kdakp-yuzde-100-hibeli-motorlu-capa": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "niksar-ceviz-16-bin-dekar-festival": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "karaman-33-bin-badem-zeytin-fidani": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "erzurum-58-ariciya-232-ana-ari-kovani": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "batman-gercus-safran-hasadi-800-metrekare": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "tmo-findik-alimi-14-kasima-uzatildi": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "meteoroloji-4-kasim-23-il-yagis-uyarisi": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "yagis-66-yil-dsi-150-is-makinesi": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "misir-fiyati-ekimde-yuzde-10-6-dustu": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "ciftci-destek-9-ay-115-5-milyar": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "edirne-sut-birligi-cig-sut-28-50": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "arsin-ziraat-odasi-kredi-erteleme-cagrisi": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "afyon-ciftci-gece-egitimleri-isiklar": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "nigde-elma-yagis-kara-benek": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "yozgat-14-uretici-sera-destegi": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "bir-suru-olsun-basvuru-4-13-kasim": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "tbmm-seker-arastirma-onergesi-reddedildi": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "mersin-zeytinyagi-litre-200-tl": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "manisa-kula-selendi-905-uretici-tohum": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "mersin-sel-ciftci-destek-belirsiz": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "van-58-cilek-serasi-56-ureticiye-kasimda": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "nevsehir-cerezlik-kabak-hasadi": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "findik-ihracati-ilk-iki-ay-494-milyon-dolar": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "ekim-2026-tarim-ihracati-3-35-milyar-dolar": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "antalya-hal-ekim-domates-fiyati-iki-katina": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "tokat-yesilirmak-600-milyon-islah": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "zirai-don-uyarisi-4-9-kasim": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "bayburt-buzagi-kuzu-1-aralik": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "sakarya-ayva-60-bin-ton": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "diyarbakir-yagis-pamuk-misir-hasat": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "fethiye-sel": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "kizilinler": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "ahlat-ivesi": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "erzincan-ceviz": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "antalya-tirnak": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "hatay-mandalina": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "resmi-gazete-3-kasim-mera-orman-koylusu": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "canik-salep-tohumu-destegi": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "onarici-tarim-bugday-verim-yuzde-22": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "ipard-3-4-milyar-avro-yatirim": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "ege-pamuk-ekim-alani-yuzde-47-daraldi": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "istanbul-hamsi-hal-150-tezgah-350": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "agri-hayvan-borsasi-acildi-kars-kisitlama-kalkti": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "ordu-findik-serbest-piyasa-160-170-tl": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "aricilik-son-gun-6-kasim": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "denizli-mazot-gubre": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "cig-sut-fiyat-bekleniyor": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "malatya-su-urunleri": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "manavgat-saganak-400-donum-pamuk-kabak": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "rekabet-kurumu-findik-6-sirket-sorusturma": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "tmo-2027-bugday-misir-alim-ongorusu": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "tzob-ekim-2026-uretici-market-fiyatlari": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "sapanca-golu-eylem-plani-25-5-milyar": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "elbistan-sap-karantinasi-5-mahalle": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "antalya-tavsan-yuregi-zeytin-hasadi": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "denizli-tarfu-2026-tarim-fuari": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "lalahan-genomik-test-merkezi-buzagi-kaybi-20-bin": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "tmo-kasim-hububat": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "corum-pancar-dekarda-15-ton": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "sinop-kdakp-genc-kadin-ciftci-185-milyon-hibe": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "tigem-bugday-arpa-narenciye-ihalesi-kasim": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "cop31-antalya-atb-tarim-su-gundemi": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "gemlik-yaglik-zeytin-maliyeti-58-tl": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "pancar-besinci-avans-952-milyon": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "zeytin-zeytinyagi-ihracati-dokuz-ayda-yuzde-28-geriledi": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "aydin-kestane-ilk-alim-600-tl": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "zeytin-rekor-rekolte": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "turktraktor-dokuz-ay": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "dogubayazit-yuzde-70-hibeli-bugday-tohumu": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "tuik-bitkisel-uretim-2-tahmin-2026": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "ankara-tohum-gubre": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "butce-2027-tarim-destek": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "cks-2027-son-gun-31-aralik": {
-   "facebook": "onceden",
-   "instagram": "onceden",
-   "x": "onceden",
-   "tiktok": "onceden",
-   "youtube": "onceden",
-   "deneme": 0,
-   "zaman": "2026-11-07T21:04:36+03:00"
-  },
-  "yumakli-rusya-tir-analiz-yuzde-10-20-rasff-yuzde-74": {
-   "facebook": "ok",
-   "instagram": "ok",
-   "x": "ok",
-   "tiktok": "ok",
-   "youtube": "hata",
-   "deneme": 1,
-   "zaman": "2026-11-07T22:15:04+03:00",
-   "linkler": {
-    "facebook": "https://www.facebook.com/photo/?fbid=122104558089534819",
-    "x": "https://x.com/ciftcigundemi/status/2119144303658221895",
-    "instagram": "https://www.instagram.com/reel/Dfc5jdqsCvo/",
-    "tiktok": "https://www.tiktok.com/@ciftcigundemi/video/7705509625705090356"
-   }
-  },
-  "kilis-zeytin-hasadi-35-bin-ton-11600-ton-zeytinyagi-2026": {
-   "facebook": "ok",
-   "instagram": "ok",
-   "x": "ok",
-   "tiktok": "ok",
-   "youtube": "hata",
-   "deneme": 1,
-   "zaman": "2026-11-07T22:15:04+03:00",
-   "linkler": {
-    "facebook": "https://www.facebook.com/photo/?fbid=122104559223534819",
-    "x": "https://x.com/ciftcigundemi/status/2119144600673923353",
-    "instagram": "https://www.instagram.com/reel/Dfc5w4IsR7h/",
-    "tiktok": "https://www.tiktok.com/@ciftcigundemi/video/7705509873601023250"
-   }
-  },
-  "yumakli-ekim-117-bin-gida-denetimi-200-milyon-tl-ceza": {
-   "facebook": "ok",
-   "instagram": "ok",
-   "x": "ok",
-   "tiktok": "ok",
-   "youtube": "hata",
-   "deneme": 1,
-   "linkler": {
-    "facebook": "https://www.facebook.com/photo/?fbid=122104671111534819",
-    "x": "https://x.com/ciftcigundemi/status/2119191798413509000",
-    "instagram": "https://www.instagram.com/reel/DfdPFqrMcqx/",
-    "tiktok": "https://www.tiktok.com/@ciftcigundemi/video/7705558036730907912"
-   },
-   "zaman": "2026-11-08T01:21:09+03:00"
-  },
-  "erdek-zeytin-kooperatifi-alim-7-kasim-7-bin-ton-kota": {
-   "facebook": "ok",
-   "instagram": "ok",
-   "x": "ok",
-   "tiktok": "ok",
-   "youtube": "hata",
-   "deneme": 1,
-   "linkler": {
-    "facebook": "https://www.facebook.com/photo/?fbid=122104671915534819",
-    "x": "https://x.com/ciftcigundemi/status/2119192062834692444",
-    "instagram": "https://www.instagram.com/reel/DfdPQ8vMVgq/",
-    "tiktok": "https://www.tiktok.com/@ciftcigundemi/video/7705558240620465426"
-   },
-   "zaman": "2026-11-08T01:21:57+03:00"
+  "aciklama": "Sosyal medya paylasim durumu. 'onceden' = gorev kurulmadan once ele alindi, tekrar paylasilmaz.",
+  "haberler": {
+    "erzurum-tekman-3500-donum-aycicegi-hasadi-2026": {
+      "facebook": "ok",
+      "instagram": "ok",
+      "x": "hata",
+      "tiktok": "hata",
+      "youtube": "hata",
+      "deneme": 0,
+      "zaman": "2026-11-07T22:08:03+03:00",
+      "linkler": {
+        "instagram": "https://www.instagram.com/benidegorya/p/DfckEUSMg25/"
+      }
+    },
+    "bayburt-hayvan-pazari-sap-kisitlama-kalkti-6-kasim": {
+      "facebook": "ok",
+      "instagram": "ok",
+      "x": "hata",
+      "tiktok": "hata",
+      "youtube": "hata",
+      "deneme": 0,
+      "zaman": "2026-11-07T22:08:03+03:00",
+      "linkler": {
+        "instagram": "https://www.instagram.com/benidegorya/p/DfckOW4MEzX/"
+      }
+    },
+    "bilecik-osmaneli-soguk-hava-deposu-15-milyon-861-bin-tl-hibe": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "sigir-karkasi-sicak-agirlik-resmi-gazete-yonetmelik-2026": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "bafra-ovasi-pirasa-hasadi-16-bin-ton-2026": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "izmir-kislik-sebze-hasadi-10-gun-erken-brokoli-2026": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "antalya-asetam-akilli-sera-cop31-biyoempedans-sensor": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "turuncgil-sezonu-7-milyon-ton-2-milyar-dolar-2026": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "sinop-mertoglu-celtik-tarlalari-su-basti-2026": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "samsun-havza-cilek-fidesi-damla-sulama-destegi-2026": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "tmo-misir-stok-takviyesi-ithalat-arz-riski-2026": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "karabuk-eskipazar-lahana-hasadi-2500-ton-2026": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "mgm-zirai-don-7-10-kasim-alti-bolge": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "rekabet-kurumu-findik-7-sirket-sorusturma-ferrero-taahhut": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "elma-4-milyon-427-bin-ton-cips-mama-tzym-kiraz": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "hal-yasasi-ak-parti-grubunda-komisyon-yumakli-bolat": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "istanbul-beykoz-marmara-veteriner-yol-kontrol-istasyonu-acildi": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "alasehir-zeytin-hasadi-uzumde-dusuk-fiyat-2026": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "bayburt-seker-pancari-155-bin-ton-rekolte-2026": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "seferihisar-mandalina-ureticisi-kulturpark-ucretsiz-pazar": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "batman-56-ciftci-yuzde-75-hibe-34-ton-mercimek-tohumu": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "safranbolu-tso-safran-kilosu-900-bin-tl-2026": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "sakarya-hendek-8-tarim-hayvancilik-fuari-165-firma": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "bursa-nilufer-75-bin-cilek-fidesi-yuzde-70-hibe": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "corum-hitit-toprak-calistayi-humik-asit-50-bin-litre": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "tmo-findik-cks-tuccar-manav-2-yil-alim-yasagi": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "izmir-iyi-tarim-mobil-uygulama-hibe-don-uyarisi": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "samsun-havza-ziraat-odasi-600-kadin-ciftci-kadin-muhendis": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "adiyaman-celikhan-yuzde-60-hibe-25er-kucukbas": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "odunpazari-15-ton-yunus-tohumluk-bugday-300-cuval": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "tbmm-durmaz-elma-limon-5-tl-market-fiyat-farki": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "marmarabirlik-avrupa-market-zinciri-74-ulke-ihracat": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "sarigol-kestane-hasadi-2026-170-220-tl": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "manisa-teknotarim-2026-fuar-8-kasim": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "elbistan-pancar-c-kotasi-1750-tl-uretici-eylemi": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "narenciye-tarsus-izmir-ureticiler-limon-1-4-tl-mandalina-sokum": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "sap-hayvan-pazarlari-ticaret-durdu-kredi-riski": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "adana-19-tarim-sera-bahce-fuari-80-firma": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "mersin-toroslar-belediyesi-safran-ilk-hasat": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "elazig-hos-40-bin-ton-uzum-alici-isikver-tbmm": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "bolu-hayvan-pazarlari-9-kasimda-aciliyor": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "mus-tiryaki-ciftci-bulusmalari-rejeneratif-tarim-2026": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "konya-aksehir-belediyesi-111-ciftciye-tohumluk-arpa": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "nigde-bor-10-portatif-agil-kop-hibe": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "nigde-1-8-milyon-ton-rekolte-ciftci-fiyat-2026": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "isparta-199-bin-marul-fidesi-take-yuzde-75": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "aydin-cuma-bulusmalari-17-ilce-6-kasim": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "bitlis-ahlat-patates-hasadi-120-bin-ton-2026": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "rize-findikli-kivi-fiyati-yari-yariya-dustu-2026": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "samsun-kkyp-yedek-liste-6-basvuru-hibe-hakki": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "duzce-findik-hasat-filesi-45-yatirimci-8-milyon-hibe": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "antalya-buyuksehir-91-uretici-sera-sensoru": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "zeytin-hasat-maliyeti-karacasu-bandirma-tbmm": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "samsun-carsamba-130-uretici-marul-fidesi": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "sanliurfa-suruc-pinarbasi-300-dekar-su-baskini": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "aksaray-seker-pancari-hasadi-2026-basladi": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "adana-portakal-bahce-fiyati-5-7-tl": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "nazilli-hasat-oncesi-pestisit-denetimi": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "duzce-kahverengi-kokarca-kislak-ilaclama-2026": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "erzincan-cayirli-guzluk-hububat-ekimi": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "yesil-bodrum-mandalini-abd-miami-ihracat": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "ayvalik-tagsisli-zeytinyagi-yilda-50-bin-ton": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "aycicegi-gumruk-yuzde-12-komisyonda-aygun-tepki": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "diyarbakir-ziraat-odasi-tarsim-pamuk-magdur": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "cerkezkoy-ziraat-odasi-bugday-ekim-tav-uyarisi": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "erzincan-kemah-kutluova-ceviz-budama-egitimi": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "bingol-karliova-sakaoren-sagim-hijyeni-egitimi": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "marmarabirlik-zeytin-alimi-64-bin-ton-2026": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "ordu-ariciya-22-bin-kutu-varroa-ilaci": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "bolu-20-elma-ureticisi-ekuy-sertifikasi": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "mersin-gulnar-kucukbas-fidan-solar-kamera": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "bursa-orhangazi-yaglik-zeytin-25-30-tl": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "usak-ulubey-omurca-corek-otu-23-uretici": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "balikesir-gonen-manyas-293-uretici-sut-otu": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "diyarbakir-cungus-mercimek-tohumu-dagitimi": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "mersin-kdakp-yuzde-100-hibeli-motorlu-capa": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "niksar-ceviz-16-bin-dekar-festival": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "karaman-33-bin-badem-zeytin-fidani": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "erzurum-58-ariciya-232-ana-ari-kovani": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "batman-gercus-safran-hasadi-800-metrekare": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "tmo-findik-alimi-14-kasima-uzatildi": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "meteoroloji-4-kasim-23-il-yagis-uyarisi": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "yagis-66-yil-dsi-150-is-makinesi": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "misir-fiyati-ekimde-yuzde-10-6-dustu": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "ciftci-destek-9-ay-115-5-milyar": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "edirne-sut-birligi-cig-sut-28-50": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "arsin-ziraat-odasi-kredi-erteleme-cagrisi": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "afyon-ciftci-gece-egitimleri-isiklar": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "nigde-elma-yagis-kara-benek": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "yozgat-14-uretici-sera-destegi": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "bir-suru-olsun-basvuru-4-13-kasim": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "tbmm-seker-arastirma-onergesi-reddedildi": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "mersin-zeytinyagi-litre-200-tl": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "manisa-kula-selendi-905-uretici-tohum": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "mersin-sel-ciftci-destek-belirsiz": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "van-58-cilek-serasi-56-ureticiye-kasimda": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "nevsehir-cerezlik-kabak-hasadi": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "findik-ihracati-ilk-iki-ay-494-milyon-dolar": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "ekim-2026-tarim-ihracati-3-35-milyar-dolar": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "antalya-hal-ekim-domates-fiyati-iki-katina": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "tokat-yesilirmak-600-milyon-islah": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "zirai-don-uyarisi-4-9-kasim": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "bayburt-buzagi-kuzu-1-aralik": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "sakarya-ayva-60-bin-ton": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "diyarbakir-yagis-pamuk-misir-hasat": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "fethiye-sel": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "kizilinler": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "ahlat-ivesi": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "erzincan-ceviz": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "antalya-tirnak": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "hatay-mandalina": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "resmi-gazete-3-kasim-mera-orman-koylusu": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "canik-salep-tohumu-destegi": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "onarici-tarim-bugday-verim-yuzde-22": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "ipard-3-4-milyar-avro-yatirim": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "ege-pamuk-ekim-alani-yuzde-47-daraldi": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "istanbul-hamsi-hal-150-tezgah-350": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "agri-hayvan-borsasi-acildi-kars-kisitlama-kalkti": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "ordu-findik-serbest-piyasa-160-170-tl": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "aricilik-son-gun-6-kasim": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "denizli-mazot-gubre": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "cig-sut-fiyat-bekleniyor": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "malatya-su-urunleri": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "manavgat-saganak-400-donum-pamuk-kabak": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "rekabet-kurumu-findik-6-sirket-sorusturma": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "tmo-2027-bugday-misir-alim-ongorusu": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "tzob-ekim-2026-uretici-market-fiyatlari": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "sapanca-golu-eylem-plani-25-5-milyar": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "elbistan-sap-karantinasi-5-mahalle": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "antalya-tavsan-yuregi-zeytin-hasadi": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "denizli-tarfu-2026-tarim-fuari": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "lalahan-genomik-test-merkezi-buzagi-kaybi-20-bin": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "tmo-kasim-hububat": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "corum-pancar-dekarda-15-ton": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "sinop-kdakp-genc-kadin-ciftci-185-milyon-hibe": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "tigem-bugday-arpa-narenciye-ihalesi-kasim": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "cop31-antalya-atb-tarim-su-gundemi": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "gemlik-yaglik-zeytin-maliyeti-58-tl": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "pancar-besinci-avans-952-milyon": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "zeytin-zeytinyagi-ihracati-dokuz-ayda-yuzde-28-geriledi": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "aydin-kestane-ilk-alim-600-tl": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "zeytin-rekor-rekolte": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "turktraktor-dokuz-ay": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "dogubayazit-yuzde-70-hibeli-bugday-tohumu": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "tuik-bitkisel-uretim-2-tahmin-2026": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "ankara-tohum-gubre": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "butce-2027-tarim-destek": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "cks-2027-son-gun-31-aralik": {
+      "facebook": "onceden",
+      "instagram": "onceden",
+      "x": "onceden",
+      "tiktok": "onceden",
+      "youtube": "onceden",
+      "deneme": 0,
+      "zaman": "2026-11-07T21:04:36+03:00"
+    },
+    "yumakli-rusya-tir-analiz-yuzde-10-20-rasff-yuzde-74": {
+      "facebook": "ok",
+      "instagram": "ok",
+      "x": "ok",
+      "tiktok": "ok",
+      "youtube": "hata",
+      "deneme": 1,
+      "zaman": "2026-11-07T22:15:04+03:00",
+      "linkler": {
+        "facebook": "https://www.facebook.com/photo/?fbid=122104558089534819",
+        "x": "https://x.com/ciftcigundemi/status/2119144303658221895",
+        "instagram": "https://www.instagram.com/reel/Dfc5jdqsCvo/",
+        "tiktok": "https://www.tiktok.com/@ciftcigundemi/video/7705509625705090356"
+      }
+    },
+    "kilis-zeytin-hasadi-35-bin-ton-11600-ton-zeytinyagi-2026": {
+      "facebook": "ok",
+      "instagram": "ok",
+      "x": "ok",
+      "tiktok": "ok",
+      "youtube": "hata",
+      "deneme": 1,
+      "zaman": "2026-11-07T22:15:04+03:00",
+      "linkler": {
+        "facebook": "https://www.facebook.com/photo/?fbid=122104559223534819",
+        "x": "https://x.com/ciftcigundemi/status/2119144600673923353",
+        "instagram": "https://www.instagram.com/reel/Dfc5w4IsR7h/",
+        "tiktok": "https://www.tiktok.com/@ciftcigundemi/video/7705509873601023250"
+      }
+    },
+    "yumakli-ekim-117-bin-gida-denetimi-200-milyon-tl-ceza": {
+      "facebook": "ok",
+      "instagram": "ok",
+      "x": "ok",
+      "tiktok": "ok",
+      "youtube": "hata",
+      "deneme": 1,
+      "linkler": {
+        "facebook": "https://www.facebook.com/photo/?fbid=122104671111534819",
+        "x": "https://x.com/ciftcigundemi/status/2119191798413509000",
+        "instagram": "https://www.instagram.com/reel/DfdPFqrMcqx/",
+        "tiktok": "https://www.tiktok.com/@ciftcigundemi/video/7705558036730907912"
+      },
+      "zaman": "2026-11-08T01:21:09+03:00"
+    },
+    "erdek-zeytin-kooperatifi-alim-7-kasim-7-bin-ton-kota": {
+      "facebook": "ok",
+      "instagram": "ok",
+      "x": "ok",
+      "tiktok": "ok",
+      "youtube": "hata",
+      "deneme": 1,
+      "linkler": {
+        "facebook": "https://www.facebook.com/photo/?fbid=122104671915534819",
+        "x": "https://x.com/ciftcigundemi/status/2119192062834692444",
+        "instagram": "https://www.instagram.com/reel/DfdPQ8vMVgq/",
+        "tiktok": "https://www.tiktok.com/@ciftcigundemi/video/7705558240620465426"
+      },
+      "zaman": "2026-11-08T01:21:57+03:00"
+    },
+    "afyonkarahisar-hayvan-pazarlari-7-kasim-yeniden-acildi": {
+      "facebook": "atlandi",
+      "instagram": "atlandi",
+      "x": "atlandi",
+      "tiktok": "atlandi",
+      "youtube": "atlandi",
+      "deneme": 0,
+      "zaman": "2026-11-08T09:47:00+03:00",
+      "linkler": {}
+    },
+    "sivas-sarkisla-besi-osb-fizibilite-parselasyon-protokolu": {
+      "facebook": "atlandi",
+      "instagram": "atlandi",
+      "x": "atlandi",
+      "tiktok": "atlandi",
+      "youtube": "atlandi",
+      "deneme": 0,
+      "zaman": "2026-11-08T09:47:00+03:00",
+      "linkler": {}
+    },
+    "mgm-8-kasim-20-ilde-kar-sicaklik-3-6-derece-dusus": {
+      "facebook": "atlandi",
+      "instagram": "atlandi",
+      "x": "atlandi",
+      "tiktok": "atlandi",
+      "youtube": "atlandi",
+      "deneme": 0,
+      "zaman": "2026-11-08T09:47:00+03:00",
+      "linkler": {}
+    },
+    "yalova-iki-ayda-4709-ton-hamsi-karaya-cikti-2026": {
+      "facebook": "atlandi",
+      "instagram": "atlandi",
+      "x": "atlandi",
+      "tiktok": "atlandi",
+      "youtube": "atlandi",
+      "deneme": 0,
+      "zaman": "2026-11-08T09:47:00+03:00",
+      "linkler": {}
+    },
+    "manavgat-susami-hasat-kasima-kaldi-yuzde-54-yag-2026": {
+      "deneme": 1,
+      "linkler": {
+        "facebook": "https://www.facebook.com/photo/?fbid=122104959081534819",
+        "x": "https://x.com/ciftcigundemi/status/2119323109438435481",
+        "instagram": "https://www.instagram.com/reel/DfeK33dsl-H/",
+        "tiktok": "https://www.tiktok.com/@ciftcigundemi/video/7705692685453004040"
+      },
+      "facebook": "ok",
+      "zaman": "2026-11-08T10:05:09+03:00",
+      "x": "ok",
+      "instagram": "ok",
+      "tiktok": "ok",
+      "youtube": "hata"
+    },
+    "sakarya-12-mahalle-mera-31-ton-gubre-1800-dekar": {
+      "deneme": 1,
+      "linkler": {
+        "facebook": "https://www.facebook.com/photo/?fbid=122104960671534819",
+        "x": "https://x.com/ciftcigundemi/status/2119323440721096770",
+        "instagram": "https://www.instagram.com/reel/DfeLDfNMBDI/",
+        "tiktok": "https://www.tiktok.com/@ciftcigundemi/video/7705692867892743432"
+      },
+      "facebook": "ok",
+      "zaman": "2026-11-08T10:05:09+03:00",
+      "x": "ok",
+      "instagram": "ok",
+      "tiktok": "ok",
+      "youtube": "hata"
+    }
   }
- }
 }
