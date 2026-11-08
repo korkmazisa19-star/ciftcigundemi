@@ -3745,6 +3745,54 @@
       "yon": "asagi",
       "degisim": "-%5,2",
       "onceki": "3 Kasım: 101,60"
+    },
+    {
+      "grup": "Girdi",
+      "urun": "Motorin (İstanbul)",
+      "deger": "95,20",
+      "birim": "TL/lt",
+      "not": "Pompa fiyatı, Avrupa Yakası · Marmara",
+      "kaynak": "Petrol Ofisi · 8 Kasım 2026"
+    },
+    {
+      "grup": "Girdi",
+      "urun": "Motorin (İzmir)",
+      "deger": "96,60",
+      "birim": "TL/lt",
+      "not": "Pompa fiyatı · Ege",
+      "kaynak": "Petrol Ofisi · 8 Kasım 2026"
+    },
+    {
+      "grup": "Girdi",
+      "urun": "Motorin (Adana)",
+      "deger": "97,10",
+      "birim": "TL/lt",
+      "not": "Pompa fiyatı · Akdeniz",
+      "kaynak": "Petrol Ofisi · 8 Kasım 2026"
+    },
+    {
+      "grup": "Girdi",
+      "urun": "Motorin (Samsun)",
+      "deger": "96,80",
+      "birim": "TL/lt",
+      "not": "Pompa fiyatı · Karadeniz",
+      "kaynak": "Petrol Ofisi · 8 Kasım 2026"
+    },
+    {
+      "grup": "Girdi",
+      "urun": "Motorin (Erzurum)",
+      "deger": "97,30",
+      "birim": "TL/lt",
+      "not": "Pompa fiyatı · Doğu Anadolu",
+      "kaynak": "Petrol Ofisi · 8 Kasım 2026"
+    },
+    {
+      "grup": "Girdi",
+      "urun": "Motorin (Diyarbakır)",
+      "deger": "97,80",
+      "birim": "TL/lt",
+      "not": "Pompa fiyatı · Güneydoğu Anadolu",
+      "kaynak": "Petrol Ofisi · 8 Kasım 2026"
     }
   ],
   "hava": {
