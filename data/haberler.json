@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-08T03:31:00+03:00",
+  "guncelleme": "2026-11-08T05:31:10+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,26 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "hayrabolu-dijital-tarim-hassas-tarim-egitimi-trakyaka",
+      "kategori": "Destek",
+      "tarih": "2026-11-07",
+      "eklenme": "2026-11-08T05:31:10+03:00",
+      "motif": "traktor",
+      "baslik": "Trakya Kalkınma Ajansı'ndan Hayrabolu'ya dijital tarım desteği: Çiftçilere hassas tarım eğitimi verilecek",
+      "manset": "Hayrabolu çiftçisine \"hassas tarım\" eğitimi",
+      "ozet": "Trakya Kalkınma Ajansı, Tekirdağ'ın Hayrabolu ilçesinde çiftçilere dijital tarım ve hassas tarım teknolojilerini öğretecek bir eğitim projesini destekleme kararı aldı. Proje, Hayrabolu İlçe Tarım ve Orman Müdürlüğü tarafından ajansın 2026 Tarım ve Kırsal Kalkınma Teknik Destek Programı'na sunuldu; sözleşmeyi ajans Genel Sekreteri Mahmut Şahin ile ilçe müdürü Gürcan Evin imzaladı. Eğitimlerde veriye dayalı üretim yöntemlerinin tarlada uygulanması, maliyetlerin düşürülmesi ve kaynakların daha verimli kullanılması hedefleniyor. Şahin, iklim değişikliği ve artan maliyetler nedeniyle teknoloji ve bilimsel verinin üretimde zorunlu hale geldiğini söyledi. Haberde eğitim takvimi, bütçe ve katılımcı sayısına ilişkin bilgi yer almadı.",
+      "neYapmali": "Hayrabolu'daki üreticiler eğitimlerin tarihleri ve katılım koşulları için İlçe Tarım ve Orman Müdürlüğü ile iletişime geçebilir. Diğer illerdeki çiftçiler de bölgelerindeki kalkınma ajansının teknik destek programlarını takip edebilir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA (Son Dakika üzerinden)",
+          "url": "https://www.sondakika.com/teknoloji/haber-trakya-kalkinma-ajansi-hayrabolu-nun-dijital-tarim-20405204/"
+        }
+      ],
+      "gorsel": "assets/envato/hayrabolu-dijital-tarim-hassas-tarim-egitimi-trakyaka.jpg",
+      "gorselKucuk": "assets/envato/hayrabolu-dijital-tarim-hassas-tarim-egitimi-trakyaka-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
     {
       "id": "afyonkarahisar-hayvan-pazarlari-7-kasim-yeniden-acildi",
       "kategori": "Hayvancılık",
@@ -3831,7 +3851,6 @@
       "traktor": [
         "traktor-6.jpg",
         "traktor-7.jpg",
-        "traktor-8.jpg",
         "traktor-9.jpg"
       ],
       "zeytin": [],
