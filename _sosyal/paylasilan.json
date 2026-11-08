@@ -1445,14 +1445,15 @@
         "facebook": "https://www.facebook.com/photo/?fbid=122104959081534819",
         "x": "https://x.com/ciftcigundemi/status/2119323109438435481",
         "instagram": "https://www.instagram.com/reel/DfeK33dsl-H/",
-        "tiktok": "https://www.tiktok.com/@ciftcigundemi/video/7705692685453004040"
+        "tiktok": "https://www.tiktok.com/@ciftcigundemi/video/7705692685453004040",
+        "youtube": "https://youtube.com/shorts/_q4pVlB2a_g"
       },
       "facebook": "ok",
-      "zaman": "2026-11-08T10:05:09+03:00",
+      "zaman": "2026-11-08T11:11:23+03:00",
       "x": "ok",
       "instagram": "ok",
       "tiktok": "ok",
-      "youtube": "hata"
+      "youtube": "ok"
     },
     "sakarya-12-mahalle-mera-31-ton-gubre-1800-dekar": {
       "deneme": 1,
@@ -1468,6 +1469,22 @@
       "instagram": "ok",
       "tiktok": "ok",
       "youtube": "hata"
+    },
+    "hayrabolu-dijital-tarim-hassas-tarim-egitimi-trakyaka": {
+      "linkler": {
+        "x": "https://x.com/ciftcigundemi/status/2119339617178595383",
+        "facebook": "https://www.facebook.com/photo/?fbid=122105002779534819",
+        "instagram": "https://www.instagram.com/reel/DfeSYo_sYEs/",
+        "tiktok": "https://www.tiktok.com/@ciftcigundemi/video/7705709263192067346",
+        "youtube": "https://youtube.com/shorts/wxuGQU1bgww"
+      },
+      "deneme": 1,
+      "x": "ok",
+      "zaman": "2026-11-08T11:09:58+03:00",
+      "facebook": "ok",
+      "instagram": "ok",
+      "tiktok": "ok",
+      "youtube": "ok"
     }
   }
 }
