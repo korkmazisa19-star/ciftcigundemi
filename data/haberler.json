@@ -3738,13 +3738,13 @@
     {
       "grup": "Girdi",
       "urun": "Motorin (Ankara)",
-      "deger": "101,60",
+      "deger": "96,30",
       "birim": "TL/lt",
       "not": "Pompa fiyatı",
-      "kaynak": "BirGün · 3 Kasım 2026",
-      "yon": "yukari",
-      "degisim": "+%3,8",
-      "onceki": "26 Ekim: 97,90"
+      "kaynak": "BirGün · 7 Kasım 2026",
+      "yon": "asagi",
+      "degisim": "-%5,2",
+      "onceki": "3 Kasım: 101,60"
     }
   ],
   "hava": {
