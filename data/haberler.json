@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-08T05:31:10+03:00",
+  "guncelleme": "2026-11-08T07:29:54+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,26 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "sakarya-12-mahalle-mera-31-ton-gubre-1800-dekar",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-07",
+      "eklenme": "2026-11-08T07:29:54+03:00",
+      "motif": "koyun",
+      "baslik": "Sakarya'da meralar için gübre desteği: 12 mahalledeki 1.800 dekar alana 31 ton gübre verildi",
+      "manset": "Meralara \"31 ton\" gübre",
+      "ozet": "Sakarya İl Tarım ve Orman Müdürlüğü, Bakanlığın onayladığı mera ıslahı ve amenajmanı projeleri kapsamında 12 mahalleye toplam 31 ton gübre dağıttı. Gübre, bu mahallelerdeki yaklaşık 1.800 dekarlık mera alanında kullanılacak. 7 Kasım'da duyurulan dağıtıma ziraat odaları il koordinasyon kurulu başkanı, Tarım Kredi bölge müdür yardımcısı, ilçe tarım müdürü ile Hendek ve Akyazı'dan muhtarlar katıldı. Uygulamayla meralarda ot veriminin artırılması ve hayvancılık yapan üreticinin yem maliyetinin düşürülmesi hedefleniyor.",
+      "neYapmali": "Köyünüzün merası için ıslah projesi olup olmadığını muhtarlığınıza ve ilçe tarım ve orman müdürlüğüne sorun. Gübrenin ve otlatmanın proje planındaki takvime uygun yapılmasına dikkat edin.",
+      "kaynaklar": [
+        {
+          "ad": "Taraklı Medya",
+          "url": "https://taraklimedya.com/sakaryanin-meralari-bereketlensin-diye-12-mahalleye-31-ton-gubre-dagitildi/"
+        }
+      ],
+      "gorsel": "assets/envato/sakarya-12-mahalle-mera-31-ton-gubre-1800-dekar.jpg",
+      "gorselKucuk": "assets/envato/sakarya-12-mahalle-mera-31-ton-gubre-1800-dekar-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
     {
       "id": "hayrabolu-dijital-tarim-hassas-tarim-egitimi-trakyaka",
       "kategori": "Destek",
@@ -3831,8 +3851,7 @@
         "kovan-5.jpg"
       ],
       "koyun": [
-        "koyun-1.jpg",
-        "koyun-2.jpg"
+        "koyun-1.jpg"
       ],
       "para": [
         "para-3.jpg",
