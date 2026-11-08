@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-08T21:30:30+03:00",
+  "guncelleme": "2026-11-09T01:32:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,100 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "karadeniz-palamut-125-150-tl-sezon-sonu-2026",
+      "kategori": "Piyasa",
+      "tarih": "2026-11-08",
+      "motif": "balik",
+      "baslik": "Karadeniz'de palamut azalınca fiyatı arttı: Tezgâhta 125-150 liradan satılıyor",
+      "manset": "Palamut tezgâhta \"150 liraya\" çıktı",
+      "ozet": "Karadeniz'de sezon boyunca bol çıkan palamut, havaların soğumasıyla göçe başlayınca tezgâhlarda azalmaya başladı. Olumsuz hava koşulları da avı düşürdü; 75-100 lira bandındaki fiyat 125-150 liraya yükseldi. Balıkçı Emin Avcı sezonun yaklaşık bir ay daha süreceğini ama balığın eskisi kadar bol olmayacağını söyledi. Balıkçılara göre müşteri artık hamsi, mezgit ve istavrite yöneliyor.",
+      "neYapmali": "Avcılar ve tezgâh sahipleri, sezonun son haftalarında hava durumunu izleyerek av planı yapmalı; alım ve satış kararlarında günlük hal fiyatlarını takip etmeli.",
+      "kaynaklar": [
+        {
+          "ad": "İHA / Haberler.com",
+          "url": "https://www.haberler.com/ekonomi/karadeniz-de-palamut-tezgahlardan-cekilirken-20406999-haberi/"
+        }
+      ],
+      "eklenme": "2026-11-09T01:32:00+03:00",
+      "gorsel": null
+    },
+    {
+      "id": "hububat-bakliyat-yagli-tohum-ihracat-10-ayda-9-9-milyar-dolar",
+      "kategori": "Piyasa",
+      "tarih": "2026-11-08",
+      "motif": "bugday",
+      "baslik": "Hububat, bakliyat ve yağlı tohum sektörünün 10 aylık ihracatı 9,9 milyar dolara ulaştı",
+      "manset": "10 ayda ihracat \"9,9 milyar dolar\"",
+      "ozet": "Türkiye İhracatçılar Meclisi'nin verilerine göre hububat, bakliyat, yağlı tohumlar ve mamulleri sektörünün yılın ilk 10 ayındaki ihracatı 9,9 milyar dolar oldu; ekimde 1,3 milyar dolarlık satış yapıldı. Ayçiçeği yağı ihracatı yüzde 18,6 artarak 1 milyar doları aştı ve ilk sıraya yerleşti. En büyük alıcı 1,2 milyar dolarla Irak olurken ABD 735,8 milyon dolarla ikinci sırada yer aldı. Sektör Kurulu Başkanı Nihat Uysallı, buğday, arpa ve ayçiçeğinde artan üretim beklentisinin sanayiye hammadde avantajı sağladığını, ancak bunun tüm ihtiyacı karşılamadığını belirtti.",
+      "neYapmali": "Hububat ve ayçiçeği üreticileri satış zamanlamasını belirlerken TMO duyurularını ve borsa fiyatlarını birlikte izlemeli; lisanslı depoculuk seçeneğini maliyetiyle değerlendirmeli.",
+      "kaynaklar": [
+        {
+          "ad": "AA / Haberler.com",
+          "url": "https://www.haberler.com/ekonomi/hububat-bakliyat-ve-yagli-tohumlar-ihracati-ilk-10-20406567-haberi/"
+        }
+      ],
+      "eklenme": "2026-11-09T01:31:00+03:00",
+      "gorsel": "assets/envato/hububat-bakliyat-yagli-tohum-ihracat-10-ayda-9-9-milyar-dolar.jpg",
+      "gorselKucuk": "assets/envato/hububat-bakliyat-yagli-tohum-ihracat-10-ayda-9-9-milyar-dolar-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
+    {
+      "id": "mardin-24-yerel-uzum-cesidi-damizlik-gen-bahcesi",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-08",
+      "motif": "tohum",
+      "baslik": "Mardin'de yerel üzümler için gen bahçesi: 28 çeşidin 24'ü koruma altına alındı",
+      "manset": "Yerel üzümün \"24 çeşidi\" koruma altında",
+      "ozet": "Mardin İl Tarım ve Orman Müdürlüğü, yerel üzümleri korumak için 20 dekarlık damızlık ve gen bahçesi kurdu. İlde tespit edilen 28 yerel çeşitten 24'ü bahçeye alındı; kalan dördü için arama sürüyor. Ziraat Mühendisi Erdal Homan, hedefin gen bankası oluşturmak ve üreticiye aşılı fidan vermek olduğunu söyledi. Yaklaşık 34 bin 777 hektar bağ alanıyla Manisa'nın ardından ikinci sırada bulunan Mardin'de yıllık üretim yaklaşık 113 bin 142 ton. Üzüm presi, sırt pompası ve budama makinesi gibi ekipmanlar da çiftçilere yüzde 75 hibeyle veriliyor.",
+      "neYapmali": "Mardinli bağcılar yüzde 75 hibeli ekipman ve yerel çeşit fidanları için İl ya da İlçe Tarım ve Orman Müdürlüğü'ne başvurarak güncel başvuru koşullarını öğrenebilir.",
+      "kaynaklar": [
+        {
+          "ad": "AA / Haberler.com",
+          "url": "https://www.haberler.com/guncel/mardin-de-24-yerel-uzum-cesidi-damizlik-ve-gen-20406872-haberi/"
+        }
+      ],
+      "eklenme": "2026-11-09T01:30:00+03:00",
+      "gorsel": null
+    },
+    {
+      "id": "cizre-gulbahar-bagdur-10-koyundan-250-hayvan",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-07",
+      "motif": "koyun",
+      "baslik": "Cizre'de öğretmenliği bırakıp hayvancılığa başladı: Sürüsünü 7 yılda 10'dan 250 koyuna çıkardı",
+      "manset": "Öğretmenliği bıraktı, \"250 koyun\" oldu",
+      "ozet": "Şırnak'ın Cizre ilçesine bağlı Dirsekli Mahallesi'nde yaşayan dört çocuk annesi Gülbahar Bağdur, yedi yıl önce kadın giyim öğretmenliğini bırakıp 10 hayvanla üretime başladı. Devlet desteğiyle sürüsünü 200 başa taşıyan Bağdur, yaylaya gönderdiği 50 hayvanla birlikte toplam 250 koyuna bakıyor. Eşinin desteğiyle evinin bahçesinde kurduğu çiftlikte süt, peynir, tereyağı, yoğurt ve ayran da üretiyor. Hedefinin daha büyük bir çiftlik kurmak olduğunu söyleyen Bağdur, kadınları girişimciliğe çağırıyor.",
+      "neYapmali": "Küçükbaş yetiştiriciliğine başlamak isteyenler, kadın ve genç çiftçilere yönelik destek şartlarını İlçe Tarım ve Orman Müdürlüğü'nden öğrenebilir; işletmeyi kurmadan önce barınak ve mera imkânını planlamalıdır.",
+      "kaynaklar": [
+        {
+          "ad": "İHA / Haber Expres",
+          "url": "https://www.haberexpres.com.tr/10-koyunla-basladigi-ciftliginde-250-hayvana-ulasti/174964"
+        }
+      ],
+      "eklenme": "2026-11-09T01:29:00+03:00",
+      "gorsel": "assets/envato/cizre-gulbahar-bagdur-10-koyundan-250-hayvan.jpg",
+      "gorselKucuk": "assets/envato/cizre-gulbahar-bagdur-10-koyundan-250-hayvan-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
+    {
+      "id": "bandirma-koyunculuk-karacabey-merinosu-yeni-kuzular-2026",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-07",
+      "motif": "sut",
+      "baslik": "Bandırma Koyunculuk Araştırma Enstitüsü'nde Karacabey Merinosu kuzuları doğmaya başladı",
+      "manset": "Bandırma'da \"Merinos\" kuzuları doğdu",
+      "ozet": "Bandırma Koyunculuk Araştırma Enstitüsü Müdürlüğü'nde yürütülen Ülkesel Karacabey Merinosu Projesi kapsamında doğum sezonu başladı ve yeni kuzular dünyaya geldi. Enstitü, kuzuların sağlıklı büyütülmesini ve yetiştirme çalışmalarının sürdürülmesini hedefliyor. Karacabey Merinosu, bölgedeki küçükbaş araştırmalarının önemli ırklarından biri olarak gösteriliyor. Haberde doğan kuzu sayısına ilişkin bir rakam paylaşılmadı.",
+      "neYapmali": "Bölgedeki yetiştiriciler damızlık ve ırk ıslahı konusunda enstitüden ya da İlçe Tarım ve Orman Müdürlüğü'nden bilgi alabilir; doğum döneminde ağıl hijyenine ve kuzuların ağız sütü almasına dikkat etmelidir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA / Haberler.com",
+          "url": "https://www.haberler.com/ekonomi/bandirma-koyunculuk-arastirma-enstitusu-nde-yeni-20404496-haberi/"
+        }
+      ],
+      "eklenme": "2026-11-09T01:28:00+03:00",
+      "gorsel": null
+    },
     {
       "id": "bilecik-bayirkoy-yuzde-50-zeytin-hurma-fidani-20-kasim",
       "kategori": "Hibe",
@@ -4050,8 +4144,7 @@
       "bugday": [
         "bugday-6.jpg",
         "bugday-7.jpg",
-        "bugday-8.jpg",
-        "bugday-9.jpg"
+        "bugday-8.jpg"
       ],
       "don": [
         "don-2.jpg",
@@ -4069,9 +4162,7 @@
         "kovan-4.jpg",
         "kovan-5.jpg"
       ],
-      "koyun": [
-        "koyun-1.jpg"
-      ],
+      "koyun": [],
       "para": [
         "para-3.jpg",
         "para-4.jpg"
