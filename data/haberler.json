@@ -3836,47 +3836,108 @@
     }
   ],
   "hava": {
-    "donem": "7-10 Kasım",
-    "kaynak": "MGM zirai don uyarısı (6 Kasım 2026); il değerleri MGM'nin 3 Kasım il merkezi tahmininden",
-    "haber": "mgm-zirai-don-7-10-kasim-alti-bolge",
-    "genel": "Marmara'nın güneydoğusu, İç Anadolu, Karadeniz'in iç kesimleri, İç Ege, Akdeniz'in iç ve yüksek kesimleri ile Doğu Anadolu'da 7 Kasım gecesinden itibaren hafif, yer yer orta şiddette zirai don bekleniyor",
+    "donem": "9-13 Kasım",
+    "kaynak": "MGM 5 günlük il merkezi tahmini (8 Kasım 2026 20:14 itibarıyla); MGM zirai don uyarısı (6 Kasım 2026)",
+    "haber": "mgm-8-kasim-20-ilde-kar-sicaklik-3-6-derece-dusus",
+    "genel": "9-13 Kasım döneminde 36 il merkezinin 19'unda 0°C ve altı bekleniyor, en soğuk değer Erzurum ve Ardahan'da −10°C; MGM'nin zirai don uyarısı 10 Kasım sabahına kadar Marmara'nın güneydoğusu, İç Anadolu, Karadeniz'in iç kesimleri, İç Ege, Akdeniz'in iç ve yüksek kesimleri ile Doğu Anadolu'yu kapsıyor.",
     "iller": [
       {
         "il": "Erzurum",
-        "min": -4
+        "min": -10,
+        "not": "en soğuk 10 Kasım, −10°C; MGM zirai don uyarısı"
+      },
+      {
+        "il": "Kars",
+        "min": -9,
+        "not": "en soğuk 9 Kasım, −9°C; MGM zirai don uyarısı"
+      },
+      {
+        "il": "Ardahan",
+        "min": -10,
+        "not": "en soğuk 10 Kasım, −10°C; MGM zirai don uyarısı"
+      },
+      {
+        "il": "Van",
+        "min": -6,
+        "not": "en soğuk 10 Kasım, −6°C; MGM zirai don uyarısı"
       },
       {
         "il": "Sivas",
-        "min": -3
-      },
-      {
-        "il": "Afyonkarahisar",
-        "min": -1
-      },
-      {
-        "il": "Ankara",
-        "min": 0
+        "min": -6,
+        "not": "en soğuk 9 Kasım, −6°C; MGM zirai don uyarısı"
       },
       {
         "il": "Erzincan",
-        "min": 0,
-        "not": "MGM 12. Bölge uyarısı"
+        "min": -4,
+        "not": "en soğuk 9 Kasım, −4°C; MGM zirai don uyarısı"
+      },
+      {
+        "il": "Kayseri",
+        "min": -5,
+        "not": "en soğuk 9 Kasım, −5°C; MGM zirai don uyarısı"
+      },
+      {
+        "il": "Konya",
+        "min": -1,
+        "not": "en soğuk 9 Kasım, −1°C; MGM zirai don uyarısı"
+      },
+      {
+        "il": "Ankara",
+        "min": -1,
+        "not": "en soğuk 9 Kasım, −1°C; MGM zirai don uyarısı"
+      },
+      {
+        "il": "Afyonkarahisar",
+        "min": -2,
+        "not": "en soğuk 9 Kasım, −2°C; MGM zirai don uyarısı"
       },
       {
         "il": "Eskişehir",
-        "min": 2
+        "min": -2,
+        "not": "en soğuk 9 Kasım, −2°C; MGM zirai don uyarısı"
+      },
+      {
+        "il": "Kütahya",
+        "min": -2,
+        "not": "en soğuk 9 Kasım, −2°C; MGM zirai don uyarısı"
+      },
+      {
+        "il": "Uşak",
+        "min": -2,
+        "not": "en soğuk 9 Kasım, −2°C; MGM zirai don uyarısı"
+      },
+      {
+        "il": "Isparta",
+        "min": -1,
+        "not": "en soğuk 9 Kasım, −1°C; MGM zirai don uyarısı"
+      },
+      {
+        "il": "Malatya",
+        "min": -2,
+        "not": "en soğuk 9 Kasım, −2°C; MGM zirai don uyarısı"
+      },
+      {
+        "il": "Yozgat",
+        "min": -4,
+        "not": "en soğuk 9 Kasım, −4°C; MGM zirai don uyarısı"
+      },
+      {
+        "il": "Çorum",
+        "min": -2,
+        "not": "en soğuk 9 Kasım, −2°C; MGM zirai don uyarısı"
       },
       {
         "il": "Bolu",
-        "min": 2
+        "min": -5,
+        "not": "en soğuk 9 Kasım, −5°C; MGM zirai don uyarısı"
       },
       {
         "il": "Edirne",
-        "min": 2
+        "min": 0
       },
       {
         "il": "Kırklareli",
-        "min": 2
+        "min": 1
       },
       {
         "il": "Tekirdağ",
@@ -3884,43 +3945,63 @@
       },
       {
         "il": "Çanakkale",
-        "min": 5,
-        "not": "iç kesimlerde 7-8 Kasım hafif don"
+        "min": 4
       },
       {
         "il": "Balıkesir",
-        "min": 6,
-        "not": "iç kesimlerde 7-8 Kasım hafif don"
+        "min": 1
+      },
+      {
+        "il": "Bursa",
+        "min": 2
       },
       {
         "il": "Manisa",
-        "min": 6,
-        "not": "iç kesimlerde 7-8 Kasım hafif don"
-      },
-      {
-        "il": "Aydın",
-        "min": 7,
-        "not": "yüksek kesimlerde 7-8 Kasım hafif don"
-      },
-      {
-        "il": "Kocaeli",
-        "min": 7
-      },
-      {
-        "il": "Sakarya",
-        "min": 7
+        "min": 5
       },
       {
         "il": "İzmir",
-        "min": 8
+        "min": 7
+      },
+      {
+        "il": "Aydın",
+        "min": 5
+      },
+      {
+        "il": "Denizli",
+        "min": 4
+      },
+      {
+        "il": "Kocaeli",
+        "min": 3
+      },
+      {
+        "il": "Sakarya",
+        "min": 2
+      },
+      {
+        "il": "Samsun",
+        "min": 4
       },
       {
         "il": "Trabzon",
-        "min": 8
+        "min": 4
+      },
+      {
+        "il": "Antalya",
+        "min": 9
+      },
+      {
+        "il": "Adana",
+        "min": 6
+      },
+      {
+        "il": "Şanlıurfa",
+        "min": 4
       },
       {
         "il": "İstanbul",
-        "min": 9
+        "min": 7
       }
     ]
   },
