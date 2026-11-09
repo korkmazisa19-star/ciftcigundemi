@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-09T01:32:00+03:00",
+  "guncelleme": "2026-11-09T05:32:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,118 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "zeytin-maliyet-50-tl-akhisar-20-tl-uzzk-tarim-sen",
+      "kategori": "Piyasa",
+      "tarih": "2026-11-09",
+      "motif": "zeytin",
+      "baslik": "Rekor zeytin rekoltesinde maliyet tartışması: Üretici kilosu 50 liraya çıkan ürünü 20 liradan satıyor",
+      "manset": "Maliyet 50, satış \"20 lira\"!",
+      "ozet": "2026-2027 sezonunda toplam zeytin rekoltesi 4 milyon 30 bin ton, zeytinyağı üretimi 588 bin ton, sofralık üretim ise 1 milyon 163 bin ton olarak tahmin ediliyor. Habere göre yalnızca toplama maliyeti kilo başına 25 lirayı, bakımla birlikte toplam maliyet 50 lirayı buluyor; Akhisar'da toptan fiyat ise 20 lira. Zeytinyağında en az 250 lira olarak hesaplanan maliyete karşılık piyasa 170-180 lira düzeyinde. Ulusal Zeytin ve Zeytinyağı Konseyi Başkanı Mustafa Tan, sektörde karamsarlık olduğunu, yere dökülen tanelerin toplanmaması nedeniyle rekoltenin düşebileceğini söyledi. Tarım-Sen Genel Başkanı Umut Kocagöz ise Tarım Kredi, Marmarabirlik ve Tariş'in üretici lehine piyasaya girmesini istedi.",
+      "neYapmali": "Üreticiler satış öncesinde kooperatif ve borsa fiyatlarını karşılaştırmalı, toplama işçiliğini kendi maliyetine göre hesaplamalı. Kooperatif alım duyurularını yakın takip etmekte fayda var.",
+      "kaynaklar": [
+        {
+          "ad": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/tarihi-rekolteye-karsin-uretici-zarar-ediyor-zeytin-dalda-kalma-tehlikesiyle-karsi-karsiya-2554567"
+        }
+      ],
+      "eklenme": "2026-11-09T05:32:00+03:00",
+      "gorsel": null
+    },
+    {
+      "id": "usak-kkyp-17-etap-yedek-liste-20-kasim-evrak",
+      "kategori": "Hibe",
+      "tarih": "2026-11-07",
+      "motif": "para",
+      "baslik": "Uşak'ta kırsal kalkınma hibesinde yedek liste açıklandı: Sözleşme için son tarih 30 Kasım",
+      "manset": "Evrak için son gün \"20 Kasım\"",
+      "ozet": "Kırsal Kalkınma Yatırımları Programı'nın 17. etabına ait Uşak yedek listesi, 6 Kasım'dan itibaren Tarım ve Orman İl Müdürlüğü'nün ilan panosunda ve internet sitesinde yayımlandı. Liste 15 Kasım'a kadar askıda kalacak ve bu ilan tebligat sayılacağı için başvuru sahiplerine ayrıca bildirim yapılmayacak. Hak kazananların sözleşme evraklarını 20 Kasım'a kadar il müdürlüğüne teslim etmesi, sözleşmeyi de 30 Kasım'a kadar imzalaması gerekiyor. Şartları yerine getirmeyenlerin başvurusu ve değerlendirme sonucu iptal edilecek.",
+      "neYapmali": "Başvuru sahipleri listeyi il müdürlüğünün sitesinden kendileri kontrol etmeli, adı çıkanlar evraklarını 20 Kasım'ı beklemeden teslim etmeli. Reddedilenler yazılı talep ederek geri bildirim belgesi isteyebilir.",
+      "kaynaklar": [
+        {
+          "ad": "Yeşil Sivaslı Gazetesi (Tarım ve Orman Bakanlığı duyurusu)",
+          "url": "https://www.yesilsivasligazetesi.com/usakta-hibe-destegi-kazananlar-aciklandi-son-tarihe-dikkat"
+        }
+      ],
+      "eklenme": "2026-11-09T05:31:00+03:00",
+      "gorsel": "assets/envato/usak-kkyp-17-etap-yedek-liste-20-kasim-evrak.jpg",
+      "gorselKucuk": "assets/envato/usak-kkyp-17-etap-yedek-liste-20-kasim-evrak-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
+    {
+      "id": "konya-huyuk-cilek-don-ortu-kasim-2026",
+      "kategori": "Zirai Don",
+      "tarih": "2026-11-07",
+      "motif": "don",
+      "baslik": "Konya Hüyük'te çilek üreticileri don uyarısı üzerine tarlaları özel örtüyle kapattı",
+      "manset": "Çilek tarlaları \"örtü\" altında",
+      "ozet": "Çilek üretim merkezlerinden Konya'nın Hüyük ilçesinde üreticiler, Meteoroloji'nin hafta sonu için yaptığı zirai don uyarısının ardından önlem aldı. Gece sıcaklıklarının sıfırın altına düşme ihtimaline karşı tarlalar, ısıyı tutan özel tarım örtüleriyle kaplandı. Üretici Mehmet Kanat, beklenen gece donuna karşı kendilerinin ve bölgedeki diğer çiftçilerin örtülerini hazırladığını söyledi.",
+      "neYapmali": "Don riski bulunan bölgelerde üreticiler MGM'nin güncel uyarılarını izlemeli, örtüleri akşam saatlerinden önce sererek rüzgârla açılmayacak şekilde sabitlemeli. Olası zarar için TARSİM poliçe şartlarını kontrol etmek faydalı olur.",
+      "kaynaklar": [
+        {
+          "ad": "İHA / Son Dakika",
+          "url": "https://www.sondakika.com/cevre/haber-konya-huyuk-te-cilek-ureticileri-don-tehlikesine-k-20405979/"
+        }
+      ],
+      "eklenme": "2026-11-09T05:30:00+03:00",
+      "gorsel": "assets/envato/konya-huyuk-cilek-don-ortu-kasim-2026.jpg",
+      "gorselKucuk": "assets/envato/konya-huyuk-cilek-don-ortu-kasim-2026-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
+    {
+      "id": "arsuz-72-bin-dekar-zeytin-352-ton-yag",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-08",
+      "motif": "zeytin",
+      "baslik": "Arsuz'da 72 bin dekarı aşan zeytinlikte hasat sürüyor: Yağlık üründen yaklaşık 353 ton yağ",
+      "manset": "Arsuz'da \"72 bin dekar\" zeytin",
+      "ozet": "Hatay'ın Arsuz ilçesinde Kaymakam Fatih Eroğlu, Akçalı Mahallesi'ndeki bir zeytin bahçesi ve yağhanede incelemelerde bulundu. Ziyarette İlçe Tarım ve Orman Müdürü Serkan Yılmaz da yer aldı; aktarılan bilgilere göre 72 bin dekarın üzerindeki alanda zeytin yetiştiriliyor, yağlık üründen yaklaşık 352,91 ton yağ elde ediliyor ve ilçede beş yağhane bulunuyor. Halhalı ile Topak Aşı sofralık, Gemlik ve Kargaburnu yağlık çeşitler olarak öne çıkıyor. Eylülde başlayan hasat aralığa kadar sürüyor.",
+      "neYapmali": "Üreticiler yağın kalitesini korumak için zeytini bekletmeden sıkımhaneye ulaştırmalı. Üretim ve markalaşma destekleri için ilçe tarım müdürlüğüne danışılabilir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA / Son Dakika",
+          "url": "https://www.sondakika.com/ekonomi/haber-arsuz-da-72-bin-dekari-asan-zeytin-alaninda-hasat--20407300/"
+        }
+      ],
+      "eklenme": "2026-11-09T05:29:00+03:00",
+      "gorsel": null
+    },
+    {
+      "id": "edremit-korfezi-pirina-yag-sabun-biyokutle",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-08",
+      "motif": "zeytin",
+      "baslik": "Edremit Körfezi'nde zeytinin atığı değerleniyor: Pirinadan yağ, sabun hammaddesi ve yakıt elde ediliyor",
+      "manset": "Pirinadan yağ, sabun ve \"yakıt\"",
+      "ozet": "Yaklaşık 13 milyon zeytin ağacının bulunduğu Edremit Körfezi'nde sıkım sonrası kalan pirina tesislerde ekonomiye kazandırılıyor. İşletme müdürü Keskin Aral'ın anlattığına göre yüzde 70-80 nemli 100 kilo pirinadan yaklaşık 2 kilo ham pirina yağı ile 7-8 kilo biyokütle çıkıyor. Rafine edilen yağ yemeklik olarak, asidi yüksek olan sabunda değerlendiriliyor; kalan posa ise yakıt olarak kullanılıyor. Balıkesir Üniversitesi'nden Dr. Mücahit Kıvrak, zeytinin her kısmı kullanıldığı için çevre dostu bir ürün olduğunu belirtti. Ürünler ağırlıklı olarak ABD ve Kanada'ya ihraç ediliyor.",
+      "neYapmali": "Zeytinyağı işletmeleri pirinayı değerlendiren tesislerle teslim koşullarını ve bedeli sezon başında netleştirmeli; atık bertarafında yerel kurumların kurallarına uymalı.",
+      "kaynaklar": [
+        {
+          "ad": "İHA / Son Dakika",
+          "url": "https://www.sondakika.com/ekonomi/haber-edremit-korfezi-nde-13-milyon-zeytin-agacinin-urun-20406487/"
+        }
+      ],
+      "eklenme": "2026-11-09T05:28:00+03:00",
+      "gorsel": null
+    },
+    {
+      "id": "tarsus-cagbasi-hurma-hasadi-70-ton",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-07",
+      "motif": "tohum",
+      "baslik": "Tarsus Çağbaşı'nda hurma hasadı başladı: 35 dönümden yaklaşık 70 ton ürün bekleniyor",
+      "manset": "Dönümden \"2 ton\" hurma bekliyor",
+      "ozet": "Mersin'in Tarsus ilçesine bağlı Çağbaşı Mahallesi'nde hurma üreticisi Mustafa Teke yaklaşık bir hafta önce hasada başladı. Teke, 35 dönümlük bahçesinde dönüm başına yaklaşık 2 ton, toplamda 70 ton civarında ürün beklediğini söyledi. Üretici bu yılki ürünün kaliteli olduğunu dile getirdi; haberde satış fiyatına ilişkin bilgi yer almıyor.",
+      "neYapmali": "Hasat dönemindeki üreticiler ürünü kalite sınıfına göre ayırarak satış öncesinde birkaç alıcıdan fiyat almalı.",
+      "kaynaklar": [
+        {
+          "ad": "İHA / Son Dakika",
+          "url": "https://www.sondakika.com/yerel/haber-tarsus-ta-hurma-hasadi-basladi-mustafa-teke-35-don-20406009/"
+        }
+      ],
+      "eklenme": "2026-11-09T05:27:00+03:00",
+      "gorsel": null
+    },
     {
       "id": "karadeniz-palamut-125-150-tl-sezon-sonu-2026",
       "kategori": "Piyasa",
@@ -3720,6 +3832,12 @@
       "haber": "bilecik-bayirkoy-yuzde-50-zeytin-hurma-fidani-20-kasim"
     },
     {
+      "tarih": "2026-11-20",
+      "baslik": "Uşak KKYP yedek liste: Sözleşme evrakı teslimi",
+      "kapsam": "Uşak",
+      "haber": "usak-kkyp-17-etap-yedek-liste-20-kasim-evrak"
+    },
+    {
       "tarih": "2026-11-23",
       "baslik": "Tohum ve gübre desteği",
       "kapsam": "Ankara",
@@ -3730,6 +3848,12 @@
       "baslik": "Mazot ve gübre desteği",
       "kapsam": "Denizli",
       "haber": "denizli-mazot-gubre"
+    },
+    {
+      "tarih": "2026-11-30",
+      "baslik": "Uşak KKYP yedek liste: Son sözleşme imzası",
+      "kapsam": "Uşak",
+      "haber": "usak-kkyp-17-etap-yedek-liste-20-kasim-evrak"
     },
     {
       "tarih": "2026-12-01",
@@ -4153,8 +4277,7 @@
         "bugday-8.jpg"
       ],
       "don": [
-        "don-2.jpg",
-        "don-4.jpg"
+        "don-2.jpg"
       ],
       "findik": [
         "findik-5.jpg",
@@ -4170,7 +4293,6 @@
       ],
       "koyun": [],
       "para": [
-        "para-3.jpg",
         "para-4.jpg"
       ],
       "sera": [
