@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-09T22:31:00+03:00",
+ "guncelleme": "2026-11-09T22:38:00+03:00",
  "kategoriler": [
   {
    "ad": "Hayvancılık",
@@ -53,6 +53,46 @@
   "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
  ],
  "haberler": [
+  {
+   "id": "artvin-kemalpasa-sultanselim-coban-300-koyun-kar-kurtarma-2026",
+   "kategori": "Hayvancılık",
+   "tarih": "2026-11-09",
+   "motif": "koyun",
+   "baslik": "Artvin'de Sultanselim Dağı'nda karda kalan çoban ve 300 koyunu ekipler kurtardı",
+   "manset": "Karda mahsur kaldı, \"300 koyun\" kurtarıldı",
+   "ozet": "Artvin'in Kemalpaşa ilçesindeki Sultanselim Dağı'nda çoban Hakan Üçüncü'den haber alınamaması üzerine arama çalışması başlatıldı. İl Özel İdaresi, AFAD, HOPAK ve Hopa Jandarma ekipleri bölgeye sevk edildi. Karla kapanan yol iş makinesiyle açıldı ve çobana sürüsüyle birlikte ulaşıldı. Üçüncü ve 300 koyunu güvenli bölgeye indirildi; çobanın ve hayvanların durumunun iyi olduğu bildirildi.",
+   "neYapmali": "Yüksek kesimde sürü otlatan üreticilerin Meteoroloji'nin kar uyarılarını takip edip hayvanları erken indirmesi, yanlarında haberleşme imkânı bulundurması önem taşıyor. Acil durumda 112 aranabilir.",
+   "kaynaklar": [
+    {
+     "ad": "İHA",
+     "url": "https://www.iha.com.tr/artvin-haberleri/artvinde-karda-mahsur-kalan-coban-ve-300-koyunu-kurtarildi-513429357"
+    }
+   ],
+   "eklenme": "2026-11-09T22:38:00+03:00",
+   "gorsel": "assets/iha/artvin-kemalpasa-sultanselim-coban-300-koyun-kar-kurtarma-2026.jpg",
+   "gorselKucuk": "assets/iha/artvin-kemalpasa-sultanselim-coban-300-koyun-kar-kurtarma-2026-k.jpg",
+   "gorselKaynak": "Fotoğraf: İHA"
+  },
+  {
+   "id": "nilkoop-marmarabirlik-toprak-analizi-protokol-3-yil-2026",
+   "kategori": "Bitkisel Üretim",
+   "tarih": "2026-11-09",
+   "motif": "zeytin",
+   "baslik": "Marmarabirlik üyeleri toprak ve bitki analizini NİLKOOP laboratuvarında indirimli yaptırabilecek",
+   "manset": "Zeytin üreticisine \"indirimli\" analiz",
+   "ozet": "Nilüfer Tarımsal Kalkınma Kooperatifi (NİLKOOP) ile Marmara Zeytin Tarım Satış Kooperatifleri Birliği arasında toprak yönetimi ve verimlilik odaklı bir protokol imzalandı. Bursa'da Nilüfer Belediyesi Halk Evi'ndeki törende imzaları NİLKOOP Başkanı Resul Tarman ile Marmarabirlik Başkanı Ali Yıldız attı. Üç yıl geçerli anlaşmayla Nilüfer Tarımsal Analiz Laboratuvarı toprak, bitki ve diğer tarımsal numuneleri yürürlükteki tarifeden indirimli inceleyecek. Taraflar zeytinde kaliteyi artırmayı ve girdi maliyetini azaltmayı amaçlıyor.",
+   "neYapmali": "Marmarabirlik üyesi üreticiler indirim koşullarını ve numune alma yöntemini bağlı oldukları kooperatiften öğrenebilir. Gübreleme planından önce yaptırılacak toprak analizi gereksiz girdi harcamasını azaltmaya yardımcı olur.",
+   "kaynaklar": [
+    {
+     "ad": "İHA",
+     "url": "https://www.iha.com.tr/bursa-haberleri/nilkooptan-zeytin-ureticileri-ile-isbirligi-513483336"
+    }
+   ],
+   "eklenme": "2026-11-09T22:37:00+03:00",
+   "gorsel": "assets/iha/nilkoop-marmarabirlik-toprak-analizi-protokol-3-yil-2026.jpg",
+   "gorselKucuk": "assets/iha/nilkoop-marmarabirlik-toprak-analizi-protokol-3-yil-2026-k.jpg",
+   "gorselKaynak": "Fotoğraf: İHA"
+  },
   {
    "id": "erzincan-buzagi-malak-kuzu-oglak-destek-1-aralik-2026",
    "kategori": "Destek",
