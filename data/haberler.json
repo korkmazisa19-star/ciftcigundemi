@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-09T23:33:00+03:00",
+  "guncelleme": "2026-11-10T00:36:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -59,6 +59,86 @@
   ],
   "haberler": [
     {
+      "id": "ardahan-damal-seyitoren-yaylaci-kar-2026",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-09",
+      "eklenme": "2026-11-10T00:36:00+03:00",
+      "motif": "sut",
+      "baslik": "Ardahan'da kar yağışı yaylacıları ikiye ayırdı: Kimi sürüyü köye indiriyor, kimi yaylada direniyor",
+      "manset": "Kar geldi, yaylacı \"ikiye\" bölündü",
+      "ozet": "Ardahan'ın yüksek kesimlerinde sıcaklığın düşüp karın bastırmasıyla büyükbaş yetiştiricileri farklı yollar izlemeye başladı. Bir bölüm üretici hayvanlarını köylerdeki ahır ve kışlaklara taşıyor. Damal'a bağlı Seyitören'de ise bazı hayvancılar, bakım ve beslenme koşullarının yeterli olduğunu belirterek yaylada kalmayı sürdürüyor. Önümüzdeki günlerde yayladan köylere hayvan göçünün artması bekleniyor.",
+      "neYapmali": "Yaylada kalan üreticilerin kapalı barınak, kuru yem ve içme suyunu önceden hazırlaması, sürü göçünü de meteoroloji uyarılarını izleyerek planlaması gerekir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/ardahan-haberleri/ardahanda-kar-yagisi-yaylacilari-ikiye-boldu-kimi-koye-indi-kimi-yaylada-kaldi-513398578"
+        }
+      ],
+      "gorsel": "assets/iha/ardahan-damal-seyitoren-yaylaci-kar-2026.jpg",
+      "gorselKucuk": "assets/iha/ardahan-damal-seyitoren-yaylaci-kar-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
+    },
+    {
+      "id": "giresun-eynesil-sis-dagi-coban-surusu-kar-kurtarma-2026",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-09",
+      "eklenme": "2026-11-10T00:35:00+03:00",
+      "motif": "koyun",
+      "baslik": "Sis Dağı'nda kara yakalanan çoban ve yüzü aşkın koyunu belediye ekipleri kurtardı",
+      "manset": "Karda mahsur sürüye \"yol\" açıldı",
+      "ozet": "Gümüşhane Kürtün'deki Taşdibi Yaylası'ndan 3 Kasım'da yola çıkan çoban İbrahim Topal, Giresun Eynesil'e dönerken yolculuğun son gününde Sis Dağı Yaylası'nda kara yakalandı. Kar kalınlığının yer yer 50 santimetreyi aştığı bölgede yüzün üzerindeki koyunuyla mahsur kaldı. Yardım çağrısı üzerine Eynesil Belediyesi ekipleri akşam saatlerinde bölgeye ulaşıp yolu açtı, çoban ve sürüsü İnişdibi mevkiine götürüldü.",
+      "neYapmali": "Yayladan dönüş yapacak sürü sahipleri yola çıkmadan il meteoroloji tahminine bakmalı, mahsur kalma durumunda 112'yi ya da belediye ekiplerini aramalıdır.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/giresun-haberleri/giresunda-kar-ve-tipi-nedeniyle-yaylada-mahsur-kalan-coban-ve-surusu-kurtarildi-513347724"
+        }
+      ],
+      "gorsel": "assets/iha/giresun-eynesil-sis-dagi-coban-surusu-kar-kurtarma-2026.jpg",
+      "gorselKucuk": "assets/iha/giresun-eynesil-sis-dagi-coban-surusu-kar-kurtarma-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
+    },
+    {
+      "id": "elazig-kovancilar-gokcebel-buzagi-ekskavator-2026",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-09",
+      "eklenme": "2026-11-10T00:34:00+03:00",
+      "motif": "sut",
+      "baslik": "Elazığ'da yeni doğan buzağı, arazi şartları nedeniyle ekskavatör kepçesiyle köye taşındı",
+      "manset": "Yeni doğan buzağıya \"kepçe\" ambulans",
+      "ozet": "Elazığ'ın Kovancılar ilçesine bağlı Gökçebel köyü mevkiinde çalışan İl Özel İdaresi ekipleri, doğum yapan bir ineği fark edince yardıma koştu. Arazinin zorlu olması nedeniyle yeni doğan buzağı paletli ekskavatörün kepçesine yerleştirildi. Hayvanın sahibi de kepçede buzağının yanında oturarak köye kadar eşlik etti. O anlar kameraya yansıdı.",
+      "neYapmali": "Soğukta doğan buzağının hızla kurutulup kuru ve korunaklı bir alana alınması ve ağız sütünü erken saatlerde alması önemlidir; sorun görülürse veteriner hekime başvurulmalıdır.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/elazig-haberleri/yeni-dogan-buzagi-ekskavatorun-kepcesi-ile-tasindi-513481106"
+        }
+      ],
+      "gorsel": "assets/iha/elazig-kovancilar-gokcebel-buzagi-ekskavator-2026.jpg",
+      "gorselKucuk": "assets/iha/elazig-kovancilar-gokcebel-buzagi-ekskavator-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
+    },
+    {
+      "id": "manisa-yunusemre-ucpinar-zeytin-receli-patent-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-09",
+      "eklenme": "2026-11-10T00:33:00+03:00",
+      "motif": "zeytin",
+      "baslik": "Manisa'da 56 yaşındaki üretici zeytinden reçel yaptı, patent için başvuruya hazırlanıyor",
+      "manset": "Zeytinden \"reçel\" oldu, patent yolda",
+      "ozet": "Manisa Yunusemre'deki Üçpınar Zeytin Festivali'nde kurulan Kadın El Emeği Pazarı'nda en çok ilgi gören ürünlerden biri zeytin reçeli oldu. Reçeli hazırlayan 56 yaşındaki Naciye Gürbulut, tadına bakanların ürünü beğendiğini ifade etti. Yunusemre Belediyesi ile kent konseyinin iş birliğiyle düzenlenen iki günlük pazarda kadın üreticiler yöresel ürünlerini satışa sundu. Gürbulut, ürünü için patent başvurusu yapmayı planladığını söyledi.",
+      "neYapmali": "Yöresel ürünlerini markalaştırmak isteyen üreticiler, patent ve marka tescili konusunda Türk Patent ve Marka Kurumu ile il tarım müdürlüklerinden bilgi alabilir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/manisa-haberleri/zeytinden-recel-yapti-festivalin-ilgi-odagi-oldu-513465888"
+        }
+      ],
+      "gorsel": "assets/iha/manisa-yunusemre-ucpinar-zeytin-receli-patent-2026.jpg",
+      "gorselKucuk": "assets/iha/manisa-yunusemre-ucpinar-zeytin-receli-patent-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
+    },
+    {
       "id": "erzincan-dereyurt-103-koyun-motosiklet-2026",
       "kategori": "Hayvancılık",
       "tarih": "2026-11-09",
@@ -76,7 +156,8 @@
       "eklenme": "2026-11-09T23:33:00+03:00",
       "gorsel": "assets/iha/erzincan-dereyurt-103-koyun-motosiklet-2026.jpg",
       "gorselKucuk": "assets/iha/erzincan-dereyurt-103-koyun-motosiklet-2026-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA"
+      "gorselKaynak": "Fotoğraf/Video: İHA",
+      "video": "assets/video/erzincan-dereyurt-103-koyun-motosiklet-2026.mp4"
     },
     {
       "id": "bursa-yenisehir-ciftlik-yangini-3-buyukbas-2026",
