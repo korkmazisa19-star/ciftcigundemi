@@ -73,7 +73,10 @@
           "url": "https://www.iha.com.tr/erzincan-haberleri/motosiklet-sesinden-urken-103-koyun-telef-oldu-513320555"
         }
       ],
-      "eklenme": "2026-11-09T23:33:00+03:00"
+      "eklenme": "2026-11-09T23:33:00+03:00",
+      "gorsel": "assets/iha/erzincan-dereyurt-103-koyun-motosiklet-2026.jpg",
+      "gorselKucuk": "assets/iha/erzincan-dereyurt-103-koyun-motosiklet-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "bursa-yenisehir-ciftlik-yangini-3-buyukbas-2026",
@@ -90,7 +93,10 @@
           "url": "https://www.iha.com.tr/bursa-haberleri/bursada-ciftlik-yangini-3-buyukbas-hayvan-telef-oldu-513502433"
         }
       ],
-      "eklenme": "2026-11-09T23:32:00+03:00"
+      "eklenme": "2026-11-09T23:32:00+03:00",
+      "gorsel": "assets/iha/bursa-yenisehir-ciftlik-yangini-3-buyukbas-2026.jpg",
+      "gorselKucuk": "assets/iha/bursa-yenisehir-ciftlik-yangini-3-buyukbas-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "kirikhan-karadurmuslu-circir-yangin-2026",
@@ -107,7 +113,10 @@
           "url": "https://www.iha.com.tr/hatay-haberleri/kirikhanda-circir-fabrikasinda-yangin-kontrol-altina-alindi-513427542"
         }
       ],
-      "eklenme": "2026-11-09T23:31:00+03:00"
+      "eklenme": "2026-11-09T23:31:00+03:00",
+      "gorsel": "assets/iha/kirikhan-karadurmuslu-circir-yangin-2026.jpg",
+      "gorselKucuk": "assets/iha/kirikhan-karadurmuslu-circir-yangin-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "burhaniye-bahcelikoy-zeytinyagi-marka-genc-girisimci-2026",
@@ -124,7 +133,10 @@
           "url": "https://www.iha.com.tr/balikesir-haberleri/koyun-adini-zeytinyagina-marka-yapti-513496056"
         }
       ],
-      "eklenme": "2026-11-09T23:30:00+03:00"
+      "eklenme": "2026-11-09T23:30:00+03:00",
+      "gorsel": "assets/iha/burhaniye-bahcelikoy-zeytinyagi-marka-genc-girisimci-2026.jpg",
+      "gorselKucuk": "assets/iha/burhaniye-bahcelikoy-zeytinyagi-marka-genc-girisimci-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "ahlat-yuvadami-kar-tipi-126-kucukbas-bulundu-2026",
