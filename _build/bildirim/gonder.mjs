@@ -69,27 +69,25 @@ const kayitlar = snap.docs.map(d => ({ ref: d.ref, token: d.get("token") })).fil
 console.log(`${kayitlar.length} abone, ${taze.length} yeni haber.`);
 for (const d of snap.docs) { const z = d.get("zaman"); console.log("abone kaydı:", z && z.toDate ? z.toDate().toISOString() : "?", "token uzunluğu", (d.get("token") || "").length); }
 
-const secilen = taze.slice(0, EN_FAZLA);
-for (const h of taze) gonderilen.add(h.id);
-const kalan = taze.length - secilen.length;
+// Bildirim kapak görseliyle gider: görseli henüz eklenmemiş haber sonraki çalışmayı bekler.
+const hazir = taze.filter(h => h.gorsel);
+if (!hazir.length) { console.log("Kapak görseli hazır haber yok, bekleniyor."); kaydet(); process.exit(0); }
+const secilen = hazir.slice(0, EN_FAZLA);
+for (const h of hazir) gonderilen.add(h.id);
 const silinecek = new Set();
-for (const [i, h] of secilen.entries()) {
+for (const h of secilen) {
   const link = `${SITE}/haber/${h.id}/`;
-  const resim = h.gorselKucuk || h.gorsel;
-  let govde = (h.ozet || "").replace(/\s+/g, " ").trim();
-  if (govde.length > 150) govde = govde.slice(0, 147).replace(/\s+\S*$/, "") + "…";
-  if (i === secilen.length - 1 && kalan > 0) govde = `${govde} (+${kalan} yeni haber daha)`;
+  const kapak = `${SITE}/${h.gorsel}`;
   for (let j = 0; j < kayitlar.length; j += 500) {
     const parca = kayitlar.slice(j, j + 500);
     const cevap = await admin.messaging().sendEachForMulticast({
       tokens: parca.map(k => k.token),
       webpush: {
         notification: {
-          title: `${h.kategori ? h.kategori + " · " : ""}${h.baslik}`.slice(0, 120),
-          body: govde,
+          title: "Çiftçi Gündemi",
           icon: `${SITE}/assets/ikon-192.png`,
           badge: `${SITE}/assets/ikon-192.png`,
-          ...(resim ? { image: `${SITE}/${resim}` } : {}),
+          image: kapak,
           tag: h.id,
           lang: "tr",
           data: { link }
