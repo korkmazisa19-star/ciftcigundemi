@@ -1783,6 +1783,42 @@
    "instagram_hikaye": "desteklenmiyor",
    "tiktok": "ok",
    "youtube": "ok"
+  },
+  "ardahan-damal-seyitoren-yaylaci-kar-2026": {
+   "deneme": 1,
+   "zaman": "2026-11-10T00:40:00+03:00",
+   "linkler": {
+    "x": "https://x.com/ciftcigundemi/status/2119907471376458060",
+    "facebook": "https://www.facebook.com/ciftcigundemicom",
+    "instagram": "https://www.instagram.com/benidegorya/",
+    "tiktok": "https://www.tiktok.com/@ciftcigundemi"
+   },
+   "x": "ok",
+   "facebook": "ok",
+   "facebook_hikaye": "ok",
+   "instagram": "ok",
+   "instagram_hikaye": "desteklenmiyor",
+   "tiktok": "ok",
+   "tiktok_hikaye": "desteklenmiyor",
+   "youtube": "hata"
+  },
+  "giresun-eynesil-sis-dagi-coban-surusu-kar-kurtarma-2026": {
+   "deneme": 1,
+   "zaman": "2026-11-10T00:40:00+03:00",
+   "linkler": {
+    "x": "https://x.com/ciftcigundemi/status/2119907622946308480",
+    "facebook": "https://www.facebook.com/ciftcigundemicom",
+    "instagram": "https://www.instagram.com/benidegorya/",
+    "tiktok": "https://www.tiktok.com/@ciftcigundemi"
+   },
+   "x": "ok",
+   "facebook": "ok",
+   "facebook_hikaye": "ok",
+   "instagram_hikaye": "desteklenmiyor",
+   "instagram": "ok",
+   "tiktok": "ok",
+   "tiktok_hikaye": "desteklenmiyor",
+   "youtube": "hata"
   }
  }
 }
