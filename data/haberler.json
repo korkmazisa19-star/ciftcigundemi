@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-09T05:32:00+03:00",
+  "guncelleme": "2026-11-09T07:56:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -53,6 +53,90 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "elazig-kar-zirai-don-uyarisi-8-11-kasim",
+      "kategori": "Zirai Don",
+      "tarih": "2026-11-08",
+      "motif": "don",
+      "baslik": "Elazığ'da kar başladı: Meteoroloji zirai don riskine karşı 11 Kasım'a kadar uyardı",
+      "manset": "Elazığ'da don uyarısı \"11 Kasım\" dek",
+      "ozet": "Elazığ merkezi ile bazı ilçeler 8 Kasım'da kar yağışıyla karşılaştı, kimi yollar ve park halindeki araçlar kısmen beyaza büründü. Meteoroloji 13. Bölge Müdürlüğü yağıştan önce yaptığı uyarıda kuzeyli yönlerden kuvvetli rüzgâr ve yer yer kısa süreli fırtına beklendiğini bildirmişti. Aynı uyarı, 8-11 Kasım arasını zirai don riski açısından kapsıyor. Meteoroloji 4. Bölge Müdürlüğü de Antalya'nın iç ve yüksek kesimleri için 10 Kasım saat 08.00'e kadar yer yer hafif don öngörüyor.",
+      "neYapmali": "Bölgedeki üreticiler örtü altı ürünleri ve açıkta kalan fideleri gece ve sabah saatleri için korumaya alıp sulama hatlarını donmaya karşı boşaltmalı. Ürünü TARSİM güvencesinde olanlar olası zararı poliçe koşullarına göre süresi içinde bildirmeli.",
+      "kaynaklar": [
+        {
+          "ad": "Son Dakika (DHA)",
+          "url": "https://sondakika.com/guncel/haber-meteoroloji-8-11-kasim-icin-elazig-a-zirai-don-uya-20407673"
+        },
+        {
+          "ad": "Son Alanya",
+          "url": "https://www.sonalanya.com/haber-antalyada-zirai-don-alarmi-51152.html"
+        }
+      ],
+      "eklenme": "2026-11-09T07:32:00+03:00",
+      "gorsel": "assets/envato/elazig-kar-zirai-don-uyarisi-8-11-kasim.jpg",
+      "gorselKucuk": "assets/envato/elazig-kar-zirai-don-uyarisi-8-11-kasim-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
+    {
+      "id": "sarigol-sofralik-uzum-yuzde-70-bagda-alici-yok-2026",
+      "kategori": "Piyasa",
+      "tarih": "2026-11-08",
+      "motif": "para",
+      "baslik": "Sarıgöl'de sofralık üzüm alıcı bekliyor: Ürünün yaklaşık yüzde 70'i hâlâ asmada",
+      "manset": "Bağda bekleyen üzüm \"yüzde 70\"",
+      "ozet": "Manisa'nın Sarıgöl ilçesinde üreticiler, 2026 sezonunda satışların tıkanması üzerine çekirdeksiz sofralık sultaniyi örtü altında tutarak kasımda piyasanın açılmasını umuyor. Normalde bu dönemde kesimin yaklaşık yüzde 80'i tamamlanırken bu yıl ürünün yaklaşık yüzde 70'i bağda satılmayı bekliyor. Pazara uygun üzümün yalnızca belirli günlerde ve 10-15 liradan alıcı bulduğu aktarılıyor. Üretici Mücahit Saraç, yüksek maliyet ve az sayıdaki alıcı nedeniyle iç piyasanın dar kaldığını, ıskartaya ayrılan üzümün de bağda durduğunu söylüyor.",
+      "neYapmali": "Üreticiler örtü altındaki üründe çürüme kontrolünü sıklaştırmalı, satış imkânları için ziraat odası ve kooperatiflerle görüşmeli. Fiyat ve satış kararını kendi maliyetini hesaplayarak vermeli.",
+      "kaynaklar": [
+        {
+          "ad": "Herkes Duysun",
+          "url": "https://herkesduysun.com/ekonomi/sarigol-uzum-baglarinda-tonlarca-uzum-ortu-altinda-081126247/"
+        }
+      ],
+      "eklenme": "2026-11-09T07:31:00+03:00",
+      "gorsel": "assets/envato/sarigol-sofralik-uzum-yuzde-70-bagda-alici-yok-2026.jpg",
+      "gorselKucuk": "assets/envato/sarigol-sofralik-uzum-yuzde-70-bagda-alici-yok-2026-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf: Envato"
+    },
+    {
+      "id": "bati-karadeniz-26-bin-ton-balik-aksu-hamsi-2026",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-08",
+      "motif": "balik",
+      "baslik": "Batı Karadeniz'de bu sezon yaklaşık 26 bin ton balık avlandı: Kooperatif temsilcisi hamsiden umutlu değil",
+      "manset": "Batı Karadeniz'de \"26 bin ton\" av",
+      "ozet": "Su Ürünleri Kooperatifler Birliği Batı Karadeniz Temsilcisi Bülent Aksu, bölgede sezon içinde yaklaşık 26 bin ton balık avlandığını aktardı. Aksu, hava koşullarının avı zayıflattığını, artan masraflar yüzünden balıkçının beklediğini kazanamadığını belirtti; palamudun bolluğunu zayıf bir hamsi sezonunun işareti olarak yorumlayıp denizde çok az hamsi bulunduğunu söyledi. Palamut 125, hamsi 250 liradan satılıyor; istavrit ve mezgit avının ise süreceği ifade ediliyor.",
+      "neYapmali": "Balıkçılar av planını hava tahminlerine göre yapmalı, istavrit ve mezgit avında geçerli av yasaklarını ve boy sınırlarını il müdürlüğünden teyit etmeli.",
+      "kaynaklar": [
+        {
+          "ad": "Herkes Duysun",
+          "url": "https://herkesduysun.com/ekonomi/bati-karadeniz-de-26-bin-ton-balik-avlandi-081126237/"
+        }
+      ],
+      "eklenme": "2026-11-09T07:30:00+03:00",
+      "gorsel": "assets/envato/bati-karadeniz-26-bin-ton-balik-aksu-hamsi-2026.jpg",
+      "gorselKucuk": "assets/envato/bati-karadeniz-26-bin-ton-balik-aksu-hamsi-2026-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf: Envato"
+    },
+    {
+      "id": "ayvalik-ziraat-odasi-bandirma-traktor-fabrikasi-gezisi",
+      "kategori": "Makine",
+      "tarih": "2026-11-08",
+      "motif": "traktor",
+      "baslik": "Ayvalıklı çiftçiler Bandırma'da traktör üretimini yerinde inceledi",
+      "manset": "Çiftçiler \"traktör fabrikasında\"",
+      "ozet": "Ayvalık Ziraat Odası Meclis Başkanı Ersan Adli öncülüğündeki çiftçiler, Bandırma'daki bir traktör fabrikasında üretim aşamalarını ve yeni tarım makinesi teknolojilerini gördü. Adli, bu gezilerin her ay düzenlendiğini ve Bergama, Dikili, Ayvalık, Gömeç, Burhaniye ile Edremit'ten çiftçilerin sırayla katıldığını anlattı. Amaçlarının üreticinin gelişen teknolojiyi takip etmesini sağlayarak verim ve kaliteyi artırmak olduğunu dile getirdi.",
+      "neYapmali": "Bölgedeki üreticiler bir sonraki gezi için bağlı oldukları ziraat odasına danışabilir. Makine alımından önce birkaç bayiden teknik özellik ve fiyat karşılaştırması yapmak faydalı olur.",
+      "kaynaklar": [
+        {
+          "ad": "Herkes Duysun",
+          "url": "https://herkesduysun.com/ekonomi/ayvalikli-ciftciler-traktor-fabrikasini-gezdi-081126446/"
+        }
+      ],
+      "eklenme": "2026-11-09T07:29:00+03:00",
+      "gorsel": "assets/envato/ayvalik-ziraat-odasi-bandirma-traktor-fabrikasi-gezisi.jpg",
+      "gorselKucuk": "assets/envato/ayvalik-ziraat-odasi-bandirma-traktor-fabrikasi-gezisi-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
     {
       "id": "zeytin-maliyet-50-tl-akhisar-20-tl-uzzk-tarim-sen",
       "kategori": "Piyasa",
@@ -171,7 +255,7 @@
       "eklenme": "2026-11-09T05:27:00+03:00",
       "gorsel": "assets/envato/tarsus-cagbasi-hurma-hasadi-70-ton.jpg",
       "gorselKucuk": "assets/envato/tarsus-cagbasi-hurma-hasadi-70-ton-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "karadeniz-palamut-125-150-tl-sezon-sonu-2026",
@@ -191,7 +275,7 @@
       "eklenme": "2026-11-09T01:32:00+03:00",
       "gorsel": "assets/envato/karadeniz-palamut-125-150-tl-sezon-sonu-2026.jpg",
       "gorselKucuk": "assets/envato/karadeniz-palamut-125-150-tl-sezon-sonu-2026-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "hububat-bakliyat-yagli-tohum-ihracat-10-ayda-9-9-milyar-dolar",
@@ -4284,9 +4368,7 @@
         "bugday-7.jpg",
         "bugday-8.jpg"
       ],
-      "don": [
-        "don-2.jpg"
-      ],
+      "don": [],
       "findik": [
         "findik-5.jpg",
         "findik-6.jpg",
@@ -4315,7 +4397,6 @@
       ],
       "traktor": [
         "traktor-6.jpg",
-        "traktor-7.jpg",
         "traktor-9.jpg"
       ],
       "zeytin": [],
