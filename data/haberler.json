@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-09T07:56:00+03:00",
+  "guncelleme": "2026-11-09T17:42:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -333,9 +333,9 @@
         }
       ],
       "eklenme": "2026-11-09T01:29:00+03:00",
-      "gorsel": "assets/envato/cizre-gulbahar-bagdur-10-koyundan-250-hayvan.jpg",
-      "gorselKucuk": "assets/envato/cizre-gulbahar-bagdur-10-koyundan-250-hayvan-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorsel": "assets/iha/cizre-gulbahar-bagdur-10-koyundan-250-hayvan.jpg",
+      "gorselKucuk": "assets/iha/cizre-gulbahar-bagdur-10-koyundan-250-hayvan-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "bandirma-koyunculuk-karacabey-merinosu-yeni-kuzular-2026",
@@ -473,9 +473,9 @@
           "url": "https://www.sondakika.com/teknoloji/haber-trakya-kalkinma-ajansi-hayrabolu-nun-dijital-tarim-20405204/"
         }
       ],
-      "gorsel": "assets/envato/hayrabolu-dijital-tarim-hassas-tarim-egitimi-trakyaka.jpg",
-      "gorselKucuk": "assets/envato/hayrabolu-dijital-tarim-hassas-tarim-egitimi-trakyaka-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorsel": "assets/iha/hayrabolu-dijital-tarim-hassas-tarim-egitimi-trakyaka.jpg",
+      "gorselKucuk": "assets/iha/hayrabolu-dijital-tarim-hassas-tarim-egitimi-trakyaka-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "afyonkarahisar-hayvan-pazarlari-7-kasim-yeniden-acildi",
