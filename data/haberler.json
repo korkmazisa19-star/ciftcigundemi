@@ -35,6 +35,11 @@
    "ad": "Zirai Don",
    "slug": "hava",
    "renk": "#0f7490"
+  },
+  {
+   "ad": "Gündem",
+   "slug": "gundem",
+   "renk": "#b3261e"
   }
  ],
  "mansetler": [
