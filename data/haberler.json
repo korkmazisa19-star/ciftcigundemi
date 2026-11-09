@@ -69,7 +69,9 @@
         }
       ],
       "eklenme": "2026-11-09T05:32:00+03:00",
-      "gorsel": null
+      "gorsel": "assets/envato/zeytin-maliyet-50-tl-akhisar-20-tl-uzzk-tarim-sen.jpg",
+      "gorselKucuk": "assets/envato/zeytin-maliyet-50-tl-akhisar-20-tl-uzzk-tarim-sen-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
     },
     {
       "id": "usak-kkyp-17-etap-yedek-liste-20-kasim-evrak",
@@ -127,7 +129,9 @@
         }
       ],
       "eklenme": "2026-11-09T05:29:00+03:00",
-      "gorsel": null
+      "gorsel": "assets/envato/arsuz-72-bin-dekar-zeytin-352-ton-yag.jpg",
+      "gorselKucuk": "assets/envato/arsuz-72-bin-dekar-zeytin-352-ton-yag-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
     },
     {
       "id": "edremit-korfezi-pirina-yag-sabun-biyokutle",
@@ -145,7 +149,9 @@
         }
       ],
       "eklenme": "2026-11-09T05:28:00+03:00",
-      "gorsel": null
+      "gorsel": "assets/envato/edremit-korfezi-pirina-yag-sabun-biyokutle.jpg",
+      "gorselKucuk": "assets/envato/edremit-korfezi-pirina-yag-sabun-biyokutle-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
     },
     {
       "id": "tarsus-cagbasi-hurma-hasadi-70-ton",
@@ -163,7 +169,9 @@
         }
       ],
       "eklenme": "2026-11-09T05:27:00+03:00",
-      "gorsel": null
+      "gorsel": "assets/envato/tarsus-cagbasi-hurma-hasadi-70-ton.jpg",
+      "gorselKucuk": "assets/envato/tarsus-cagbasi-hurma-hasadi-70-ton-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
     },
     {
       "id": "karadeniz-palamut-125-150-tl-sezon-sonu-2026",
