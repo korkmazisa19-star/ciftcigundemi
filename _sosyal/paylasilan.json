@@ -1716,6 +1716,37 @@
    "tiktok": "ok",
    "youtube": "ok",
    "instagram": "ok"
+  },
+  "artvin-kemalpasa-sultanselim-coban-300-koyun-kar-kurtarma-2026": {
+   "deneme": 1,
+   "x": "ok",
+   "zaman": "2026-11-09T23:33+03:00",
+   "facebook": "ok",
+   "facebook_hikaye": "ok",
+   "instagram": "ok",
+   "instagram_hikaye": "desteklenmiyor",
+   "tiktok": "ok",
+   "youtube": "ok",
+   "linkler": {
+    "youtube": "https://youtube.com/shorts/BBw1JTQzVfI",
+    "instagram": "https://www.instagram.com/benidegorya/reel/DfiL4M5MbQc/"
+   }
+  },
+  "ahlat-yuvadami-kar-tipi-126-kucukbas-bulundu-2026": {
+   "deneme": 1,
+   "x": "ok",
+   "zaman": "2026-11-09T23:33+03:00",
+   "linkler": {
+    "x": "https://x.com/ciftcigundemi/status/2119888009181213131",
+    "youtube": "https://youtube.com/shorts/lYTdAo1l94A",
+    "instagram": "https://www.instagram.com/benidegorya/reel/DfiMHOoseXm/"
+   },
+   "facebook": "ok",
+   "facebook_hikaye": "ok",
+   "instagram": "ok",
+   "instagram_hikaye": "desteklenmiyor",
+   "tiktok": "ok",
+   "youtube": "ok"
   }
  }
 }
