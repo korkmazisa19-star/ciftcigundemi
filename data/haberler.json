@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-09T22:38:00+03:00",
+ "guncelleme": "2026-11-09T23:14:00+03:00",
  "kategoriler": [
   {
    "ad": "Hayvancılık",
@@ -58,6 +58,95 @@
   "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
  ],
  "haberler": [
+  {
+   "id": "ahlat-yuvadami-kar-tipi-126-kucukbas-bulundu-2026",
+   "kategori": "Hayvancılık",
+   "tarih": "2026-11-09",
+   "motif": "koyun",
+   "baslik": "Ahlat'ta kar ve tipide kaybolan 126 küçükbaş, jandarma ve köylülerin aramasıyla bulundu",
+   "manset": "Tipide kaybolan \"126 küçükbaş\" bulundu!",
+   "ozet": "Bitlis'in Ahlat ilçesine bağlı Yuvadamı köyünde kar ve tipi nedeniyle kaybolan 126 küçükbaş hayvan bulunarak sahiplerine teslim edildi. Köylülerin 112 Acil Çağrı Merkezi'ne yaptığı ihbarın ardından Ahlat Merkez Jandarma Karakol Komutanlığı timleri arazide arama başlattı. Köylülerle birlikte yürütülen çalışmada kayıp hayvanların tamamına ulaşıldı.",
+   "neYapmali": "Kar ve tipi uyarılarında hayvanları meraya çıkarmamak ve kaybolma durumunda vakit kaybetmeden 112'ye haber vermek gerekiyor.",
+   "kaynaklar": [
+    {
+     "ad": "İHA",
+     "url": "https://www.iha.com.tr/bitlis-haberleri/ahlatta-kaybolan-126-kucukbas-hayvan-bulundu-513349734"
+    }
+   ],
+   "eklenme": "2026-11-09T23:14:00+03:00"
+  },
+  {
+   "id": "cankiri-akoren-kurt-saldirisi-20-kucukbas-telef-2026",
+   "kategori": "Hayvancılık",
+   "tarih": "2026-11-09",
+   "motif": "koyun",
+   "baslik": "Çankırı Akören'de kurt saldırısı: 20 küçükbaş telef oldu, 9 hayvan yaralandı",
+   "manset": "Kurt saldırısında \"20 küçükbaş\" telef oldu",
+   "ozet": "Çankırı'nın Merkez ilçesine bağlı Akören köyünde bir vatandaşa ait küçükbaş hayvanlar otladıkları alanda ölü bulundu. İncelemede 20 hayvanın kurtlar tarafından parçalandığı, 9 hayvanın da yaralandığı belirlendi. Olay kırsal alanda otlatma sırasında yaşandı.",
+   "neYapmali": "Otlatmada sürüyü çoban ve koruma köpeğiyle gözetmek, hayvan kaybını muhtarlık ve il/ilçe tarım müdürlüğüne bildirmek, TARSİM poliçesi varsa hasarı sigortaya iletmek faydalı olur.",
+   "kaynaklar": [
+    {
+     "ad": "İHA",
+     "url": "https://www.iha.com.tr/cankiri-haberleri/cankirida-kurtlarin-saldirdigi-20-hayvan-telef-olurken-9u-da-yaralandi-513506194"
+    }
+   ],
+   "eklenme": "2026-11-09T23:13:00+03:00"
+  },
+  {
+   "id": "adana-kozan-4-6-deprem-afad-9-kasim-2026",
+   "kategori": "Gündem",
+   "tarih": "2026-11-09",
+   "motif": "para",
+   "baslik": "Adana Kozan'da 4,6 büyüklüğünde deprem: Sarsıntı kent merkezi ve çevre ilçelerde hissedildi",
+   "manset": "Kozan'da \"4,6\" büyüklüğünde deprem",
+   "ozet": "AFAD, 9 Kasım günü saat 15.28'de Adana'nın Kozan ilçesinde 4,6 büyüklüğünde deprem kaydedildiğini duyurdu. Yerin 15 kilometre derinliğinde oluşan sarsıntı, Adana merkezde ve çevre ilçelerde hissedildi. Kozan'daki iş yerlerinin güvenlik kameraları, depremi hissedenlerin dışarı çıktığı anları kaydetti.",
+   "neYapmali": "Artçı sarsıntılar ve resmî bilgiler için AFAD duyuruları takip edilmeli; çiftlik, ahır ve depolarda hasar gören yapılara kontrol edilmeden girilmemelidir.",
+   "kaynaklar": [
+    {
+     "ad": "İHA",
+     "url": "https://www.iha.com.tr/adana-haberleri/kozanda-4-6-buyuklugunde-deprem-513478879"
+    },
+    {
+     "ad": "İHA",
+     "url": "https://www.iha.com.tr/adana-haberleri/kozanda-depremi-hissedenler-boyle-kacisti-513503558"
+    }
+   ],
+   "eklenme": "2026-11-09T23:12:00+03:00"
+  },
+  {
+   "id": "ordu-akkus-harman-yangini-5-ton-findik-2026",
+   "kategori": "Bitkisel Üretim",
+   "tarih": "2026-11-09",
+   "motif": "findik",
+   "baslik": "Ordu Akkuş'ta fındık harmanında yangın: Yaklaşık 5 ton ürün zarar gördü",
+   "manset": "Harman yangını \"5 ton\" fındığı vurdu",
+   "ozet": "Ordu'nun Akkuş ilçesi Gürgenliyatak Mahallesi'nde bir üreticiye ait yaklaşık 100 metrekarelik fındık harmanında 8 Kasım akşamı yangın çıktı. İtfaiyenin müdahalesiyle söndürülen yangında harmanda bulunan yaklaşık 5 ton fındık zarar gördü. Yangının nedeni henüz bilinmiyor, inceleme başlatıldı.",
+   "neYapmali": "Harman ve depolarda elektrik tesisatı ile ısı kaynaklarını kontrol etmek, kurutma alanlarının çevresini yanıcı atıklardan arındırmak önem taşıyor.",
+   "kaynaklar": [
+    {
+     "ad": "İHA",
+     "url": "https://www.iha.com.tr/ordu-haberleri/orduda-yaklasik-5-ton-findik-yanginda-zarar-gordu-513455846"
+    }
+   ],
+   "eklenme": "2026-11-09T23:11:00+03:00"
+  },
+  {
+   "id": "nigde-bozkoy-alic-sirke-meyve-suyu-2026",
+   "kategori": "Bitkisel Üretim",
+   "tarih": "2026-11-09",
+   "motif": "tohum",
+   "baslik": "Niğde'de dağlardan toplanan alıç, sirke ve meyve suyuna dönüşüyor",
+   "manset": "\"Yaban elması\" sirkeye dönüşüyor",
+   "ozet": "Niğde'nin dağlık alanlarında ve vadilerinde kendiliğinden yetişen alıç, sonbaharda toplanmaya başladı. Yörede yaban elması olarak bilinen meyve, Çiftlik ilçesine bağlı Bozköy beldesinde vatandaşlar tarafından ağaç altlarından toplanıyor. Mayhoş tadıyla bilinen alıç taze tüketildiği gibi meyve suyu ve sirke yapımında da değerlendiriliyor.",
+   "neYapmali": "Doğadan toplanan ürünlerin kendi köy ve belde sınırlarında, ağaçlara zarar vermeden toplanması; satış yapılacaksa ilçe tarım müdürlüğünden bilgi alınması önerilir.",
+   "kaynaklar": [
+    {
+     "ad": "İHA",
+     "url": "https://www.iha.com.tr/nigde-haberleri/daglardan-toplaniyor-sirke-ve-meyve-suyuna-donusuyor-513354768"
+    }
+   ],
+   "eklenme": "2026-11-09T23:10:00+03:00"
+  },
   {
    "id": "artvin-kemalpasa-sultanselim-coban-300-koyun-kar-kurtarma-2026",
    "kategori": "Hayvancılık",
