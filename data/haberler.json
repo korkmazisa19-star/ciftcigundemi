@@ -73,7 +73,10 @@
      "url": "https://www.iha.com.tr/bitlis-haberleri/ahlatta-kaybolan-126-kucukbas-hayvan-bulundu-513349734"
     }
    ],
-   "eklenme": "2026-11-09T23:14:00+03:00"
+   "eklenme": "2026-11-09T23:14:00+03:00",
+   "gorsel": "assets/iha/ahlat-yuvadami-kar-tipi-126-kucukbas-bulundu-2026.jpg",
+   "gorselKucuk": "assets/iha/ahlat-yuvadami-kar-tipi-126-kucukbas-bulundu-2026-k.jpg",
+   "gorselKaynak": "Fotoğraf: İHA"
   },
   {
    "id": "cankiri-akoren-kurt-saldirisi-20-kucukbas-telef-2026",
@@ -90,7 +93,10 @@
      "url": "https://www.iha.com.tr/cankiri-haberleri/cankirida-kurtlarin-saldirdigi-20-hayvan-telef-olurken-9u-da-yaralandi-513506194"
     }
    ],
-   "eklenme": "2026-11-09T23:13:00+03:00"
+   "eklenme": "2026-11-09T23:13:00+03:00",
+   "gorsel": "assets/iha/cankiri-akoren-kurt-saldirisi-20-kucukbas-telef-2026.jpg",
+   "gorselKucuk": "assets/iha/cankiri-akoren-kurt-saldirisi-20-kucukbas-telef-2026-k.jpg",
+   "gorselKaynak": "Fotoğraf: İHA"
   },
   {
    "id": "adana-kozan-4-6-deprem-afad-9-kasim-2026",
@@ -111,7 +117,10 @@
      "url": "https://www.iha.com.tr/adana-haberleri/kozanda-depremi-hissedenler-boyle-kacisti-513503558"
     }
    ],
-   "eklenme": "2026-11-09T23:12:00+03:00"
+   "eklenme": "2026-11-09T23:12:00+03:00",
+   "gorsel": "assets/iha/adana-kozan-4-6-deprem-afad-9-kasim-2026.jpg",
+   "gorselKucuk": "assets/iha/adana-kozan-4-6-deprem-afad-9-kasim-2026-k.jpg",
+   "gorselKaynak": "Fotoğraf: İHA"
   },
   {
    "id": "ordu-akkus-harman-yangini-5-ton-findik-2026",
@@ -128,7 +137,10 @@
      "url": "https://www.iha.com.tr/ordu-haberleri/orduda-yaklasik-5-ton-findik-yanginda-zarar-gordu-513455846"
     }
    ],
-   "eklenme": "2026-11-09T23:11:00+03:00"
+   "eklenme": "2026-11-09T23:11:00+03:00",
+   "gorsel": "assets/iha/ordu-akkus-harman-yangini-5-ton-findik-2026.jpg",
+   "gorselKucuk": "assets/iha/ordu-akkus-harman-yangini-5-ton-findik-2026-k.jpg",
+   "gorselKaynak": "Fotoğraf: İHA"
   },
   {
    "id": "nigde-bozkoy-alic-sirke-meyve-suyu-2026",
@@ -145,7 +157,10 @@
      "url": "https://www.iha.com.tr/nigde-haberleri/daglardan-toplaniyor-sirke-ve-meyve-suyuna-donusuyor-513354768"
     }
    ],
-   "eklenme": "2026-11-09T23:10:00+03:00"
+   "eklenme": "2026-11-09T23:10:00+03:00",
+   "gorsel": "assets/iha/nigde-bozkoy-alic-sirke-meyve-suyu-2026.jpg",
+   "gorselKucuk": "assets/iha/nigde-bozkoy-alic-sirke-meyve-suyu-2026-k.jpg",
+   "gorselKaynak": "Fotoğraf: İHA"
   },
   {
    "id": "artvin-kemalpasa-sultanselim-coban-300-koyun-kar-kurtarma-2026",
@@ -165,7 +180,8 @@
    "eklenme": "2026-11-09T22:38:00+03:00",
    "gorsel": "assets/iha/artvin-kemalpasa-sultanselim-coban-300-koyun-kar-kurtarma-2026.jpg",
    "gorselKucuk": "assets/iha/artvin-kemalpasa-sultanselim-coban-300-koyun-kar-kurtarma-2026-k.jpg",
-   "gorselKaynak": "Fotoğraf: İHA"
+   "gorselKaynak": "Fotoğraf/Video: İHA",
+   "video": "assets/video/artvin-kemalpasa-sultanselim-coban-300-koyun-kar-kurtarma-2026.mp4"
   },
   {
    "id": "nilkoop-marmarabirlik-toprak-analizi-protokol-3-yil-2026",
