@@ -1837,6 +1837,24 @@
       "tiktok": "ok",
       "tiktok_hikaye": "desteklenmiyor",
       "youtube": "hata"
+    },
+    "elazig-kovancilar-gokcebel-buzagi-ekskavator-2026": {
+      "deneme": 1,
+      "facebook": "ok",
+      "zaman": "2026-11-10T08:54+03:00",
+      "linkler": {
+        "facebook": "https://www.facebook.com/ciftcigundemicom",
+        "x": "https://x.com/ciftcigundemi/status/2120030995273719947",
+        "instagram": "https://www.instagram.com/benidegorya/reel/DfjMknHsbqs/",
+        "tiktok": "https://www.tiktok.com/@ciftcigundemi"
+      },
+      "facebook_hikaye": "ok",
+      "x": "ok",
+      "instagram": "ok",
+      "instagram_hikaye": "desteklenmiyor",
+      "tiktok": "ok",
+      "tiktok_hikaye": "desteklenmiyor",
+      "youtube": "hata"
     }
   }
 }
