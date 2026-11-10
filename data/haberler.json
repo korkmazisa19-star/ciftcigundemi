@@ -4647,53 +4647,53 @@
     }
   ],
   "hava": {
-    "donem": "10-14 Kasım",
-    "kaynak": "MGM 5 günlük il merkezi tahmini (9 Kasım 2026 20:17 itibarıyla)",
-    "haber": "elazig-kar-zirai-don-uyarisi-8-11-kasim",
+    "donem": "11-15 Kasım",
+    "kaynak": "MGM 5 günlük il merkezi tahmini (10 Kasım 2026 20:35 itibarıyla)",
+    "haber": "tokat-basciftlik-erken-kar-elma-dalinda-dondu-2026",
+    "genel": "11-15 Kasım döneminde 36 il merkezinin 12'sinde 0°C ve altı bekleniyor; en soğuk değer −8°C ile Ardahan'da, MGM'nin yayımlanmış bir zirai don uyarısı bulunmuyor.",
     "iller": [
       {
         "il": "Erzurum",
-        "min": -8,
-        "not": "en soğuk 10 Kasım, −8°C"
+        "min": -5,
+        "not": "en soğuk 11 Kasım, −5°C"
       },
       {
         "il": "Kars",
         "min": -6,
-        "not": "en soğuk 10 Kasım, −6°C"
+        "not": "en soğuk 11 Kasım, −6°C"
       },
       {
         "il": "Ardahan",
         "min": -8,
-        "not": "en soğuk 10 Kasım, −8°C"
+        "not": "en soğuk 11 Kasım, −8°C"
       },
       {
         "il": "Van",
-        "min": -6,
-        "not": "en soğuk 10 Kasım, −6°C"
+        "min": -3,
+        "not": "en soğuk 11 Kasım, −3°C"
       },
       {
         "il": "Sivas",
-        "min": -4,
-        "not": "en soğuk 10 Kasım, −4°C"
+        "min": -1,
+        "not": "en soğuk 11 Kasım, −1°C"
       },
       {
         "il": "Erzincan",
-        "min": -2,
-        "not": "en soğuk 10 Kasım, −2°C"
+        "min": -1,
+        "not": "en soğuk 11 Kasım, −1°C"
       },
       {
         "il": "Kayseri",
-        "min": -4,
-        "not": "en soğuk 10 Kasım, −4°C"
-      },
-      {
-        "il": "Konya",
         "min": 0
       },
       {
+        "il": "Konya",
+        "min": 1
+      },
+      {
         "il": "Ankara",
-        "min": -2,
-        "not": "en soğuk 10 Kasım, −2°C"
+        "min": -1,
+        "not": "en soğuk 11 Kasım, −1°C"
       },
       {
         "il": "Afyonkarahisar",
@@ -4713,22 +4713,21 @@
       },
       {
         "il": "Isparta",
-        "min": 3
+        "min": 5
       },
       {
         "il": "Malatya",
-        "min": -1,
-        "not": "en soğuk 10 Kasım, −1°C"
+        "min": 0
       },
       {
         "il": "Yozgat",
-        "min": -4,
-        "not": "en soğuk 10 Kasım, −4°C"
+        "min": -3,
+        "not": "en soğuk 11 Kasım, −3°C"
       },
       {
         "il": "Çorum",
-        "min": -2,
-        "not": "en soğuk 10 Kasım, −2°C"
+        "min": -1,
+        "not": "en soğuk 11 Kasım, −1°C"
       },
       {
         "il": "Bolu",
@@ -4736,15 +4735,15 @@
       },
       {
         "il": "Edirne",
-        "min": 5
+        "min": 9
       },
       {
         "il": "Kırklareli",
-        "min": 5
+        "min": 7
       },
       {
         "il": "Tekirdağ",
-        "min": 9
+        "min": 11
       },
       {
         "il": "Çanakkale",
@@ -4752,7 +4751,7 @@
       },
       {
         "il": "Balıkesir",
-        "min": 5
+        "min": 8
       },
       {
         "il": "Bursa",
@@ -4760,19 +4759,19 @@
       },
       {
         "il": "Manisa",
-        "min": 9
+        "min": 11
       },
       {
         "il": "İzmir",
-        "min": 10
+        "min": 12
       },
       {
         "il": "Aydın",
-        "min": 10
+        "min": 11
       },
       {
         "il": "Denizli",
-        "min": 8
+        "min": 9
       },
       {
         "il": "Kocaeli",
@@ -4780,19 +4779,19 @@
       },
       {
         "il": "Sakarya",
-        "min": 4
-      },
-      {
-        "il": "Samsun",
         "min": 5
       },
       {
+        "il": "Samsun",
+        "min": 8
+      },
+      {
         "il": "Trabzon",
-        "min": 4
+        "min": 6
       },
       {
         "il": "Antalya",
-        "min": 11
+        "min": 12
       },
       {
         "il": "Adana",
@@ -4800,14 +4799,13 @@
       },
       {
         "il": "Şanlıurfa",
-        "min": 4
+        "min": 5
       },
       {
         "il": "İstanbul",
-        "min": 8
+        "min": 11
       }
-    ],
-    "genel": "10-14 Kasım döneminde 36 il merkezinin 13'ünde 0°C ve altı bekleniyor, en soğuk değer Erzurum ve Ardahan'da −8°C."
+    ]
   },
   "fotograflar": {
     "klasor": "assets/foto/",
