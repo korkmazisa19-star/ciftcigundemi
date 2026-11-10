@@ -73,7 +73,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/mersin-haberleri/mutta-ureticilere-kucukbas-hayvan-fidan-ve-solar-kamera-destegi-513892270"
         }
-      ]
+      ],
+      "gorsel": "assets/envato/mersin-mut-125-kucukbas-20-ton-yem-solar-kamera-2026.jpg",
+      "gorselKucuk": "assets/envato/mersin-mut-125-kucukbas-20-ton-yem-solar-kamera-2026-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
     },
     {
       "id": "duzce-genc-aricilar-ciftci-okulu-fao-egitim-2026",
@@ -90,7 +93,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/duzce-haberleri/genc-aricilara-yonelik-uygulamali-ciftci-okulu-egitimleri-tamamlandi-513986481"
         }
-      ]
+      ],
+      "gorsel": "assets/envato/duzce-genc-aricilar-ciftci-okulu-fao-egitim-2026.jpg",
+      "gorselKucuk": "assets/envato/duzce-genc-aricilar-ciftci-okulu-fao-egitim-2026-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
     },
     {
       "id": "mugla-tarimsal-plastik-atik-urun-destegi-16-kasim-2026",
@@ -4830,12 +4836,10 @@
       ],
       "kovan": [
         "kovan-1.jpg",
-        "kovan-2.jpg",
         "kovan-4.jpg",
         "kovan-5.jpg"
       ],
       "koyun": [
-        "koyun-6.jpg",
         "koyun-7.jpg",
         "koyun-8.jpg"
       ],
