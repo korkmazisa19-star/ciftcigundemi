@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-10T00:36:00+03:00",
+  "guncelleme": "2026-11-10T08:10:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,40 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "ankara-elmadag-edige-ciftlik-yangini-4-bin-balya-2026",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-10",
+      "eklenme": "2026-11-10T08:10:00+03:00",
+      "motif": "sut",
+      "baslik": "Ankara Elmadağ'da hayvan çiftliğinde yangın: 4 bin balya kül oldu",
+      "manset": "Kışlık yem bir gecede \"kül\" oldu",
+      "ozet": "Ankara'nın Elmadağ ilçesine bağlı Edige köyündeki bir hayvan çiftliğinde gece saatlerinde yangın çıktı. Nedeni henüz belirlenemeyen alevler, çiftlikte balyaların istiflendiği bölüme sıçrayınca büyüdü. Vatandaşların haber vermesiyle bölgeye gelen itfaiye ekipleri yangını kontrol altına aldı. Olayda can kaybı yaşanmadı ancak yaklaşık 4 bin balya yandı.",
+      "neYapmali": "Saman ve kuru ot balyalarını ahırdan, elektrik panolarından ve ısıtıcılardan uzakta, bölümlere ayırarak istifleyin. Çiftlik yapıları ve yem stoku için sigorta kapsamınızı acentenizle ya da TARSİM ile kontrol edin.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/ankara-haberleri/ankarada-bir-ciftlikte-yangin-panigi-513828224"
+        }
+      ]
+    },
+    {
+      "id": "denizli-cardak-cintar-mantari-100-lira-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-09",
+      "eklenme": "2026-11-10T08:09:00+03:00",
+      "motif": "tohum",
+      "baslik": "Denizli'de yağışların ardından çıntar mantarı bolluğu: Kilosu 100 liradan alıcı buluyor",
+      "manset": "Dağdan topluyor, kilosu \"100 lira\"",
+      "ozet": "Denizli'de sonbahar yağmurlarının ardından dağlık ve ormanlık alanlarda çıntar mantarı bu yıl bol çıktı. Çardak ilçesinde Beylerli ve Söğüt mahalleleri çevresindeki dağlara giden vatandaşlar, birkaç saatlik yürüyüşle sepetlerini doldurdu. Toplayıcılara göre bazı köylüler ürünün kilogramını 100 liradan satarak mevsimlik ek gelir elde ediyor. Kendiliğinden yetişen çıntar, yörede kavurma başta olmak üzere farklı yemeklerde kullanılıyor.",
+      "neYapmali": "Yalnızca tanıdığınız mantarları toplayın; emin olmadığınız türü tüketmeyin ve satışa sunmayın. Zehirlenme şüphesinde 112'yi ya da 114 Ulusal Zehir Danışma Merkezi'ni arayın; orman alanlarında toplama için orman işletme şefliğinin kurallarını sorun.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/denizli-haberleri/denizlinin-daglarinda-cintar-bereketi-yasaniyor-513479995"
+        }
+      ]
+    },
     {
       "id": "ardahan-damal-seyitoren-yaylaci-kar-2026",
       "kategori": "Hayvancılık",
@@ -4292,12 +4326,6 @@
     }
   ],
   "takvim": [
-    {
-      "tarih": "2026-11-09",
-      "baslik": "Bolu'da hayvan pazarları yeniden açılıyor",
-      "kapsam": "Bolu",
-      "haber": "bolu-hayvan-pazarlari-9-kasimda-aciliyor"
-    },
     {
       "tarih": "2026-11-10",
       "baslik": "TİGEM narenciye açık artırması",
