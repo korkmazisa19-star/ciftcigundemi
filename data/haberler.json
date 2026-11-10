@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-10T12:09:57+03:00",
+  "guncelleme": "2026-11-10T15:12:01+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,40 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "kars-hayvan-pazarlari-11-kasim-sap-yeniden-acilis-2026",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-10",
+      "eklenme": "2026-11-10T15:12:00+03:00",
+      "motif": "sut",
+      "baslik": "Kars'ta şap nedeniyle kapanan hayvan pazarları 11 Kasım'da yeniden açılıyor",
+      "manset": "Kars'ta pazarlar \"çarşamba\" açılıyor",
+      "ozet": "Kars İl Tarım ve Orman Müdürlüğü, şap hastalığı nedeniyle bir süredir kapalı tutulan hayvan pazarlarının 11 Kasım 2026 Çarşamba günü yeniden faaliyete geçeceğini duyurdu. Müdürlük, kapanma döneminde karantina, yoğun aşılama, dezenfeksiyon ve saha kontrolleri yürüttüğünü bildirdi. Açıklamaya göre bu çalışmalar sonucunda hastalığın il genelindeki yayılımı önemli ölçüde sınırlandı ve belirli bölgelerde kaldı. Pazarların açılmasıyla Kars ve ilçelerindeki yetiştiricilerin yeniden alım satım yapabilmesi bekleniyor.",
+      "neYapmali": "Pazara hayvan götürecek yetiştiriciler, şap aşısı ve kulak küpesi kayıtlarının eksiksiz olduğunu önceden kontrol etmeli; güncel giriş şartlarını İl Tarım ve Orman Müdürlüğünden teyit etmeli.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/kars-haberleri/karsta-hayvan-pazarlari-11-kasimda-yeniden-aciliyor-513938993"
+        }
+      ]
+    },
+    {
+      "id": "kahramanmaras-zeytin-26-bin-ton-rekolte-112-bin-dekar-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-10",
+      "eklenme": "2026-11-10T15:11:00+03:00",
+      "motif": "zeytin",
+      "baslik": "Kahramanmaraş'ta zeytin hasadı sürüyor: 112 bin dekardan 26 bin ton ürün bekleniyor",
+      "manset": "Maraş zeytininde \"26 bin ton\" beklenti",
+      "ozet": "Kahramanmaraş'ta zeytin hasadı devam ediyor ve il genelinde 112 bin dekar alandan yaklaşık 26 bin ton rekolte bekleniyor. İl Tarım ve Orman Müdürü Ramazan Bilir, kentin zeytinyağının kendine özgü kokusuyla öne çıktığını söyledi. Bir üretici, ilde 6 milyonu aşkın dikili zeytin ağacı bulunduğunu, her yıl 150-200 bin yeni fidan dikildiğini aktardı. Üreticiye göre ürün tam olgunlaşmadığı için şu an 7 kilo zeytinden 1 kilo yağ alınıyor; teneke sızma zeytinyağı 5 bin, natürel yağ 4 bin 500 liradan satılıyor.",
+      "neYapmali": "Yağlık hasatta randımanı izlemek için zeytini bekletmeden fabrikaya götürün; satış öncesi sızma ve natürel ayrımı için yağınızı akredite laboratuvarda analiz ettirmeyi değerlendirin.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/kahramanmaras-haberleri/kahramanmaras-zeytininde-26-bin-ton-rekolte-beklentisi-513945142"
+        }
+      ]
+    },
     {
       "id": "adana-imamoglu-yangin-12-bin-zeytin-fidani-2026",
       "kategori": "Destek",
@@ -4261,46 +4295,6 @@
       "gorselKucuk": "assets/envato/turktraktor-dokuz-ay-k.jpg",
       "gorselKaynak": "Temsili fotoğraf: Envato",
       "manset": "TürkTraktör'de iç satış \"yüzde 26\" düştü"
-    },
-    {
-      "id": "dogubayazit-yuzde-70-hibeli-bugday-tohumu",
-      "kategori": "Hibe",
-      "tarih": "2026-10-25",
-      "motif": "tohum",
-      "baslik": "Doğubayazıt'ta çiftçilere yüzde 70 hibeli 20 ton buğday tohumu dağıtıldı",
-      "ozet": "Ağrı İl Tarım ve Orman Müdürlüğü ile İl Özel İdaresi'nin iş birliğiyle Doğubayazıt'ta çiftçilere yüzde 70 hibeli 20 ton buğday tohumu verildi. Dağıtıma katılan Doğubayazıt Kaymakamı Mustafa Ayvat üreticilerle bir araya gelerek taleplerini dinledi.",
-      "neYapmali": "Hibeli tohum dağıtımlarından yararlanmak için ÇKS kaydınızın güncel olması gerekiyor; sonraki dağıtım dönemlerini ilçe tarım müdürlüğünden takip edin.",
-      "kaynaklar": [
-        {
-          "ad": "Saray Medya",
-          "url": "https://www.saraymedya.com/haber/dogubayazit-ta-ciftcilere-20-ton-bu%C4%9Fday-tohumu-verildi_317522/"
-        }
-      ],
-      "eklenme": "2026-11-04T07:08:00+03:00",
-      "gorsel": "assets/envato/dogubayazit-yuzde-70-hibeli-bugday-tohumu.jpg",
-      "gorselKucuk": "assets/envato/dogubayazit-yuzde-70-hibeli-bugday-tohumu-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato",
-      "manset": "Doğubayazıt'a \"hibeli buğday tohumu\""
-    },
-    {
-      "id": "tuik-bitkisel-uretim-2-tahmin-2026",
-      "kategori": "Piyasa",
-      "tarih": "2026-10-24",
-      "motif": "bugday",
-      "baslik": "TÜİK ikinci tahmini: tahıl üretiminde yüzde 30'u aşan artış bekleniyor",
-      "ozet": "TÜİK'in 2026 yılı Bitkisel Üretim 2. Tahmini'ne göre tahıllar ve diğer bitkisel ürünlerde üretimin yaklaşık 78,6 milyon tona çıkması bekleniyor; bu grupta artış yüzde 17,3. Tahılların kendi içinde artış yüzde 30,9'a ulaşıyor. Meyveler, içecek ve baharat bitkilerinde üretimin yüzde 60,8 artışla 31,5 milyon ton, sebzelerde ise yaklaşık 33 milyon ton olacağı tahmin ediliyor. Üretici örgütleri ise rekolte artışına rağmen alım fiyatlarının maliyetlerin gerisinde kaldığını vurguluyor.",
-      "neYapmali": "Bol rekolte yıllarında fiyat baskısı artabileceği için ürünü satmadan önce TMO, borsa ve lisanslı depo (ELÜS) seçeneklerini karşılaştırın. Depolama imkânınız varsa hasat yoğunluğu geçene kadar beklemeyi değerlendirin.",
-      "kaynaklar": [
-        {
-          "ad": "BirGün",
-          "url": "https://www.birgun.net/haber/uretim-artisi-ciftciye-kar-degil-dert-oldu-742165"
-        }
-      ],
-      "eklenme": "2026-11-04T07:07:00+03:00",
-      "gorsel": "assets/envato/tuik-bitkisel-uretim-2-tahmin-2026.jpg",
-      "gorselKucuk": "assets/envato/tuik-bitkisel-uretim-2-tahmin-2026-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato",
-      "manset": "Tahılda \"yüzde 30\" artış bekleniyor"
     },
     {
       "id": "ankara-tohum-gubre",
