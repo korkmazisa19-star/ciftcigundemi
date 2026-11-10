@@ -73,7 +73,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/adana-haberleri/orman-yanginlarinda-bahceleri-kule-donen-ureticilere-12-bin-zeytin-fidani-dagitildi-513876960"
         }
-      ]
+      ],
+      "gorsel": "assets/envato/adana-imamoglu-yangin-12-bin-zeytin-fidani-2026.jpg",
+      "gorselKucuk": "assets/envato/adana-imamoglu-yangin-12-bin-zeytin-fidani-2026-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
     },
     {
       "id": "tokat-basciftlik-erken-kar-elma-dalinda-dondu-2026",
@@ -90,7 +93,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/tokat-haberleri/tokatin-cati-katinda-elma-ve-armutlar-dalinda-dondu-513872228"
         }
-      ]
+      ],
+      "gorsel": "assets/envato/tokat-basciftlik-erken-kar-elma-dalinda-dondu-2026.jpg",
+      "gorselKucuk": "assets/envato/tokat-basciftlik-erken-kar-elma-dalinda-dondu-2026-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
     },
     {
       "id": "ankara-elmadag-edige-ciftlik-yangini-4-bin-balya-2026",
@@ -4865,7 +4871,6 @@
         "traktor-9.jpg"
       ],
       "zeytin": [
-        "zeytin-6.jpg",
         "zeytin-7.jpg",
         "zeytin-8.jpg"
       ],
@@ -4875,7 +4880,6 @@
         "ayva-3.jpg"
       ],
       "elma": [
-        "elma-6.jpg",
         "elma-7.jpg"
       ],
       "narenciye": [
