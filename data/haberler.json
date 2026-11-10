@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-10T15:12:01+03:00",
+  "guncelleme": "2026-11-10T20:12:51+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,46 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "mugla-tarimsal-plastik-atik-urun-destegi-16-kasim-2026",
+      "kategori": "Destek",
+      "tarih": "2026-11-10",
+      "eklenme": "2026-11-10T20:12:00+03:00",
+      "motif": "sera",
+      "baslik": "Muğla'da sera naylonu ve damla borusu getiren üreticiye ürün desteği",
+      "manset": "Atığını getirene \"ürün desteği\"",
+      "ozet": "Muğla Büyükşehir Belediyesi, sera naylonu ve damla sulama borusu gibi tarımsal plastik atıkları toplayıp geri dönüşüme kazandırmak için yeni bir uygulama başlattı. İlk toplama 16 Kasım'da Fethiye Karaçulha Toptancı Hali'nde yapılacak. 250 kilogram tarımsal plastik atık teslim eden üreticiler tarımsal ürün desteğinden yararlanabilecek. Belediye, ikinci aşamada toplanan atıkları işleyerek yeniden hammaddeye dönüştürmeyi hedefliyor.",
+      "neYapmali": "Fethiye'deki üreticiler 16 Kasım'da atıklarını Karaçulha Toptancı Hali'ne götürürken ÇKS belgesinin fotokopisini yanında bulundurmalı; ayrıntı için 444 48 01 aranabilir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/mugla-haberleri/mugla-buyuksehir-sera-atiklarini-uretime-kazandiracak-513952039"
+        }
+      ],
+      "gorsel": "assets/envato/mugla-tarimsal-plastik-atik-urun-destegi-16-kasim-2026.jpg",
+      "gorselKucuk": "assets/envato/mugla-tarimsal-plastik-atik-urun-destegi-16-kasim-2026-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
+    {
+      "id": "yalova-90-kilo-et-1-ton-bal-imha-2026",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-10",
+      "eklenme": "2026-11-10T20:11:00+03:00",
+      "motif": "kovan",
+      "baslik": "Yalova'da denetimde 1,1 ton bal ve 90 kilo kırmızı et imha edildi",
+      "manset": "Denetimde \"1,1 ton\" bal imha edildi",
+      "ozet": "Yalova İl Tarım ve Orman Müdürlüğü'nün kent genelinde sürdürdüğü gıda denetimlerinde, Türk Gıda Kodeksi'ne uymadığı belirlenen ürünlere el konuldu. Kontrol görevlilerinin tespitiyle 1 ton 100 kilogram bal ile 90 kilogram kırmızı et ekiplerin gözetiminde imha edildi. Ürünlerden sorumlu olanlara idari yaptırım uygulandı. İl Tarım ve Orman Müdürü Mustafa İlmeç, halk sağlığı için denetimlerin aralıksız süreceğini açıkladı.",
+      "neYapmali": "Arıcılar ve et satıcıları ürünlerini etiket, kayıt ve Türk Gıda Kodeksi kurallarına uygun satmalı; tüketiciler şüpheli ürünleri ALO 174 Gıda Hattı'na bildirebilir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/yalova-haberleri/yalovada-90-kilo-et-ve-1-1-ton-bal-imha-edildi-513991330"
+        }
+      ],
+      "gorsel": "assets/envato/yalova-90-kilo-et-1-ton-bal-imha-2026.jpg",
+      "gorselKucuk": "assets/envato/yalova-90-kilo-et-1-ton-bal-imha-2026-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
     {
       "id": "kars-hayvan-pazarlari-11-kasim-sap-yeniden-acilis-2026",
       "kategori": "Hayvancılık",
@@ -4255,54 +4295,6 @@
       "manset": "İlk kestane kilosu \"600 lira\"!"
     },
     {
-      "id": "zeytin-rekor-rekolte",
-      "kategori": "Bitkisel Üretim",
-      "tarih": "2026-10-27",
-      "baslik": "Zeytinde rekor rekolte, ihracatta zor sezon",
-      "ozet": "TÜİK'in ilk tahminine göre bu yıl zeytin üretimi yüzde 55,7 artışla yaklaşık 3,8 milyon tona çıkacak. Bu rakam tutarsa 2024'teki 3,75 milyon tonluk rekor da geçilecek. Öte yandan zeytin ve zeytinyağı ihracatı yılın ilk dokuz ayında yüzde 28 gerileyerek 273 milyon dolara düştü. Sektör, bol ürünün iç piyasada fiyatları baskılamasından endişe ediyor.",
-      "neYapmali": "Ürününüzü satmadan önce birlik ve kooperatiflerin alım fiyatlarını takip edin. Depolama imkânınız varsa satışı zamana yaymak riski azaltabilir.",
-      "kaynaklar": [
-        {
-          "ad": "Dünya",
-          "url": "https://www.dunya.com/sektorler/zeytin-rekor-rekolte-yilinda-tarihi-sinava-hazirlaniyor-haberi-835678"
-        },
-        {
-          "ad": "Ekonomi Gazetesi",
-          "url": "https://www.ekonomigazetesi.com/sehirler/zeytin-ve-zeytinyagi-sektoru-ihracatta-zorlu-bir-sezona-giriyor-90683"
-        }
-      ],
-      "motif": "zeytin",
-      "eklenme": "2026-11-04T07:10:00+03:00",
-      "gorsel": "assets/envato/zeytin-rekor-rekolte.jpg",
-      "gorselKucuk": "assets/envato/zeytin-rekor-rekolte-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato",
-      "manset": "Zeytinde rekor rekolte, \"zor sezon\""
-    },
-    {
-      "id": "turktraktor-dokuz-ay",
-      "kategori": "Makine",
-      "tarih": "2026-10-26",
-      "motif": "traktor",
-      "baslik": "Traktör pazarı daralıyor: TürkTraktör'ün iç satışları yüzde 26 düştü",
-      "ozet": "TürkTraktör'ün 26 Ekim'de açıkladığı sonuçlara göre şirketin yurt içi traktör satışları yılın ilk dokuz ayında yüzde 26 azalarak 15.401 adede geriledi. Aynı dönemde ihracat yüzde 13 artışla 9.225 adede çıktı. Biçerdöver satışları da yüzde 9 daraldı. Şirket, 2026'da Türkiye traktör pazarının 16 ile 21 bin adet arasında kalmasını bekliyor.",
-      "neYapmali": "Makine alımı düşünüyorsanız bayilerin yıl sonu kampanyalarını ve kooperatifler üzerinden ortak makine kullanımı seçeneklerini karşılaştırın. Tarımsal kredi faiz koşullarını Ziraat Bankası ve Tarım Kredi'den sorun.",
-      "kaynaklar": [
-        {
-          "ad": "Bloomberg HT",
-          "url": "https://www.bloomberght.com/turk-traktor-den-83-milyon-tl-net-zarar-3792608"
-        },
-        {
-          "ad": "Foreks",
-          "url": "https://www.foreks.com/haber/detay/6ae03a5b58b1b941c2091aa7/PICNEWS/tr/turktraktor-dokuz-ayda-zarar-acikladi-satislar-yuzde-28-dustu-27-10-26/"
-        }
-      ],
-      "eklenme": "2026-11-04T07:09:00+03:00",
-      "gorsel": "assets/envato/turktraktor-dokuz-ay.jpg",
-      "gorselKucuk": "assets/envato/turktraktor-dokuz-ay-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato",
-      "manset": "TürkTraktör'de iç satış \"yüzde 26\" düştü"
-    },
-    {
       "id": "ankara-tohum-gubre",
       "kategori": "Hibe",
       "tarih": "2026-10-23",
@@ -4377,6 +4369,12 @@
       "baslik": "TMO fındık alımı son günü",
       "kapsam": "TMO alım noktaları",
       "haber": "tmo-findik-alimi-14-kasima-uzatildi"
+    },
+    {
+      "tarih": "2026-11-16",
+      "baslik": "Muğla tarımsal plastik atık teslimi (ürün desteği)",
+      "kapsam": "Muğla (Fethiye)",
+      "haber": "mugla-tarimsal-plastik-atik-urun-destegi-16-kasim-2026"
     },
     {
       "tarih": "2026-11-20",
@@ -4841,7 +4839,6 @@
       "kovan": [
         "kovan-1.jpg",
         "kovan-2.jpg",
-        "kovan-3.jpg",
         "kovan-4.jpg",
         "kovan-5.jpg"
       ],
@@ -4854,8 +4851,7 @@
         "para-4.jpg"
       ],
       "sera": [
-        "sera-6.jpg",
-        "sera-8.jpg"
+        "sera-6.jpg"
       ],
       "sut": [
         "sut-8.jpg"

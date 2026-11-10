@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
-<url><loc>https://ciftcigundemi.com/</loc><lastmod>2026-11-10T15:12:00+03:00</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
+<url><loc>https://ciftcigundemi.com/</loc><lastmod>2026-11-10T20:12:00+03:00</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
 <url><loc>https://ciftcigundemi.com/hakkimizda/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
 <url><loc>https://ciftcigundemi.com/gizlilik-politikasi/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
 <url><loc>https://ciftcigundemi.com/kvkk-aydinlatma-metni/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
 <url><loc>https://ciftcigundemi.com/cerez-politikasi/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
 <url><loc>https://ciftcigundemi.com/iletisim/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
+<url><loc>https://ciftcigundemi.com/haber/mugla-tarimsal-plastik-atik-urun-destegi-16-kasim-2026/</loc><lastmod>2026-11-10T20:12:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-10T20:12:00+03:00</news:publication_date><news:title>Muğla&#x27;da sera naylonu ve damla borusu getiren üreticiye ürün desteği</news:title></news:news></url>
+<url><loc>https://ciftcigundemi.com/haber/yalova-90-kilo-et-1-ton-bal-imha-2026/</loc><lastmod>2026-11-10T20:11:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-10T20:11:00+03:00</news:publication_date><news:title>Yalova&#x27;da denetimde 1,1 ton bal ve 90 kilo kırmızı et imha edildi</news:title></news:news></url>
 <url><loc>https://ciftcigundemi.com/haber/kars-hayvan-pazarlari-11-kasim-sap-yeniden-acilis-2026/</loc><lastmod>2026-11-10T15:12:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-10T15:12:00+03:00</news:publication_date><news:title>Kars&#x27;ta şap nedeniyle kapanan hayvan pazarları 11 Kasım&#x27;da yeniden açılıyor</news:title></news:news></url>
 <url><loc>https://ciftcigundemi.com/haber/kahramanmaras-zeytin-26-bin-ton-rekolte-112-bin-dekar-2026/</loc><lastmod>2026-11-10T15:11:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-10T15:11:00+03:00</news:publication_date><news:title>Kahramanmaraş&#x27;ta zeytin hasadı sürüyor: 112 bin dekardan 26 bin ton ürün bekleniyor</news:title></news:news></url>
 <url><loc>https://ciftcigundemi.com/haber/adana-imamoglu-yangin-12-bin-zeytin-fidani-2026/</loc><lastmod>2026-11-10T12:09:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-10T12:09:00+03:00</news:publication_date><news:title>İmamoğlu&#x27;nda yangında bahçesi zarar gören 110 üreticiye Bakanlıktan 12 bin zeytin fidanı</news:title></news:news></url>
@@ -202,8 +204,6 @@
 <url><loc>https://ciftcigundemi.com/haber/pancar-besinci-avans-952-milyon/</loc><lastmod>2026-11-04T07:13:00+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/zeytin-zeytinyagi-ihracati-dokuz-ayda-yuzde-28-geriledi/</loc><lastmod>2026-11-04T07:12:00+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/aydin-kestane-ilk-alim-600-tl/</loc><lastmod>2026-11-04T07:11:00+03:00</lastmod></url>
-<url><loc>https://ciftcigundemi.com/haber/zeytin-rekor-rekolte/</loc><lastmod>2026-11-04T07:10:00+03:00</lastmod></url>
-<url><loc>https://ciftcigundemi.com/haber/turktraktor-dokuz-ay/</loc><lastmod>2026-11-04T07:09:00+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/ankara-tohum-gubre/</loc><lastmod>2026-11-04T07:06:00+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/cks-2027-son-gun-31-aralik/</loc><lastmod>2026-11-03T12:00:00+03:00</lastmod></url>
 </urlset>
