@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-10T20:12:51+03:00",
+  "guncelleme": "2026-11-10T23:10:16+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,40 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "mersin-mut-125-kucukbas-20-ton-yem-solar-kamera-2026",
+      "kategori": "Destek",
+      "tarih": "2026-11-10",
+      "eklenme": "2026-11-10T23:10:00+03:00",
+      "motif": "koyun",
+      "baslik": "Mersin Büyükşehir Mut'ta 5 yetiştiriciye 125 küçükbaş ve 20 ton yem verdi",
+      "manset": "Mut'ta 5 üreticiye \"125 küçükbaş\"",
+      "ozet": "Mersin Büyükşehir Belediyesi, Mut ilçesinde düzenlediği törenle \"Hadi Gel Köyümüze Destek Verelim\" projesi kapsamındaki destekleri dağıttı. Beş yetiştiriciye toplam 125 küçükbaş hayvan, 20 ton yem ve bir yıllık aşı desteği verildi. Arı hırsızlığına karşı yürütülen Solar Kamera Projesi'nden Mut-Gülnar Bal Üreticileri Birliği'ne kayıtlı 33 arıcı yararlandı. Bitkisel üretim için de 21 üreticiye 630 badem, 69 üreticiye 2 bin 70 Gemlik zeytini ve 4 üreticiye 100 alıç fidanı dağıtıldı. Belediye, proje ile 2026 sonuna kadar 420 yetiştiriciye 10 bin 500 küçükbaş ve 1.680 ton yem ulaştırmayı hedeflediğini açıkladı.",
+      "neYapmali": "Mersin'de projeden yararlanmak isteyen yetiştiriciler başvuru koşullarını Mersin Büyükşehir Belediyesi Tarımsal Hizmetler Dairesi Başkanlığı'ndan öğrenebilir; arıcılar kamera desteği için bağlı oldukları bal üreticileri birliğine danışabilir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/mersin-haberleri/mutta-ureticilere-kucukbas-hayvan-fidan-ve-solar-kamera-destegi-513892270"
+        }
+      ]
+    },
+    {
+      "id": "duzce-genc-aricilar-ciftci-okulu-fao-egitim-2026",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-10",
+      "eklenme": "2026-11-10T23:09:00+03:00",
+      "motif": "kovan",
+      "baslik": "Düzce'de genç arıcılara Çiftçi Okulu eğitimi: Üretimden markalaşmaya iki günlük program",
+      "manset": "Genç arıcılara \"markalaşma\" dersi",
+      "ozet": "Düzce'de genç arıcılara yönelik iki günlük uygulamalı Çiftçi Okulu eğitimi tamamlandı. Program, Tarım ve Orman Bakanlığı, Birleşmiş Milletler Gıda ve Tarım Örgütü (FAO) ve Düzce İl Tarım ve Orman Müdürlüğü'nün kırsaldaki kadın ve gençlere yönelik ortak projesi kapsamında düzenlendi. Katılımcılara modern arıcılık teknikleri, kaliteli bal üretimi, arı ürünlerinde kalite standartları ile markalaşma ve pazarlama konularında teorik ve uygulamalı bilgi verildi. İl Tarım ve Orman Müdürü Esra Uzun, arıcılığın ilin kırsal ekonomisi için önemli bir üretim alanı olduğunu vurguladı.",
+      "neYapmali": "Düzce'de benzer eğitimlere katılmak isteyen genç ve kadın üreticiler, proje takvimini ve başvuru koşullarını Düzce İl Tarım ve Orman Müdürlüğü'nden öğrenebilir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/duzce-haberleri/genc-aricilara-yonelik-uygulamali-ciftci-okulu-egitimleri-tamamlandi-513986481"
+        }
+      ]
+    },
     {
       "id": "mugla-tarimsal-plastik-atik-urun-destegi-16-kasim-2026",
       "kategori": "Destek",
@@ -4253,46 +4287,6 @@
       "gorselKucuk": "assets/iha/pancar-besinci-avans-952-milyon-k.jpg",
       "gorselKaynak": "Fotoğraf: İHA (temsili)",
       "manset": "Pancara \"952 milyon liralık\" avans"
-    },
-    {
-      "id": "zeytin-zeytinyagi-ihracati-dokuz-ayda-yuzde-28-geriledi",
-      "kategori": "Piyasa",
-      "tarih": "2026-10-27",
-      "motif": "zeytin",
-      "baslik": "Zeytin ve zeytinyağı ihracatı 9 ayda yüzde 28 geriledi",
-      "ozet": "Ege Zeytin ve Zeytinyağı İhracatçıları Birliği Başkanı M. Emre Uygun'un açıkladığı verilere göre ocak-eylül döneminde sektör ihracatı geçen yılın 381 milyon dolarından 273 milyon dolara indi. Zeytinyağı ihracatı miktarda yüzde 53 azalarak 15,7 bin tona, değerde yüzde 48 azalarak 82,1 milyon dolara düştü. Uygun, İspanya, İtalya, Yunanistan ve Tunus'ta da yüksek rekolte beklendiğini, maliyet ve finansman sorunlarıyla zorlu bir sezona girildiğini söyledi. Sektör, ABD'nin ek gümrük vergisinin kaldırılmasını ve AB kotasının artırılmasını talep ediyor.",
-      "neYapmali": "Bol rekolte ve zayıf ihracat yılında fiyat baskısı artabilir; zeytin ya da yağ satışınızı tek seferde yapmak yerine depolama ve kooperatif seçeneklerini değerlendirin.",
-      "kaynaklar": [
-        {
-          "ad": "Foreks",
-          "url": "https://www.foreks.com/haber/detay/6ae03e9658b1b941c2091ad1/FRKS/tr/ege-zeytin-ve-zeytinyagi-ihracatcilari-birligi-uygun-zeytin-ve-zeytinyagi-sektoru-ihracatta-zorlu-bir-sezona-giriyor-27-10-26/"
-        }
-      ],
-      "eklenme": "2026-11-04T07:12:00+03:00",
-      "gorsel": "assets/iha/zeytin-zeytinyagi-ihracati-dokuz-ayda-yuzde-28-geriledi.jpg",
-      "gorselKucuk": "assets/iha/zeytin-zeytinyagi-ihracati-dokuz-ayda-yuzde-28-geriledi-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA (temsili)",
-      "manset": "Zeytin ihracatı \"yüzde 28\" geriledi"
-    },
-    {
-      "id": "aydin-kestane-ilk-alim-600-tl",
-      "kategori": "Piyasa",
-      "tarih": "2026-10-27",
-      "motif": "kestane",
-      "baslik": "Aydın'da sezonun ilk kestanesi kilosu 600 liradan alındı",
-      "ozet": "Aydın Ticaret Borsası'nda düzenlenen 2026-2027 sezonu kestane ilk alım töreninde 16 üreticiden alınan toplam 160 kilogram kestane kilosu 600 liradan satıldı. Vali Osman Varol, Türkiye'nin yıllık yaklaşık 83 bin tonluk kestane üretiminin 25.500 tonunun (yaklaşık yüzde 31) Aydın'dan karşılandığını söyledi. İlde 880 bin kestane ağacı bulunuyor ve ÇKS'ye kayıtlı 5.790 üretici geçimini kestaneden sağlıyor. Aydın kestanesi AB'de tescilli coğrafi işarete sahip.",
-      "neYapmali": "İlk alım fiyatı törensel bir fiyattır; sezon içindeki gerçek piyasayı görmek için borsanın günlük işlem fiyatlarını takip edin, kestaneyi serin ve havadar yerde saklayın.",
-      "kaynaklar": [
-        {
-          "ad": "Milliyet Uzmanpara",
-          "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/aydinda-sezonun-ilk-kestanesi-kilosu-600-tlden-alindi-7688675"
-        }
-      ],
-      "eklenme": "2026-11-04T07:11:00+03:00",
-      "gorsel": "assets/iha/aydin-kestane-ilk-alim-600-tl.jpg",
-      "gorselKucuk": "assets/iha/aydin-kestane-ilk-alim-600-tl-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA",
-      "manset": "İlk kestane kilosu \"600 lira\"!"
     },
     {
       "id": "ankara-tohum-gubre",
