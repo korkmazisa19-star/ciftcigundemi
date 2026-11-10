@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-10T08:10:00+03:00",
+  "guncelleme": "2026-11-10T12:09:57+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,40 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "adana-imamoglu-yangin-12-bin-zeytin-fidani-2026",
+      "kategori": "Destek",
+      "tarih": "2026-11-10",
+      "eklenme": "2026-11-10T12:09:00+03:00",
+      "motif": "zeytin",
+      "baslik": "İmamoğlu'nda yangında bahçesi zarar gören 110 üreticiye Bakanlıktan 12 bin zeytin fidanı",
+      "manset": "Yanan bahçelere \"12 bin\" fidan",
+      "ozet": "Tarım ve Orman Bakanlığı, Adana'nın İmamoğlu ilçesinde 2025 ve 2026'daki orman yangınlarından etkilenen 110 üreticiye 12 bin zeytin fidanı gönderdi. Fidanlar Üçtepe Mahallesi'nde, İlçe Tarım ve Orman Müdürü Cemil Çabuk ve muhtarların katılımıyla hak sahiplerine teslim edildi. İlçede 8 Eylül 2026'da başlayıp şiddetli rüzgârla 3 gün süren yangında yaklaşık 400 hektar alan zarar görmüştü. Bahçesi yanan üreticiler, yeni fidanlarla zeytinliklerini yeniden kuracaklarını belirtirken bazıları balya, yulaf ve tarım aletlerini de kaybettiğini anlattı.",
+      "neYapmali": "Yangından etkilenip fidan desteğinden yararlanamayan üreticiler İmamoğlu İlçe Tarım ve Orman Müdürlüğü'ne başvurarak durumlarını sorabilir. Yeni dikilen fidanlarda ilk yıl düzenli can suyu ve yabani ot temizliği tutmayı artırır.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/adana-haberleri/orman-yanginlarinda-bahceleri-kule-donen-ureticilere-12-bin-zeytin-fidani-dagitildi-513876960"
+        }
+      ]
+    },
+    {
+      "id": "tokat-basciftlik-erken-kar-elma-dalinda-dondu-2026",
+      "kategori": "Zirai Don",
+      "tarih": "2026-11-10",
+      "eklenme": "2026-11-10T12:08:00+03:00",
+      "motif": "elma",
+      "baslik": "Tokat Başçiftlik'te erken kar: Toplanmayı bekleyen elma ve armutlar dalında dondu",
+      "manset": "Elmalar dalında \"dondu\"",
+      "ozet": "Tokat'ın yaklaşık 1.450 metre rakımlı Başçiftlik ilçesinde mevsimden erken yağan kar, elma bahçelerini beyaza bürüdü. Henüz hasat edilmemiş kırmızı elmalar ve armutlar, soğuğun etkisiyle dallarda donarak kar altında kaldı. Yapraklarını dökmemiş ağaçların dallarında kar birikti. Bölgede görüntü kaydeden doğa fotoğrafçısı Nazif Karakoç, erken karın bahçelerdeki meyveleri dondurduğunu anlattı.",
+      "neYapmali": "Kar ve don altında kalan bahçelerde ürünü TARSİM sigortalı olan üreticiler hasarı vakit kaybetmeden TARSİM'e ya da sigorta acentesine bildirmeli. Kar yükünün kırabileceği dallar mümkünse silkelenmeli, donan meyveler sağlam ürünle karıştırılmadan ayrı değerlendirilmeli.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/tokat-haberleri/tokatin-cati-katinda-elma-ve-armutlar-dalinda-dondu-513872228"
+        }
+      ]
+    },
     {
       "id": "ankara-elmadag-edige-ciftlik-yangini-4-bin-balya-2026",
       "kategori": "Hayvancılık",
@@ -4281,30 +4315,6 @@
       "gorselKucuk": "assets/envato/ankara-tohum-gubre-k.jpg",
       "gorselKaynak": "Temsili fotoğraf: Envato",
       "manset": "Ankara'da başvuru \"23 Kasım'da\" bitiyor"
-    },
-    {
-      "id": "butce-2027-tarim-destek",
-      "kategori": "Destek",
-      "tarih": "2026-10-17",
-      "baslik": "2027 bütçesinde tarımsal desteklere 235 milyar lira ayrıldı",
-      "ozet": "TBMM'ye sunulan 2027 bütçe teklifinde doğrudan tarımsal destek programları için 235 milyar lira öngörüldü. Bu tutar 2026'daki yaklaşık 167,6 milyar liralık destek bütçesinin yüzde 40 üzerinde. Kredi, yatırım ve vergi kalemleriyle birlikte tarıma ayrılan toplam kaynak 1 trilyon 305 milyar liraya çıkıyor. Tarım sigortası desteği için de 30 milyar lira ayrıldı. 2027 üretim yılı için temel destek ise dekar başına 442 lira olarak belirlendi.",
-      "neYapmali": "Destekler çoğunlukla bir sonraki yılın bütçesinden ödenir. Yani 2026'da ektiğiniz ürünün destekleri bu 2027 bütçesinden gelecek. ÇKS kaydınızın güncel olduğundan emin olun.",
-      "kaynaklar": [
-        {
-          "ad": "Milliyet Uzmanpara",
-          "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/butceden-tarimsal-desteklere-gelecek-yil-icin-235-milyar-lira-ayrildi-7681711"
-        },
-        {
-          "ad": "Ekonomi Gazetesi",
-          "url": "https://www.ekonomigazetesi.com/kose-yazisi/tarima-2027de-235-milyar-lira-destek-90728"
-        }
-      ],
-      "motif": "para",
-      "eklenme": "2026-11-04T07:05:00+03:00",
-      "gorsel": "assets/envato/butce-2027-tarim-destek.jpg",
-      "gorselKucuk": "assets/envato/butce-2027-tarim-destek-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato",
-      "manset": "Tarım desteğine \"235 milyar lira\""
     },
     {
       "id": "cks-2027-son-gun-31-aralik",
