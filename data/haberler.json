@@ -73,7 +73,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/kars-haberleri/karsta-hayvan-pazarlari-11-kasimda-yeniden-aciliyor-513938993"
         }
-      ]
+      ],
+      "gorsel": "assets/envato/kars-hayvan-pazarlari-11-kasim-sap-yeniden-acilis-2026.jpg",
+      "gorselKucuk": "assets/envato/kars-hayvan-pazarlari-11-kasim-sap-yeniden-acilis-2026-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
     },
     {
       "id": "kahramanmaras-zeytin-26-bin-ton-rekolte-112-bin-dekar-2026",
@@ -90,7 +93,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/kahramanmaras-haberleri/kahramanmaras-zeytininde-26-bin-ton-rekolte-beklentisi-513945142"
         }
-      ]
+      ],
+      "gorsel": "assets/envato/kahramanmaras-zeytin-26-bin-ton-rekolte-112-bin-dekar-2026.jpg",
+      "gorselKucuk": "assets/envato/kahramanmaras-zeytin-26-bin-ton-rekolte-112-bin-dekar-2026-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
     },
     {
       "id": "adana-imamoglu-yangin-12-bin-zeytin-fidani-2026",
@@ -4852,7 +4858,6 @@
         "sera-8.jpg"
       ],
       "sut": [
-        "sut-7.jpg",
         "sut-8.jpg"
       ],
       "tohum": [
@@ -4865,7 +4870,6 @@
         "traktor-9.jpg"
       ],
       "zeytin": [
-        "zeytin-7.jpg",
         "zeytin-8.jpg"
       ],
       "ayva": [
