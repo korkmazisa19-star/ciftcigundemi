@@ -88,7 +88,7 @@
       "kategori": "Bitkisel Üretim",
       "tarih": "2026-11-11",
       "eklenme": "2026-11-11T15:13:00+03:00",
-      "motif": "sera",
+      "motif": "tohum",
       "baslik": "Söke'de ata tohumundan yetiştirilen kışlık sebze fideleri ücretsiz dağıtıldı",
       "manset": "Ata tohumundan kışlık fide \"ücretsiz\"",
       "ozet": "Aydın Büyükşehir Belediyesi'nin kendi fidanlıklarında yerel ata tohumlarından ürettiği kışlık sebze fideleri 11 Kasım'da Söke'de vatandaşlara ücretsiz verildi. Dağıtımda marul, lahana, karnabahar ve brokoli fideleri yer aldı. Söke Belediye Başkanı Mustafa İberya Arıkan da dağıtıma katılarak fideleri ilçe sakinlerine teslim etti. Uygulama, yerel tohumların korunması ve yeniden üretime kazandırılması amacıyla yürütülüyor; dağıtılan fide sayısı açıklanmadı.",
@@ -102,7 +102,10 @@
           "ad": "İHA (Herkes Duysun)",
           "url": "https://herkesduysun.com/gundem/soke-de-vatandaslara-ata-tohumlari-ndan-uretilen-kislik-fideler-dagitildi-111126466/"
         }
-      ]
+      ],
+      "gorsel": "assets/envato/aydin-soke-ata-tohumu-kislik-fide-dagitimi-2026.jpg",
+      "gorselKucuk": "assets/envato/aydin-soke-ata-tohumu-kislik-fide-dagitimi-2026-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
     },
     {
       "id": "peynir-tebligi-koy-peyniri-yasak-30-nisan-2027",
@@ -4847,7 +4850,6 @@
       ],
       "sut": [],
       "tohum": [
-        "tohum-6.jpg",
         "tohum-8.jpg"
       ],
       "traktor": [
