@@ -73,7 +73,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/mugla-haberleri/muglada-tarimsal-kuraklik-riskine-karsi-onlemler-degerlendirildi-514208103"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/mugla-tarimsal-kuraklik-il-kriz-merkezi-toplanti-2026.jpg",
+      "gorselKucuk": "assets/iha/mugla-tarimsal-kuraklik-il-kriz-merkezi-toplanti-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "kastamonu-kure-19-ariciya-210-strafor-kovan-2026",
@@ -90,7 +93,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/kastamonu-haberleri/kurede-19-ariciya-210-yeni-kovan-teslim-edildi-513856357"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/kastamonu-kure-19-ariciya-210-strafor-kovan-2026.jpg",
+      "gorselKucuk": "assets/iha/kastamonu-kure-19-ariciya-210-strafor-kovan-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "mersin-mut-125-kucukbas-20-ton-yem-solar-kamera-2026",
@@ -108,9 +114,9 @@
           "url": "https://www.iha.com.tr/mersin-haberleri/mutta-ureticilere-kucukbas-hayvan-fidan-ve-solar-kamera-destegi-513892270"
         }
       ],
-      "gorsel": "assets/envato/mersin-mut-125-kucukbas-20-ton-yem-solar-kamera-2026.jpg",
-      "gorselKucuk": "assets/envato/mersin-mut-125-kucukbas-20-ton-yem-solar-kamera-2026-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorsel": "assets/iha/mersin-mut-125-kucukbas-20-ton-yem-solar-kamera-2026.jpg",
+      "gorselKucuk": "assets/iha/mersin-mut-125-kucukbas-20-ton-yem-solar-kamera-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "duzce-genc-aricilar-ciftci-okulu-fao-egitim-2026",
@@ -128,9 +134,9 @@
           "url": "https://www.iha.com.tr/duzce-haberleri/genc-aricilara-yonelik-uygulamali-ciftci-okulu-egitimleri-tamamlandi-513986481"
         }
       ],
-      "gorsel": "assets/envato/duzce-genc-aricilar-ciftci-okulu-fao-egitim-2026.jpg",
-      "gorselKucuk": "assets/envato/duzce-genc-aricilar-ciftci-okulu-fao-egitim-2026-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorsel": "assets/iha/duzce-genc-aricilar-ciftci-okulu-fao-egitim-2026.jpg",
+      "gorselKucuk": "assets/iha/duzce-genc-aricilar-ciftci-okulu-fao-egitim-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "mugla-tarimsal-plastik-atik-urun-destegi-16-kasim-2026",
