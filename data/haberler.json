@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-11T15:14:00+03:00",
+  "guncelleme": "2026-11-11T20:11:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,40 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "eskisehir-mavi-sertifikali-zeytin-fidani-basvuru-15-kasim-2026",
+      "kategori": "Hibe",
+      "tarih": "2026-11-11",
+      "eklenme": "2026-11-11T20:11:00+03:00",
+      "motif": "zeytin",
+      "baslik": "Eskişehir'de Sakarya Vadisi üreticisine sertifikalı zeytin fidanı: Başvuru 15 Kasım'da bitiyor",
+      "manset": "Zeytin fidanında son gün \"15 Kasım\"",
+      "ozet": "Eskişehir Büyükşehir Belediyesi, Orta Sakarya Vadisi'nde zeytinciliği yaygınlaştırmak için yürüttüğü proje kapsamında mavi sertifikalı zeytin fidanı dağıtacak. Başvurular 9 Kasım'da açıldı ve 15 Kasım 2026'da kapanıyor. Üreticiler belediyenin internet sitesinden çevrim içi ya da Sarıcakaya, Mihalgazi, Alpu ve Mihalıççık'taki başvuru noktalarıyla Tarımsal Hizmetler Dairesi Başkanlığına giderek başvurabiliyor. Değerlendirmede fidanların dikileceği arazinin iklim açısından uygun olup olmadığına da bakılacak.",
+      "neYapmali": "ÇKS ya da çiftçi belgenizi, tarlanın tapu fotokopisini (kiralıksa kira sözleşmesini) ve KVKK açık rıza formunu hazırlayıp 15 Kasım'a kadar başvurun.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/eskisehir-haberleri/zeytin-fidani-destegi-icin-basvurular-basladi-514410545"
+        }
+      ]
+    },
+    {
+      "id": "malatya-kayisi-sonbahar-hastalik-mucadelesi-uyarisi-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-11",
+      "eklenme": "2026-11-11T20:10:00+03:00",
+      "motif": "tohum",
+      "baslik": "Malatya'da kayısı üreticisine sonbahar uyarısı: Çil, bakteriyel kanser ve zamklanmaya karşı ilaçlama zamanı",
+      "manset": "Kayısıda ilaçlama \"yaprak dökümünden\" sonra",
+      "ozet": "Malatya İl Tarım ve Orman Müdürlüğü, kayısı bahçelerinde verimi düşüren yaprak delen (çil), bakteriyel kanser ve zamklanma hastalıklarına karşı üreticileri sonbahar mücadelesine çağırdı. Müdürlük, bu hastalıkların yaprak, meyve ve genç dallara zarar verdiğini, dal kurumaları ve kanserli yaralarla ciddi verim kaybına yol açabildiğini hatırlattı. Hastalıklı dalların budanıp bahçeden çıkarılması, budama aletlerinin dezenfekte edilmesi ve yaprakların yüzde 75-80'i döküldükten sonra ilaçlama yapılması öneriliyor. Sürgün ve dal yanıklığı görülen bahçelerde yüzde 3'lük bordo bulamacı tavsiye ediliyor.",
+      "neYapmali": "İlaçlamayı yaprakların büyük kısmı döküldükten sonra yapın; hangi ilacı hangi dozda kullanacağınızı ilçe tarım müdürlüğünüzle teyit edin.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/malatya-haberleri/kayisi-bahcelerinde-sonbahar-mucadelesi-uyarisi-514558534"
+        }
+      ]
+    },
     {
       "id": "milli-agaclandirma-gunu-ankara-45-bin-600-fidan-2026",
       "kategori": "Bitkisel Üretim",
@@ -4240,46 +4274,6 @@
       "manset": "Tavşan yüreğinde \"10 bin ton\" rekolte"
     },
     {
-      "id": "denizli-tarfu-2026-tarim-fuari",
-      "kategori": "Makine",
-      "tarih": "2026-10-30",
-      "motif": "traktor",
-      "baslik": "Denizli'de TARFU 2026 Tarım Fuarı kapılarını açtı",
-      "ozet": "Denizli'de TARFU 2026 Tarım Fuarı 1 Kasım'a kadar sürmek üzere açıldı; fuar alanında boş stant kalmadı. Açılışta konuşan Denizli Ticaret Odası Başkan Vekili Ali Taşevli, 1.200 dekarlık Gıda İhtisas OSB ile Geri Dönüşüm OSB projelerinden ve odanın son üç yılda 2 binden fazla iş insanını fuar katılımında desteklediğinden söz etti. Törene Vali Yavuz Selim Köşger ve kent protokolü katıldı.",
-      "neYapmali": "Fuarlarda makine alırken fiyat tekliflerini yazılı alın, yedek parça ve servis ağını sorun; Tarım Kredi ve Ziraat Bankası'nın fuar kampanyalı kredi koşullarını karşılaştırın.",
-      "kaynaklar": [
-        {
-          "ad": "Denizli24Haber",
-          "url": "https://www.denizli24haber.com/denizli/denizli-tarim-fuari-acildi-1-kasima-kadar-surecek/78307"
-        }
-      ],
-      "eklenme": "2026-11-04T07:21:00+03:00",
-      "gorsel": "assets/envato/denizli-tarfu-2026-tarim-fuari.jpg",
-      "gorselKucuk": "assets/envato/denizli-tarfu-2026-tarim-fuari-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato",
-      "manset": "Denizli'de \"TARFU 2026\" açıldı"
-    },
-    {
-      "id": "lalahan-genomik-test-merkezi-buzagi-kaybi-20-bin",
-      "kategori": "Hayvancılık",
-      "tarih": "2026-10-30",
-      "motif": "sut",
-      "baslik": "Lalahan'da Genomik Test Merkezi açıldı, buzağı kaybında tazminat 20 bin liraya çıktı",
-      "ozet": "Tarım ve Orman Bakanı İbrahim Yumaklı, Ankara'daki Lalahan Uluslararası Hayvancılık Araştırma ve Eğitim Merkezi'nde Genomik Test Merkezi'ni açtı. Yumaklı, yavru kaybı tazminatının yüzde 100 artırıldığını, bu yıl buzağı kaybı için 20 bin lira, kuzu ve oğlak atığı için 4 bin lira ödeneceğini söyledi. Bakan, hayvansal üretim desteğinin bu yıl 38,5 milyar lira olduğunu, 2027 için önerinin 54,5 milyar lira olduğunu belirtti. Ödeme tarihi açıklanmadı.",
-      "neYapmali": "Yavru kaybı tazminatı için hayvanlarınızın TÜRKVET kayıtlarının ve aşılarının eksiksiz olduğundan emin olun; kayıp yaşandığında ilçe tarım müdürlüğüne zamanında bildirin.",
-      "kaynaklar": [
-        {
-          "ad": "Milliyet",
-          "url": "https://www.milliyet.com.tr/ekonomi/bakan-yumaklidan-hayvancilik-yapanlari-sevindirecek-haber-7690934"
-        }
-      ],
-      "eklenme": "2026-11-04T07:20:00+03:00",
-      "gorsel": "assets/envato/lalahan-genomik-test-merkezi-buzagi-kaybi-20-bin.jpg",
-      "gorselKucuk": "assets/envato/lalahan-genomik-test-merkezi-buzagi-kaybi-20-bin-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato",
-      "manset": "Buzağı kaybında tazminat \"20 bin lira\""
-    },
-    {
       "id": "tigem-bugday-arpa-narenciye-ihalesi-kasim",
       "kategori": "Piyasa",
       "tarih": "2026-10-28",
@@ -4362,6 +4356,12 @@
       "baslik": "TMO fındık alımı son günü",
       "kapsam": "TMO alım noktaları",
       "haber": "tmo-findik-alimi-14-kasima-uzatildi"
+    },
+    {
+      "tarih": "2026-11-15",
+      "baslik": "Eskişehir mavi sertifikalı zeytin fidanı başvurusu son gün",
+      "kapsam": "Eskişehir",
+      "haber": "eskisehir-mavi-sertifikali-zeytin-fidani-basvuru-15-kasim-2026"
     },
     {
       "tarih": "2026-11-16",
