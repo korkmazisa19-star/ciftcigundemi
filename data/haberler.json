@@ -76,7 +76,7 @@
       ],
       "gorsel": "assets/envato/kilis-510-ton-sertifikali-tohum-dagitimi-2026.jpg",
       "gorselKucuk": "assets/envato/kilis-510-ton-sertifikali-tohum-dagitimi-2026-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "edremit-zeytinyagi-cografi-isaret-basvuru-12-23-kasim-2026",
@@ -93,7 +93,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/balikesir-haberleri/edremit-zeytinyagi-icin-cografi-isaret-basvurulari-basladi-514517178"
         }
-      ]
+      ],
+      "gorsel": "assets/envato/edremit-zeytinyagi-cografi-isaret-basvuru-12-23-kasim-2026.jpg",
+      "gorselKucuk": "assets/envato/edremit-zeytinyagi-cografi-isaret-basvuru-12-23-kasim-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "eskisehir-mavi-sertifikali-zeytin-fidani-basvuru-15-kasim-2026",
@@ -4851,7 +4854,9 @@
         "sera-6.jpg"
       ],
       "sut": [],
-      "tohum": [],
+      "tohum": [
+        "tohum-8.jpg"
+      ],
       "traktor": [
         "traktor-6.jpg",
         "traktor-9.jpg"
