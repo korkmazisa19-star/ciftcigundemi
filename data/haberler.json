@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-11T20:11:00+03:00",
+  "guncelleme": "2026-11-11T23:09:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,40 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "kilis-510-ton-sertifikali-tohum-dagitimi-2026",
+      "kategori": "Hibe",
+      "tarih": "2026-11-11",
+      "eklenme": "2026-11-11T23:09:00+03:00",
+      "motif": "tohum",
+      "baslik": "Kilis'te üreticilere 20 milyon liralık destekle 510 ton sertifikalı tohum dağıtıldı",
+      "manset": "Kilisli çiftçiye \"510 ton\" tohum",
+      "ozet": "Kilis'te düzenlenen sertifikalı tohum dağıtım programında üreticilere toplam 510 ton tohum verildi; destek tutarı 20 milyon lira. Tarım ve Orman Bakanlığının yüzde 75 hibesiyle 110 ton mercimek ve nohut tohumu dağıtıldı. Valilik, İl Özel İdaresi ve Kilis Belediyesinin yüzde 50 hibesiyle de 325 ton buğday ve 75 ton arpa tohumu çiftçiye ulaştı. Açıklamaya göre 2022'den bu yana 6 bin 340 üretici 82 milyon liralık tohum ve fide projelerinden yararlandı, 2026'da ile sağlanan tarımsal destek 326,67 milyon liraya ulaştı.",
+      "neYapmali": "Sonraki hibeli tohum ve fide dağıtımlarından yararlanmak için ÇKS kaydınızı güncel tutun ve duyuruları Kilis İl Tarım ve Orman Müdürlüğü ile valilikten takip edin.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/kilis-haberleri/kiliste-510-ton-sertifikali-tohum-ciftcilere-dagitildi-514619490"
+        }
+      ]
+    },
+    {
+      "id": "edremit-zeytinyagi-cografi-isaret-basvuru-12-23-kasim-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-11",
+      "eklenme": "2026-11-11T23:08:00+03:00",
+      "motif": "zeytin",
+      "baslik": "Edremit Zeytinyağı coğrafi işareti için 2026-2027 başvuruları 12 Kasım'da açılıyor",
+      "manset": "Coğrafi işarette son gün \"23 Kasım\"",
+      "ozet": "Edremit Ticaret Odası, 2026-2027 üretim sezonunda \"Edremit Zeytinyağı\" coğrafi işaretini kullanmak isteyenler için başvuru sürecini başlattı. Üreticiler ve marka sahibi firmalar, istenen belgeleri eksiksiz hazırlayarak 12-23 Kasım 2026 tarihleri arasında odaya teslim edebilecek. Başvuru dilekçesi ile taahhütname başvuru sırasında oda tarafından düzenlenecek. Coğrafi işaret, Körfez zeytinyağının menşeini belgelediği için markalı satışta üreticiye avantaj sağlıyor.",
+      "neYapmali": "Edremit Zeytinyağı etiketini bu sezon kullanmak istiyorsanız gerekli belgeleri hazırlayıp 12-23 Kasım arasında Edremit Ticaret Odası'na başvurun; eksik evrak listesini önceden odadan teyit edin.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/balikesir-haberleri/edremit-zeytinyagi-icin-cografi-isaret-basvurulari-basladi-514517178"
+        }
+      ]
+    },
     {
       "id": "eskisehir-mavi-sertifikali-zeytin-fidani-basvuru-15-kasim-2026",
       "kategori": "Hibe",
@@ -4237,46 +4271,6 @@
       "manset": "Sapanca'ya \"25,5 milyar liralık\" plan"
     },
     {
-      "id": "elbistan-sap-karantinasi-5-mahalle",
-      "kategori": "Hayvancılık",
-      "tarih": "2026-10-31",
-      "motif": "sut",
-      "baslik": "Elbistan'da şap karantinası: 5 mahallede hayvan giriş-çıkışı yasaklandı",
-      "ozet": "Kahramanmaraş'ın Elbistan ilçesine bağlı Pınarbaşı Mahallesi'nde şap vakası tespit edildi. Hayvan Sağlık Zabıta Komisyonu kararıyla Pınarbaşı, Kızılcaoba, Cumhuriyet, Yeşilyurt ve Taşburun mahalleleri karantinaya alındı; bu mahallelerde hayvan giriş ve çıkışı yeni bir duyuruya kadar yasak. Elbistan Belediyesi Hayvan Borsası çevre illerdeki vakalar nedeniyle 25 Eylül'den beri kapalı. İlçede yoğun aşılama başlatıldı.",
-      "neYapmali": "Hayvanlarınızda ağızda yara, salya, topallık gibi belirtiler görürseniz hemen ilçe tarım müdürlüğüne bildirin; ahıra yabancı giriş-çıkışını sınırlayın ve dezenfeksiyona dikkat edin.",
-      "kaynaklar": [
-        {
-          "ad": "Ankara Masası",
-          "url": "https://www.ankaramasasi.com.tr/haber/2226763/elbistan-da-sap-karantinasi-hayvan-giris-ve-cikislari-yasaklandi"
-        }
-      ],
-      "eklenme": "2026-11-04T07:23:00+03:00",
-      "gorsel": "assets/envato/elbistan-sap-karantinasi-5-mahalle.jpg",
-      "gorselKucuk": "assets/envato/elbistan-sap-karantinasi-5-mahalle-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato",
-      "manset": "Elbistan'da \"şap karantinası\""
-    },
-    {
-      "id": "antalya-tavsan-yuregi-zeytin-hasadi",
-      "kategori": "Bitkisel Üretim",
-      "tarih": "2026-10-30",
-      "motif": "zeytin",
-      "baslik": "Antalya'nın coğrafi işaretli tavşan yüreği zeytininde 10 bin ton rekolte bekleniyor",
-      "ozet": "Yalnızca Antalya'da yetişen ve 2018'de Antalya Ticaret Borsası tarafından coğrafi işaretle tescillenen tavşan yüreği zeytininde hasat başladı. Geçen yıl yaklaşık 6 bin ton olan üretimin bu yıl 10 bin tona çıkması bekleniyor. Sofralık tavşan yüreği perakendede kilosu 80-100 liradan satılıyor. Zeytinpark Genel Müdürü Bayram Çarkçıgil, soğuk sıkımın yaklaşık 15 gün sonra başlayacağını söyledi. Bir uzman ise laboratuvar bulgularının zeytinyağının ilaç yerine geçtiği anlamına gelmediği uyarısında bulundu.",
-      "neYapmali": "Yağlık zeytinde verim ve kaliteyi korumak için hasattan sonra zeytini 24-48 saat içinde yağhaneye ulaştırın ve çuval yerine kasa kullanın.",
-      "kaynaklar": [
-        {
-          "ad": "DHA",
-          "url": "https://www.dha.com.tr/foto-galeri/antalyada-cografi-isaretli-tavsan-yuregi-zeytininde-10-bin-ton-rekolte-beklentisi-2972107"
-        }
-      ],
-      "eklenme": "2026-11-04T07:22:00+03:00",
-      "gorsel": "assets/iha/antalya-tavsan-yuregi-zeytin-hasadi.jpg",
-      "gorselKucuk": "assets/iha/antalya-tavsan-yuregi-zeytin-hasadi-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA",
-      "manset": "Tavşan yüreğinde \"10 bin ton\" rekolte"
-    },
-    {
       "id": "tigem-bugday-arpa-narenciye-ihalesi-kasim",
       "kategori": "Piyasa",
       "tarih": "2026-10-28",
@@ -4389,6 +4383,12 @@
       "baslik": "Tohum ve gübre desteği",
       "kapsam": "Ankara",
       "haber": "ankara-tohum-gubre"
+    },
+    {
+      "tarih": "2026-11-23",
+      "baslik": "Edremit Zeytinyağı coğrafi işaret başvurusu son gün",
+      "kapsam": "Balıkesir (Edremit)",
+      "haber": "edremit-zeytinyagi-cografi-isaret-basvuru-12-23-kasim-2026"
     },
     {
       "tarih": "2026-11-27",
