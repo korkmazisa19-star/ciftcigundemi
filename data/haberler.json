@@ -77,7 +77,10 @@
           "ad": "Yeni Asır",
           "url": "https://www.yeniasir.com.tr/gundem/2026/11/11/peynir-uretiminde-yeni-donem"
         }
-      ]
+      ],
+      "gorsel": "assets/envato/peynir-tebligi-koy-peyniri-yasak-30-nisan-2027.jpg",
+      "gorselKucuk": "assets/envato/peynir-tebligi-koy-peyniri-yasak-30-nisan-2027-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
     },
     {
       "id": "yumakli-cop31-iklime-dayanikli-tohum-su-mesaji-2026",
@@ -94,7 +97,10 @@
           "ad": "Takvim",
           "url": "https://www.takvim.com.tr/guncel/2026/11/10/bakan-yumaklidan-cop31de-gida-guvenligi-mesaji"
         }
-      ]
+      ],
+      "gorsel": "assets/envato/yumakli-cop31-iklime-dayanikli-tohum-su-mesaji-2026.jpg",
+      "gorselKucuk": "assets/envato/yumakli-cop31-iklime-dayanikli-tohum-su-mesaji-2026-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
     },
     {
       "id": "mugla-tarimsal-kuraklik-il-kriz-merkezi-toplanti-2026",
@@ -4833,12 +4839,9 @@
       "sera": [
         "sera-6.jpg"
       ],
-      "sut": [
-        "sut-8.jpg"
-      ],
+      "sut": [],
       "tohum": [
         "tohum-6.jpg",
-        "tohum-7.jpg",
         "tohum-8.jpg"
       ],
       "traktor": [
