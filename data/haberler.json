@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-10T23:10:16+03:00",
+  "guncelleme": "2026-11-11T08:10:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,40 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "mugla-tarimsal-kuraklik-il-kriz-merkezi-toplanti-2026",
+      "kategori": "Zirai Don",
+      "tarih": "2026-11-11",
+      "eklenme": "2026-11-11T08:10:00+03:00",
+      "motif": "sera",
+      "baslik": "Muğla'da Tarımsal Kuraklık Kriz Merkezi toplandı: Su kaynakları ve üretim riski masaya yatırıldı",
+      "manset": "Muğla'da \"kuraklık\" alarmı masada",
+      "ozet": "Muğla'da Tarımsal Kuraklık İl Kriz Merkezi, Vali Yardımcısı Ahmet Ferhat Özen başkanlığında toplandı. Toplantıda Meteoroloji, DSİ 213. Şube ve İl Tarım ve Orman Müdürlüğü uzmanları meteorolojik veriler, su kaynaklarının durumu ve tarımsal üretime etkiler üzerine sunum yaptı. Kuraklık riskine karşı alınacak tedbirler ve kurumlar arası iş birliği görüşülerek kararlar imza altına alındı. Kriz merkezi, riskleri önceden belirleme ve suyu verimli kullanma hedefiyle çalışmalarını sürdürecek.",
+      "neYapmali": "Muğlalı üreticiler sulamada damla ve yağmurlama gibi tasarruflu yöntemleri tercih etmeli, kuraklıkla ilgili tedbir ve destek duyuruları için il ve ilçe tarım müdürlüklerini takip etmeli.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/mugla-haberleri/muglada-tarimsal-kuraklik-riskine-karsi-onlemler-degerlendirildi-514208103"
+        }
+      ]
+    },
+    {
+      "id": "kastamonu-kure-19-ariciya-210-strafor-kovan-2026",
+      "kategori": "Hibe",
+      "tarih": "2026-11-10",
+      "eklenme": "2026-11-11T08:09:00+03:00",
+      "motif": "kovan",
+      "baslik": "Küre'de 19 arıcıya yüzde 75 hibeyle 210 strafor kovan dağıtıldı",
+      "manset": "Arıcıya \"yüzde 75\" hibeli kovan",
+      "ozet": "Kastamonu İl Tarım ve Orman Müdürlüğü'nün Strafor Arı Kovanı Projesi kapsamında Küre ilçesindeki 19 arıcıya toplam 210 kovan teslim edildi. Bütçesi 730 bin lira olan projede kovanların bedelinin yüzde 75'i hibe olarak karşılandı. Strafor kovanlarla arı kolonilerinin sert kış koşullarından daha az etkilenmesi ve kış kayıplarının azaltılması amaçlanıyor. Teslim töreni 10 Kasım'da ilçede düzenlendi; törene İl Tarım ve Orman Müdürü Ahmet Kılıç ile ilçe protokolü ve arıcılar birliği temsilcisi katıldı.",
+      "neYapmali": "Benzer hibeli kovan projelerinden yararlanmak isteyen arıcılar, il ve ilçe tarım ve orman müdürlüklerinin duyurularını takip edip arıcılık kayıt sistemindeki bilgilerini güncel tutmalı.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/kastamonu-haberleri/kurede-19-ariciya-210-yeni-kovan-teslim-edildi-513856357"
+        }
+      ]
+    },
     {
       "id": "mersin-mut-125-kucukbas-20-ton-yem-solar-kamera-2026",
       "kategori": "Destek",
@@ -4251,50 +4285,6 @@
       "manset": "COP31 öncesi \"tarım ve su\" gündemi"
     },
     {
-      "id": "gemlik-yaglik-zeytin-maliyeti-58-tl",
-      "kategori": "Piyasa",
-      "tarih": "2026-10-28",
-      "motif": "zeytin",
-      "baslik": "Gemlik Ziraat Odası: 1 kilo yağlık zeytinin maliyeti 58,14 lira",
-      "ozet": "Gemlik Ziraat Odası'nın hesabına göre dekar başına zeytin üretim maliyeti 44.132 lira. Hesapta dekarda 33 ağaç, ağaç başına 23 kilogram ve dekarda 759 kilogram verim esas alındı; bu durumda 1 kilogram yağlık zeytinin maliyeti 58,14 liraya ulaşıyor. En büyük kalemler hasat (8.000 lira), budama (6.750 lira) ve toprak işleme (5.500 lira). Oda Başkanı Ercan Barutçuoğlu, üreticinin emeğini karşılayacak bir fiyat beklediklerini söyledi.",
-      "neYapmali": "Kendi bahçenizin maliyetini aynı kalemlerle hesaplayın; satış fiyatı maliyetin altındaysa ürünü yağa çevirip saklamak ya da kooperatife vermek daha kârlı olabilir.",
-      "kaynaklar": [
-        {
-          "ad": "Yeni Marmara Gazetesi",
-          "url": "https://www.yenimarmaragazetesi.com/ekonomi/gemlik-te-1-kilo-yaglik-zeytinin-maliyeti-58-14-tl-240263"
-        }
-      ],
-      "eklenme": "2026-11-04T07:14:00+03:00",
-      "gorsel": "assets/iha/gemlik-yaglik-zeytin-maliyeti-58-tl.jpg",
-      "gorselKucuk": "assets/iha/gemlik-yaglik-zeytin-maliyeti-58-tl-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA",
-      "manset": "Yağlık zeytin maliyeti \"58,14 lira\""
-    },
-    {
-      "id": "pancar-besinci-avans-952-milyon",
-      "kategori": "Destek",
-      "tarih": "2026-10-28",
-      "motif": "pancar",
-      "baslik": "Pancar üreticisine 952 milyon liralık beşinci avans ödendi",
-      "ozet": "Tarım ve Orman Bakanı İbrahim Yumaklı, TÜRKŞEKER'e pancar veren üreticilerin hesaplarına 952 milyon liralık beşinci avans ödemesinin yatırıldığını açıkladı. Kurumun 14 şeker fabrikasında 2026-2027 alım kampanyası eylülde başlamıştı. Bakanlık 13 Ekim'de bu yılın alım fiyatını kota tamamlama primi dahil ton başına 3.720 lira olarak duyurmuştu; bu, geçen sezonun 3.100 liralık fiyatından yüzde 20 fazla. TZOB Genel Başkanı Şemsi Bayraktar ise açıklanan fiyatın beklentinin altında kaldığını ve revize edilmesi gerektiğini söyledi.",
-      "neYapmali": "Avansın hesabınıza geçip geçmediğini bağlı olduğunuz fabrika ya da pancar kooperatifinden teyit edin. Teslim ettiğiniz pancar miktarını ve kesintileri sözleşmenizle karşılaştırarak kayıt altında tutun.",
-      "kaynaklar": [
-        {
-          "ad": "Endeks24",
-          "url": "https://www.endeks24.com/pancar-ureticilerine-besinci-avans-odemesi-hesaplara-yatirildi"
-        },
-        {
-          "ad": "Bloomberg HT",
-          "url": "https://www.bloomberght.com/turkseker-seker-pancari-alim-fiyatini-acikladi-3791252"
-        }
-      ],
-      "eklenme": "2026-11-04T07:13:00+03:00",
-      "gorsel": "assets/iha/pancar-besinci-avans-952-milyon.jpg",
-      "gorselKucuk": "assets/iha/pancar-besinci-avans-952-milyon-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA (temsili)",
-      "manset": "Pancara \"952 milyon liralık\" avans"
-    },
-    {
       "id": "ankara-tohum-gubre",
       "kategori": "Hibe",
       "tarih": "2026-10-23",
@@ -4340,18 +4330,6 @@
     }
   ],
   "takvim": [
-    {
-      "tarih": "2026-11-10",
-      "baslik": "TİGEM narenciye açık artırması",
-      "kapsam": "Boztepe Tarım İşletmesi",
-      "haber": "tigem-bugday-arpa-narenciye-ihalesi-kasim"
-    },
-    {
-      "tarih": "2026-11-10",
-      "baslik": "Samsun KKYP yedek liste ilanı sona eriyor",
-      "kapsam": "Samsun",
-      "haber": "samsun-kkyp-yedek-liste-6-basvuru-hibe-hakki"
-    },
     {
       "tarih": "2026-11-11",
       "baslik": "TİGEM buğday-arpa ihalesi",
