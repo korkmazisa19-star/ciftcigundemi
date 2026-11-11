@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
-<url><loc>https://ciftcigundemi.com/</loc><lastmod>2026-11-11T08:10:00+03:00</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
+<url><loc>https://ciftcigundemi.com/</loc><lastmod>2026-11-11T12:13:00+03:00</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
 <url><loc>https://ciftcigundemi.com/hakkimizda/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
 <url><loc>https://ciftcigundemi.com/gizlilik-politikasi/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
 <url><loc>https://ciftcigundemi.com/kvkk-aydinlatma-metni/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
 <url><loc>https://ciftcigundemi.com/cerez-politikasi/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
 <url><loc>https://ciftcigundemi.com/iletisim/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
+<url><loc>https://ciftcigundemi.com/haber/peynir-tebligi-koy-peyniri-yasak-30-nisan-2027/</loc><lastmod>2026-11-11T12:13:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-11T12:13:00+03:00</news:publication_date><news:title>Yeni Peynir Tebliği yürürlükte: &quot;Köy peyniri&quot; etiketi kalkıyor, işletmelere 30 Nisan 2027&#x27;ye kadar süre</news:title></news:news></url>
+<url><loc>https://ciftcigundemi.com/haber/yumakli-cop31-iklime-dayanikli-tohum-su-mesaji-2026/</loc><lastmod>2026-11-11T12:12:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-11T12:12:00+03:00</news:publication_date><news:title>Bakan Yumaklı COP31&#x27;de: Kuraklığa ve sıcağa dayanıklı tohumlar üretime girmeli</news:title></news:news></url>
 <url><loc>https://ciftcigundemi.com/haber/mugla-tarimsal-kuraklik-il-kriz-merkezi-toplanti-2026/</loc><lastmod>2026-11-11T08:10:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-11T08:10:00+03:00</news:publication_date><news:title>Muğla&#x27;da Tarımsal Kuraklık Kriz Merkezi toplandı: Su kaynakları ve üretim riski masaya yatırıldı</news:title></news:news></url>
 <url><loc>https://ciftcigundemi.com/haber/kastamonu-kure-19-ariciya-210-strafor-kovan-2026/</loc><lastmod>2026-11-11T08:09:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-11T08:09:00+03:00</news:publication_date><news:title>Küre&#x27;de 19 arıcıya yüzde 75 hibeyle 210 strafor kovan dağıtıldı</news:title></news:news></url>
 <url><loc>https://ciftcigundemi.com/haber/mersin-mut-125-kucukbas-20-ton-yem-solar-kamera-2026/</loc><lastmod>2026-11-10T23:10:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-10T23:10:00+03:00</news:publication_date><news:title>Mersin Büyükşehir Mut&#x27;ta 5 yetiştiriciye 125 küçükbaş ve 20 ton yem verdi</news:title></news:news></url>
@@ -201,9 +203,7 @@
 <url><loc>https://ciftcigundemi.com/haber/lalahan-genomik-test-merkezi-buzagi-kaybi-20-bin/</loc><lastmod>2026-11-04T07:20:00+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/tmo-kasim-hububat/</loc><lastmod>2026-11-04T07:19:00+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/corum-pancar-dekarda-15-ton/</loc><lastmod>2026-11-04T07:18:00+03:00</lastmod></url>
-<url><loc>https://ciftcigundemi.com/haber/sinop-kdakp-genc-kadin-ciftci-185-milyon-hibe/</loc><lastmod>2026-11-04T07:17:00+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/tigem-bugday-arpa-narenciye-ihalesi-kasim/</loc><lastmod>2026-11-04T07:16:00+03:00</lastmod></url>
-<url><loc>https://ciftcigundemi.com/haber/cop31-antalya-atb-tarim-su-gundemi/</loc><lastmod>2026-11-04T07:15:00+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/ankara-tohum-gubre/</loc><lastmod>2026-11-04T07:06:00+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/cks-2027-son-gun-31-aralik/</loc><lastmod>2026-11-03T12:00:00+03:00</lastmod></url>
 </urlset>
