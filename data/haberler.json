@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-11T12:13:00+03:00",
+  "guncelleme": "2026-11-11T15:14:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,52 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "milli-agaclandirma-gunu-ankara-45-bin-600-fidan-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-11",
+      "eklenme": "2026-11-11T15:14:00+03:00",
+      "motif": "tohum",
+      "baslik": "11 Kasım Milli Ağaçlandırma Günü'nde 81 ilde fidan dikildi: Ankara'da 16 noktaya 45 bin 600 fidan",
+      "manset": "Ankara'da tek günde \"45 bin\" fidan",
+      "ozet": "Milli Ağaçlandırma Günü dolayısıyla 11 Kasım'da 81 ilde eş zamanlı fidan dikimi yapıldı; Tarım ve Orman Bakanı İbrahim Yumaklı yaptığı açıklamada Yeşil Vatan Seferberliği kapsamında milyonlarca fidanın toprakla buluştuğunu bildirdi, ancak ülke geneli toplam sayıyı henüz paylaşmadı. Ankara'da Orman Bölge Müdürlüğü 16 noktada 45 bin 600 fidan dikti; bunların 10 bini Atatürk Orman Çiftliği'nde 8 hektarlık alana sedir, kızılçam ve karaçam olarak toprağa verildi. Ankara Orman Bölge Müdürü Esat Şimşek, kentte son 23 yılda 180 bin hektara 126 milyon fidan dikildiğini ve yıl sonuna kadar 2 milyon fidan daha hedeflendiğini söyledi. Giresun'da 12 noktada 84 hektara 167 bin 500, Ağrı'da ise valiliğin açıklamasına göre 125 bin fidan dikildi.",
+      "neYapmali": "Tarla kenarı, mera sınırı ya da erozyon riski taşıyan araziler için ağaçlandırma ve fidan talebi olan üreticiler bölgedeki orman işletme şefliği ya da orman bölge müdürlüğüne başvurabilir; dikim için kış başı uygun dönemdir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA (Son Dakika)",
+          "url": "https://www.sondakika.com/cevre/haber-gelecege-nefes-dunyaya-baris-ankara-da-45-bin-600--20416999/"
+        },
+        {
+          "ad": "Anadolu Ajansı",
+          "url": "https://www.aa.com.tr/tr/gundem/milli-agaclandirma-gununde-milyonlarca-fidan-toprakla-bulusturuluyor/4120059"
+        },
+        {
+          "ad": "İHA (Son Dakika) - Giresun",
+          "url": "https://www.sondakika.com/cevre/haber-giresun-da-167-bin-500-fidan-toprakla-bulustu-20417163/"
+        }
+      ]
+    },
+    {
+      "id": "aydin-soke-ata-tohumu-kislik-fide-dagitimi-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-11",
+      "eklenme": "2026-11-11T15:13:00+03:00",
+      "motif": "sera",
+      "baslik": "Söke'de ata tohumundan yetiştirilen kışlık sebze fideleri ücretsiz dağıtıldı",
+      "manset": "Ata tohumundan kışlık fide \"ücretsiz\"",
+      "ozet": "Aydın Büyükşehir Belediyesi'nin kendi fidanlıklarında yerel ata tohumlarından ürettiği kışlık sebze fideleri 11 Kasım'da Söke'de vatandaşlara ücretsiz verildi. Dağıtımda marul, lahana, karnabahar ve brokoli fideleri yer aldı. Söke Belediye Başkanı Mustafa İberya Arıkan da dağıtıma katılarak fideleri ilçe sakinlerine teslim etti. Uygulama, yerel tohumların korunması ve yeniden üretime kazandırılması amacıyla yürütülüyor; dağıtılan fide sayısı açıklanmadı.",
+      "neYapmali": "Kışlık sebze dikimi için fide almak isteyen Aydınlılar, sonraki dağıtım tarihlerini Aydın Büyükşehir Belediyesi'nin tarım hizmetleri biriminden ya da ilçe belediyesinden öğrenebilir; fideler dikimden sonra don gecelerinde örtüyle korunmalı.",
+      "kaynaklar": [
+        {
+          "ad": "İHA (Mersin Haber)",
+          "url": "https://www.mersinhaber.com/haber-sokede-vatandaslara-ata-tohumlarindan-uretilen-kislik-fideler-dagitildi-aydin/847200"
+        },
+        {
+          "ad": "İHA (Herkes Duysun)",
+          "url": "https://herkesduysun.com/gundem/soke-de-vatandaslara-ata-tohumlari-ndan-uretilen-kislik-fideler-dagitildi-111126466/"
+        }
+      ]
+    },
     {
       "id": "peynir-tebligi-koy-peyniri-yasak-30-nisan-2027",
       "kategori": "Hayvancılık",
@@ -4229,46 +4275,6 @@
       "gorselKucuk": "assets/envato/lalahan-genomik-test-merkezi-buzagi-kaybi-20-bin-k.jpg",
       "gorselKaynak": "Temsili fotoğraf: Envato",
       "manset": "Buzağı kaybında tazminat \"20 bin lira\""
-    },
-    {
-      "id": "tmo-kasim-hububat",
-      "kategori": "Piyasa",
-      "tarih": "2026-10-30",
-      "baslik": "TMO Kasım'da 5,5 milyon ton hububatı zamsız satışa sunuyor",
-      "ozet": "Toprak Mahsulleri Ofisi Kasım ayında da piyasaya 5,5 milyon ton ürün arz edecek. Satışlar hasat başında açıklanan fiyatlardan sürüyor, fiyat artışı yapılmadı. Ayrıca 1 milyon ton yemlik buğday, vade farksız 90 gün vadeyle ya da kredi kartına üç taksitle satışa açıldı. 1 Eylül'den bu yana yaklaşık 1,5 milyon ton hububat satıldı.",
-      "neYapmali": "Besici ve yetiştiriciyseniz yemlik buğdaydaki vadeli satış imkânı maliyet planınızı rahatlatabilir. Ayrıntılar TMO ve TÜRİB üzerinden duyuruluyor.",
-      "kaynaklar": [
-        {
-          "ad": "Bloomberg HT",
-          "url": "https://www.bloomberght.com/tmo-kasim-da-piyasaya-5-5-milyon-ton-hububat-arz-edecek-3792957"
-        }
-      ],
-      "motif": "bugday",
-      "eklenme": "2026-11-04T07:19:00+03:00",
-      "gorsel": "assets/envato/tmo-kasim-hububat.jpg",
-      "gorselKucuk": "assets/envato/tmo-kasim-hububat-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato",
-      "manset": "TMO'dan \"zamsız\" hububat satışı"
-    },
-    {
-      "id": "corum-pancar-dekarda-15-ton",
-      "kategori": "Bitkisel Üretim",
-      "tarih": "2026-10-29",
-      "motif": "pancar",
-      "baslik": "Çorumlu üretici: Pancarda dekardan 15 ton aldık, zarar etmedik",
-      "ozet": "Çorum'da yaklaşık 500 dekar arazide üretim yapan Mustafa Ertuğrul, bu yıl şeker pancarında dekar başına 15 tona kadar verim aldığını ve kilogramını 3,75 liradan sattığını söyledi. Ertuğrul'a göre dekardaki maliyeti yaklaşık 4 tonluk ürün karşılıyor ve dekar başına 10-25 bin lira kâr kalıyor. Pancarın zarar ettirdiğini söyleyen üreticilere video ile yanıt veren Ertuğrul'un rakamları kendi işletmesine ait; verim ve maliyet bölgeye ve sulama imkânına göre büyük farklılık gösteriyor.",
-      "neYapmali": "Pancar ekip ekmeme kararı için kendi parselinizin son 3 yıllık verimi ve sulama maliyetiyle hesap yapın; fabrika avans ve ödeme takvimini sözleşmeden kontrol edin.",
-      "kaynaklar": [
-        {
-          "ad": "Milliyet Uzmanpara",
-          "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/donum-basina-60-bin-lira-kar-kaliyor-15-ton-uretiyoruz-4-tonu-giderleri-karsiliyor-7690146"
-        }
-      ],
-      "eklenme": "2026-11-04T07:18:00+03:00",
-      "gorsel": "assets/iha/corum-pancar-dekarda-15-ton.jpg",
-      "gorselKucuk": "assets/iha/corum-pancar-dekarda-15-ton-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA",
-      "manset": "Pancarda dekardan \"15 ton\" verim"
     },
     {
       "id": "tigem-bugday-arpa-narenciye-ihalesi-kasim",
