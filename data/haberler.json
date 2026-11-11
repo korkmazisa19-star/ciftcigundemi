@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-11T08:10:00+03:00",
+  "guncelleme": "2026-11-11T12:13:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,44 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "peynir-tebligi-koy-peyniri-yasak-30-nisan-2027",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-10",
+      "eklenme": "2026-11-11T12:13:00+03:00",
+      "motif": "sut",
+      "baslik": "Yeni Peynir Tebliği yürürlükte: \"Köy peyniri\" etiketi kalkıyor, işletmelere 30 Nisan 2027'ye kadar süre",
+      "manset": "Ambalajda \"köy peyniri\" dönemi bitiyor",
+      "ozet": "Tarım ve Orman Bakanlığı'nın hazırladığı Türk Gıda Kodeksi Peynir Tebliği Resmî Gazete'de yayımlanarak 2015'ten beri uygulanan tebliğin yerini aldı. Yeni düzenlemeyle peynir ambalajlarında \"köy peyniri\", \"doğal peynir\", \"geleneksel peynir\" ve \"çiftlik peyniri\" ifadeleri kullanılamayacak; üretimde süt yağı dışındaki yağlar, süt proteini dışındaki proteinler, nişasta, jelatin ve soya ürünleri de yasaklandı. Çiğ ya da termize sütten yapılan ve haşlanmayan peynirlerin satıştan önce en az 4 ay olgunlaştırılması, olgunlaştırılmayan peynirlerde ise sütün en az pastörizasyon düzeyinde ısıl işlem görmesi gerekiyor. Peynirler depolama, taşıma ve satışta 10 derecenin altında tutulacak. Mevcut işletmelere uyum için 30 Nisan 2027'ye kadar süre tanındı.",
+      "neYapmali": "Peynir yapıp satan üretici ve mandıralar etiketlerini, olgunlaştırma sürelerini ve soğuk zinciri yeni kurallara göre gözden geçirmeli; ayrıntılar için il tarım ve orman müdürlüğünün gıda kontrol birimine danışılabilir.",
+      "kaynaklar": [
+        {
+          "ad": "Takvim",
+          "url": "https://www.takvim.com.tr/guncel/2026/11/10/peynir-uretiminde-yeni-donem"
+        },
+        {
+          "ad": "Yeni Asır",
+          "url": "https://www.yeniasir.com.tr/gundem/2026/11/11/peynir-uretiminde-yeni-donem"
+        }
+      ]
+    },
+    {
+      "id": "yumakli-cop31-iklime-dayanikli-tohum-su-mesaji-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-10",
+      "eklenme": "2026-11-11T12:12:00+03:00",
+      "motif": "tohum",
+      "baslik": "Bakan Yumaklı COP31'de: Kuraklığa ve sıcağa dayanıklı tohumlar üretime girmeli",
+      "manset": "Eski tohumlar \"artık yetmiyor\"",
+      "ozet": "Tarım ve Orman Bakanı İbrahim Yumaklı, Antalya'da süren BM İklim Değişikliği Konferansı COP31'de yaptığı açıklamalarda, iklim kaynaklı olağan dışı hava olaylarının tarımda yeni normal haline geldiğini söyledi. Yumaklı, kuraklığın yanı sıra şiddetli yağış ve selin de üretime ciddi zarar verdiğini belirterek krizi değil riski yönetmeyi hedeflediklerini vurguladı. Bakan, şimdiye kadar kullanılan tohumların yeterli olmadığını, kuraklığa ve sıcağa dayanıklı çeşitlerin üretime kazandırılması için Ar-Ge çalışmalarının sürdüğünü aktardı. Bakanlığın COP31'de tarım ve gıda başlıklarında 46 etkinlik düzenleyeceği, su verimliliğinin ve kadın ile genç çiftçilerin üretimde tutulmasının öncelikler arasında olduğu belirtildi.",
+      "neYapmali": "Çiftçiler ekim planı yaparken bölgelerine uygun, kuraklığa dayanıklı sertifikalı çeşitler hakkında il ve ilçe tarım müdürlüklerinden bilgi alabilir; sulamada damla ve yağmurlama gibi su tasarruflu yöntemlere ilişkin destekleri takip edebilir.",
+      "kaynaklar": [
+        {
+          "ad": "Takvim",
+          "url": "https://www.takvim.com.tr/guncel/2026/11/10/bakan-yumaklidan-cop31de-gida-guvenligi-mesaji"
+        }
+      ]
+    },
     {
       "id": "mugla-tarimsal-kuraklik-il-kriz-merkezi-toplanti-2026",
       "kategori": "Zirai Don",
@@ -4227,26 +4265,6 @@
       "manset": "Pancarda dekardan \"15 ton\" verim"
     },
     {
-      "id": "sinop-kdakp-genc-kadin-ciftci-185-milyon-hibe",
-      "kategori": "Hibe",
-      "tarih": "2026-10-28",
-      "motif": "para",
-      "baslik": "Sinop'ta genç ve kadın çiftçilere 185 milyon liralık hibe",
-      "ozet": "Sinop İl Tarım ve Orman Müdürü Murat Genc, Kırsal Dezavantajlı Alanlar Kalkınma Projesi (KDAKP) kapsamında 2020-2026 döneminde 1.074 üreticiye toplam 185 milyon lira hibe verildiğini açıkladı. Yalnızca bu yıl 316 üreticiye 65 milyon lira destek sağlandı. Hibelerin yaklaşık yüzde 43'ü kadınlara, yüzde 61'i gençlere gitti. Proje kapsamında çayır biçme ve balya makineleri, süt soğutma tankları ve süt sağım makineleri desteklendi; hassas hanelerden 32 kişiye yüzde 100 hibeyle sera kuruldu.",
-      "neYapmali": "KDAKP'nin uygulandığı illerdeyseniz yeni dönem başvuruları için il tarım ve orman müdürlüğünün duyurularını takip edin; genç ve kadın üreticiler öncelikli gruplar arasında.",
-      "kaynaklar": [
-        {
-          "ad": "Milliyet Uzmanpara",
-          "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/genc-ve-kadin-ciftcilere-185-milyon-lira-hibe-destegi-7689329"
-        }
-      ],
-      "eklenme": "2026-11-04T07:17:00+03:00",
-      "gorsel": "assets/envato/sinop-kdakp-genc-kadin-ciftci-185-milyon-hibe.jpg",
-      "gorselKucuk": "assets/envato/sinop-kdakp-genc-kadin-ciftci-185-milyon-hibe-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato",
-      "manset": "Sinop'a \"185 milyon liralık\" hibe"
-    },
-    {
       "id": "tigem-bugday-arpa-narenciye-ihalesi-kasim",
       "kategori": "Piyasa",
       "tarih": "2026-10-28",
@@ -4265,30 +4283,6 @@
       "gorselKucuk": "assets/iha/tigem-bugday-arpa-narenciye-ihalesi-kasim-k.jpg",
       "gorselKaynak": "Fotoğraf: İHA (temsili)",
       "manset": "TİGEM'den \"buğday ve narenciye\" ihalesi"
-    },
-    {
-      "id": "cop31-antalya-atb-tarim-su-gundemi",
-      "kategori": "Bitkisel Üretim",
-      "tarih": "2026-10-28",
-      "motif": "sera",
-      "baslik": "COP31 öncesi Antalya Ticaret Borsası tarım ve suyu öne çıkarıyor",
-      "ozet": "Antalya Ticaret Borsası Başkanı Ali Çandır, 2026'nın temasını 'Su' olarak belirlediklerini ve 9-20 Kasım'da Antalya'da yapılacak COP31 İklim Zirvesi'ne tarım odaklı katkı sunacaklarını söyledi. Borsanın dönem başkanlığını yürüttüğü Antalya Tarım Konseyi'nin mutabakatında akıllı tarım, iklim finansmanı ve su-gıda güvenliği başlıkları yer alıyor. Zirvede Antalya'nın coğrafi işaretli ürünleri Yeşil Bölge'deki 'Antalya Evi'nde tanıtılacak.",
-      "neYapmali": "İklim uyumlu tarım uygulamaları için verilen destek ve hibe çağrılarını takip edin; su tasarrufu sağlayan sulama yatırımları önümüzdeki dönemde öncelikli olacak.",
-      "kaynaklar": [
-        {
-          "ad": "Milliyet",
-          "url": "https://www.milliyet.com.tr/haber/7688943/"
-        },
-        {
-          "ad": "Milliyet",
-          "url": "https://www.milliyet.com.tr/haber/7688942/"
-        }
-      ],
-      "eklenme": "2026-11-04T07:15:00+03:00",
-      "gorsel": "assets/envato/cop31-antalya-atb-tarim-su-gundemi.jpg",
-      "gorselKucuk": "assets/envato/cop31-antalya-atb-tarim-su-gundemi-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato",
-      "manset": "COP31 öncesi \"tarım ve su\" gündemi"
     },
     {
       "id": "ankara-tohum-gubre",
@@ -4419,6 +4413,12 @@
       "baslik": "TMO kabuklu fındık alımı (ürün arzı sürdükçe)",
       "kapsam": "TMO alım noktaları",
       "haber": "tmo-findik-cks-tuccar-manav-2-yil-alim-yasagi"
+    },
+    {
+      "tarih": "2027-04-30",
+      "baslik": "Peynir Tebliği'ne uyum için son gün",
+      "kapsam": "Türkiye geneli",
+      "haber": "peynir-tebligi-koy-peyniri-yasak-30-nisan-2027"
     }
   ],
   "fiyatlar": [
