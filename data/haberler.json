@@ -4662,48 +4662,47 @@
     }
   ],
   "hava": {
-    "donem": "12-16 Kasım",
+    "donem": "13-17 Kasım",
     "iller": [
       {
         "il": "Erzurum",
-        "min": -5,
-        "not": "en soğuk 12 Kasım, −5°C"
+        "min": -3,
+        "not": "en soğuk 13 Kasım, −3°C"
       },
       {
         "il": "Kars",
-        "min": -6,
-        "not": "en soğuk 12 Kasım, −6°C"
+        "min": -4,
+        "not": "en soğuk 13 Kasım, −4°C"
       },
       {
         "il": "Ardahan",
-        "min": -7,
-        "not": "en soğuk 12 Kasım, −7°C"
+        "min": -3,
+        "not": "en soğuk 13 Kasım, −3°C"
       },
       {
         "il": "Van",
-        "min": -4,
-        "not": "en soğuk 12 Kasım, −4°C"
+        "min": -1,
+        "not": "en soğuk 13 Kasım, −1°C"
       },
       {
         "il": "Sivas",
-        "min": -1,
-        "not": "en soğuk 12 Kasım, −1°C"
+        "min": 3
       },
       {
         "il": "Erzincan",
-        "min": 0
-      },
-      {
-        "il": "Kayseri",
         "min": 2
       },
       {
+        "il": "Kayseri",
+        "min": 3
+      },
+      {
         "il": "Konya",
-        "min": 4
+        "min": 7
       },
       {
         "il": "Ankara",
-        "min": 5
+        "min": 6
       },
       {
         "il": "Afyonkarahisar",
@@ -4711,11 +4710,11 @@
       },
       {
         "il": "Eskişehir",
-        "min": 6
+        "min": 7
       },
       {
         "il": "Kütahya",
-        "min": 7
+        "min": 6
       },
       {
         "il": "Uşak",
@@ -4723,7 +4722,7 @@
       },
       {
         "il": "Isparta",
-        "min": 7
+        "min": 8
       },
       {
         "il": "Malatya",
@@ -4731,19 +4730,19 @@
       },
       {
         "il": "Yozgat",
-        "min": 2
-      },
-      {
-        "il": "Çorum",
         "min": 3
       },
       {
+        "il": "Çorum",
+        "min": 6
+      },
+      {
         "il": "Bolu",
-        "min": 5
+        "min": 6
       },
       {
         "il": "Edirne",
-        "min": 7
+        "min": 6
       },
       {
         "il": "Kırklareli",
@@ -4755,19 +4754,19 @@
       },
       {
         "il": "Çanakkale",
-        "min": 13
+        "min": 11
       },
       {
         "il": "Balıkesir",
-        "min": 11
+        "min": 7
       },
       {
         "il": "Bursa",
-        "min": 11
+        "min": 8
       },
       {
         "il": "Manisa",
-        "min": 12
+        "min": 11
       },
       {
         "il": "İzmir",
@@ -4775,7 +4774,7 @@
       },
       {
         "il": "Aydın",
-        "min": 13
+        "min": 12
       },
       {
         "il": "Denizli",
@@ -4783,19 +4782,19 @@
       },
       {
         "il": "Kocaeli",
-        "min": 11
-      },
-      {
-        "il": "Sakarya",
         "min": 10
       },
       {
+        "il": "Sakarya",
+        "min": 8
+      },
+      {
         "il": "Samsun",
-        "min": 11
+        "min": 10
       },
       {
         "il": "Trabzon",
-        "min": 9
+        "min": 10
       },
       {
         "il": "Antalya",
@@ -4807,15 +4806,15 @@
       },
       {
         "il": "Şanlıurfa",
-        "min": 7
+        "min": 9
       },
       {
         "il": "İstanbul",
-        "min": 11
+        "min": 10
       }
     ],
-    "genel": "12-16 Kasım döneminde 36 il merkezinin 6'sında 0°C ve altı bekleniyor; en soğuk değer −7°C ile Ardahan'da, MGM'nin yayımlanmış bir zirai don uyarısı bulunmuyor.",
-    "kaynak": "MGM 5 günlük il merkezi tahmini (11 Kasım 2026 20:15 itibarıyla)",
+    "genel": "Önümüzdeki beş günde 4 il merkezinde gece sıcaklığının 0°C ve altına inmesi bekleniyor; en soğuk il −4°C ile Kars. MGM'nin yürürlükte zirai don uyarısı bulunmuyor.",
+    "kaynak": "MGM 5 günlük il merkezi tahmini (12 Kasım 2026 19:40 itibarıyla)",
     "haber": "mugla-tarimsal-kuraklik-il-kriz-merkezi-toplanti-2026"
   },
   "fotograflar": {
