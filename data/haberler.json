@@ -74,9 +74,9 @@
           "url": "https://www.iha.com.tr/adiyaman-haberleri/kaymakam-algin-dondan-etkilenen-trabzon-hurmasi-bahcelerini-inceledi-514980764"
         }
       ],
-      "gorsel": "assets/envato/adiyaman-golbasi-trabzon-hurmasi-zirai-don-hasar-tespiti-2026.jpg",
-      "gorselKucuk": "assets/envato/adiyaman-golbasi-trabzon-hurmasi-zirai-don-hasar-tespiti-2026-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorsel": "assets/iha/adiyaman-golbasi-trabzon-hurmasi-zirai-don-hasar-tespiti-2026.jpg",
+      "gorselKucuk": "assets/iha/adiyaman-golbasi-trabzon-hurmasi-zirai-don-hasar-tespiti-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "karadeniz-balik-bollugu-tezgahta-kilosu-75-lira-palamut-2026",
@@ -93,7 +93,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/duzce-haberleri/karadenizde-balik-bollugu-tezgahlara-yansidi-kilosu-75-liradan-satiliyor-514954042"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/karadeniz-balik-bollugu-tezgahta-kilosu-75-lira-palamut-2026.jpg",
+      "gorselKucuk": "assets/iha/karadeniz-balik-bollugu-tezgahta-kilosu-75-lira-palamut-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "tunceli-kirsal-kalkinma-21-proje-112-milyon-hibe-2026",
@@ -4837,6 +4840,7 @@
         "bugday-8.jpg"
       ],
       "don": [
+        "don-6.jpg",
         "don-7.jpg",
         "don-8.jpg"
       ],
