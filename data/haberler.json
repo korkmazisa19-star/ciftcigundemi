@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-12T12:12:00+03:00",
+  "guncelleme": "2026-11-12T15:10:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,40 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "manisa-buyuksehir-144-tarim-makinesi-21-milyon-ziraat-odalari-2026",
+      "kategori": "Makine",
+      "tarih": "2026-11-12",
+      "eklenme": "2026-11-12T15:10:00+03:00",
+      "motif": "traktor",
+      "baslik": "Manisa Büyükşehir'den 16 ziraat odasına 21 milyon liralık 144 tarım makinesi",
+      "manset": "Çiftçinin ortak kullanımına \"144 makine\"",
+      "ozet": "Manisa Büyükşehir Belediyesi, 16 ilçe ziraat odasına toplam yaklaşık 21 milyon lira değerinde 144 yeni nesil tarım makinesi teslim etti. Zeytin eleğinden mibzere, taş toplama makinesinden sulama ekipmanına uzanan makineler, küçük üreticinin tek başına almakta zorlandığı ekipmanlar arasından ilçelerin ürün desenine göre seçildi. Teslim programı Akhisar'da yapıldı ve makineler odalar aracılığıyla çiftçilerin ortak kullanımına sunuldu. Belediye yetkilileri, bu yıl çiftçilere sağlanan toplam desteğin 600 milyon liraya yaklaştığını açıkladı.",
+      "neYapmali": "Manisa'daki üreticiler makinelerden yararlanma koşullarını ve sırasını öğrenmek için bağlı oldukları ilçe ziraat odasına başvurabilir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/manisa-haberleri/manisa-tarimina-21-milyon-liralik-makine-destegi-514986659"
+        }
+      ]
+    },
+    {
+      "id": "eskisehir-seyitgazi-252-ureticiye-sivi-gubre-destegi-2026",
+      "kategori": "Destek",
+      "tarih": "2026-11-12",
+      "eklenme": "2026-11-12T15:09:00+03:00",
+      "motif": "tohum",
+      "baslik": "Eskişehir'de 252 üreticiye 7 bin 560 litre sıvı gübre dağıtıldı",
+      "manset": "Seyitgazi'de \"7 bin 560 litre\" gübre",
+      "ozet": "Eskişehir Büyükşehir Belediyesi, Seyitgazi Belediyesi ile birlikte ilçedeki Çiftçi Destekleme Eğitim Merkezi'nde (ÇİDEM) 252 üreticiye toplam 7 bin 560 litre sıvı gübre verdi. Dağıtım, yükselen girdi maliyetleri karşısında üreticinin yükünü hafifletmek ve verimi artırmak amacıyla yapıldı. Programda üreticilere doğru gübreleme teknikleri üzerine eğitim de verildi. Etkinliğe belediye yöneticileri, Ziraat Mühendisleri Odası Eskişehir Şubesi temsilcileri ve üreticiler katıldı.",
+      "neYapmali": "Eskişehir'deki üreticiler sonraki girdi desteklerini öğrenmek için Büyükşehir Belediyesi Tarımsal Hizmetler Dairesi Başkanlığı'na ve ilçe belediyelerine başvurabilir. Sıvı gübreyi toprak analizine göre ve önerilen dozda kullanmak gereksiz masrafı önler.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/eskisehir-haberleri/buyuksehir-belediyesinden-ureticilere-sivi-gubre-destegi-514991065"
+        }
+      ]
+    },
     {
       "id": "kahramanmaras-ayva-hasadi-6-bin-ton-rekolte-2026",
       "kategori": "Bitkisel Üretim",
@@ -4221,30 +4255,6 @@
       "manset": "Denizli'de \"mazot ve gübre\" desteği"
     },
     {
-      "id": "cig-sut-fiyat-bekleniyor",
-      "kategori": "Hayvancılık",
-      "tarih": "2026-11-02",
-      "baslik": "Çiğ süt üreticisi yeni fiyatı bekliyor",
-      "ozet": "Ulusal Süt Konseyi'nin çiğ inek sütü tavsiye fiyatı 1 Mayıs'tan bu yana litre başına 24,30 TL. Konsey Temmuz'daki toplantısında fiyatı değiştirmemiş ve Ekim ayında yeniden değerlendireceğini açıklamıştı. Üretici örgütleri artan yem ve enerji maliyetleri nedeniyle fiyatın güncellenmesini bekliyor.",
-      "neYapmali": "Yeni fiyat açıklandığında burada güncelleyeceğiz. Tavsiye fiyat yüzde 3,6 yağ ve yüzde 3,2 protein içeren süt için geçerli. Her 0,1'lik oran farkı için 36 kuruş eklenip düşülüyor.",
-      "kaynaklar": [
-        {
-          "ad": "Bloomberg HT",
-          "url": "https://www.bloomberght.com/usk-cig-sut-tavsiye-fiyatini-ekim-e-kadar-sabit-birakti-3783018"
-        },
-        {
-          "ad": "Halk TV",
-          "url": "https://halktv.com.tr/ekonomi/cig-sut-fiyati-ne-kadar-konsey-acikladi-1043112h"
-        }
-      ],
-      "motif": "sut",
-      "eklenme": "2026-11-04T07:30:00+03:00",
-      "gorsel": "assets/envato/cig-sut-fiyat-bekleniyor.jpg",
-      "gorselKucuk": "assets/envato/cig-sut-fiyat-bekleniyor-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato",
-      "manset": "Çiğ sütte \"yeni fiyat\" bekleniyor"
-    },
-    {
       "id": "malatya-su-urunleri",
       "kategori": "Destek",
       "tarih": "2026-11-02",
@@ -4263,26 +4273,6 @@
       "gorselKucuk": "assets/envato/malatya-su-urunleri-k.jpg",
       "gorselKaynak": "Temsili fotoğraf: Envato",
       "manset": "Su ürünlerinde \"başvuru dönemi\" açıldı"
-    },
-    {
-      "id": "manavgat-saganak-400-donum-pamuk-kabak",
-      "kategori": "Zirai Don",
-      "tarih": "2026-11-01",
-      "motif": "pamuk",
-      "baslik": "Manavgat'ta sağanak 400 dönüm araziyi su altında bıraktı, zarar 10 milyon lirayı aştı",
-      "ozet": "Antalya'nın Manavgat ilçesinde iki gün süren ve metrekareye 60 kilogramı aşan yağış Denizkent, Denizyaka, Bereket ve Perakende mahallelerinde 400 dönüm tarım arazisini su altında bıraktı. Manavgat Ziraat Odası'na göre 300 dönümlük pamuk alanında hasat edilemeyen yaklaşık 120 ton ürünün değeri 6 milyon lira, 50 dönüm kabakta zarar 3,5 milyon liranın üzerinde. Toplam zararın 10 milyon lirayı aştığı belirtildi; ilçe tarım müdürlüğü ekipleri tarlalarda inceleme yaptı.",
-      "neYapmali": "Zarar gördüyseniz TARSİM poliçeniz varsa sel hasarını 15 gün içinde bildirin; poliçe yoksa hasar tespiti için muhtarlık ve ilçe tarım müdürlüğüne başvurun.",
-      "kaynaklar": [
-        {
-          "ad": "İlkhaber Gazetesi",
-          "url": "https://www.ilkhaber-gazetesi.com/ekonomi/antalya-da-saganak-tarim-arazilerini-vurdu-400-donum-alan-sular-altinda-zarar-10-milyon-tl-yi-asti-467345"
-        }
-      ],
-      "eklenme": "2026-11-04T07:28:00+03:00",
-      "gorsel": "assets/iha/manavgat-saganak-400-donum-pamuk-kabak.jpg",
-      "gorselKucuk": "assets/iha/manavgat-saganak-400-donum-pamuk-kabak-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA",
-      "manset": "Manavgat'ta zarar \"10 milyon lirayı\" aştı"
     },
     {
       "id": "tzob-ekim-2026-uretici-market-fiyatlari",
