@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-11T23:09:00+03:00",
+  "guncelleme": "2026-11-12T10:00:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,47 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "aydin-cuma-bulusmalari-13-kasim-17-ilce-2026",
+      "kategori": "Destek",
+      "tarih": "2026-11-12",
+      "eklenme": "2026-11-12T10:00:00+03:00",
+      "motif": "para",
+      "baslik": "Aydın'da tarım ekipleri 13 Kasım'da 17 ilçede aynı anda üreticilerle buluşacak",
+      "manset": "Cuma saat 14.00'te \"17 ilçede\" buluşma",
+      "ozet": "Aydın İl Tarım ve Orman Müdürlüğü, 13 Kasım Cuma günü saat 14.00'te ilin 17 ilçesinde eş zamanlı Cuma Buluşmaları düzenleyecek. Toplantılarda 2027 ÇKS işlemleri, incirde kurutma ve depolama, zeytin, kestane ve pamuk üretimi ile B-Reçete uygulaması anlatılacak. Orman yangınlarına karşı önlemler ve anız yakılmasının önlenmesi de gündemde olacak. Müdürlük, üreticilerin soru ve taleplerini yerinde dinleyeceğini belirterek tüm çiftçileri davet etti.",
+      "neYapmali": "Bulunduğunuz ilçedeki buluşmanın yerini ilçe tarım ve orman müdürlüğünden öğrenin; ÇKS ve B-Reçete ile ilgili sorularınızı önceden not alarak katılın.",
+      "kaynaklar": [
+        {
+          "ad": "İHA (Son Dakika)",
+          "url": "https://www.sondakika.com/yerel/haber-aydin-il-tarim-ve-orman-mudurlugu-13-kasim-da-17-i-20419067/"
+        },
+        {
+          "ad": "İHA (Haberler.com)",
+          "url": "https://www.haberler.com/yerel/aydin-il-tarim-ve-orman-mudurlugu-13-kasim-da-17-20419061-haberi/"
+        }
+      ],
+      "gorsel": "assets/envato/aydin-cuma-bulusmalari-13-kasim-17-ilce-2026.jpg",
+      "gorselKucuk": "assets/envato/aydin-cuma-bulusmalari-13-kasim-17-ilce-2026-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
+    {
+      "id": "aydin-cine-yer-fistigi-hasadi-2658-dekar-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-12",
+      "eklenme": "2026-11-12T09:59:00+03:00",
+      "motif": "tohum",
+      "baslik": "Aydın'da yer fıstığı hasadı başladı: İldeki ekim alanının neredeyse tamamı Çine'de",
+      "manset": "Ekim alanının \"yüzde 97\"si tek ilçede",
+      "ozet": "Aydın'ın Çine ilçesinde yer fıstığı hasadına başlandı. 2026 ÇKS kayıtlarına göre ilde 188 yer fıstığı üreticisi bulunuyor ve bunların 168'i Çine'de üretim yapıyor. Aydın genelinde 2 bin 751 dekar olan yer fıstığı alanının 2 bin 658 dekarı bu ilçede yer alıyor. Hasatla birlikte ürünün işlenmesine yönelik çalışmalar da hız kazandı; işleme tesisleriyle üretime katma değer kazandırılması hedefleniyor.",
+      "neYapmali": "Yer fıstığı üreticileri hasat sonrası kurutma ve depolamada küflenmeye karşı nem kontrolüne dikkat etmeli; işleme ve alım imkânları için Çine İlçe Tarım ve Orman Müdürlüğü ile görüşebilir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA (Son Dakika)",
+          "url": "https://www.sondakika.com/yerel/haber-aydin-da-yer-fistigi-hasadi-basladi-2-bin-658-deka-20419243/"
+        }
+      ]
+    },
     {
       "id": "kilis-510-ton-sertifikali-tohum-dagitimi-2026",
       "kategori": "Hibe",
@@ -4260,46 +4301,6 @@
       "manset": "Domates markette \"yüzde 62,9\" zamlandı"
     },
     {
-      "id": "sapanca-golu-eylem-plani-25-5-milyar",
-      "kategori": "Bitkisel Üretim",
-      "tarih": "2026-10-31",
-      "motif": "tohum",
-      "baslik": "Sapanca Gölü için 5 yılda 25,5 milyar liralık eylem planı",
-      "ozet": "Bakan Yumaklı, Adapazarı'nda açıkladığı Sapanca Gölü Eylem Planı'nın 6 eylem ve 12 tedbirden oluştuğunu, 5 yılda yaklaşık 25,5 milyar liralık yatırım öngördüğünü söyledi. Plan ile havzaya yılda yaklaşık 114 milyon metreküp su kazandırılması hedefleniyor; gölde 2025'te yaklaşık 72 milyon metreküp su azalmıştı. Yumaklı, ülkede suyun yüzde 77'sinin tarımda kullanıldığını hatırlatarak basınçlı sulama sistemlerine yüzde 70 hibe verildiğini belirtti.",
-      "neYapmali": "Salma sulama yapıyorsanız damla ya da yağmurlama sisteme geçiş için yüzde 70 hibeli basınçlı sulama desteğinin şartlarını il tarım müdürlüğünden öğrenin.",
-      "kaynaklar": [
-        {
-          "ad": "Milliyet",
-          "url": "https://www.milliyet.com.tr/ekonomi/bakan-yumakli-havzamiza-yilda-yaklasik-114-milyon-metrekupluk-su-kazandirmayi-planliyoruz-7691569"
-        }
-      ],
-      "eklenme": "2026-11-04T07:24:00+03:00",
-      "gorsel": "assets/iha/sapanca-golu-eylem-plani-25-5-milyar.jpg",
-      "gorselKucuk": "assets/iha/sapanca-golu-eylem-plani-25-5-milyar-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA",
-      "manset": "Sapanca'ya \"25,5 milyar liralık\" plan"
-    },
-    {
-      "id": "tigem-bugday-arpa-narenciye-ihalesi-kasim",
-      "kategori": "Piyasa",
-      "tarih": "2026-10-28",
-      "motif": "bugday",
-      "baslik": "TİGEM 14.500 ton buğday-arpa ve 1.720 ton narenciyeyi ihaleyle satacak",
-      "ozet": "TİGEM, Altınova Tarım İşletmesi'nde üretilen 6.500 ton Bayraktar-2000 ve 6.500 ton Kızıltan-91 buğdayı ile 1.500 ton Tarım-92 arpasını 11 Kasım'da saat 13.30'da Konya Ticaret Borsası'nda ihaleyle satacak; tahmini bedel 252 milyon 50 bin lira. Boztepe Tarım İşletmesi'nde ise 790 ton Washington portakalı, 256,5 ton Fremont mandalina ve 674 ton kara limon 10 Kasım'da saat 14.00'te işletmede 8 parti halinde açık artırmayla satılacak. İhale şartnameleri tigem.gov.tr'de yayımlandı.",
-      "neYapmali": "İhaleye katılmak isteyen alıcılar şartnameyi tigem.gov.tr'den indirip teminat ve belge şartlarını ihale gününden önce tamamlamalı.",
-      "kaynaklar": [
-        {
-          "ad": "Milliyet Uzmanpara",
-          "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/tigem-tonlarca-bugday-arpa-ve-narenciye-satacak-7689193"
-        }
-      ],
-      "eklenme": "2026-11-04T07:16:00+03:00",
-      "gorsel": "assets/iha/tigem-bugday-arpa-narenciye-ihalesi-kasim.jpg",
-      "gorselKucuk": "assets/iha/tigem-bugday-arpa-narenciye-ihalesi-kasim-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA (temsili)",
-      "manset": "TİGEM'den \"buğday ve narenciye\" ihalesi"
-    },
-    {
       "id": "ankara-tohum-gubre",
       "kategori": "Hibe",
       "tarih": "2026-10-23",
@@ -4346,16 +4347,16 @@
   ],
   "takvim": [
     {
-      "tarih": "2026-11-11",
-      "baslik": "TİGEM buğday-arpa ihalesi",
-      "kapsam": "Konya Ticaret Borsası",
-      "haber": "tigem-bugday-arpa-narenciye-ihalesi-kasim"
-    },
-    {
       "tarih": "2026-11-13",
       "baslik": "\"Bir Sürü Olsun\" projesi başvurusu",
       "kapsam": "Türkiye geneli",
       "haber": "bir-suru-olsun-basvuru-4-13-kasim"
+    },
+    {
+      "tarih": "2026-11-13",
+      "baslik": "Aydın Cuma Buluşmaları (17 ilçe, 14.00)",
+      "kapsam": "Aydın",
+      "haber": "aydin-cuma-bulusmalari-13-kasim-17-ilce-2026"
     },
     {
       "tarih": "2026-11-14",
@@ -4850,9 +4851,7 @@
         "koyun-7.jpg",
         "koyun-8.jpg"
       ],
-      "para": [
-        "para-4.jpg"
-      ],
+      "para": [],
       "sera": [
         "sera-6.jpg"
       ],
