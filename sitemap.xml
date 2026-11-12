@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
-<url><loc>https://ciftcigundemi.com/</loc><lastmod>2026-11-12T15:10:00+03:00</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
+<url><loc>https://ciftcigundemi.com/</loc><lastmod>2026-11-12T19:24:00+03:00</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
 <url><loc>https://ciftcigundemi.com/hakkimizda/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
 <url><loc>https://ciftcigundemi.com/gizlilik-politikasi/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
 <url><loc>https://ciftcigundemi.com/kvkk-aydinlatma-metni/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
 <url><loc>https://ciftcigundemi.com/cerez-politikasi/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
 <url><loc>https://ciftcigundemi.com/iletisim/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
+<url><loc>https://ciftcigundemi.com/haber/tunceli-kirsal-kalkinma-21-proje-112-milyon-hibe-2026/</loc><lastmod>2026-11-12T19:24:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-12T19:24:00+03:00</news:publication_date><news:title>Tunceli&#x27;de 21 tarım projesine 112,8 milyon lira hibe: Sözleşmeler imzalandı</news:title></news:news></url>
+<url><loc>https://ciftcigundemi.com/haber/erzincan-akdeniz-meyve-sinegi-tuzak-kontrolu-2026/</loc><lastmod>2026-11-12T19:23:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-12T19:23:00+03:00</news:publication_date><news:title>Erzincan&#x27;da meyve bahçelerinde Akdeniz meyve sineği nöbeti: Tuzaklar tek tek kontrol ediliyor</news:title></news:news></url>
 <url><loc>https://ciftcigundemi.com/haber/manisa-buyuksehir-144-tarim-makinesi-21-milyon-ziraat-odalari-2026/</loc><lastmod>2026-11-12T15:10:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-12T15:10:00+03:00</news:publication_date><news:title>Manisa Büyükşehir&#x27;den 16 ziraat odasına 21 milyon liralık 144 tarım makinesi</news:title></news:news></url>
 <url><loc>https://ciftcigundemi.com/haber/eskisehir-seyitgazi-252-ureticiye-sivi-gubre-destegi-2026/</loc><lastmod>2026-11-12T15:09:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-12T15:09:00+03:00</news:publication_date><news:title>Eskişehir&#x27;de 252 üreticiye 7 bin 560 litre sıvı gübre dağıtıldı</news:title></news:news></url>
 <url><loc>https://ciftcigundemi.com/haber/kahramanmaras-ayva-hasadi-6-bin-ton-rekolte-2026/</loc><lastmod>2026-11-12T12:12:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-12T12:12:00+03:00</news:publication_date><news:title>Kahramanmaraş&#x27;ta ayva hasadı başladı: Bahçede 20-40 lira, rafta 70 liraya kadar</news:title></news:news></url>
@@ -197,8 +199,6 @@
 <url><loc>https://ciftcigundemi.com/haber/onarici-tarim-bugday-verim-yuzde-22/</loc><lastmod>2026-11-04T07:38:00+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/ipard-3-4-milyar-avro-yatirim/</loc><lastmod>2026-11-04T07:37:00+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/ege-pamuk-ekim-alani-yuzde-47-daraldi/</loc><lastmod>2026-11-04T07:36:00+03:00</lastmod></url>
-<url><loc>https://ciftcigundemi.com/haber/istanbul-hamsi-hal-150-tezgah-350/</loc><lastmod>2026-11-04T07:35:00+03:00</lastmod></url>
-<url><loc>https://ciftcigundemi.com/haber/agri-hayvan-borsasi-acildi-kars-kisitlama-kalkti/</loc><lastmod>2026-11-04T07:34:00+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/ordu-findik-serbest-piyasa-160-170-tl/</loc><lastmod>2026-11-04T07:33:00+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/aricilik-son-gun-6-kasim/</loc><lastmod>2026-11-04T07:32:00+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/denizli-mazot-gubre/</loc><lastmod>2026-11-04T07:31:00+03:00</lastmod></url>
