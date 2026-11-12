@@ -90,7 +90,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/erzincan-haberleri/erzincanda-5-koyde-mera-islahi-yapilacak-515077266"
         }
-      ]
+      ],
+      "gorsel": "assets/envato/erzincan-5-koy-mera-islahi-projesi-bakanlik-onayi-2026.jpg",
+      "gorselKucuk": "assets/envato/erzincan-5-koy-mera-islahi-projesi-bakanlik-onayi-2026-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
     },
     {
       "id": "adiyaman-golbasi-trabzon-hurmasi-zirai-don-hasar-tespiti-2026",
@@ -4849,7 +4852,6 @@
         "kovan-5.jpg"
       ],
       "koyun": [
-        "koyun-7.jpg",
         "koyun-8.jpg"
       ],
       "para": [],
