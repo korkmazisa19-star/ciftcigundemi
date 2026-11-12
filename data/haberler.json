@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-12T10:00:00+03:00",
+  "guncelleme": "2026-11-12T12:12:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,44 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "kahramanmaras-ayva-hasadi-6-bin-ton-rekolte-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-12",
+      "eklenme": "2026-11-12T12:12:00+03:00",
+      "motif": "ayva",
+      "baslik": "Kahramanmaraş'ta ayva hasadı başladı: Bahçede 20-40 lira, rafta 70 liraya kadar",
+      "manset": "Bahçede 20, markette \"70 lira\"!",
+      "ozet": "Kahramanmaraş'ın Onikişubat ilçesine bağlı kırsal mahallelerde ayva hasadı başladı. Geçen yıl yaşanan don nedeniyle ürün alamayan üreticiler bu sezon yeniden hasat yapıyor; il genelinde 6 bin ton rekolte bekleniyor. Ayvanın kilosu bahçede 20 ile 40 lira arasında alıcı bulurken pazar ve marketlerde 60-70 liraya kadar çıkıyor. Bölgede yetişen ayvalar İstanbul, Ankara, Malatya ve Hatay başta olmak üzere birçok ile ve yurt dışına gönderiliyor; bir üretici geçen yıl 8 ton olan ürününün bu yıl 50 tona yaklaştığını anlattı.",
+      "neYapmali": "Hasat edilen ayvayı darbe almadan, serin ve havadar ortamda kasalayın; satış öncesi tüccar fiyatlarını birkaç alıcıdan karşılaştırın ve gelecek sezon için don riskine karşı TARSİM sigortasını değerlendirin.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/kahramanmaras-haberleri/kahramanmarasta-ayva-hasadi-basladi-6-bin-ton-rekolte-bekleniyor-514917264"
+        }
+      ]
+    },
+    {
+      "id": "elazig-alabalik-turk-somonu-40-bin-ton-200-milyon-dolar-2026",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-12",
+      "eklenme": "2026-11-12T12:11:00+03:00",
+      "motif": "balik",
+      "baslik": "Elazığ'da 200'ü aşkın işletme yılda 40 bin tonun üzerinde alabalık ve Türk somonu üretiyor",
+      "manset": "Baraj göllerinden \"200 milyon dolar\"",
+      "ozet": "Keban ve Karakaya baraj gölleriyle iç su balıkçılığının merkezlerinden olan Elazığ, alabalık ve Türk somonu yetiştiriciliğinde Türkiye'de ilk sırada yer alıyor. Elazığ İç Su Ürünleri Yetiştiricileri Üretici Birliği Başkanı Gökhan Elgin, kentteki 200'ün üzerindeki işletmenin yılda 40 bin tonu aşan üretim yaptığını ve bu üretimin ekonomik değerinin yaklaşık 200 milyon dolar olduğunu açıkladı. Sektörde 2 bine yakın kişi çalışıyor; 3 işleme tesisi faaliyette, 2 tesisin de birkaç ay içinde açılması bekleniyor. Porsiyonluk alabalıklar ağırlıklı olarak Avrupa Birliği ülkelerine, Türk somonu ise Rusya, Japonya, ABD ve Kanada'ya gönderiliyor.",
+      "neYapmali": "Kafes ya da havuz yetiştiriciliğine girmek isteyen üreticiler izin ve kapasite konularında il tarım ve orman müdürlüğü su ürünleri birimine, pazar bağlantıları için üretici birliğine danışabilir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/elazig-haberleri/elazigdan-abye-alabalik-rusya-japonya-ve-abdye-somon-514919477"
+        },
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/elazig-haberleri/elazigdan-200-milyon-dolarlik-ihracat-abye-alabalik-rusya-japonya-ve-abdye-somon-514917260"
+        }
+      ]
+    },
     {
       "id": "aydin-cuma-bulusmalari-13-kasim-17-ilce-2026",
       "kategori": "Destek",
@@ -4239,46 +4277,6 @@
       "gorselKucuk": "assets/iha/manavgat-saganak-400-donum-pamuk-kabak-k.jpg",
       "gorselKaynak": "Fotoğraf: İHA",
       "manset": "Manavgat'ta zarar \"10 milyon lirayı\" aştı"
-    },
-    {
-      "id": "rekabet-kurumu-findik-6-sirket-sorusturma",
-      "kategori": "Piyasa",
-      "tarih": "2026-10-31",
-      "motif": "findik",
-      "baslik": "Rekabet Kurumu fındıkta 6 büyük şirkete soruşturma açtı",
-      "ozet": "Rekabet Kurumu Başkanı Birol Küle, fındık piyasasında eylülde başlatılan ön araştırmanın ardından 22 Ekim'de sektörün önde gelen 6 şirketi hakkında soruşturma açıldığını açıkladı. Şirketlerin adı verilmedi. Kurum, en büyük alıcı ile yerel ve orta ölçekli alıcılar arasında fiyatı düşürmeye yönelik bir bağlantı olup olmadığını ve alıcıların gizlice ortak fiyat belirleyip belirlemediğini inceleyecek. Küle, Ferrero'nun önceki soruşturmada verdiği taahhütlerin bağlayıcı olduğunu, uyulmazsa ağır ceza uygulanabileceğini hatırlattı. Kurum 2024'te Trabzon'da 21, Düzce'de 10 şirkete ceza vermişti.",
-      "neYapmali": "Ürününüzü satarken alış fiyatını ve tarihini gösteren müstahsil makbuzunu mutlaka alın; fiyat baskısı ya da anlaşmalı alım gibi bir durumla karşılaşırsanız ziraat odanız aracılığıyla Rekabet Kurumu'na bildirebilirsiniz.",
-      "kaynaklar": [
-        {
-          "ad": "Milliyet Uzmanpara",
-          "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/rekabet-kurumu-findik-sektorune-yonelik-siki-takibini-surduruyor-7691389"
-        }
-      ],
-      "eklenme": "2026-11-04T07:27:00+03:00",
-      "gorsel": "assets/envato/rekabet-kurumu-findik-6-sirket-sorusturma.jpg",
-      "gorselKucuk": "assets/envato/rekabet-kurumu-findik-6-sirket-sorusturma-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato",
-      "manset": "Fındıkta \"6 şirkete\" soruşturma!"
-    },
-    {
-      "id": "tmo-2027-bugday-misir-alim-ongorusu",
-      "kategori": "Piyasa",
-      "tarih": "2026-10-31",
-      "motif": "bugday",
-      "baslik": "TMO'nun 2027'de 5 milyon ton buğday ve 1,5 milyon ton mısır alması öngörülüyor",
-      "ozet": "2027 programına göre Toprak Mahsulleri Ofisi'nin gelecek yıl 5 milyon ton buğday ve 1,5 milyon ton mısır alımı yapması öngörülüyor. Aynı programda ÇAYKUR'un 700 bin ton yaş çay, TÜRKŞEKER'in ise 7,4 milyon ton şeker pancarı alması bekleniyor. Kamu iktisadi teşebbüslerinin 2027 yatırım tutarı 754,2 milyar lira olarak öngörüldü.",
-      "neYapmali": "Gelecek sezon ekim planınızı yaparken TMO'nun alım hedeflerini dikkate alın; alım fiyatları ve randevu takvimi açıklandığında site üzerinden duyuracağız.",
-      "kaynaklar": [
-        {
-          "ad": "Milliyet Uzmanpara",
-          "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/tmonun-2027de-5-milyon-ton-bugday-1-5-milyon-ton-misir-almasi-ongoruluyor-7691348"
-        }
-      ],
-      "eklenme": "2026-11-04T07:26:00+03:00",
-      "gorsel": "assets/envato/tmo-2027-bugday-misir-alim-ongorusu.jpg",
-      "gorselKucuk": "assets/envato/tmo-2027-bugday-misir-alim-ongorusu-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato",
-      "manset": "TMO'dan 2027'de \"5 milyon ton\" buğday"
     },
     {
       "id": "tzob-ekim-2026-uretici-market-fiyatlari",
