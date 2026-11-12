@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-12T15:10:00+03:00",
+  "guncelleme": "2026-11-12T19:25:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,40 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "tunceli-kirsal-kalkinma-21-proje-112-milyon-hibe-2026",
+      "kategori": "Hibe",
+      "tarih": "2026-11-12",
+      "eklenme": "2026-11-12T19:24:00+03:00",
+      "motif": "para",
+      "baslik": "Tunceli'de 21 tarım projesine 112,8 milyon lira hibe: Sözleşmeler imzalandı",
+      "manset": "Tunceli'ye \"112,8 milyon\" lira hibe",
+      "ozet": "Tarım ve Orman Bakanlığının 2026 Kırsal Kalkınma Yatırım Programı kapsamında Tunceli'de destek almaya hak kazanan üreticilerle hibe sözleşmeleri imzalandı. Toplam yatırım tutarı 178 milyon 601 bin 151 lira olan 21 projeye yüzde 60 ile 70 arasında hibe verilecek; hibe tutarı 112 milyon 802 bin 341 liraya ulaşıyor. Desteklenen projeler büyükbaş ve küçükbaş hayvancılık yatırımları, arıcılık, tasarruflu tarımsal sulama sistemleri ve hayvancılıkta kullanılacak makine-ekipman alımlarını kapsıyor. Programla ildeki üreticilerin yatırım gücünün artırılması ve kırsalda üretimin desteklenmesi amaçlanıyor.",
+      "neYapmali": "Sözleşme imzalayan üreticiler yatırımlarını projede belirtilen takvime göre tamamlayıp hibe ödemesi için harcama belgelerini il tarım ve orman müdürlüğüne eksiksiz sunmalı; gelecek dönem programına başvurmak isteyenler müdürlükteki kırsal kalkınma birimini takip edebilir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/tunceli-haberleri/tuncelide-kirsal-kalkinmaya-112-8-milyon-liralik-hibe-destegi-515099739"
+        }
+      ]
+    },
+    {
+      "id": "erzincan-akdeniz-meyve-sinegi-tuzak-kontrolu-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-12",
+      "eklenme": "2026-11-12T19:23:00+03:00",
+      "motif": "tohum",
+      "baslik": "Erzincan'da meyve bahçelerinde Akdeniz meyve sineği nöbeti: Tuzaklar tek tek kontrol ediliyor",
+      "manset": "Bahçelerde \"tuzaklı\" nöbet sürüyor",
+      "ozet": "Erzincan İl Tarım ve Orman Müdürlüğü Bitki Sağlığı Şube Müdürlüğü ekipleri, meyve üretimine zarar veren Akdeniz meyve sineğine karşı kentteki farklı bahçelere yerleştirilen tuzakları denetliyor. Tuzaklardan elde edilen verilerle zararlının yayılımı izleniyor ve mücadelenin yönü bu verilere göre belirleniyor. Ekiplerin saha çalışmalarını aralıksız sürdürdüğü, amacın üreticinin emeğini ve ürününü korumak olduğu bildirildi.",
+      "neYapmali": "Bahçesinde delikli, yumuşamış ya da erken dökülen meyve gören üreticiler bu meyveleri toplayıp gömerek imha etmeli ve ilaçlama yapmadan önce il ya da ilçe tarım müdürlüğünün bitki sağlığı birimine danışmalı.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/erzincan-haberleri/akdeniz-meyve-sinegine-karsi-tuzakli-mucadele-515074588"
+        }
+      ]
+    },
     {
       "id": "manisa-buyuksehir-144-tarim-makinesi-21-milyon-ziraat-odalari-2026",
       "kategori": "Makine",
@@ -268,7 +302,7 @@
       "motif": "tohum",
       "baslik": "11 Kasım Milli Ağaçlandırma Günü'nde 81 ilde fidan dikildi: Ankara'da 16 noktaya 45 bin 600 fidan",
       "manset": "Ankara'da tek günde \"45 bin\" fidan",
-      "ozet": "Milli Ağaçlandırma Günü dolayısıyla 11 Kasım'da 81 ilde eş zamanlı fidan dikimi yapıldı; Tarım ve Orman Bakanı İbrahim Yumaklı yaptığı açıklamada Yeşil Vatan Seferberliği kapsamında milyonlarca fidanın toprakla buluştuğunu bildirdi, ancak ülke geneli toplam sayıyı henüz paylaşmadı. Ankara'da Orman Bölge Müdürlüğü 16 noktada 45 bin 600 fidan dikti; bunların 10 bini Atatürk Orman Çiftliği'nde 8 hektarlık alana sedir, kızılçam ve karaçam olarak toprağa verildi. Ankara Orman Bölge Müdürü Esat Şimşek, kentte son 23 yılda 180 bin hektara 126 milyon fidan dikildiğini ve yıl sonuna kadar 2 milyon fidan daha hedeflendiğini söyledi. Giresun'da 12 noktada 84 hektara 167 bin 500, Ağrı'da ise valiliğin açıklamasına göre 125 bin fidan dikildi.",
+      "ozet": "Milli Ağaçlandırma Günü dolayısıyla 11 Kasım'da 81 ilde eş zamanlı fidan dikimi yapıldı; Tarım ve Orman Bakanı İbrahim Yumaklı yaptığı açıklamada Yeşil Vatan Seferberliği kapsamında milyonlarca fidanın toprakla buluştuğunu bildirdi ve 12 Kasım'da yaptığı paylaşımda bir yıl içinde 600 milyon fidan ve tohum dikimi hedefine ulaşıldığını duyurdu. Ankara'da Orman Bölge Müdürlüğü 16 noktada 45 bin 600 fidan dikti; bunların 10 bini Atatürk Orman Çiftliği'nde 8 hektarlık alana sedir, kızılçam ve karaçam olarak toprağa verildi. Ankara Orman Bölge Müdürü Esat Şimşek, kentte son 23 yılda 180 bin hektara 126 milyon fidan dikildiğini ve yıl sonuna kadar 2 milyon fidan daha hedeflendiğini söyledi. Giresun'da 12 noktada 84 hektara 167 bin 500, Ağrı'da ise valiliğin açıklamasına göre 125 bin fidan dikildi.",
       "neYapmali": "Tarla kenarı, mera sınırı ya da erozyon riski taşıyan araziler için ağaçlandırma ve fidan talebi olan üreticiler bölgedeki orman işletme şefliği ya da orman bölge müdürlüğüne başvurabilir; dikim için kış başı uygun dönemdir.",
       "kaynaklar": [
         {
@@ -282,6 +316,10 @@
         {
           "ad": "İHA (Son Dakika) - Giresun",
           "url": "https://www.sondakika.com/cevre/haber-giresun-da-167-bin-500-fidan-toprakla-bulustu-20417163/"
+        },
+        {
+          "ad": "İHA (Yumaklı açıklaması)",
+          "url": "https://www.iha.com.tr/ankara-haberleri/bakan-yumakli-600-milyon-fidan-ve-tohum-hedefine-ulastik-515089472"
         }
       ]
     },
@@ -4148,50 +4186,6 @@
       "gorselKucuk": "assets/envato/ege-pamuk-ekim-alani-yuzde-47-daraldi-k.jpg",
       "gorselKaynak": "Temsili fotoğraf: Envato",
       "manset": "Ege'de pamuk \"yüzde 47\" daraldı"
-    },
-    {
-      "id": "istanbul-hamsi-hal-150-tezgah-350",
-      "kategori": "Piyasa",
-      "tarih": "2026-11-02",
-      "motif": "balik",
-      "baslik": "İstanbul'da hamsi halde 150, tezgahta 350 lira",
-      "ozet": "İBB Tarım ve Su Ürünleri Şube Müdürlüğü'nün 2 Kasım verilerine göre İstanbul balık halinde hamsinin kilosu 117-150 lira, istavritin kilosu 108-123 lira arasında işlem gördü. Palamut ise büyüklüğüne göre tanesi 60-77 liradan satıldı. Aynı gün tezgahlarda hamsinin kilosu 350, istavritin kilosu 300 lira, palamudun tanesi ise 200 lira oldu.",
-      "neYapmali": "Balıkçılar av miktarını hal fiyatlarına göre planlayabilir; tüketiciler ise hal ile tezgah arasındaki farkı görmek için İBB'nin günlük hal fiyat listesini takip edebilir.",
-      "kaynaklar": [
-        {
-          "ad": "Timeturk",
-          "url": "https://www.timeturk.com/2-kasim-ibb-balik-halinde-hamsi-150-lira-tezgahta-350-lira-oldu"
-        }
-      ],
-      "eklenme": "2026-11-04T07:35:00+03:00",
-      "gorsel": "assets/envato/istanbul-hamsi-hal-150-tezgah-350.jpg",
-      "gorselKucuk": "assets/envato/istanbul-hamsi-hal-150-tezgah-350-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato",
-      "manset": "Hamsi halde 150, tezgahta \"350 lira\""
-    },
-    {
-      "id": "agri-hayvan-borsasi-acildi-kars-kisitlama-kalkti",
-      "kategori": "Hayvancılık",
-      "tarih": "2026-11-02",
-      "motif": "sut",
-      "baslik": "Şap tedbirlerinde gevşeme: Ağrı Hayvan Borsası açıldı, Kars'ta hayvan hareketi serbest",
-      "ozet": "Şap hastalığı nedeniyle kapalı olan Ağrı Hayvan Borsası 2 Kasım'da yeniden açıldı. Kars'ta ise 30 Eylül'de başlayan il içi ve il dışı hayvan hareketi kısıtlaması 3 Kasım itibarıyla kaldırıldı. Ancak Kars'ta hayvan pazarları, canlı hayvan borsaları ve toplama-satış merkezleri şimdilik kapalı kalacak; karantinadaki bölgelerde tedbirler sürüyor.",
-      "neYapmali": "Hayvan alıp satarken kulak küpesi ve sağlık belgesinin eksiksiz olmasına dikkat edin; karantina bölgesindeyseniz hareket izni için ilçe tarım müdürlüğüne danışın.",
-      "kaynaklar": [
-        {
-          "ad": "Kars Hakimiyet",
-          "url": "https://www.karshakimiyet.com/karsta-hayvan-hareketleri-kisitlamasi-kaldiriliyor-hayvan-pazarlari-kapali-kalacak-122136h.htm"
-        },
-        {
-          "ad": "Doğubayazıt Gazetesi",
-          "url": "https://dogubayazitgazetesi.com/agrida-hayvan-borsasi-acildi-karsta-da-yeni-karar"
-        }
-      ],
-      "eklenme": "2026-11-04T07:34:00+03:00",
-      "gorsel": "assets/envato/agri-hayvan-borsasi-acildi-kars-kisitlama-kalkti.jpg",
-      "gorselKucuk": "assets/envato/agri-hayvan-borsasi-acildi-kars-kisitlama-kalkti-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato",
-      "manset": "Ağrı ve Kars'ta \"şap gevşemesi\""
     },
     {
       "id": "ordu-findik-serbest-piyasa-160-170-tl",
