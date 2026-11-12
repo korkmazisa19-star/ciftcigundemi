@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-12T19:25:00+03:00",
+  "guncelleme": "2026-11-12T20:11:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,40 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "adiyaman-golbasi-trabzon-hurmasi-zirai-don-hasar-tespiti-2026",
+      "kategori": "Zirai Don",
+      "tarih": "2026-11-12",
+      "eklenme": "2026-11-12T20:11:00+03:00",
+      "motif": "don",
+      "baslik": "Adıyaman Gölbaşı'nda zirai don Trabzon hurmasını vurdu, hasar tespiti sürüyor",
+      "manset": "Hurma bahçelerini \"don\" vurdu",
+      "ozet": "Adıyaman'ın Gölbaşı ilçesinde zirai dondan zarar gören Trabzon hurması bahçeleri yerinde incelendi. Kaymakam Kadir Algın ve ilgili kurum amirleri Karaburun köyünde üreticilerle görüşerek yaşanan kayıplar hakkında bilgi aldı. İlçe Tarım ve Orman Müdürlüğü ekiplerinin etkilenen arazilerde hasar tespitini sürdürdüğü bildirildi. Zararın kayda geçmesi için üreticilerin müdürlüğe dilekçeyle başvurması gerekiyor.",
+      "neYapmali": "Dondan zarar gören Gölbaşı'ndaki üreticiler, hasarın tespit edilebilmesi için İlçe Tarım ve Orman Müdürlüğü'ne dilekçeyle başvurmalı; TARSİM poliçesi olanlar ayrıca sigorta ihbarını da yapmalı.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/adiyaman-haberleri/kaymakam-algin-dondan-etkilenen-trabzon-hurmasi-bahcelerini-inceledi-514980764"
+        }
+      ]
+    },
+    {
+      "id": "karadeniz-balik-bollugu-tezgahta-kilosu-75-lira-palamut-2026",
+      "kategori": "Piyasa",
+      "tarih": "2026-11-12",
+      "eklenme": "2026-11-12T20:10:00+03:00",
+      "motif": "balik",
+      "baslik": "Karadeniz'de balık bolluğu: tezgâhta kilosu 75 liraya indi",
+      "manset": "Tezgâhta kilosu \"75 lira\"",
+      "ozet": "Doğu Karadeniz'den Marmara'ya doğru ilerleyen balık sürüleri av miktarını artırdı ve fiyatlar geriledi. Düzce'de balıkçıların aktardığına göre balığın toptan kilogram fiyatı 60 liraya kadar düşerken tezgâhlarda satış 75 liradan başlıyor. Palamudun çifti ise toptan 110-120 lira aralığında alıcı buluyor. Balıkçı barınaklarında yoğunluk yaşanırken ürünler başta Anadolu olmak üzere farklı bölgelere sevk ediliyor.",
+      "neYapmali": "Su ürünleri üreticileri ve kooperatifler bolluk döneminde toptan fiyatları yakından izleyip soğuk zincir ve sevkiyat planlamasını buna göre yapmalı; tüketiciler tezgâhta balığın tazeliğini kontrol etmeli.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/duzce-haberleri/karadenizde-balik-bollugu-tezgahlara-yansidi-kilosu-75-liradan-satiliyor-514954042"
+        }
+      ]
+    },
     {
       "id": "tunceli-kirsal-kalkinma-21-proje-112-milyon-hibe-2026",
       "kategori": "Hibe",
@@ -4152,46 +4186,6 @@
       "gorselKucuk": "assets/iha/onarici-tarim-bugday-verim-yuzde-22-k.jpg",
       "gorselKaynak": "Fotoğraf: İHA",
       "manset": "Onarıcı tarımla verim \"yüzde 22\" arttı"
-    },
-    {
-      "id": "ipard-3-4-milyar-avro-yatirim",
-      "kategori": "Hibe",
-      "tarih": "2026-11-02",
-      "motif": "para",
-      "baslik": "Yumaklı: IPARD programlarıyla 3,4 milyar avroluk yatırım yapıldı",
-      "ozet": "Tarım ve Orman Bakanı İbrahim Yumaklı, DSİ Genel Müdürlüğü'nde düzenlenen 3. Türkiye-AB Üst Düzey Tarım Diyaloğu toplantısının ardından IPARD programlarının sonuçlarını paylaştı. Yumaklı'ya göre bugüne kadar yaklaşık 27 bin proje desteklendi, 3,4 milyar avroluk yatırım hayata geçirildi ve 107 binden fazla kişiye istihdam sağlandı. Toplantıda IPARD iş birliğinin 2028-2034 döneminde de sürmesi ve Türkiye'ye ayrılan fonun artırılması ele alındı.",
-      "neYapmali": "IPARD hibelerine başvurmayı düşünüyorsanız Tarım ve Kırsal Kalkınmayı Destekleme Kurumu'nun (TKDK) il koordinatörlüğünden yeni çağrı takvimini öğrenin ve proje hazırlığına şimdiden başlayın.",
-      "kaynaklar": [
-        {
-          "ad": "Milliyet",
-          "url": "https://www.milliyet.com.tr/ekonomi/bakan-yumakli-ipard-programlariyla-3-4-milyar-avroluk-yatirim-ekonomimize-kazandirildi-7692638"
-        }
-      ],
-      "eklenme": "2026-11-04T07:37:00+03:00",
-      "gorsel": "assets/envato/ipard-3-4-milyar-avro-yatirim.jpg",
-      "gorselKucuk": "assets/envato/ipard-3-4-milyar-avro-yatirim-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato",
-      "manset": "IPARD'la \"3,4 milyar avro\" yatırım"
-    },
-    {
-      "id": "ege-pamuk-ekim-alani-yuzde-47-daraldi",
-      "kategori": "Piyasa",
-      "tarih": "2026-11-02",
-      "motif": "pamuk",
-      "baslik": "Ege'de pamuk ekim alanı bir yılda yüzde 47 daraldı",
-      "ozet": "Ege'de pamuk ekim alanı bu yıl 49 bin 454 hektara geriledi. Ulusal Pamuk Konseyi Başkanı Fevzi Çondur ve sektör temsilcileri, bu yıl kilogram başına maliyetin 44-45 lira olduğunu, satış fiyatının ise 38-40 lira civarında kaldığını belirtti; destek kilogram başına 3,3 lira. Türkiye'nin yıllık pamuk ihtiyacı yaklaşık 1,5 milyon ton iken bu sezon 320 bin ton üretim bekleniyor. Sektör, desteğin zararı karşılamadığını ve primlerin geç ödendiğini, artırılmazsa üretimin daha da azalacağını ve ithalatın büyüyeceğini vurguluyor.",
-      "neYapmali": "Pamuk ekmeyi planlıyorsanız gelecek yılın destek birim fiyatı açıklanmadan önce maliyetinizi hesaplayın; sözleşmeli üretim ya da iyi tarım uygulamaları primi gibi ek gelir seçeneklerini araştırın.",
-      "kaynaklar": [
-        {
-          "ad": "Ekonomi Gazetesi",
-          "url": "https://www.ekonomigazetesi.com/sehirler/pamuk-uretimi-alarm-veriyor-sektor-destek-bekliyor-91094"
-        }
-      ],
-      "eklenme": "2026-11-04T07:36:00+03:00",
-      "gorsel": "assets/envato/ege-pamuk-ekim-alani-yuzde-47-daraldi.jpg",
-      "gorselKucuk": "assets/envato/ege-pamuk-ekim-alani-yuzde-47-daraldi-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato",
-      "manset": "Ege'de pamuk \"yüzde 47\" daraldı"
     },
     {
       "id": "ordu-findik-serbest-piyasa-160-170-tl",
