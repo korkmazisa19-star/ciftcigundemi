@@ -73,7 +73,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/tunceli-haberleri/tuncelide-kirsal-kalkinmaya-112-8-milyon-liralik-hibe-destegi-515099739"
         }
-      ]
+      ],
+      "gorsel": "assets/envato/tunceli-kirsal-kalkinma-21-proje-112-milyon-hibe-2026.jpg",
+      "gorselKucuk": "assets/envato/tunceli-kirsal-kalkinma-21-proje-112-milyon-hibe-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "erzincan-akdeniz-meyve-sinegi-tuzak-kontrolu-2026",
@@ -90,7 +93,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/erzincan-haberleri/akdeniz-meyve-sinegine-karsi-tuzakli-mucadele-515074588"
         }
-      ]
+      ],
+      "gorsel": "assets/envato/erzincan-akdeniz-meyve-sinegi-tuzak-kontrolu-2026.jpg",
+      "gorselKucuk": "assets/envato/erzincan-akdeniz-meyve-sinegi-tuzak-kontrolu-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "manisa-buyuksehir-144-tarim-makinesi-21-milyon-ziraat-odalari-2026",
