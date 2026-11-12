@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-12T20:11:00+03:00",
+  "guncelleme": "2026-11-12T23:09:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,40 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "aksaray-mamasin-baraji-olu-baliklar-kiyiya-vurdu-2026",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-12",
+      "eklenme": "2026-11-12T23:09:00+03:00",
+      "motif": "balik",
+      "baslik": "Aksaray'da Mamasın Barajı'nda binlerce balık öldü, İl Tarım ve Orman Müdürlüğü inceleme başlattı",
+      "manset": "Barajın kıyısı \"ölü balık\" doldu",
+      "ozet": "Aksaray'da hem tarımsal sulamada hem içme suyunda kullanılan Mamasın Barajı'nda nedeni henüz bilinmeyen balık ölümleri görüldü. Sabah saatlerinde baraja gelen vatandaşlar, yaklaşık 17 kilometrelik kıyı boyunca binlerce ölü balıkla karşılaştı. Ölümlerin dronla havadan da görüntülendiği, İl Tarım ve Orman Müdürlüğü'nün konuyla ilgili inceleme başlattığı bildirildi. Vatandaşlar ölen balıkların büyük ölçüde gümüş balığı olduğunu düşündüklerini ve bir hafta önce herhangi bir sorun görmediklerini aktardı.",
+      "neYapmali": "İnceleme sonuçlanana kadar barajdan balık tutup tüketmekten kaçının; suyu sulamada kullanan üreticiler İl Tarım ve Orman Müdürlüğü'nün yapacağı açıklamayı takip etmeli.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/aksaray-haberleri/mamasin-barajinda-binlerce-olu-balik-kiyiya-vurdu-515139755"
+        }
+      ]
+    },
+    {
+      "id": "erzincan-5-koy-mera-islahi-projesi-bakanlik-onayi-2026",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-12",
+      "eklenme": "2026-11-12T23:08:00+03:00",
+      "motif": "koyun",
+      "baslik": "Erzincan'da 5 köyün merası için hazırlanan ıslah projeleri Bakanlıktan onay aldı",
+      "manset": "Beş köyün merası \"2027\"de yenileniyor",
+      "ozet": "Erzincan İl Tarım ve Orman Müdürlüğü'nün hazırladığı 5 mera ıslah ve amenajman projesi, Tarım ve Orman Bakanlığı Bitkisel Üretim Genel Müdürlüğü tarafından uygun bulundu. Projeler İznik'te yapılan değerlendirme toplantısında ele alındı. Çalışmaların 2027'de Kemah'a bağlı Oğuz köyü ile merkeze bağlı Handeresi, Heybeli, Çatalarmut ve Mecidiye köylerinin meralarında yapılması planlanıyor. Amaç, meraların verimini yükseltmek ve bölgedeki hayvancılığı güçlendirmek.",
+      "neYapmali": "Proje kapsamındaki köylerin yetiştiricileri, ıslah süresince otlatma düzeni ve uyulacak kurallar için Erzincan İl Tarım ve Orman Müdürlüğü ile muhtarlıklardan bilgi almalı.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/erzincan-haberleri/erzincanda-5-koyde-mera-islahi-yapilacak-515077266"
+        }
+      ]
+    },
     {
       "id": "adiyaman-golbasi-trabzon-hurmasi-zirai-don-hasar-tespiti-2026",
       "kategori": "Zirai Don",
@@ -4152,46 +4186,6 @@
       "gorselKucuk": "assets/envato/resmi-gazete-3-kasim-mera-orman-koylusu-k.jpg",
       "gorselKaynak": "Temsili fotoğraf: Envato",
       "manset": "Mera ve orman köylüsüne \"yeni düzenleme\""
-    },
-    {
-      "id": "canik-salep-tohumu-destegi",
-      "kategori": "Bitkisel Üretim",
-      "tarih": "2026-11-03",
-      "motif": "tohum",
-      "baslik": "Samsun Canik'te çiftçilere 500 kilo salep tohumu verilecek",
-      "ozet": "Canik Belediye Meclisi 3 Kasım'daki toplantısında, ilçedeki çiftçilere ilk etapta 500 kilogram salep üretim materyali dağıtılmasını öngören protokolü oy çokluğuyla kabul etti. Proje, Canik Belediyesi ile Canik İlçe Tarım ve Orman Müdürlüğü arasında 2026-2027 Salep Üretimi Teşvik Desteği kapsamında yürütülecek. İlçe müdürlüğünün toprak analizleri özellikle Kozlu Mahallesi'nde olumlu çıktı. Bağımsız meclis üyesi Cemil Güngör ise ilçenin koşullarının salebe uygun olmadığını ve maliyetin yaklaşık 950 bin lirayı bulacağını savunarak karşı çıktı.",
-      "neYapmali": "Salep üretmek isteyenlerin ÇKS kaydı olmalı ve Bakanlığın salep üretimi başvuru formuyla ilçe tarım müdürlüğüne başvurması gerekiyor. Dağıtım takvimi protokol imzalandıktan sonra belediye tarafından duyurulacak.",
-      "kaynaklar": [
-        {
-          "ad": "Gerçek Taraf",
-          "url": "https://gercektaraf.com.tr/samsun-canikte-ciftcilere-500-kilo-salep-tohumu-destegi-geliyor"
-        }
-      ],
-      "eklenme": "2026-11-04T07:39:00+03:00",
-      "gorsel": "assets/iha/canik-salep-tohumu-destegi.jpg",
-      "gorselKucuk": "assets/iha/canik-salep-tohumu-destegi-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA",
-      "manset": "Canik'e \"500 kilo\" salep tohumu"
-    },
-    {
-      "id": "onarici-tarim-bugday-verim-yuzde-22",
-      "kategori": "Bitkisel Üretim",
-      "tarih": "2026-11-03",
-      "motif": "bugday",
-      "baslik": "Onarıcı tarımla buğdayda kuru alanlarda verim yüzde 22 arttı",
-      "ozet": "Ülker'in buğday tedarik zincirinde yürüttüğü Onarıcı Tarım Projesi 2025'te 101 çiftçiyle 6 bin 860 dekarlık alanda sürdürüldü. Toprak analizi, uydu görüntüsü ve sensör verilerinin çiftçi deneyimiyle birleştirildiği projede örtü bitkisi, azaltılmış toprak işleme, gübre ve sulama optimizasyonu uygulandı. Şirketin açıklamasına göre kuru tarım alanlarında verim bir önceki sezona göre yüzde 22 artarken gübre kaynaklı karbon emisyonu yüzde 10 azaldı.",
-      "neYapmali": "Azaltılmış toprak işleme ve örtü bitkisi gibi uygulamalara geçmeden önce toprak analizi yaptırın ve ilçe tarım müdürlüğünün ya da ziraat odasının ücretsiz danışmanlığından yararlanın. Değişikliği önce küçük bir parselde deneyin.",
-      "kaynaklar": [
-        {
-          "ad": "Habertürk",
-          "url": "https://haberturk.com/ekonomi/ulker-surdurulebilirlik-hedeflerine-somut-adimlarla-ilerliyor-3924595"
-        }
-      ],
-      "eklenme": "2026-11-04T07:38:00+03:00",
-      "gorsel": "assets/iha/onarici-tarim-bugday-verim-yuzde-22.jpg",
-      "gorselKucuk": "assets/iha/onarici-tarim-bugday-verim-yuzde-22-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA",
-      "manset": "Onarıcı tarımla verim \"yüzde 22\" arttı"
     },
     {
       "id": "ordu-findik-serbest-piyasa-160-170-tl",
