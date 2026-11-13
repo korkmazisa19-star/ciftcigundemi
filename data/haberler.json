@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-12T23:09:00+03:00",
+  "guncelleme": "2026-11-13T08:18:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,40 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "aydin-kocarli-bagarasi-sulamasi-146-bin-dekar-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-12",
+      "eklenme": "2026-11-13T08:18:00+03:00",
+      "motif": "sera",
+      "baslik": "Aydın'da Koçarlı Bağarası Sulaması'nda boru döşeme sürüyor: 146 bin dekar modern sulamaya geçecek",
+      "manset": "146 bin dekara \"borulu\" su!",
+      "ozet": "Aydın'ın Koçarlı ilçesinde yürütülen Koçarlı Bağarası Sulaması 2. Kısım İkmali inşaatında boru montajı aralıksız devam ediyor. Proje, Koçarlı ile Söke ilçelerindeki tarım arazilerine modern borulu sulama sistemi götürecek. Çalışmalar bittiğinde toplam 146 bin 40 dekar zirai alanın bu sistemle sulanması hedefleniyor. Yeni hattın, bölgedeki arazileri taşkın riskine karşı da koruması bekleniyor.",
+      "neYapmali": "Koçarlı ve Söke'de projeden yararlanacak üreticiler, bağlı oldukları sulama birliğinden sisteme bağlantı takvimi ve su kullanım planı hakkında bilgi alabilir. Borulu sisteme uygun damla ya da yağmurlama düzenine geçişi şimdiden planlamak sulama dönemini kolaylaştırır.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/aydin-haberleri/tarim-arazileri-taskindan-koruyacak-projede-calismalar-suruyor-515020386"
+        }
+      ]
+    },
+    {
+      "id": "kirklareli-kiyikoy-trol-tekneleri-su-urunleri-denetimi-2026",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-12",
+      "eklenme": "2026-11-13T08:17:00+03:00",
+      "motif": "balik",
+      "baslik": "Kırklareli'nin Kıyıköy beldesinde trol teknelerine su ürünleri denetimi",
+      "manset": "Trol teknelerine \"sıkı\" denetim",
+      "ozet": "Kırklareli İl Tarım ve Orman Müdürlüğü ekipleri, Vize ilçesine bağlı Kıyıköy Balıkçı Barınağı'nda trol ve ortasu trolü teknelerini denetledi. Kontrollerde avcılık faaliyetlerinin su ürünleri mevzuatına uygun yürütülüp yürütülmediği incelendi. Denetimlerin amacının balık stoklarını korumak, kaçak avcılığı önlemek ve sürdürülebilir balıkçılığı sağlamak olduğu açıklandı. Yetkililer kontrollerin aralıksız süreceğini bildirdi.",
+      "neYapmali": "Balıkçılar ruhsat, av sahası, ağ ve boy sınırlarını yürürlükteki su ürünleri avcılığı düzenlemesinden kontrol etmeli, teknede gerekli belgeleri hazır bulundurmalı. Mevzuatla ilgili sorular için il ve ilçe tarım müdürlüklerinin su ürünleri birimlerine başvurulabilir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/kirklareli-haberleri/kiyikoyde-balikci-teknelerine-siki-denetim-515100503"
+        }
+      ]
+    },
     {
       "id": "aksaray-mamasin-baraji-olu-baliklar-kiyiya-vurdu-2026",
       "kategori": "Hayvancılık",
@@ -4017,30 +4051,6 @@
       "manset": "Ayva bol, fiyat \"şikâyet konusu\""
     },
     {
-      "id": "diyarbakir-yagis-pamuk-misir-hasat",
-      "kategori": "Bitkisel Üretim",
-      "tarih": "2026-11-03",
-      "motif": "misir",
-      "baslik": "Diyarbakır'da yağış hasadı durdurdu, ziraat odası afet bölgesi ilanı istiyor",
-      "ozet": "Yenişehir Ziraat Odası Başkanı Süleyman İskenderoğlu, yağışlar nedeniyle Diyarbakır'da yüz binlerce dekar pamuk ve mısırın tarlada kaldığını söyledi. İskenderoğlu'na göre pamuğun yüzde 35-40'ı, mısırın yaklaşık yüzde 50'si kaldırılabildi, verim kaybı ise yaklaşık yüzde 20. Mısır fiyatının nem nedeniyle 14 liradan 11,5 liraya gerilediğini belirten oda başkanı, bölgenin afet bölgesi ilan edilmesini ve çiftçi borçlarının faizsiz ertelenmesini talep etti. Bakan Yumaklı ise ek mazot ve gübre desteğiyle ilgili bir soru önergesine verdiği yanıtta 2026 temel destek katsayısının dekar başına 310 liradan 360 liraya çıkarıldığını ve gübrede gümrük vergisinin sıfırlandığını belirtmişti; Yumaklı bu yanıtta yeni bir ek destek takvimi açıklamadı.",
-      "neYapmali": "Zarar gören parselleriniz için ilçe tarım ve orman müdürlüğünüze ve ziraat odanıza başvurup hasar durumunu kayda geçirin. TARSİM poliçeniz varsa poliçedeki hasar bildirim şartlarını kontrol edin.",
-      "kaynaklar": [
-        {
-          "ad": "Haberler.com (ANKA)",
-          "url": "https://haberler.com/guncel/diyarbakir-da-yagislar-pamuk-ve-misir-hasadini-20389729-haberi"
-        },
-        {
-          "ad": "Yozgat Çamlık (Bakan Yumaklı'nın yanıtı)",
-          "url": "https://www.yozgatcamlik.com/yozgat-haber/yozgatli-ciftcilerin-bekledigi-ek-destek-aciklamasi-geldi-mazot-ve-gubre-22169104h"
-        }
-      ],
-      "eklenme": "2026-11-04T07:47:00+03:00",
-      "gorsel": "assets/iha/diyarbakir-yagis-pamuk-misir-hasat.jpg",
-      "gorselKucuk": "assets/iha/diyarbakir-yagis-pamuk-misir-hasat-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA (temsili)",
-      "manset": "Diyarbakır'da \"afet bölgesi\" talebi"
-    },
-    {
       "id": "fethiye-sel",
       "kategori": "Zirai Don",
       "tarih": "2026-11-03",
@@ -4165,30 +4175,6 @@
       "video": "assets/video/hatay-mandalina.mp4",
       "eklenme": "2026-11-04T07:41:00+03:00",
       "manset": "Hatay'da \"100 ton\" mandalina öğrencilere"
-    },
-    {
-      "id": "resmi-gazete-3-kasim-mera-orman-koylusu",
-      "kategori": "Destek",
-      "tarih": "2026-11-03",
-      "motif": "koyun",
-      "baslik": "Resmî Gazete'de orman köylüsüne yardım yönetmeliği ve mera alanlarına yeni ilke kararı",
-      "ozet": "3 Kasım 2026 tarihli ve 33419 sayılı Resmî Gazete'de tarım ve kırsalı ilgilendiren birkaç düzenleme yayımlandı. Ormancılık işlerinde vahidi fiyat usulüyle çalışan orman köylülerine yapılacak ayni ya da nakdi dağıtımın nasıl uygulanacağını düzenleyen bir yönetmelik yürürlüğe girdi. Aynı sayıda, doğal sit tescilinden önce mera niteliği taşıyan alanların kullanımına ilişkin 152 numaralı ve tarımsal amaçlı ağaç dikim çukuru açılmasına ilişkin 153 numaralı ilke kararları da yer aldı.",
-      "neYapmali": "Arazisi ya da merası doğal sit alanında kalan üreticiler, yeni ilke kararlarının kendi parsellerine etkisini il tarım müdürlüğüne ve tabiat varlıklarını koruma birimine sorabilir. Orman köylüleri yardım başvuruları için bağlı oldukları orman işletme şefliğinden bilgi almalı.",
-      "kaynaklar": [
-        {
-          "ad": "Afyon Türkeli Gazetesi",
-          "url": "https://www.afyonturkeligazetesi.com/3-kasim-2026-resmi-gazete-yayimlandi/148940"
-        },
-        {
-          "ad": "Kurtalan Gazetesi",
-          "url": "https://kurtalangazetesi.com/haber/3-kasim-2026-resmi-gazete-kararlari-aciklandi-iste-yayimlanan-yonetmelik-ve-tebligler-106619.html"
-        }
-      ],
-      "eklenme": "2026-11-04T07:40:00+03:00",
-      "gorsel": "assets/envato/resmi-gazete-3-kasim-mera-orman-koylusu.jpg",
-      "gorselKucuk": "assets/envato/resmi-gazete-3-kasim-mera-orman-koylusu-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato",
-      "manset": "Mera ve orman köylüsüne \"yeni düzenleme\""
     },
     {
       "id": "ordu-findik-serbest-piyasa-160-170-tl",
