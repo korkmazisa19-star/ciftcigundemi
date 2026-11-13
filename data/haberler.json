@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-13T20:10:00+03:00",
+  "guncelleme": "2026-11-13T23:11:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,43 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "marmara-kuvvetli-yagis-uyarisi-14-15-kasim-2026",
+      "kategori": "Zirai Don",
+      "tarih": "2026-11-13",
+      "eklenme": "2026-11-13T23:11:00+03:00",
+      "motif": "don",
+      "baslik": "Meteoroloji'den Marmara'ya kuvvetli yağış uyarısı: Cumartesi öğleden Pazar sabahına kadar sürecek",
+      "manset": "Metrekareye \"50 kilo\" yağış uyarısı!",
+      "ozet": "Meteoroloji Genel Müdürlüğü, Marmara Bölgesi için yerel kuvvetli yağış uyarısı yayımladı. Uyarıya göre sağanak ve gök gürültülü sağanağın 14 Kasım Cumartesi saat 12.00'de başlaması ve 15 Kasım Pazar saat 06.00'ya kadar sürmesi bekleniyor. Kırklareli, Edirne, Tekirdağ, İstanbul, Çanakkale, Yalova, Bursa, Kocaeli ve Sakarya çevreleri ile Balıkesir'in kuzey ve batı kesimlerinde metrekareye 21 ila 50 kilogram yağış düşebileceği belirtildi. Ani sel, su baskını, yıldırım, hortum, yerel dolu ve fırtına riskine karşı dikkatli olunması istendi.",
+      "neYapmali": "Bölgedeki üreticiler dere yatakları ve taşkın riski olan alanlardaki hayvanları, makineleri ve hasat edilmiş ürünleri Cumartesi öğleden önce güvenli yere almalı; sera ve ahır çatılarını, drenaj kanallarını kontrol etmeli. Güncel uyarılar için mgm.gov.tr takip edilmeli.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/tekirdag-haberleri/marmara-bolgesi-icin-kuvvetli-yagis-uyarisi-sel-ve-su-baskinlarina-dikkat-515644465"
+        }
+      ]
+    },
+    {
+      "id": "mersin-mut-zeytin-alim-merkezleri-elek-tarti-denetimi-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-13",
+      "eklenme": "2026-11-13T23:10:00+03:00",
+      "motif": "zeytin",
+      "baslik": "Mut'ta zeytin alım merkezleri denetlendi: elekler, tartılar ve fiyat etiketleri tek tek kontrol edildi",
+      "manset": "Zeytin \"eleği\" mercek altında",
+      "ozet": "Mersin'in Mut ilçesinde hasat sezonunda çalışan zeytin alım merkezleri ile elek ve boylama tesisleri ortak denetimden geçirildi. Denetimi Mersin İl Tarım ve Orman Müdürlüğü, İl Ticaret Müdürlüğü ve Mut İlçe Tarım ve Orman Müdürlüğü ekipleri birlikte yaptı. Ekipler eleklerin standarda uygunluğunu, tartı aletlerinin doğruluğunu, fiyat etiketlerini ve mevzuata uyumu yerinde inceledi. Yetkililer, üreticinin ürününü satarken mağdur olmaması için kontrollerin sezon boyunca süreceğini bildirdi.",
+      "neYapmali": "Zeytinini alım merkezine götüren üreticiler tartımı kendi gözüyle izlemeli, boylama ve fiyatı yazılı olarak almalı; usulsüzlük gördüğünde il ya da ilçe tarım ve orman müdürlüğüne veya ticaret müdürlüğüne şikâyette bulunmalı.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/mersin-haberleri/mutta-zeytin-alim-merkezlerine-denetim-515614144"
+        }
+      ],
+      "gorsel": "assets/envato/mersin-mut-zeytin-alim-merkezleri-elek-tarti-denetimi-2026.jpg",
+      "gorselKucuk": "assets/envato/mersin-mut-zeytin-alim-merkezleri-elek-tarti-denetimi-2026-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
     {
       "id": "bitlis-ahlat-don-10-bin-dekar-patates-tarlada-kaldi-2026",
       "kategori": "Zirai Don",
@@ -3893,30 +3930,6 @@
       "manset": "\"Bir Sürü Olsun\" başvuruları başladı"
     },
     {
-      "id": "tbmm-seker-arastirma-onergesi-reddedildi",
-      "kategori": "Piyasa",
-      "tarih": "2026-11-03",
-      "eklenme": "2026-11-04T08:30:00+03:00",
-      "motif": "pancar",
-      "baslik": "Şeker sektörü için Meclis araştırması önerisi kabul edilmedi",
-      "ozet": "CHP'nin şeker sektöründeki sorunların ve stok fazlasının araştırılmasını isteyen önerisi, 3 Kasım'da TBMM Genel Kurulu'nda AK Parti ve MHP oylarıyla reddedildi. CHP Kahramanmaraş Milletvekili Ali Öztunç, pancar fiyatının 3.100 liradan 3.720 liraya yani yüzde 20 arttığını, mazotun ise 55 liradan 100 liraya çıktığını söyledi. Öztunç, özelleştirilen Elbistan fabrikasının kota fazlası pancara 1.750 lira vereceğini belirttiğini ve üreticilerin bu nedenle eylem yaptığını aktardı. AK Parti Mersin Milletvekili Ali Kıratlı ise TÜRKŞEKER'in mayıs satışıyla ilgili 600 milyon liralık kamu zararı iddiasına karşı çıktı. Kıratlı, 30 bin tonluk peşin satışın çiftçi avansları dahil nakit ihtiyacını karşıladığını, aynı kaynağın krediyle bulunmasının yaklaşık 200 milyon lira finansman maliyeti doğuracağını savundu.",
-      "neYapmali": "Kota fazlası pancarı olan üreticiler, teslimattan önce fabrikanın uygulayacağı fiyatı ve ödeme koşullarını yazılı olarak öğrenebilir. Kota ve sözleşme konusundaki sorular için pancar kooperatifine ya da ziraat odasına danışılabilir.",
-      "kaynaklar": [
-        {
-          "ad": "ANKA Haber Ajansı",
-          "url": "https://ankahaber.net/haber/tbmm-genel-kurulu-chp-nin-seker-sektorundeki-sorunlarin-belirlenmesi-amaciyla-verdigi-arastirma-onergesi-ak-parti-ve-mhp-nin-oylariyla-reddedildi-0753dbc3"
-        },
-        {
-          "ad": "Toplumsal Haber",
-          "url": "https://www.toplumsal.com.tr/haber/seker-sektoru-arastirma-onergesi-reddedildi_32783/"
-        }
-      ],
-      "gorsel": "assets/envato/tbmm-seker-arastirma-onergesi-reddedildi.jpg",
-      "gorselKucuk": "assets/envato/tbmm-seker-arastirma-onergesi-reddedildi-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato",
-      "manset": "Şeker araştırması \"kabul edilmedi\""
-    },
-    {
       "id": "mersin-zeytinyagi-litre-200-tl",
       "kategori": "Piyasa",
       "tarih": "2026-11-03",
@@ -3939,30 +3952,6 @@
       "gorselKucuk": "assets/iha/mersin-zeytinyagi-litre-200-tl-k.jpg",
       "gorselKaynak": "Fotoğraf: İHA",
       "manset": "Zeytinyağı litresi \"200 liraya\" indi"
-    },
-    {
-      "id": "manisa-kula-selendi-905-uretici-tohum",
-      "kategori": "Hibe",
-      "tarih": "2026-11-03",
-      "motif": "tohum",
-      "baslik": "Manisa'da Kula ve Selendi'deki 905 üreticiye yüzde 75 hibeli tohum",
-      "ozet": "Manisa Büyükşehir Belediyesi, Kula ve Selendi'de 905 üreticiye toplam 272.175 kilo sertifikalı tohum dağıttı. Yüzde 75 hibeyle verilen tohumlar arasında arpa, buğday, beşli karışım yem bitkisi ve süt otu var. Kula'da 258 üretici 80.325 kilo, Selendi'de 647 üretici 191.850 kilo tohum aldı. Dağıtımlara Kırsal Hizmetler Daire Başkanı Yılmaz Usta katıldı; belediye amacın üreticinin girdi maliyetini azaltmak olduğunu belirtti.",
-      "neYapmali": "Manisa'daki üreticiler sonraki dağıtımlar ve başvuru koşulları için Büyükşehir Belediyesi Kırsal Hizmetler Dairesi'ne ya da ziraat odasına danışabilir. Diğer illerdekiler kendi belediyelerinin hibe duyurularını takip etmeli.",
-      "kaynaklar": [
-        {
-          "ad": "Manisa Haber",
-          "url": "https://www.manisahaber.com/buyuksehirden-kula-ve-selendide-905-ureticiye-tohum-destegi"
-        },
-        {
-          "ad": "Manisa Haber X",
-          "url": "https://www.manisahaberx.com/kula-ve-selendide-905-ureticiye-yuzde-75-hibeli-tohum"
-        }
-      ],
-      "eklenme": "2026-11-04T07:58:00+03:00",
-      "gorsel": "assets/iha/manisa-kula-selendi-905-uretici-tohum.jpg",
-      "gorselKucuk": "assets/iha/manisa-kula-selendi-905-uretici-tohum-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA",
-      "manset": "Kula ve Selendi'ye \"hibeli tohum\""
     },
     {
       "id": "mersin-sel-ciftci-destek-belirsiz",
@@ -4860,9 +4849,7 @@
       "traktor": [
         "traktor-9.jpg"
       ],
-      "zeytin": [
-        "zeytin-8.jpg"
-      ],
+      "zeytin": [],
       "ayva": [
         "ayva-2.jpg",
         "ayva-3.jpg"
