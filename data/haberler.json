@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-13T08:18:00+03:00",
+  "guncelleme": "2026-11-13T12:12:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,40 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "ordu-kivi-hasadi-9370-ton-rekolte-375-milyon-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-13",
+      "eklenme": "2026-11-13T12:12:00+03:00",
+      "motif": "tohum",
+      "baslik": "Ordu'da coğrafi işaretli kivide hasat başladı: Rekoltenin yüzde 51 artarak 9 bin 370 tona ulaşması bekleniyor",
+      "manset": "Fındığın yanında \"375 milyonluk\" kivi",
+      "ozet": "Ordu'da 2019'da coğrafi işaret tescili alan kivinin hasadı 13 Kasım'da Perşembe ilçesi Efirli Mahallesi'ndeki bir bahçede düzenlenen programla başladı. İl Tarım ve Orman Müdürü Bayram Ay, ilde kivinin yaklaşık 4 bin 11 dekarda yetiştirildiğini ve bu yıl 9 bin 370 ton ürün beklendiğini açıkladı. Geçen yıl birçok ilde zirai don hasarı yaşandığını hatırlatan Ay, rekoltede yüzde 51 artış öngörüldüğünü belirtti. Ürünün il ekonomisine yaklaşık 375 milyon liralık katkı sağlaması bekleniyor; kivi özellikle sahil ve orta kuşakta fındığın yanında ek gelir kaynağı haline geldi.",
+      "neYapmali": "Hasat eden üreticiler ürünü olgunluk ve kuru madde değerine göre toplamalı, uzun depolama için meyveyi ezmeden kasalamalı; coğrafi işaretli satış ve destek konularında İl ya da ilçe tarım ve orman müdürlüğüne başvurulabilir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/ordu-haberleri/cografi-isaretli-ordu-kivisinde-hasat-basladi-515469365"
+        }
+      ]
+    },
+    {
+      "id": "samsun-ilkadim-100-bin-nergis-sogani-destegi-2026",
+      "kategori": "Destek",
+      "tarih": "2026-11-13",
+      "eklenme": "2026-11-13T12:11:00+03:00",
+      "motif": "tohum",
+      "baslik": "Samsun Büyükşehir'den İlkadım'da üreticilere 100 bin nergis soğanı: 10 dekarda dikim yapıldı",
+      "manset": "Tarlaya \"100 bin\" nergis soğanı",
+      "ozet": "Samsun Büyükşehir Belediyesi, Nergis Yetiştiriciliğinin Yaygınlaştırılması Projesi kapsamında İlkadım ilçesindeki üreticilere 100 bin adet nergis soğanı dağıttı. Soğanlar toplam 10 dekarlık alanda üreticiler tarafından hemen toprağa dikildi. Belediye, projeyle bölgede nergis üretimini artırmayı, ürün çeşitliliğini geliştirmeyi ve üreticilere alternatif bir gelir kapısı açmayı hedefliyor. Belediyenin tohum, fide, gübre ve ekipman desteklerini de sürdürdüğü belirtildi.",
+      "neYapmali": "Nergis ya da benzeri alternatif ürün desteklerinden yararlanmak isteyen Samsunlu üreticiler Büyükşehir Belediyesi'nin tarım hizmetleri birimine ve ilçe tarım ve orman müdürlüğüne başvuru koşullarını sorabilir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/samsun-haberleri/buyuksehir-belediyesinden-ureticilere-nergis-sogani-destegi-515458450"
+        }
+      ]
+    },
     {
       "id": "aydin-kocarli-bagarasi-sulamasi-146-bin-dekar-2026",
       "kategori": "Bitkisel Üretim",
@@ -3963,26 +3997,6 @@
       "manset": "Domates bir yılda \"iki katına\" çıktı!"
     },
     {
-      "id": "tokat-yesilirmak-600-milyon-islah",
-      "kategori": "Zirai Don",
-      "tarih": "2026-11-03",
-      "motif": "traktor",
-      "baslik": "Tokat'ta taşkın sonrası Yeşilırmak'ta 600 milyon liralık ıslah çalışması",
-      "ozet": "Tokat'ta 20 Mayıs'taki yağışlarda Almus Barajı'nın dolması ve dolusavaklardan su bırakılmasıyla Yeşilırmak taşmış, tarım arazileri ve evler su altında kalmış, köprüler yıkılmıştı. DSİ, nehirde 70 kilometrelik ıslah çalışması yapacak ve yıkılan köprüleri yeniden inşa edecek. İhalelerin toplam bedelinin 600 milyon lirayı aştığı belirtildi.",
-      "neYapmali": "Taşkın riski taşıyan nehir kenarındaki arazilerde ekim planı yaparken TARSİM sel teminatını poliçenize eklemeyi düşünün.",
-      "kaynaklar": [
-        {
-          "ad": "DHA",
-          "url": "https://www.dha.com.tr/foto-galeri/tokatta-taskin-sonrasi-yesilirmakta-600-milyon-liralik-islah-calismasi-basladi-2974332"
-        }
-      ],
-      "eklenme": "2026-11-04T07:51:00+03:00",
-      "gorsel": "assets/envato/tokat-yesilirmak-600-milyon-islah.jpg",
-      "gorselKucuk": "assets/envato/tokat-yesilirmak-600-milyon-islah-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato",
-      "manset": "Yeşilırmak'a \"600 milyon liralık\" ıslah"
-    },
-    {
       "id": "zirai-don-uyarisi-4-9-kasim",
       "kategori": "Zirai Don",
       "tarih": "2026-11-03",
@@ -4037,30 +4051,6 @@
       "gorselKucuk": "assets/envato/bayburt-buzagi-kuzu-1-aralik-k.jpg",
       "gorselKaynak": "Temsili fotoğraf: Envato",
       "manset": "Buzağı desteğinde \"son gün 1 Aralık\""
-    },
-    {
-      "id": "sakarya-ayva-60-bin-ton",
-      "kategori": "Bitkisel Üretim",
-      "tarih": "2026-11-03",
-      "motif": "ayva",
-      "baslik": "Sakarya'da ayva bol ama üretici fiyattan şikâyetçi",
-      "ozet": "Pamukova Ziraat Odası Başkanı Yaşar Ulukaya, bölgede bu sezon 60 bin ton ayva rekoltesi beklediklerini söyledi. Normal yıllarda üretimin 40-50 bin ton olduğunu aktaran Ulukaya, geçen yılki donun üreticiye zarar verdiğini de hatırlattı. Ulukaya'ya göre üretici ayvayı kilosu 10-15 liradan satarken market raflarında fiyat 80-100 liraya kadar çıkıyor. Hasatta işçi yevmiyeleri günlük 1.500-2.000 lira arasında değişiyor, bazı üreticiler 2.500 lira ödüyor. Oda başkanı hal düzenlemesi gerektiğini belirtti.",
-      "neYapmali": "Satıştan önce birkaç tüccardan ve ihracatçıdan fiyat alın. Yağışlı günlerde hasadın uzayabileceğini işçilik planınızda hesaba katın.",
-      "kaynaklar": [
-        {
-          "ad": "Haberler.com (İHA)",
-          "url": "https://www.haberler.com/cevre/sakarya-da-cografi-isaretli-ayvada-hasat-suruyor-20391612-haberi/"
-        },
-        {
-          "ad": "Yeni Sakarya",
-          "url": "https://www.yenisakarya.com/sakaryanin-sari-altininda-bereketli-hasat-60-bin-ton-ayva-bekleniyor-ama-uretici-fiyattan-dertli"
-        }
-      ],
-      "eklenme": "2026-11-04T07:48:00+03:00",
-      "gorsel": "assets/iha/sakarya-ayva-60-bin-ton.jpg",
-      "gorselKucuk": "assets/iha/sakarya-ayva-60-bin-ton-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA",
-      "manset": "Ayva bol, fiyat \"şikâyet konusu\""
     },
     {
       "id": "fethiye-sel",
