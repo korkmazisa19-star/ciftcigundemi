@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-13T15:11:00+03:00",
+  "guncelleme": "2026-11-13T20:10:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,46 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "bitlis-ahlat-don-10-bin-dekar-patates-tarlada-kaldi-2026",
+      "kategori": "Zirai Don",
+      "tarih": "2026-11-13",
+      "eklenme": "2026-11-13T20:10:00+03:00",
+      "motif": "tohum",
+      "baslik": "Ahlat'ta kar ve don hasadı yarıda bıraktı: 10 bin dekar patates toprak altında dondu",
+      "manset": "Patates toprakta \"dondu\"!",
+      "ozet": "Bitlis'in Ahlat ilçesinde hasat dönemine denk gelen 15-20 günlük yağışların ardından bastıran kar ve dondurucu soğuklar, tarlada kalan ürünü vurdu. Ahlat Ziraat Odası, yaklaşık 10 bin dekar patates ve 5 bin dekar fasulye alanının don olayından etkilendiğini açıkladı. Çamur nedeniyle sökümü tamamlayamayan üreticiler, toprak altında donan patateslerin çürüyeceğini söylüyor. 200 dekar ekim yapan bir çiftçi, alanının ancak yarısını sökebildiğini anlattı. Oda, üreticilerin devlet desteği beklediğini vurguladı.",
+      "neYapmali": "Zarar gören üreticiler hasar tespiti için vakit kaybetmeden ilçe tarım ve orman müdürlüğüne ve ziraat odasına başvurmalı; TARSİM poliçesi olanlar hasar ihbarını sigorta şirketine yapmalı.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/bitlis-haberleri/ahlati-don-vurdu-binlerce-dekarlik-alanda-patates-tarlada-kaldi-515663952"
+        }
+      ],
+      "gorsel": "assets/iha/bitlis-ahlat-don-10-bin-dekar-patates-tarlada-kaldi-2026.jpg",
+      "gorselKucuk": "assets/iha/bitlis-ahlat-don-10-bin-dekar-patates-tarlada-kaldi-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
+    },
+    {
+      "id": "giresun-findik-serbest-piyasa-165-liraya-geriledi-2026",
+      "kategori": "Piyasa",
+      "tarih": "2026-11-13",
+      "eklenme": "2026-11-13T20:09:00+03:00",
+      "motif": "findik",
+      "baslik": "Giresun'da serbest piyasada fındık 165 liraya indi, üretici TMO kuyruğunda",
+      "manset": "Sezona 200'le girdi, şimdi \"165 lira\"",
+      "ozet": "Giresun'da 50 randıman fındığın serbest piyasadaki kilogram fiyatı sezon başındaki 200 lira seviyesinden merkezde 165 liraya kadar düştü; bazı ilçelerde 175 liraya kadar fiyat verildiği öğrenildi. Fiyat düşüşüyle serbest piyasada satış neredeyse durdu, üreticiler TMO alım noktalarında uzun kuyruklar oluşturuyor. TMO, 50 randıman fındık için kilogram başına 255 lira alım fiyatı açıklamıştı ve Giresun'daki yedi noktada alımı sürdürüyor. Fiskobirlik'e bağlı Giresun kooperatifinde ise fiyat 187 lira olarak uygulanıyor. Emanetteki fındık miktarının fazlalığı fiyatları baskılayan etken olarak gösteriliyor.",
+      "neYapmali": "TMO'ya satış yapmak isteyen üreticiler ÇKS kaydının güncel olduğunu kontrol etmeli ve alım süresinin son günü 14 Kasım'ı kaçırmamalı.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/giresun-haberleri/giresunda-findik-fiyatlari-165-liraya-kadar-geriledi-515586952"
+        }
+      ],
+      "gorsel": "assets/iha/giresun-findik-serbest-piyasa-165-liraya-geriledi-2026.jpg",
+      "gorselKucuk": "assets/iha/giresun-findik-serbest-piyasa-165-liraya-geriledi-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
+    },
     {
       "id": "adana-kozan-safran-hasadi-gram-900-lira-2026",
       "kategori": "Bitkisel Üretim",
@@ -3943,46 +3983,6 @@
       "gorselKucuk": "assets/envato/mersin-sel-ciftci-destek-belirsiz-k.jpg",
       "gorselKaynak": "Temsili fotoğraf: Envato",
       "manset": "Mersin'de çiftçi \"destek bekliyor\""
-    },
-    {
-      "id": "van-58-cilek-serasi-56-ureticiye-kasimda",
-      "kategori": "Bitkisel Üretim",
-      "tarih": "2026-11-03",
-      "motif": "sera",
-      "baslik": "Van'da kurulan 58 çilek serasının 56'sı kasımda üreticilere veriliyor",
-      "ozet": "Van'da üretimi çeşitlendirmek ve üretici gelirini artırmak amacıyla kurulan 58 çilek serasında çalışmalar tamamlandı. Yaklaşık 500'er metrekarelik seraların 56'sı kasım ayında üreticilere teslim edilecek, 2'si ise Büyükşehir Belediyesi Tarımsal Hizmetler Dairesi'nde eğitim, uygulama ve Ar-Ge için kullanılacak. Her seraya 2 bin 450, toplamda 142 bin 100 çilek fidesi dikildi. İlk hasat önümüzdeki yılın nisan-mayıs aylarında bekleniyor. Proje; Valilik, Büyükşehir Belediyesi, İl Tarım ve Orman Müdürlüğü ile Doğu Anadolu Kalkınma Ajansı iş birliğiyle yürütülüyor.",
-      "neYapmali": "Yararlanıcı seçimini İl Tarım ve Orman Müdürlüğü belirlenen ölçütlere göre yapıyor; ilgilenen Vanlı üreticiler koşulları ve olası yeni dönemleri müdürlükten sormalı.",
-      "kaynaklar": [
-        {
-          "ad": "Ekonomi Politikası",
-          "url": "https://ekonomipolitikasi.com.tr/vanda-56-ureticiye-cilek-serasi-teslim-edilecek/"
-        }
-      ],
-      "eklenme": "2026-11-04T07:56:00+03:00",
-      "gorsel": "assets/envato/van-58-cilek-serasi-56-ureticiye-kasimda.jpg",
-      "gorselKucuk": "assets/envato/van-58-cilek-serasi-56-ureticiye-kasimda-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato",
-      "manset": "Van'da \"56 çilek serası\" teslimde"
-    },
-    {
-      "id": "nevsehir-cerezlik-kabak-hasadi",
-      "kategori": "Bitkisel Üretim",
-      "tarih": "2026-11-03",
-      "motif": "tohum",
-      "baslik": "Nevşehir'de çerezlik kabakta hasat zamanı: Türkiye üretiminin yüzde 40'ı buradan",
-      "ozet": "Nevşehir'de coğrafi işaretli çerezlik kabak hasadı başladı. Nevşehir Ticaret Borsası Meclis Başkanı Mehmet Havalı, TÜİK'in 2024 verilerine göre ilde 221 bin dekarda 23 bin 670 ton ürün alındığını ve kabağın il ekonomisine 1,3 milyar liradan fazla katkı sağladığını söyledi. 2019'da coğrafi işaret alınmadan önce 160 bin dekar civarında olan ekim alanı geçen yıl 300 bin dekara yaklaştı. Nevşehir'in Türkiye üretimindeki payı yüzde 32'den yüzde 39-40'a çıktı.",
-      "neYapmali": "Coğrafi işaretli ürün satarken çuval ve ambalajda tescil logosunu kullanmak için borsa ya da tescil sahibi kurumun denetim şartlarını öğrenin; bu, ürünün fiyatını yükseltir.",
-      "kaynaklar": [
-        {
-          "ad": "Milliyet",
-          "url": "https://www.milliyet.com.tr/ekonomi/sari-altinda-simdi-hasat-zamani-7692877"
-        }
-      ],
-      "eklenme": "2026-11-04T07:55:00+03:00",
-      "gorsel": "assets/envato/nevsehir-cerezlik-kabak-hasadi.jpg",
-      "gorselKucuk": "assets/envato/nevsehir-cerezlik-kabak-hasadi-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato",
-      "manset": "Çerezlik kabakta \"hasat zamanı\""
     },
     {
       "id": "findik-ihracati-ilk-iki-ay-494-milyon-dolar",
