@@ -73,7 +73,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/ordu-haberleri/cografi-isaretli-ordu-kivisinde-hasat-basladi-515469365"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/ordu-kivi-hasadi-9370-ton-rekolte-375-milyon-2026.jpg",
+      "gorselKucuk": "assets/iha/ordu-kivi-hasadi-9370-ton-rekolte-375-milyon-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "samsun-ilkadim-100-bin-nergis-sogani-destegi-2026",
@@ -90,7 +93,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/samsun-haberleri/buyuksehir-belediyesinden-ureticilere-nergis-sogani-destegi-515458450"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/samsun-ilkadim-100-bin-nergis-sogani-destegi-2026.jpg",
+      "gorselKucuk": "assets/iha/samsun-ilkadim-100-bin-nergis-sogani-destegi-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "aydin-kocarli-bagarasi-sulamasi-146-bin-dekar-2026",
@@ -150,7 +156,8 @@
       ],
       "gorsel": "assets/iha/aksaray-mamasin-baraji-olu-baliklar-kiyiya-vurdu-2026.jpg",
       "gorselKucuk": "assets/iha/aksaray-mamasin-baraji-olu-baliklar-kiyiya-vurdu-2026-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA"
+      "gorselKaynak": "Fotoğraf/Video: İHA",
+      "video": "assets/video/aksaray-mamasin-baraji-olu-baliklar-kiyiya-vurdu-2026.mp4"
     },
     {
       "id": "erzincan-5-koy-mera-islahi-projesi-bakanlik-onayi-2026",
