@@ -73,7 +73,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/adana-haberleri/dunyanin-en-pahali-baharati-safranda-yagislar-bereketi-artirdi-515560620"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/adana-kozan-safran-hasadi-gram-900-lira-2026.jpg",
+      "gorselKucuk": "assets/iha/adana-kozan-safran-hasadi-gram-900-lira-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "van-gurpinar-karda-mahsur-kalan-ciftciler-kurtarildi-2026",
@@ -90,7 +93,11 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/van-haberleri/vanda-yolda-kalan-ciftciler-kurtarildi-515518454"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/van-gurpinar-karda-mahsur-kalan-ciftciler-kurtarildi-2026.jpg",
+      "gorselKucuk": "assets/iha/van-gurpinar-karda-mahsur-kalan-ciftciler-kurtarildi-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf/Video: İHA",
+      "video": "assets/video/van-gurpinar-karda-mahsur-kalan-ciftciler-kurtarildi-2026.mp4"
     },
     {
       "id": "ordu-kivi-hasadi-9370-ton-rekolte-375-milyon-2026",
