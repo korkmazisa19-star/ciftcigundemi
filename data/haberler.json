@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-13T12:12:00+03:00",
+  "guncelleme": "2026-11-13T15:11:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,40 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "adana-kozan-safran-hasadi-gram-900-lira-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-13",
+      "eklenme": "2026-11-13T15:11:00+03:00",
+      "motif": "tohum",
+      "baslik": "Kozan'da safran hasadı: Yağışlar verimi artırdı, gramı 900 liradan alıcı buluyor",
+      "manset": "Bir dönümden \"900 gram\" safran beklentisi",
+      "ozet": "Adana'nın Kozan ilçesinde bir dönümlük bahçede safran yetiştiren Ali Gök, bu yılki hasadı ilçe protokolüyle birlikte yaptı. Üretici, bol yağış sayesinde geçen yıllarda 600 gram civarında kalan ürünün bu sezon 900 grama çıkmasını beklediğini söyledi. Elinde şu an yaklaşık 650 gram ürün bulunan Gök, gramı 900 liradan alıcı bulduğunu belirtti. Hasada Kozan Belediye Başkan Yardımcısı Enes Bekir Erkek ile İlçe Tarım ve Orman Müdürü Mutlu Karataş da katıldı; belediye ve tarım müdürlükleri üreticiye destek verdiklerini açıkladı.",
+      "neYapmali": "Safran gibi alternatif ürünlere geçmeyi düşünen üreticiler, iklim ve toprak uygunluğu ile soğan temini konusunda önce ilçe tarım ve orman müdürlüğüne danışmalı, pazarlama kanalını hasattan önce netleştirmelidir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/adana-haberleri/dunyanin-en-pahali-baharati-safranda-yagislar-bereketi-artirdi-515560620"
+        }
+      ]
+    },
+    {
+      "id": "van-gurpinar-karda-mahsur-kalan-ciftciler-kurtarildi-2026",
+      "kategori": "Zirai Don",
+      "tarih": "2026-11-13",
+      "eklenme": "2026-11-13T15:10:00+03:00",
+      "motif": "traktor",
+      "baslik": "Van Gürpınar'da kar ve buzlanmada traktörleriyle yolda kalan çiftçiler iş makineleriyle kurtarıldı",
+      "manset": "Traktörler karda kaldı, \"halatla\" kurtarıldı",
+      "ozet": "Van'da son günlerde etkili olan kar yağışı ve buzlanma, Gürpınar ilçesinde kırsal yolları zorlaştırdı. Sıcaksu Mahallesi'nden ilçe merkezine inmek isteyen çiftçiler traktör ve römorklarıyla yolda mahsur kaldı. Kırkgeçit Şantiye Şefliğine yapılan bildirimin ardından bölgeye iş makineleri gönderildi; traktörler ve tarım makineleri halatla iş makinelerine bağlanarak bulundukları yerden çekildi. Çiftçiler ana yola güvenle ulaştırılırken ekipler Tüzek Mezrası yolunda da kar temizliği yaptı.",
+      "neYapmali": "Kar ve buzlanma uyarısı olan bölgelerde traktörle yola çıkmadan önce yol durumunu muhtarlık ya da belediye ekiplerinden öğrenin, zincir ve çekme halatı bulundurun; mahsur kalınırsa 112'ye haber verin.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/van-haberleri/vanda-yolda-kalan-ciftciler-kurtarildi-515518454"
+        }
+      ]
+    },
     {
       "id": "ordu-kivi-hasadi-9370-ton-rekolte-375-milyon-2026",
       "kategori": "Bitkisel Üretim",
@@ -3962,46 +3996,6 @@
       "gorselKucuk": "assets/iha/findik-ihracati-ilk-iki-ay-494-milyon-dolar-k.jpg",
       "gorselKaynak": "Fotoğraf: İHA (temsili)",
       "manset": "Fındık ihracatı \"494,6 milyon dolar\""
-    },
-    {
-      "id": "ekim-2026-tarim-ihracati-3-35-milyar-dolar",
-      "kategori": "Piyasa",
-      "tarih": "2026-11-03",
-      "motif": "para",
-      "baslik": "Ekim'de tarım ürünleri ihracatı 3,35 milyar dolar oldu",
-      "ozet": "Türkiye İhracatçılar Meclisi'nin ekim ayı verilerine göre tarım sektörünün ihracatı geçen yılın aynı ayına göre yüzde 1,8 artarak 3 milyar 347 milyon dolara çıktı. Tarımın toplam ihracat içindeki payı yüzde 12,9 oldu. Aynı ayda sanayi ihracatı yüzde 7,1 artışla 18,3 milyar dolar, madencilik ihracatı ise yüzde 18 artışla 688 milyon dolar olarak gerçekleşti.",
-      "neYapmali": "İhracata ürün veren üreticiler, kendi ürün grubundaki aylık verileri ilgili ihracatçı birliğinin sitesinden takip ederek fiyat görüşmelerine hazırlıklı gidebilir.",
-      "kaynaklar": [
-        {
-          "ad": "Milliyet Uzmanpara",
-          "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/otomotiv-endustrisi-4-milyar-dolarlik-ihracatla-ilk-sirada-yer-aldi-7693448"
-        }
-      ],
-      "eklenme": "2026-11-04T07:53:00+03:00",
-      "gorsel": "assets/envato/ekim-2026-tarim-ihracati-3-35-milyar-dolar.jpg",
-      "gorselKucuk": "assets/envato/ekim-2026-tarim-ihracati-3-35-milyar-dolar-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato",
-      "manset": "Tarım ihracatı \"3,35 milyar dolar\""
-    },
-    {
-      "id": "antalya-hal-ekim-domates-fiyati-iki-katina",
-      "kategori": "Piyasa",
-      "tarih": "2026-11-03",
-      "motif": "domates",
-      "baslik": "Antalya hallerinde domatesin fiyatı bir yılda iki katına çıktı",
-      "ozet": "Antalya Ticaret Borsası'nın açıkladığı ekim ayı Antalya Toptancı Halleri endeksine göre domatesin işlem fiyatı bir yılda yüzde 101,29 artarken halden geçen miktar yüzde 15,15 azaldı. Sebze genelinde fiyat yüzde 62,11 yükseldi, miktar yüzde 8,22 düştü. Meyvede ise fiyat yüzde 13,99 gerilerken miktar yüzde 19,88 azaldı. Borsa, domates fiyatındaki artışın son yedi yılın ekim ayları içindeki en yüksek artış olduğunu belirtti.",
-      "neYapmali": "Hal fiyatları gün gün değişir; ürününüzü göndermeden önce komisyoncunun ve halin günlük fiyat listesini karşılaştırın, satış faturanızı mutlaka alın.",
-      "kaynaklar": [
-        {
-          "ad": "Ekonomi Gazetesi",
-          "url": "https://www.ekonomigazetesi.com/sehirler/ekim-ayinda-domates-miktari-azaldi-fiyati-yuzde-100den-fazla-artti-91126"
-        }
-      ],
-      "eklenme": "2026-11-04T07:52:00+03:00",
-      "gorsel": "assets/iha/antalya-hal-ekim-domates-fiyati-iki-katina.jpg",
-      "gorselKucuk": "assets/iha/antalya-hal-ekim-domates-fiyati-iki-katina-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA",
-      "manset": "Domates bir yılda \"iki katına\" çıktı!"
     },
     {
       "id": "zirai-don-uyarisi-4-9-kasim",
