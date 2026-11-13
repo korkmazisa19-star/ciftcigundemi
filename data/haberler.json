@@ -4661,31 +4661,30 @@
     }
   ],
   "hava": {
-    "donem": "13-17 Kasım",
+    "donem": "14-18 Kasım",
     "iller": [
       {
         "il": "Erzurum",
-        "min": -3,
-        "not": "en soğuk 13 Kasım, −3°C"
+        "min": -2,
+        "not": "en soğuk 14 Kasım, −2°C"
       },
       {
         "il": "Kars",
         "min": -4,
-        "not": "en soğuk 13 Kasım, −4°C"
+        "not": "en soğuk 14 Kasım, −4°C"
       },
       {
         "il": "Ardahan",
-        "min": -3,
-        "not": "en soğuk 13 Kasım, −3°C"
+        "min": -2,
+        "not": "en soğuk 14 Kasım, −2°C"
       },
       {
         "il": "Van",
-        "min": -1,
-        "not": "en soğuk 13 Kasım, −1°C"
+        "min": 0
       },
       {
         "il": "Sivas",
-        "min": 3
+        "min": 2
       },
       {
         "il": "Erzincan",
@@ -4693,11 +4692,11 @@
       },
       {
         "il": "Kayseri",
-        "min": 3
+        "min": 2
       },
       {
         "il": "Konya",
-        "min": 7
+        "min": 5
       },
       {
         "il": "Ankara",
@@ -4709,15 +4708,15 @@
       },
       {
         "il": "Eskişehir",
-        "min": 7
-      },
-      {
-        "il": "Kütahya",
         "min": 6
       },
       {
-        "il": "Uşak",
+        "il": "Kütahya",
         "min": 7
+      },
+      {
+        "il": "Uşak",
+        "min": 6
       },
       {
         "il": "Isparta",
@@ -4729,11 +4728,11 @@
       },
       {
         "il": "Yozgat",
-        "min": 3
+        "min": 2
       },
       {
         "il": "Çorum",
-        "min": 6
+        "min": 4
       },
       {
         "il": "Bolu",
@@ -4741,11 +4740,11 @@
       },
       {
         "il": "Edirne",
-        "min": 6
+        "min": 5
       },
       {
         "il": "Kırklareli",
-        "min": 7
+        "min": 6
       },
       {
         "il": "Tekirdağ",
@@ -4757,7 +4756,7 @@
       },
       {
         "il": "Balıkesir",
-        "min": 7
+        "min": 8
       },
       {
         "il": "Bursa",
@@ -4765,7 +4764,7 @@
       },
       {
         "il": "Manisa",
-        "min": 11
+        "min": 10
       },
       {
         "il": "İzmir",
@@ -4777,7 +4776,7 @@
       },
       {
         "il": "Denizli",
-        "min": 11
+        "min": 10
       },
       {
         "il": "Kocaeli",
@@ -4785,7 +4784,7 @@
       },
       {
         "il": "Sakarya",
-        "min": 8
+        "min": 9
       },
       {
         "il": "Samsun",
@@ -4801,11 +4800,11 @@
       },
       {
         "il": "Adana",
-        "min": 11
+        "min": 12
       },
       {
         "il": "Şanlıurfa",
-        "min": 9
+        "min": 10
       },
       {
         "il": "İstanbul",
@@ -4813,8 +4812,8 @@
       }
     ],
     "genel": "Önümüzdeki beş günde 4 il merkezinde gece sıcaklığının 0°C ve altına inmesi bekleniyor; en soğuk il −4°C ile Kars. MGM'nin yürürlükte zirai don uyarısı bulunmuyor.",
-    "kaynak": "MGM 5 günlük il merkezi tahmini (12 Kasım 2026 20:12 itibarıyla)",
-    "haber": "adiyaman-golbasi-trabzon-hurmasi-zirai-don-hasar-tespiti-2026"
+    "kaynak": "MGM 5 günlük il merkezi tahmini (13 Kasım 2026 20:11 itibarıyla)",
+    "haber": "bitlis-ahlat-don-10-bin-dekar-patates-tarlada-kaldi-2026"
   },
   "fotograflar": {
     "klasor": "assets/foto/",
