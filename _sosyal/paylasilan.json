@@ -2373,6 +2373,54 @@
       "instagram_hikaye": "desteklenmiyor",
       "tiktok": "ok",
       "tiktok_hikaye": "desteklenmiyor"
+    },
+    "peynir-tebligi-koy-peyniri-yasak-30-nisan-2027": {
+      "facebook": "atlandi",
+      "instagram": "atlandi",
+      "x": "atlandi",
+      "tiktok": "atlandi",
+      "deneme": 0,
+      "zaman": "2026-11-13T12:20:00+03:00"
+    },
+    "yumakli-cop31-iklime-dayanikli-tohum-su-mesaji-2026": {
+      "facebook": "atlandi",
+      "instagram": "atlandi",
+      "x": "atlandi",
+      "tiktok": "atlandi",
+      "deneme": 0,
+      "zaman": "2026-11-13T12:20:00+03:00"
+    },
+    "aksaray-mamasin-baraji-olu-baliklar-kiyiya-vurdu-2026": {
+      "deneme": 1,
+      "linkler": {
+        "facebook": "https://www.facebook.com/ciftcigundemicom",
+        "instagram": "https://www.instagram.com/benidegorya/reel/DfrTtUOs873/",
+        "tiktok": "https://www.tiktok.com/@ciftcigundemi/video/7707586105452858631"
+      },
+      "zaman": "2026-11-13T12:31:43+03:00",
+      "facebook": "ok",
+      "facebook_hikaye": "ok",
+      "x": "hata",
+      "instagram": "ok",
+      "instagram_hikaye": "desteklenmiyor",
+      "tiktok": "ok",
+      "tiktok_hikaye": "desteklenmiyor"
+    },
+    "ordu-kivi-hasadi-9370-ton-rekolte-375-milyon-2026": {
+      "deneme": 1,
+      "linkler": {
+        "facebook": "https://www.facebook.com/ciftcigundemicom",
+        "instagram": "https://www.instagram.com/benidegorya/reel/DfrT4tBMBjq/",
+        "tiktok": "https://www.tiktok.com/@ciftcigundemi/video/7707586293286423826"
+      },
+      "zaman": "2026-11-13T12:31:43+03:00",
+      "facebook": "ok",
+      "facebook_hikaye": "ok",
+      "x": "hata",
+      "instagram": "ok",
+      "instagram_hikaye": "desteklenmiyor",
+      "tiktok": "ok",
+      "tiktok_hikaye": "desteklenmiyor"
     }
   }
 }
