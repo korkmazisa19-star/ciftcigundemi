@@ -73,7 +73,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/sivas-haberleri/ic-anadolunun-en-buyuk-hayvan-pazari-58-gunluk-aranin-ardindan-yeniden-hizmete-girdi-516067598"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/sivas-sarkisla-hayvan-pazari-58-gun-sonra-acildi-2026.jpg",
+      "gorselKucuk": "assets/iha/sivas-sarkisla-hayvan-pazari-58-gun-sonra-acildi-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "marka-yenilikci-tarim-faizsiz-kredi-8-milyon-15-aralik-2026",
@@ -90,7 +93,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/kocaeli-haberleri/yenilikci-tarim-yatirimlarina-8-milyon-tlye-kadar-faizsiz-kredi-destegi-516035381"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/marka-yenilikci-tarim-faizsiz-kredi-8-milyon-15-aralik-2026.jpg",
+      "gorselKucuk": "assets/iha/marka-yenilikci-tarim-faizsiz-kredi-8-milyon-15-aralik-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "konya-ovasi-don-hububata-zarar-vermedi-misirda-nem-15-2026",
@@ -108,9 +114,9 @@
           "url": "https://www.iha.com.tr/konya-haberleri/konya-ovasinda-don-alarmi-hububatta-korkulan-olmadi-misir-ureticisine-ise-umut-oldu-515990506"
         }
       ],
-      "gorsel": "assets/envato/konya-ovasi-don-hububata-zarar-vermedi-misirda-nem-15-2026.jpg",
-      "gorselKucuk": "assets/envato/konya-ovasi-don-hububata-zarar-vermedi-misirda-nem-15-2026-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorsel": "assets/iha/konya-ovasi-don-hububata-zarar-vermedi-misirda-nem-15-2026.jpg",
+      "gorselKucuk": "assets/iha/konya-ovasi-don-hububata-zarar-vermedi-misirda-nem-15-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "yalova-47-uretici-405-bin-marul-fidesi-organik-gubre-2026",
@@ -196,9 +202,9 @@
           "url": "https://www.iha.com.tr/mersin-haberleri/mutta-zeytin-alim-merkezlerine-denetim-515614144"
         }
       ],
-      "gorsel": "assets/envato/mersin-mut-zeytin-alim-merkezleri-elek-tarti-denetimi-2026.jpg",
-      "gorselKucuk": "assets/envato/mersin-mut-zeytin-alim-merkezleri-elek-tarti-denetimi-2026-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorsel": "assets/iha/mersin-mut-zeytin-alim-merkezleri-elek-tarti-denetimi-2026.jpg",
+      "gorselKucuk": "assets/iha/mersin-mut-zeytin-alim-merkezleri-elek-tarti-denetimi-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "bitlis-ahlat-don-10-bin-dekar-patates-tarlada-kaldi-2026",
