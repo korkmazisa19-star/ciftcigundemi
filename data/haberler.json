@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-14T15:09:00+03:00",
+  "guncelleme": "2026-11-14T20:12:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,40 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "kars-arpacay-ahir-yangini-18-buyukbas-telef-2026",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-14",
+      "eklenme": "2026-11-14T20:11:00+03:00",
+      "motif": "sut",
+      "baslik": "Kars Arpaçay'da ahır yangını: 18 büyükbaş ve bir at telef oldu",
+      "manset": "Ahırda yangın: \"19 hayvan\" telef",
+      "ozet": "Kars'ın Arpaçay ilçesine bağlı Tomarlı köyünde bir ahırda henüz nedeni belirlenemeyen yangın çıktı. Kısa sürede büyüyen alevler ahırın bitişiğindeki eve ve önünde duran traktöre de sıçradı. Yangında ahırdaki 18 büyükbaş hayvan ile bir at telef oldu; ev, ahır ve traktörde ağır hasar oluştu. İtfaiye ekiplerinin müdahalesiyle söndürülen yangının çıkış nedeni araştırılıyor.",
+      "neYapmali": "Kış aylarında ahırlarda elektrik tesisatını, sobaları ve kuru ot ile saman depolarını kontrol edin; ahır yakınına yangın tüpü bulundurun. TARSİM hayvan hayat sigortası yaptırmayı değerlendirebilirsiniz.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/kars-haberleri/karsta-alevler-ahiri-evi-ve-traktoru-sardi-19-hayvan-telef-oldu-515977617"
+        }
+      ]
+    },
+    {
+      "id": "kirklareli-pinarhisar-ariciya-hibe-plastik-kovan-tabani-2026",
+      "kategori": "Hibe",
+      "tarih": "2026-11-14",
+      "eklenme": "2026-11-14T20:10:00+03:00",
+      "motif": "kovan",
+      "baslik": "Pınarhisar'da arıcılara yüzde 100 hibeyle plastik kovan tabanı verildi",
+      "manset": "Arıcıya kovan tabanı \"yüzde 100\" hibe!",
+      "ozet": "Kırklareli İl Tarım ve Orman Müdürlüğü, İl Özel İdaresinin 2026 yılı desteğiyle yürüttüğü proje kapsamında Pınarhisar'daki arıcılara plastik kovan tabanı dağıttı. Malzemeler, Pınarhisar Bal Üreticileri Birliğine kayıtlı üreticilere tamamen hibe olarak teslim edildi. Projeyle arıcıların ekipman ihtiyacının karşılanması ve üretim maliyetlerinin düşürülmesi amaçlanıyor.",
+      "neYapmali": "Benzer destekler genellikle birliğe kayıtlı üreticilere verildiği için Arıcılık Kayıt Sistemi ve bal üreticileri birliği kayıtlarınızı güncel tutun; yeni dağıtımları il ve ilçe tarım müdürlüklerinden takip edin.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/kirklareli-haberleri/kirklarelinde-bal-ureticilerine-tam-destek-516018348"
+        }
+      ]
+    },
     {
       "id": "sivas-sarkisla-hayvan-pazari-58-gun-sonra-acildi-2026",
       "kategori": "Hayvancılık",
@@ -3741,54 +3775,6 @@
       "gorselKucuk": "assets/iha/karaman-33-bin-badem-zeytin-fidani-k.jpg",
       "gorselKaynak": "Fotoğraf: İHA",
       "manset": "Karaman'a \"33 bin\" fidan desteği"
-    },
-    {
-      "id": "erzurum-58-ariciya-232-ana-ari-kovani",
-      "kategori": "Hibe",
-      "tarih": "2026-11-04",
-      "eklenme": "2026-11-04T17:13:00+03:00",
-      "motif": "kovan",
-      "baslik": "Erzurum'da arıcılara ana arı kovanı dağıtımı başladı: İlk etapta 58 arıcıya 232 kovan",
-      "ozet": "Erzurum İl Tarım ve Orman Müdürlüğü'nün yürüttüğü \"Ana Arımı Kendim Üretiyorum\" projesinde il genelinde toplam 1.140 ana arı çiftleştirme kovanı dağıtılacak. İlk teslimat Oltu'da yapıldı; Oltu, Olur, Narman ve Şenkaya'dan 58 arıcı 232 çift bölmeli kovan aldı. Her işletmeye 4 kovan veriliyor ve bunlarla işletme başına 16 ila 24 ana arı üretilmesi bekleniyor. Maliyetin yüzde 75'ini Tarım ve Orman Bakanlığı karşılıyor, üretici her ünite için 1.653,60 lira katkı payı ödüyor. Amaç arıcıların ana arıyı dışarıdan almak yerine kendi işletmesinde üretmesi.",
-      "neYapmali": "Erzurum'daki arıcılar sıradaki dağıtım takvimi ve katkı payı ödemesi için bağlı oldukları ilçe tarım ve orman müdürlüğüyle görüşebilir. Teslim alınan kovanlarla ana arı üretimine ilkbaharda başlamak için damızlık koloni hazırlığı şimdiden planlanmalı.",
-      "kaynaklar": [
-        {
-          "ad": "Haberler.com (İHA)",
-          "url": "https://www.haberler.com/ekonomi/erzurum-da-58-ariciya-232-ana-ari-ciftlestirme-20394699-haberi/"
-        },
-        {
-          "ad": "Kars Hakimiyet",
-          "url": "https://www.karshakimiyet.com/erzurumda-58-ariciya-232-ana-ari-ciftlestirme-kovani-destegi-122386h.htm"
-        }
-      ],
-      "gorsel": "assets/iha/erzurum-58-ariciya-232-ana-ari-kovani.jpg",
-      "gorselKucuk": "assets/iha/erzurum-58-ariciya-232-ana-ari-kovani-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA",
-      "manset": "Erzurum'da arıcıya \"232 kovan\""
-    },
-    {
-      "id": "batman-gercus-safran-hasadi-800-metrekare",
-      "kategori": "Bitkisel Üretim",
-      "tarih": "2026-11-04",
-      "eklenme": "2026-11-04T17:12:00+03:00",
-      "motif": "tohum",
-      "baslik": "Batman Gercüş'te safran hasadı: 10 metrekarelik denemeden 800 metrekarelik üretime",
-      "ozet": "Batman'ın Gercüş ilçesine bağlı Poyraz köyünde çiftçi Mehmet Salih Demir'in tarlasında safran hasadı başladı. Geçen yıl 10 metrekarede deneme ekimi yapan Demir, aldığı verim üzerine bu yıl üretimi 800 metrekareye çıkardı. Safranı fıstık ve üzüm bağlarının arasındaki boş alanlara ekerek aynı araziden üçüncü bir ürün alıyor; soğanlar ağustosta dikiliyor, çiçekler ekim ortasından itibaren yaklaşık 40-45 gün boyunca toplanıyor. Gercüş İlçe Tarım ve Orman Müdürü Kenan Atalay, köyün 1.088 metre rakımı ve kireçli toprağının safrana uygun olduğunu, az su isteyen bitkinin üretimini ilçe geneline yaymayı hedeflediklerini söyledi.",
-      "neYapmali": "Safranı denemek isteyen üreticiler önce küçük bir alanda başlayıp soğan temini ve teknik bilgi için ilçe tarım ve orman müdürlüğüne danışmalı. Çiçek toplama 40-45 güne yayıldığı için iş gücü planı önceden yapılmalı.",
-      "kaynaklar": [
-        {
-          "ad": "Haberler.com (İHA)",
-          "url": "https://www.haberler.com/ekonomi/batman-gercus-te-safran-hasadi-basladi-800-20394545-haberi/"
-        },
-        {
-          "ad": "Yeni Mesaj",
-          "url": "https://www.yenimesaj.com.tr/batmanda-kirmizi-altin-mesaisi-H1620833.htm"
-        }
-      ],
-      "gorsel": "assets/iha/batman-gercus-safran-hasadi-800-metrekare.jpg",
-      "gorselKucuk": "assets/iha/batman-gercus-safran-hasadi-800-metrekare-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA",
-      "manset": "Gercüş'te safran \"800 metrekareye\" çıktı"
     },
     {
       "id": "tmo-findik-alimi-14-kasima-uzatildi",
