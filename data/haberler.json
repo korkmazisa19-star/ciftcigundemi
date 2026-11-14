@@ -73,7 +73,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/kars-haberleri/karsta-alevler-ahiri-evi-ve-traktoru-sardi-19-hayvan-telef-oldu-515977617"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/kars-arpacay-ahir-yangini-18-buyukbas-telef-2026.jpg",
+      "gorselKucuk": "assets/iha/kars-arpacay-ahir-yangini-18-buyukbas-telef-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "kirklareli-pinarhisar-ariciya-hibe-plastik-kovan-tabani-2026",
@@ -90,7 +93,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/kirklareli-haberleri/kirklarelinde-bal-ureticilerine-tam-destek-516018348"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/kirklareli-pinarhisar-ariciya-hibe-plastik-kovan-tabani-2026.jpg",
+      "gorselKucuk": "assets/iha/kirklareli-pinarhisar-ariciya-hibe-plastik-kovan-tabani-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "sivas-sarkisla-hayvan-pazari-58-gun-sonra-acildi-2026",
@@ -167,7 +173,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/yalova-haberleri/yalovada-ciftciye-marul-fidesi-ve-organik-gubre-destegi-515991551"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/yalova-47-uretici-405-bin-marul-fidesi-organik-gubre-2026.jpg",
+      "gorselKucuk": "assets/iha/yalova-47-uretici-405-bin-marul-fidesi-organik-gubre-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "aydin-kosk-4-bin-litre-taklit-zeytinyagi-ele-gecirildi-2026",
@@ -184,7 +193,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/aydin-haberleri/aydinda-4-bin-litre-taklit-zeytinyagi-ele-gecirildi-515619518"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/aydin-kosk-4-bin-litre-taklit-zeytinyagi-ele-gecirildi-2026.jpg",
+      "gorselKucuk": "assets/iha/aydin-kosk-4-bin-litre-taklit-zeytinyagi-ele-gecirildi-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "tekirdag-malkara-firtina-sera-uctu-saman-balyalari-devrildi-2026",
@@ -201,7 +213,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/tekirdag-haberleri/tekirdagda-firtina-etkili-oldu-sera-uctu-saman-balyalari-devrildi-sundurma-kirildi-515750941"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/tekirdag-malkara-firtina-sera-uctu-saman-balyalari-devrildi-2026.jpg",
+      "gorselKucuk": "assets/iha/tekirdag-malkara-firtina-sera-uctu-saman-balyalari-devrildi-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "marmara-kuvvetli-yagis-uyarisi-14-15-kasim-2026",
