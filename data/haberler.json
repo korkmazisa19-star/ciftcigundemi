@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-13T23:11:00+03:00",
+  "guncelleme": "2026-11-14T08:11:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,40 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "aydin-kosk-4-bin-litre-taklit-zeytinyagi-ele-gecirildi-2026",
+      "kategori": "Piyasa",
+      "tarih": "2026-11-13",
+      "eklenme": "2026-11-14T08:11:00+03:00",
+      "motif": "zeytin",
+      "baslik": "Aydın Köşk'te jandarma yolda durdurduğu araçta 4 bin litre taklit ve tağşiş zeytinyağı yakaladı",
+      "manset": "Araçtan \"4 bin litre\" sahte yağ!",
+      "ozet": "Aydın İl Jandarma Komutanlığına bağlı Köşk İlçe Jandarma Komutanlığı ekipleri, Aydın-Denizli Karayolu'nda durdurdukları bir araçta arama yaptı. Aramada piyasaya sürülmeye hazırlandığı belirlenen 4 bin litre taklit ve tağşiş zeytinyağı ele geçirildi. Araçtaki 43 ve 46 yaşlarındaki iki şüpheli gözaltına alındı, haklarında adli ve idari işlem başlatıldı. Hasat ve sızma yağ sezonunun sürdüğü bu dönemde operasyon, gerçek üretici ve tüketici açısından denetimin önemini bir kez daha gösterdi.",
+      "neYapmali": "Tüketiciler zeytinyağını etiketinde işletme kayıt numarası bulunan, faturalı satış yapan yerlerden almalı; şüpheli ürünleri ALO 174 Gıda Hattı'na bildirebilir. Üreticiler satışlarında belgeli ve izlenebilir kayıt tutmaya özen göstermeli.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/aydin-haberleri/aydinda-4-bin-litre-taklit-zeytinyagi-ele-gecirildi-515619518"
+        }
+      ]
+    },
+    {
+      "id": "tekirdag-malkara-firtina-sera-uctu-saman-balyalari-devrildi-2026",
+      "kategori": "Zirai Don",
+      "tarih": "2026-11-13",
+      "eklenme": "2026-11-14T08:10:00+03:00",
+      "motif": "sera",
+      "baslik": "Tekirdağ Malkara'da fırtına kırsalı vurdu: Sera yerinden söküldü, saman balyaları devrildi",
+      "manset": "Fırtına serayı \"uçurdu\"!",
+      "ozet": "Tekirdağ'da akşam saatlerinde şiddetini artıran fırtına, Malkara ilçesinin kırsal mahallelerinde tarımsal yapılara zarar verdi. Alaybey Mahallesi'nde bir sera kuvvetli rüzgârla yerinden çıkarak uçtu, aynı bölgedeki saman balyaları da devrildi. Karaiğdemir Mahallesi'nde ise bir sundurma rüzgârın etkisiyle kırıldı. Meteoroloji'nin Marmara için yaptığı kuvvetli yağış ve fırtına uyarısı hafta sonu boyunca sürüyor.",
+      "neYapmali": "Sera ve sundurma sahipleri naylon örtü, kapı ve bağlantıları sağlamlaştırmalı, açıkta duran balya ve yemi korunaklı yere almalı. Zarar gören üreticiler TARSİM poliçeleri varsa hasar ihbarını hemen yapmalı ve ilçe tarım ve orman müdürlüğüne bilgi vermeli.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/tekirdag-haberleri/tekirdagda-firtina-etkili-oldu-sera-uctu-saman-balyalari-devrildi-sundurma-kirildi-515750941"
+        }
+      ]
+    },
     {
       "id": "marmara-kuvvetli-yagis-uyarisi-14-15-kasim-2026",
       "kategori": "Zirai Don",
@@ -3820,46 +3854,6 @@
       "manset": "Edirne'de çiğ süt \"28,50 lira\""
     },
     {
-      "id": "arsin-ziraat-odasi-kredi-erteleme-cagrisi",
-      "kategori": "Destek",
-      "tarih": "2026-11-04",
-      "eklenme": "2026-11-04T09:31:00+03:00",
-      "motif": "para",
-      "baslik": "Arsin Ziraat Odası'ndan çiftçi kredileri için dört maddelik talep: Borçlar bir yıl faizsiz ertelensin",
-      "ozet": "Arsin Ziraat Odası Başkanı ve TZOB Yönetim Kurulu Üyesi Hasan Kozoğlu, 4 Kasım'da yansıyan açıklamasında girdi ve işçilik maliyetlerindeki artış nedeniyle üreticinin kredi geri ödemelerinde zorlandığını söyledi. Kozoğlu, Ziraat Bankası ve Tarım Kredi borçlarının ek masraf çıkarılmadan en az bir yıl faizsiz ertelenmesini istedi. Sıfır faizde 300 bin liralık sınırın kalkmasını, şu an yüzde 30'u nakit, yüzde 70'i Başak Kart ile verilen kredilerin tamamen nakit ödenmesini de talep etti. Erteleme yapılan üreticilere yeni sezon girdileri için uygun koşullu kredi açılmasını da önerdi. Haberde ilgili kurumların bir yanıtına yer verilmedi.",
-      "neYapmali": "Bu maddeler bir talep, yürürlüğe girmiş bir karar değil. Vadesi yaklaşan üreticiler güncel ödeme koşullarını Ziraat Bankası şubesinden ya da Tarım Kredi kooperatifinden öğrenmeli.",
-      "kaynaklar": [
-        {
-          "ad": "Haber61",
-          "url": "https://www.haber61.net/trabzon/arsin-ziraat-odasi-ndan-tarimsal-uretim-icin-acil-duzenleme-cagrisi/648362"
-        }
-      ],
-      "gorsel": "assets/envato/arsin-ziraat-odasi-kredi-erteleme-cagrisi.jpg",
-      "gorselKucuk": "assets/envato/arsin-ziraat-odasi-kredi-erteleme-cagrisi-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato",
-      "manset": "Arsin'den \"faizsiz erteleme\" talebi"
-    },
-    {
-      "id": "afyon-ciftci-gece-egitimleri-isiklar",
-      "kategori": "Destek",
-      "tarih": "2026-11-03",
-      "eklenme": "2026-11-04T09:30:00+03:00",
-      "motif": "traktor",
-      "baslik": "Afyonkarahisar'da çiftçiye gece eğitimleri Işıklar'dan başladı",
-      "ozet": "Afyonkarahisar İl Tarım ve Orman Müdürlüğü'nün her yıl köy ve kasabalarda düzenlediği gece eğitim ve bilgilendirme toplantılarının 2026 programı Işıklar'da açıldı. Toplantıya İl Müdür Yardımcısı Özgür Bayrak ve Işıklar Belediye Başkanı Murat Karamoçu ile teknik ekipler katıldı. Üreticilere üretim planlaması, yeni destek modeli, hastalık ve zararlılarla mücadele, B-Reçete sistemi ve su verimliliği anlatıldı. Konya TARSİM Bölge Müdürlüğü uzmanları ise tarım sigortasının teminatlarını aktardı. Müdürlük, programın il genelinde süreceğini bildirdi.",
-      "neYapmali": "Afyonkarahisar'daki üreticiler kendi köy ya da kasabalarındaki toplantı gününü ilçe tarım ve orman müdürlüğünden sorabilir. Destek ve sigorta sorularını toplantıya not alarak gitmek işe yarar.",
-      "kaynaklar": [
-        {
-          "ad": "Kocatepe Gazetesi",
-          "url": "https://www.kocatepegazetesi.com/afyon-da-ciftciler-icin-gece-mesaisi-basladi/412333"
-        }
-      ],
-      "gorsel": "assets/envato/afyon-ciftci-gece-egitimleri-isiklar.jpg",
-      "gorselKucuk": "assets/envato/afyon-ciftci-gece-egitimleri-isiklar-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato",
-      "manset": "Afyon'da çiftçiye \"gece eğitimi\""
-    },
-    {
       "id": "nigde-elma-yagis-kara-benek",
       "kategori": "Piyasa",
       "tarih": "2026-11-02",
@@ -4325,18 +4319,6 @@
     }
   ],
   "takvim": [
-    {
-      "tarih": "2026-11-13",
-      "baslik": "\"Bir Sürü Olsun\" projesi başvurusu",
-      "kapsam": "Türkiye geneli",
-      "haber": "bir-suru-olsun-basvuru-4-13-kasim"
-    },
-    {
-      "tarih": "2026-11-13",
-      "baslik": "Aydın Cuma Buluşmaları (17 ilçe, 14.00)",
-      "kapsam": "Aydın",
-      "haber": "aydin-cuma-bulusmalari-13-kasim-17-ilce-2026"
-    },
     {
       "tarih": "2026-11-14",
       "baslik": "TMO fındık alımı son günü",
