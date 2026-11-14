@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-14T20:12:00+03:00",
+  "guncelleme": "2026-11-14T23:11:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,40 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "mardin-mazidagi-misir-hasadi-verim-iyi-nem-kesintisi-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-14",
+      "eklenme": "2026-11-14T23:11:00+03:00",
+      "motif": "misir",
+      "baslik": "Mazıdağı'nda mısır hasadı: Verim iyi, düşük fiyat ve nem kesintisi üreticiyi üzüyor",
+      "manset": "Verim yüksek, kazanç \"nemde\" eridi",
+      "ozet": "Mardin'in Mazıdağı ilçesinde biçerdöverlerle yürütülen mısır hasadında üreticiler bu yıl aldıkları verimden memnun. Ancak çiftçiler, alım fiyatlarının düşük kalması ve artan girdi maliyetleri yüzünden beklediklerini kazanamadıklarını söylüyor. Yağışların bu yıl erken başlaması hasat edilen mısırın nem oranını yükseltti. Yüksek nem, zaten düşük olan satış fiyatlarına ek kesinti olarak yansıdı.",
+      "neYapmali": "Mısırını satmadan önce nem ölçümünü güvenilir bir noktada yaptırın ve alıcının nem kesinti tablosunu yazılı olarak isteyin. Mümkünse ürünü kurutma imkânı olan lisanslı depo ya da TMO alım noktalarını karşılaştırın.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/mardin-haberleri/mardinde-misir-hasadi-ciftcilerin-yuzunu-guldurdu-516012663"
+        }
+      ]
+    },
+    {
+      "id": "kirikkale-keskin-bir-donum-safran-hasadi-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-14",
+      "eklenme": "2026-11-14T23:10:00+03:00",
+      "motif": "tohum",
+      "baslik": "Kırıkkale Keskin'de 1 dönüme safran dikti, ilk büyük hasadı başladı",
+      "manset": "Bir kilo için \"150 bin\" çiçek",
+      "ozet": "Ankara'da yazılım sektöründe çalışan 30 yaşındaki Nuh İnanç, memleketi Kırıkkale'nin Keskin ilçesinde safran hasadına başladı. Geçen yıl 100 metrekarede 20 kilogram soğanla deneme yapan üretici, olumlu sonuç alınca bu yıl ekim alanını 1 dönüme çıkarıp 200 kilogram soğan dikti. İnanç, 1 kilogram safran için yaklaşık 150 bin çiçeğin elle toplandığını ve kalitesine göre kilogram fiyatının 900 bin ile 1 milyon lira arasında değiştiğini anlattı. Üretici, soğanların çoğalmasının da ayrı bir gelir kapısı olduğunu belirtiyor.",
+      "neYapmali": "Safrana başlamak isteyen üreticiler önce küçük bir alanda deneme yapmalı ve soğanı güvenilir, belgeli kaynaktan almalı. İl ya da ilçe tarım ve orman müdürlüğünden iklim uygunluğu ve olası destekler hakkında bilgi alınabilir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/kirikkale-haberleri/bu-tarlada-cicekler-altin-degerinde-516067597"
+        }
+      ]
+    },
     {
       "id": "kars-arpacay-ahir-yangini-18-buyukbas-telef-2026",
       "kategori": "Hayvancılık",
@@ -3746,50 +3780,6 @@
       "gorselKucuk": "assets/iha/mersin-kdakp-yuzde-100-hibeli-motorlu-capa-k.jpg",
       "gorselKaynak": "Fotoğraf: İHA",
       "manset": "Mersin'de \"hibeli çapa\" dağıtıldı"
-    },
-    {
-      "id": "niksar-ceviz-16-bin-dekar-festival",
-      "kategori": "Bitkisel Üretim",
-      "tarih": "2026-11-04",
-      "eklenme": "2026-11-04T18:30:17+03:00",
-      "motif": "tohum",
-      "baslik": "Niksar'da ceviz alanı 16 bin dekara ulaştı: 2 bin 500 çiftçi 4 bin ton üretiyor",
-      "ozet": "Tokat'ın Niksar ilçesinde 10'uncu Altın Ceviz Yöresel Ürünler ve Kültür Festivali başladı; etkinlik dört gün sürecek. Açılışta paylaşılan verilere göre ilçedeki ceviz alanı, geçmiş yıllardaki yaklaşık 2 bin dekardan 16 bin dekar dolayına yükseldi. Tokat'ta yılda yaklaşık 14 bin ton ceviz alınıyor, bunun 4 bin tonunu Niksar'daki 2 bin 500 çiftçi üretiyor. Uzmanlar iklim değişikliğine karşı akıllı sulama, kurutma makinelerinin yaygınlaşması ve işlenmiş ürüne geçiş önerdi. Belediye ve kaymakamlık ise bir ceviz müzesi açmayı ve üretici birliği kurmayı planlıyor.",
-      "neYapmali": "Niksar'daki ceviz üreticileri kurulması planlanan birlik için belediye ve kaymakamlıkla görüşebilir. Yeni bahçe ya da sulama yatırımı düşünenler destek seçeneklerini ilçe tarım müdürlüğünden sorabilir.",
-      "kaynaklar": [
-        {
-          "ad": "Kelkit Vadisi Gazetesi",
-          "url": "https://kelkitvadisi.com.tr/haber/10940-niksar-cevizi-rekora-kosuyor-uretimde-8-kat-artis"
-        }
-      ],
-      "gorsel": "assets/iha/niksar-ceviz-16-bin-dekar-festival.jpg",
-      "gorselKucuk": "assets/iha/niksar-ceviz-16-bin-dekar-festival-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA (temsili)",
-      "manset": "Niksar'da ceviz \"16 bin dekar\""
-    },
-    {
-      "id": "karaman-33-bin-badem-zeytin-fidani",
-      "kategori": "Hibe",
-      "tarih": "2026-11-04",
-      "eklenme": "2026-11-04T17:44:00+03:00",
-      "motif": "zeytin",
-      "baslik": "Karaman'da çiftçilere yarı yarıya destekle 33 bin badem ve zeytin fidanı verildi",
-      "ozet": "Karaman İl Özel İdaresi'nin \"Yüzde 50 Çiftçi Destekli Fidan Alımı Projesi\" kapsamında üreticilere 33 bin 115 fidan teslim edildi. Dağıtılanların 19 bin 365'i badem (Ferragnes ve Ferroduel), 13 bin 750'si zeytin (Gemlik ve Ayvalık) fidanı. Projenin toplam bütçesi yaklaşık 2,64 milyon lira; maliyetin yarısını İl Özel İdaresi, yarısını çiftçiler üstlendi. Uygulamayı İl Tarım ve Orman Müdürlüğü yürüttü. Vali Hayrettin Çiçek, kuraklık riskine karşı kıraç alanlarda zeytin ve üzüm gibi az su isteyen ürünlere yönelmenin önemine dikkat çekti.",
-      "neYapmali": "Fidan alan üreticiler dikimi kış donlarından önce, iyi drene olan parsellerde tamamlamalı ve ilk yıllarda can suyu planı yapmalı. Benzer bir destekten yararlanmak isteyenler sonraki dönem için il özel idaresi ve il tarım ve orman müdürlüğü duyurularını takip etmeli.",
-      "kaynaklar": [
-        {
-          "ad": "Haberler.com (İHA)",
-          "url": "https://www.haberler.com/cevre/karaman-da-il-ozel-idaresi-nin-projesinde-20394674-haberi/"
-        },
-        {
-          "ad": "Karaman Postası",
-          "url": "https://www.karamanpostasi.com/karamanli-ciftcilere-buyuk-destek-33-bin-fidan-yuzde-50-hibeyle-dagitildi/228890"
-        }
-      ],
-      "gorsel": "assets/iha/karaman-33-bin-badem-zeytin-fidani.jpg",
-      "gorselKucuk": "assets/iha/karaman-33-bin-badem-zeytin-fidani-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA",
-      "manset": "Karaman'a \"33 bin\" fidan desteği"
     },
     {
       "id": "tmo-findik-alimi-14-kasima-uzatildi",
