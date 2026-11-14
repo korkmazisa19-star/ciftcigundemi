@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
-<url><loc>https://ciftcigundemi.com/</loc><lastmod>2026-11-13T23:11:00+03:00</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
+<url><loc>https://ciftcigundemi.com/</loc><lastmod>2026-11-14T08:11:00+03:00</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
 <url><loc>https://ciftcigundemi.com/hakkimizda/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
 <url><loc>https://ciftcigundemi.com/gizlilik-politikasi/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
 <url><loc>https://ciftcigundemi.com/kvkk-aydinlatma-metni/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
 <url><loc>https://ciftcigundemi.com/cerez-politikasi/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
 <url><loc>https://ciftcigundemi.com/iletisim/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
+<url><loc>https://ciftcigundemi.com/haber/aydin-kosk-4-bin-litre-taklit-zeytinyagi-ele-gecirildi-2026/</loc><lastmod>2026-11-14T08:11:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-14T08:11:00+03:00</news:publication_date><news:title>Aydın Köşk&#x27;te jandarma yolda durdurduğu araçta 4 bin litre taklit ve tağşiş zeytinyağı yakaladı</news:title></news:news></url>
+<url><loc>https://ciftcigundemi.com/haber/tekirdag-malkara-firtina-sera-uctu-saman-balyalari-devrildi-2026/</loc><lastmod>2026-11-14T08:10:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-14T08:10:00+03:00</news:publication_date><news:title>Tekirdağ Malkara&#x27;da fırtına kırsalı vurdu: Sera yerinden söküldü, saman balyaları devrildi</news:title></news:news></url>
 <url><loc>https://ciftcigundemi.com/haber/marmara-kuvvetli-yagis-uyarisi-14-15-kasim-2026/</loc><lastmod>2026-11-13T23:11:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-13T23:11:00+03:00</news:publication_date><news:title>Meteoroloji&#x27;den Marmara&#x27;ya kuvvetli yağış uyarısı: Cumartesi öğleden Pazar sabahına kadar sürecek</news:title></news:news></url>
 <url><loc>https://ciftcigundemi.com/haber/mersin-mut-zeytin-alim-merkezleri-elek-tarti-denetimi-2026/</loc><lastmod>2026-11-13T23:10:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-13T23:10:00+03:00</news:publication_date><news:title>Mut&#x27;ta zeytin alım merkezleri denetlendi: elekler, tartılar ve fiyat etiketleri tek tek kontrol edildi</news:title></news:news></url>
 <url><loc>https://ciftcigundemi.com/haber/bitlis-ahlat-don-10-bin-dekar-patates-tarlada-kaldi-2026/</loc><lastmod>2026-11-13T20:10:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-13T20:10:00+03:00</news:publication_date><news:title>Ahlat&#x27;ta kar ve don hasadı yarıda bıraktı: 10 bin dekar patates toprak altında dondu</news:title></news:news></url>
@@ -183,8 +185,6 @@
 <url><loc>https://ciftcigundemi.com/haber/misir-fiyati-ekimde-yuzde-10-6-dustu/</loc><lastmod>2026-11-04T12:31:01+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/ciftci-destek-9-ay-115-5-milyar/</loc><lastmod>2026-11-04T11:31:46+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/edirne-sut-birligi-cig-sut-28-50/</loc><lastmod>2026-11-04T11:30:46+03:00</lastmod></url>
-<url><loc>https://ciftcigundemi.com/haber/arsin-ziraat-odasi-kredi-erteleme-cagrisi/</loc><lastmod>2026-11-04T09:31:00+03:00</lastmod></url>
-<url><loc>https://ciftcigundemi.com/haber/afyon-ciftci-gece-egitimleri-isiklar/</loc><lastmod>2026-11-04T09:30:00+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/nigde-elma-yagis-kara-benek/</loc><lastmod>2026-11-04T09:17:00+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/yozgat-14-uretici-sera-destegi/</loc><lastmod>2026-11-04T09:16:00+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/bir-suru-olsun-basvuru-4-13-kasim/</loc><lastmod>2026-11-04T08:31:00+03:00</lastmod></url>
