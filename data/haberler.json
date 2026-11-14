@@ -73,7 +73,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/mardin-haberleri/mardinde-misir-hasadi-ciftcilerin-yuzunu-guldurdu-516012663"
         }
-      ]
+      ],
+      "gorsel": "assets/envato/mardin-mazidagi-misir-hasadi-verim-iyi-nem-kesintisi-2026.jpg",
+      "gorselKucuk": "assets/envato/mardin-mazidagi-misir-hasadi-verim-iyi-nem-kesintisi-2026-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
     },
     {
       "id": "kirikkale-keskin-bir-donum-safran-hasadi-2026",
@@ -4831,7 +4834,6 @@
         "domates-4.jpg"
       ],
       "misir": [
-        "misir-2.jpg",
         "misir-4.jpg"
       ],
       "nar": [
