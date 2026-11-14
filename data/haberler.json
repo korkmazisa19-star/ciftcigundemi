@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-14T08:11:00+03:00",
+  "guncelleme": "2026-11-14T12:10:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,40 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "konya-ovasi-don-hububata-zarar-vermedi-misirda-nem-15-2026",
+      "kategori": "Zirai Don",
+      "tarih": "2026-11-14",
+      "eklenme": "2026-11-14T12:10:00+03:00",
+      "motif": "don",
+      "baslik": "ZMO Konya: Ovadaki don hububata ciddi zarar vermedi, mısırda hasat nemi yüzde 15'e inmeli",
+      "manset": "Hububatta \"telaşa gerek yok\"",
+      "ozet": "Konya Ovası'nın yüksek kesimlerindeki kar yağışının ardından ovada etkili olan soğuk hava ve don, yeni çıkış yapan buğday ve arpada ciddi bir zarara yol açmadı. Ziraat Mühendisleri Odası Konya Şube Başkanı Burak Kırkgöz, hububat ekiminin yüzde 80 oranında tamamlandığını, yaprak uçlarında görülebilecek sararma ve kararmaların yeni yapraklarla telafi edileceğini anlattı. Kırkgöz, bu yıl nemi yavaş düşen ve tarlada bekleyen mısırda donun nemi düşürerek üreticiye yarar sağlayacağını belirtti. Mısırın değerinde satılabilmesi için hasat neminin yüzde 15 ve altına inmesi gerektiğini vurgulayan Kırkgöz, kar örtüsü olmadan yaşanacak sert donların ise ilerleyen dönemde hububata zarar verebileceği uyarısında bulundu.",
+      "neYapmali": "Mısır üreticileri hasat için nemin yüzde 15 ve altına düşmesini beklemeli ama art arda yağışlara kalmadan hasadı tamamlamalı; hububat ekimini henüz yapmayanlar soğuk havada ekime devam edebilir, ürününde belirgin don zararı görenler ilçe tarım müdürlüğüne başvurmalı.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/konya-haberleri/konya-ovasinda-don-alarmi-hububatta-korkulan-olmadi-misir-ureticisine-ise-umut-oldu-515990506"
+        }
+      ]
+    },
+    {
+      "id": "yalova-47-uretici-405-bin-marul-fidesi-organik-gubre-2026",
+      "kategori": "Destek",
+      "tarih": "2026-11-14",
+      "eklenme": "2026-11-14T12:09:00+03:00",
+      "motif": "sera",
+      "baslik": "Yalova'da 47 üreticiye 405 bin kıvırcık marul fidesi, aronya üreticilerine organik gübre verildi",
+      "manset": "Tarlaya \"405 bin\" marul fidesi",
+      "ozet": "Yalova İl Tarım ve Orman Müdürlüğü'nün yürüttüğü projelerle 47 üreticiye, yaklaşık 35 dekarda yetiştirilmek üzere 405 bin kıvırcık marul fidesi dağıtıldı. Bütçesi 1 milyon 267 bin 650 lira olan projenin yüzde 48'ini Tarım ve Orman Bakanlığı, yüzde 27'sini İl Özel İdaresi, yüzde 25'ini ise üreticiler üstlendi. Organik aronya yetiştiren 29 üreticinin 133 dekarlık alanı için kontrol ve sertifikasyon hizmetleri desteklendi, bu üreticilere 1.595 litre organik sıvı gübre verildi. Aronya projesinin tutarı 224 bin 113 lira 50 kuruş olarak açıklandı. Vali Ahmet Hamdi Usta, köy altyapısının yanında üretimi destekleyen projeleri de sürdüreceklerini söyledi.",
+      "neYapmali": "Yalova'da benzer fide ve girdi desteklerinden yararlanmak isteyen üreticiler, yeni proje dönemleri için il ve ilçe tarım ve orman müdürlüklerinin duyurularını takip etmeli; ÇKS kaydının güncel olduğundan emin olmalı.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/yalova-haberleri/yalovada-ciftciye-marul-fidesi-ve-organik-gubre-destegi-515991551"
+        }
+      ]
+    },
     {
       "id": "aydin-kosk-4-bin-litre-taklit-zeytinyagi-ele-gecirildi-2026",
       "kategori": "Piyasa",
@@ -3782,30 +3816,6 @@
       "manset": "Yağış \"66 yılın zirvesinde\""
     },
     {
-      "id": "misir-fiyati-ekimde-yuzde-10-6-dustu",
-      "kategori": "Piyasa",
-      "tarih": "2026-11-04",
-      "eklenme": "2026-11-04T12:31:01+03:00",
-      "motif": "misir",
-      "baslik": "Küresel piyasada mısır ekimde yüzde 10,6 geriledi, 40 ayın en sert aylık düşüşü",
-      "ozet": "Mısırın kile fiyatı ekimde yüzde 10,6 düşerek Haziran 2023'ten sonraki en büyük aylık kaybını yaşadı. Fiyat eylülde 5,4975 dolarla üç yılın zirvesini görmüş, ardından aynı ay yüzde 6,9 değer kaybetmişti. Anadolu Ajansı'na konuşan Saxo Capital Emtia Strateji Başkanı Ole Hansen, düşüşü ABD'de hızlanan hasada, zayıf ihracat verilerine ve Karadeniz'de olası bir ateşkesin arzı rahatlatabileceği beklentisine bağladı. ABD'de hasadın 25 Ekim itibarıyla yüzde 60'ı tamamlanmıştı. Hansen, kalıcı toparlanma için talebin güçlenmesi ya da yeni arz endişeleri gerekebileceğini söylüyor. Haber küresel piyasaya ilişkin olup Türkiye fiyatlarına dair bir veri içermiyor.",
-      "neYapmali": "Mısırını satmayı düşünen üretici, küresel eğilimi tek başına ölçü almadan yerel borsa fiyatlarını ve TMO duyurularını da takip etmeli. Yem alımı yapan besici ise tedarik fiyatlarını borsa ve kooperatiflerden karşılaştırabilir.",
-      "kaynaklar": [
-        {
-          "ad": "Anadolu Ajansı",
-          "url": "https://www.aa.com.tr/tr/ekonomi/misir-fiyatlari-ekimde-40-ayin-en-hizli-dususunu-kaydetti/4111158"
-        },
-        {
-          "ad": "Haberler.com",
-          "url": "https://www.haberler.com/ekonomi/misirin-kile-fiyati-ekimde-yuzde-10-6-duserek-20394120-haberi/"
-        }
-      ],
-      "gorsel": "assets/iha/misir-fiyati-ekimde-yuzde-10-6-dustu.jpg",
-      "gorselKucuk": "assets/iha/misir-fiyati-ekimde-yuzde-10-6-dustu-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA (temsili)",
-      "manset": "Mısırda \"40 ayın\" en sert düşüşü"
-    },
-    {
       "id": "ciftci-destek-9-ay-115-5-milyar",
       "kategori": "Destek",
       "tarih": "2026-11-04",
@@ -3828,30 +3838,6 @@
       "gorselKucuk": "assets/envato/ciftci-destek-9-ay-115-5-milyar-k.jpg",
       "gorselKaynak": "Temsili fotoğraf: Envato",
       "manset": "Çiftçiye \"115,5 milyar lira\" destek"
-    },
-    {
-      "id": "edirne-sut-birligi-cig-sut-28-50",
-      "kategori": "Hayvancılık",
-      "tarih": "2026-11-03",
-      "eklenme": "2026-11-04T11:30:46+03:00",
-      "motif": "sut",
-      "baslik": "Edirne'de süt birliği konseyi beklemedi: Çiğ sütün litresi 28,50 lira oldu",
-      "ozet": "Edirne Merkez Süt Üreticileri Birliği, çiğ inek sütünün litre fiyatını 1 Kasım-31 Aralık 2026 dönemi için 28,50 liraya çıkardı. Ulusal Süt Konseyi'nin 1 Mayıs'ta açıkladığı 24,30 liralık tavsiye fiyat güncellenmemişti. Birlik Başkanı Mustafa Suiçmez, karara yem ve diğer girdi maliyetlerindeki artışın ve fiyat belirsizliğinin yol açtığını, üretici ve sanayicilerle görüşüldüğünü aktardı. Suiçmez, konsey ocakta yeni bir fiyat açıklarsa ona uyacaklarını da söyledi. Bu fiyat yalnızca birliğin kararı; konseyin tavsiye fiyatı değişmiş değil.",
-      "neYapmali": "Edirne'deki üreticiler sütlerini teslim etmeden önce geçerli fiyatı ve ödeme koşullarını birlikten teyit etmeli. Diğer illerdeki üreticiler kendi birliklerinin kararını takip edebilir.",
-      "kaynaklar": [
-        {
-          "ad": "Son Dakika (ANKA)",
-          "url": "https://www.sondakika.com/ekonomi/haber-edirne-merkez-sut-ureticileri-birligi-cig-sut-litr-20390725/"
-        },
-        {
-          "ad": "Toplumsal",
-          "url": "https://www.toplumsal.com.tr/haber/edirne-de-cig-sut-fiyati-28-50-liraya-yukseltildi_32802/"
-        }
-      ],
-      "gorsel": "assets/envato/edirne-sut-birligi-cig-sut-28-50.jpg",
-      "gorselKucuk": "assets/envato/edirne-sut-birligi-cig-sut-28-50-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato",
-      "manset": "Edirne'de çiğ süt \"28,50 lira\""
     },
     {
       "id": "nigde-elma-yagis-kara-benek",
