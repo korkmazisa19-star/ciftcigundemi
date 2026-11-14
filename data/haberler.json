@@ -4620,22 +4620,22 @@
     }
   ],
   "hava": {
-    "donem": "14-18 Kasım",
+    "donem": "15-19 Kasım",
     "iller": [
       {
         "il": "Erzurum",
-        "min": -2,
-        "not": "en soğuk 14 Kasım, −2°C"
+        "min": -1,
+        "not": "en soğuk 15 Kasım, −1°C"
       },
       {
         "il": "Kars",
-        "min": -4,
-        "not": "en soğuk 14 Kasım, −4°C"
+        "min": -2,
+        "not": "en soğuk 15 Kasım, −2°C"
       },
       {
         "il": "Ardahan",
         "min": -2,
-        "not": "en soğuk 14 Kasım, −2°C"
+        "not": "en soğuk 17 Kasım, −2°C"
       },
       {
         "il": "Van",
@@ -4643,7 +4643,7 @@
       },
       {
         "il": "Sivas",
-        "min": 2
+        "min": 1
       },
       {
         "il": "Erzincan",
@@ -4659,11 +4659,11 @@
       },
       {
         "il": "Ankara",
-        "min": 6
+        "min": 5
       },
       {
         "il": "Afyonkarahisar",
-        "min": 6
+        "min": 5
       },
       {
         "il": "Eskişehir",
@@ -4671,11 +4671,11 @@
       },
       {
         "il": "Kütahya",
-        "min": 7
+        "min": 6
       },
       {
         "il": "Uşak",
-        "min": 6
+        "min": 7
       },
       {
         "il": "Isparta",
@@ -4683,7 +4683,7 @@
       },
       {
         "il": "Malatya",
-        "min": 3
+        "min": 5
       },
       {
         "il": "Yozgat",
@@ -4695,11 +4695,11 @@
       },
       {
         "il": "Bolu",
-        "min": 6
+        "min": 5
       },
       {
         "il": "Edirne",
-        "min": 5
+        "min": 6
       },
       {
         "il": "Kırklareli",
@@ -4711,19 +4711,19 @@
       },
       {
         "il": "Çanakkale",
-        "min": 11
+        "min": 9
       },
       {
         "il": "Balıkesir",
-        "min": 8
+        "min": 9
       },
       {
         "il": "Bursa",
-        "min": 8
+        "min": 9
       },
       {
         "il": "Manisa",
-        "min": 10
+        "min": 11
       },
       {
         "il": "İzmir",
@@ -4731,11 +4731,11 @@
       },
       {
         "il": "Aydın",
-        "min": 12
+        "min": 13
       },
       {
         "il": "Denizli",
-        "min": 10
+        "min": 11
       },
       {
         "il": "Kocaeli",
@@ -4759,7 +4759,7 @@
       },
       {
         "il": "Adana",
-        "min": 12
+        "min": 13
       },
       {
         "il": "Şanlıurfa",
@@ -4770,9 +4770,9 @@
         "min": 10
       }
     ],
-    "genel": "MGM'nin 14-18 Kasım tahminine göre 4 il merkezinde (Kars, Erzurum, Ardahan ve Van) en düşük sıcaklık 0°C ve altına iniyor; en soğuk il −4°C ile Kars, batı ve güney illerinde ise don beklenmiyor.",
-    "kaynak": "MGM 5 günlük il merkezi tahmini (14 Kasım 2026 08:11 itibarıyla)",
-    "haber": "tekirdag-malkara-firtina-sera-uctu-saman-balyalari-devrildi-2026"
+    "genel": "MGM'nin 15-19 Kasım tahminine göre 4 il merkezinde (Kars, Ardahan, Erzurum ve Van) en düşük sıcaklık 0°C ve altına iniyor; en soğuk değer −2°C ile Kars ve Ardahan'da beklenirken batı ve güney illerinde don görünmüyor.",
+    "kaynak": "MGM 5 günlük il merkezi tahmini (14 Kasım 2026 20:25 itibarıyla)",
+    "haber": "konya-ovasi-don-hububata-zarar-vermedi-misirda-nem-15-2026"
   },
   "fotograflar": {
     "klasor": "assets/foto/",
