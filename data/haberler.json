@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-14T12:10:00+03:00",
+  "guncelleme": "2026-11-14T15:09:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,40 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "sivas-sarkisla-hayvan-pazari-58-gun-sonra-acildi-2026",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-14",
+      "eklenme": "2026-11-14T15:09:00+03:00",
+      "motif": "sut",
+      "baslik": "Şap nedeniyle kapatılan Şarkışla Hayvan Pazarı 58 gün sonra yeniden açıldı",
+      "manset": "Şarkışla pazarı \"58 gün\" sonra açıldı!",
+      "ozet": "Sivas'ın Şarkışla ilçesindeki, İç Anadolu'nun en büyük hayvan pazarları arasında gösterilen Şarkışla Hayvan Pazarı yeniden hizmete girdi. Pazar, çevre illerde görülen şap vakaları nedeniyle 17 Eylül 2026'da tedbir amacıyla geçici olarak kapatılmıştı. Alınan önlemlerin ardından 58 günlük aranın sonunda kapılar yeniden açıldı ve hayvan alım satımında hareketlilik yeniden başladı. Bölgedeki yetiştiriciler ve alıcılar için önemli bir ticaret noktası olan pazarın açılması üreticileri sevindirdi.",
+      "neYapmali": "Pazara hayvan götürecek yetiştiriciler, hayvanlarının küpe, aşı ve sevk belgelerinin eksiksiz olduğunu önceden kontrol etmeli; güncel giriş şartlarını Sivas İl ya da Şarkışla İlçe Tarım ve Orman Müdürlüğü'nden öğrenmeli.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/sivas-haberleri/ic-anadolunun-en-buyuk-hayvan-pazari-58-gunluk-aranin-ardindan-yeniden-hizmete-girdi-516067598"
+        }
+      ]
+    },
+    {
+      "id": "marka-yenilikci-tarim-faizsiz-kredi-8-milyon-15-aralik-2026",
+      "kategori": "Hibe",
+      "tarih": "2026-11-14",
+      "eklenme": "2026-11-14T15:08:00+03:00",
+      "motif": "para",
+      "baslik": "Kocaeli, Sakarya, Düzce, Bolu ve Yalova'da yenilikçi tarım yatırımına 8 milyon liraya kadar faizsiz kredi: Son başvuru 15 Aralık",
+      "manset": "Faizsiz kredi \"8 milyon lira\"",
+      "ozet": "Doğu Marmara Kalkınma Ajansı (MARKA), 140 milyon lira bütçeli 2026 Yenilikçi Tarım Faizsiz Kredi Desteği Programı'nı Gebze Ticaret Odası'nda düzenlenen toplantıyla tanıttı. TR42 Bölgesi'ndeki KOBİ statüsündeki işletmeler, proje başına 1 milyon ile 8 milyon lira arasında faizsiz kredi alabilecek. Kredi, ilk 6 ayı ödemesiz olmak üzere toplam 24 ay vadeli kullandırılacak. Dijital tarım teknolojileri, akıllı ekipman ve yenilikçi makineler, tohum ve fide teknolojileri, kontrollü üretim sistemleri ile işleme, depolama ve soğuk zincir yatırımları kapsamda yer alıyor. Çevrimiçi başvurular 15 Aralık 2026 saat 23.59'da kapanacak.",
+      "neYapmali": "TR42 Bölgesi'nde (Kocaeli, Sakarya, Düzce, Bolu, Yalova) KOBİ statüsündeki tarım işletmeleri program rehberini MARKA'nın sitesinden inceleyip başvurusunu 15 Aralık gece yarısından önce çevrimiçi tamamlamalı; proje hazırlığında ajansın bilgilendirme birimlerinden destek alınabilir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/kocaeli-haberleri/yenilikci-tarim-yatirimlarina-8-milyon-tlye-kadar-faizsiz-kredi-destegi-516035381"
+        }
+      ]
+    },
     {
       "id": "konya-ovasi-don-hububata-zarar-vermedi-misirda-nem-15-2026",
       "kategori": "Zirai Don",
@@ -3771,54 +3805,6 @@
       "manset": "TMO fındıkta \"son gün 14 Kasım\""
     },
     {
-      "id": "meteoroloji-4-kasim-23-il-yagis-uyarisi",
-      "kategori": "Zirai Don",
-      "tarih": "2026-11-04",
-      "eklenme": "2026-11-04T15:31:00+03:00",
-      "motif": "sera",
-      "baslik": "Meteoroloji'den 23 ile yağış uyarısı: Hatay ve Osmaniye'de turuncu kod, sel ve dolu riski var",
-      "ozet": "Meteoroloji 4 Kasım için 2 ile turuncu, 21 ile sarı kodlu kuvvetli yağış uyarısı verdi. Hatay ve Osmaniye'de metrekareye 21-50 kilogram yağış bekleniyor; Hatay'ın Erzin, Dörtyol, Payas ve Hassa ilçeleri ile Osmaniye merkez ve güneyinde bu miktar 51-100 kilograma çıkabilir. Sarı kodlu iller arasında Adana, Gaziantep, İstanbul, İzmir, Bursa, Manisa, Muğla, Aydın, Sakarya, Kastamonu ve Sinop da bulunuyor. Sel, su baskını, heyelan, yıldırım ve yerel dolu riskine dikkat çekildi. Marmara, Kuzey Ege ve Batı Karadeniz kıyılarında rüzgârın saatte 50-70 kilometre hızla fırtına şeklinde esmesi öngörülürken pazar günü bazı il merkezlerinde kar görülebileceği bildirildi.",
-      "neYapmali": "Uyarı kapsamındaki üreticiler sera örtülerini ve bağlantılarını kontrol etmeli, drenaj kanallarını açık tutmalı, ekipman ve hayvanları dere yataklarından uzak bir yere almalı. Ürün zararında TARSİM poliçesi olanlar hasarı poliçedeki süre içinde bildirmeli.",
-      "kaynaklar": [
-        {
-          "ad": "Memurlar.net",
-          "url": "https://www.memurlar.net/haber/1183030/meteoroloji-den-21-ile-sari-2-ile-turuncu-kodlu-uyari.html"
-        },
-        {
-          "ad": "Hürriyet",
-          "url": "https://www.hurriyet.com.tr/gundem/serin-ve-yagisli-hava-geliyor-meteorolojiden-istanbul-dahil-bircok-il-icin-saganak-ve-firtina-uyarisi-kar-yagisi-icin-tarih-verildi-43365226"
-        }
-      ],
-      "gorsel": "assets/iha/meteoroloji-4-kasim-23-il-yagis-uyarisi.jpg",
-      "gorselKucuk": "assets/iha/meteoroloji-4-kasim-23-il-yagis-uyarisi-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA (temsili)",
-      "manset": "İki ilde yağışa \"turuncu kod\"!"
-    },
-    {
-      "id": "yagis-66-yil-dsi-150-is-makinesi",
-      "kategori": "Zirai Don",
-      "tarih": "2026-11-04",
-      "eklenme": "2026-11-04T12:32:01+03:00",
-      "motif": "traktor",
-      "baslik": "Su yılında yağış 66 yılın zirvesinde: Selden 23 il etkilendi, DSİ'ye 150 yeni iş makinesi verildi",
-      "ozet": "Tarım ve Orman Bakanı İbrahim Yumaklı, Meteoroloji'nin 2026 Su Yılı Raporu'na göre 1 Ekim 2025-30 Eylül 2026 arasında ülke ortalamasının 741,6 milimetre olduğunu açıkladı. Bu miktar 573,4 milimetrelik uzun yıllar ortalamasının yüzde 29, bir önceki su yılının yüzde 76 üzerinde. Dağılım dengesiz: Şırnak'ta normalin yaklaşık yüzde 80 üstüne çıkılırken Rize'de 1.641 milimetre ölçüldü, bazı bölgeler ise normalin altında kaldı. 14 Ekim'den bu yana 23 ilde sel ve taşkın yaşandı; sahada DSİ'nin 598 makinesi ve yaklaşık 800 personeli çalışıyor. Ankara'daki törende kuruma 150 yeni iş makinesi teslim edilirken, 11.466 olan taşkın kontrol tesisi sayısına beş yılda 1.000 tesis daha eklenmesinin hedeflendiği belirtildi.",
-      "neYapmali": "Dere yatağı ve taşkın riski olan arazilerdeki üreticiler, ürün ve ekipmanı güvenli yere almak için yerel meteoroloji uyarılarını izlemeli. Selden zarar gören üretici, hasar tespiti için il veya ilçe tarım müdürlüğüne, TARSİM poliçesi varsa sigortaya da vakit geçirmeden başvurmalı.",
-      "kaynaklar": [
-        {
-          "ad": "Saray Medya (İHA)",
-          "url": "https://www.saraymedya.com/haber/bakan-yumakli-yagislar-66-yilin-zirvesinde_320847/"
-        },
-        {
-          "ad": "Herkes Duysun",
-          "url": "https://herkesduysun.com/siyaset/bakan-yumakli-yagislar-son-66-yilin-en-yuksek-seviyesine-ulasmis-durumda-041126269/"
-        }
-      ],
-      "gorsel": "assets/iha/yagis-66-yil-dsi-150-is-makinesi.jpg",
-      "gorselKucuk": "assets/iha/yagis-66-yil-dsi-150-is-makinesi-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA",
-      "manset": "Yağış \"66 yılın zirvesinde\""
-    },
-    {
       "id": "ciftci-destek-9-ay-115-5-milyar",
       "kategori": "Destek",
       "tarih": "2026-11-04",
@@ -4373,6 +4359,12 @@
       "baslik": "Erzincan buzağı, malak, kuzu ve oğlak desteği başvuru sonu",
       "kapsam": "Erzincan",
       "haber": "erzincan-buzagi-malak-kuzu-oglak-destek-1-aralik-2026"
+    },
+    {
+      "tarih": "2026-12-15",
+      "baslik": "MARKA Yenilikçi Tarım Faizsiz Kredi başvurusu son gün",
+      "kapsam": "Kocaeli, Sakarya, Düzce, Bolu, Yalova",
+      "haber": "marka-yenilikci-tarim-faizsiz-kredi-8-milyon-15-aralik-2026"
     },
     {
       "tarih": "2026-12-18",
