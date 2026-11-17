@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-17T20:12:00+03:00",
+  "guncelleme": "2026-11-17T23:10:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,46 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "hatay-samandag-mandalina-dalda-2-tl-sehirde-50-90-tl-2026",
+      "kategori": "Piyasa",
+      "tarih": "2026-11-17",
+      "eklenme": "2026-11-17T23:10:00+03:00",
+      "motif": "narenciye",
+      "baslik": "Hatay'da mandalina dalda 2 liraya düştü, büyükşehirde 50-90 liradan satılıyor",
+      "manset": "Bahçede 2, şehirde \"90 lira\"!",
+      "ozet": "Hatay'da mandalinada rekolte bu yıl beklentinin üzerine çıktı, ancak bahçe fiyatı kilogramda 2 liraya kadar geriledi ve alıcı bulamayan ürün dalda kalmaya başladı. Samandağ Ziraat Odası Başkanı Selim Kamacı, aynı mandalinanın büyükşehirlerde 50 ile 90 lira arasında satıldığını belirterek aradaki farka dikkat çekti. Kamacı, son iki yıldır Akdeniz meyve sineğine karşı ilaç yerine tuzak yöntemiyle ekolojik mücadele yapıldığını ve ürünün ihracata uygun kalitede olduğunu söyledi. Yüklü ağaçların dalları desteklerle ayakta tutuluyor.",
+      "neYapmali": "Elindeki ürünü değerlendiremeyen mandalina üreticileri ziraat odası ve kooperatifler üzerinden toplu satış, ihracatçı ve belediye alım imkânlarını sorabilir; hasat ve satış belgelerini saklamaları olası destek başvurularında işe yarar.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/hatay-haberleri/dalinda-2-tlye-satilan-mandalinanin-buyuksehirlerde-yuksek-rakamlara-satilmasina-ureticiden-tepki-517719254"
+        }
+      ],
+      "gorsel": "assets/envato/hatay-samandag-mandalina-dalda-2-tl-sehirde-50-90-tl-2026.jpg",
+      "gorselKucuk": "assets/envato/hatay-samandag-mandalina-dalda-2-tl-sehirde-50-90-tl-2026-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
+    {
+      "id": "samsun-61-ureticiye-18-ton-sera-naylonu-destegi-2026",
+      "kategori": "Destek",
+      "tarih": "2026-11-17",
+      "eklenme": "2026-11-17T23:09:00+03:00",
+      "motif": "sera",
+      "baslik": "Samsun'da 61 üreticiye 18 ton sera naylonu: Bedelin yarısını Bakanlık ödüyor",
+      "manset": "Sera örtüsüne \"yüzde 50\" destek",
+      "ozet": "Samsun'da Tarım ve Orman Bakanlığı katkısıyla yürütülen Alternatif Üretim Yöntemlerinin Geliştirilmesi Projesi kapsamında 61 üreticiye yaklaşık 99 bin metrekare, yani 18 ton sera naylonu teslim ediliyor. Projenin 2 milyon 733 bin 840 liralık bütçesinin yarısını Bakanlık, yarısını üreticiler karşılıyor. Destekten, örtüsü afetle zarar gören ya da ömrünü dolduran metal veya ahşap iskeletli ticari seralar yararlanıyor. Bu yıl en çok üretici Çarşamba (21) ve Bafra'dan (19) olmak üzere 9 ilçeden. Son 3 yılda 407 üreticinin 350 dekarlık serasının örtüsü yenilendi.",
+      "neYapmali": "Samsun'da örtüsü yıpranan sera sahipleri, sonraki dönem başvuru takvimi ve katkı payı koşulları için ilçe tarım ve orman müdürlüğüne başvurabilir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/samsun-haberleri/samsunda-61-ureticiye-sera-naylonu-destegi-517599448"
+        }
+      ],
+      "gorsel": "assets/envato/samsun-61-ureticiye-18-ton-sera-naylonu-destegi-2026.jpg",
+      "gorselKucuk": "assets/envato/samsun-61-ureticiye-18-ton-sera-naylonu-destegi-2026-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
     {
       "id": "silopi-28-ciftciye-yuzde-75-hibeli-kirmizi-mercimek-tohumu-2026",
       "kategori": "Hibe",
@@ -3753,50 +3793,6 @@
       "manset": "Ulubey'de \"çörek otu\" desteği"
     },
     {
-      "id": "balikesir-gonen-manyas-293-uretici-sut-otu",
-      "kategori": "Hayvancılık",
-      "tarih": "2026-11-03",
-      "eklenme": "2026-11-04T21:31:11+03:00",
-      "motif": "tohum",
-      "baslik": "Balıkesir'de Gönen ve Manyaslı 293 hayvan üreticisine 14 ton süt otu tohumu",
-      "ozet": "Balıkesir Büyükşehir Belediyesi, Gönen ve Manyas'taki 293 hayvancılık yapan üreticiye toplam 14 bin 100 kilogram süt otu tohumu verdi. Gönen'de 123 üretici 5 bin 850 kilogram, Manyas'ta 170 üretici 8 bin 250 kilogram tohum aldı. Çim türü bu yem bitkisiyle işletmelerin kaba yem ihtiyacının karşılanması ve yem giderlerinin azaltılması hedefleniyor. Dağıtım, belediyenin 20 ilçede sürdürdüğü \"Tarımda Balıkesir Modeli\" çalışmalarının parçası olarak yapıldı; törenlere belediyenin Gönen koordinatörü Bülent Birgül katıldı.",
-      "neYapmali": "Balıkesir'deki hayvan üreticileri, sıradaki dağıtımlar ve katılım şartları için Büyükşehir Belediyesi'nin tarım birimine ya da ilçe koordinatörlüğüne danışabilir. Tohumu alanların ekim zamanı için ilçe tarım müdürlüğünün önerilerine uyması faydalı olur.",
-      "kaynaklar": [
-        {
-          "ad": "Bandırma Şehir",
-          "url": "https://www.bandirmasehir.com/buyuksehirden-guney-marmarada-ureticilere-sut-otu-tohumu-destegi/"
-        },
-        {
-          "ad": "Alparslan Diyarı",
-          "url": "https://www.alparslandiyari.com/haber/balikesir-de-293-ureticiye-sut-otu-tohumu-verildi_80231/"
-        }
-      ],
-      "gorsel": "assets/envato/balikesir-gonen-manyas-293-uretici-sut-otu.jpg",
-      "gorselKucuk": "assets/envato/balikesir-gonen-manyas-293-uretici-sut-otu-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf",
-      "manset": "Gönen ve Manyas'a \"14 ton\" tohum"
-    },
-    {
-      "id": "tmo-findik-alimi-14-kasima-uzatildi",
-      "kategori": "Piyasa",
-      "tarih": "2026-11-04",
-      "eklenme": "2026-11-04T15:32:00+03:00",
-      "motif": "findik",
-      "baslik": "TMO'nun fındık alım süresi son kez uzatıldı: Son gün 14 Kasım",
-      "ozet": "Borçka Ziraat Odası Başkanı Tolga İskenderoğlu, TMO'nun yürüttüğü fındık alımlarında sürenin üçüncü kez uzatıldığını 4 Kasım'da duyurdu. Üreticilerin talepleri sonrası verilen bu ek süreyle son alım günü 14 Kasım 2026 oldu. İskenderoğlu, süre daha önce iki kez uzatıldığı için üreticilerin bu son fırsatı kaçırmamasını istedi. Açıklamada ürünün bu tarihe kadar TMO alım noktalarına teslim edilmesi gerektiği vurgulandı.",
-      "neYapmali": "TMO'ya fındık vermeyi düşünen üreticiler teslimatını 14 Kasım'dan önce planlamalı, randevu ve evrak ayrıntılarını en yakın TMO alım noktasından teyit etmeli.",
-      "kaynaklar": [
-        {
-          "ad": "Gündem Artvin",
-          "url": "https://www.gundemartvin.com/findik-ureticilerini-ilgilendiren-aciklama"
-        }
-      ],
-      "gorsel": "assets/iha/tmo-findik-alimi-14-kasima-uzatildi.jpg",
-      "gorselKucuk": "assets/iha/tmo-findik-alimi-14-kasima-uzatildi-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA (temsili)",
-      "manset": "TMO fındıkta \"son gün 14 Kasım\""
-    },
-    {
       "id": "ciftci-destek-9-ay-115-5-milyar",
       "kategori": "Destek",
       "tarih": "2026-11-04",
@@ -4775,9 +4771,7 @@
         "koyun-8.jpg"
       ],
       "para": [],
-      "sera": [
-        "sera-6.jpg"
-      ],
+      "sera": [],
       "sut": [],
       "tohum": [
         "tohum-8.jpg"
@@ -4794,7 +4788,6 @@
         "elma-7.jpg"
       ],
       "narenciye": [
-        "narenciye-5.jpg",
         "narenciye-6.jpg",
         "narenciye-7.jpg"
       ],
