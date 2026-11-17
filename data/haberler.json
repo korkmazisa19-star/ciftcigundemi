@@ -74,7 +74,9 @@
           "url": "https://www.iha.com.tr/sirnak-haberleri/silopili-ciftcilere-yuzde-75-hibeli-mercimek-tohumu-destegi-517690616"
         }
       ],
-      "gorsel": null
+      "gorsel": "assets/iha/silopi-28-ciftciye-yuzde-75-hibeli-kirmizi-mercimek-tohumu-2026.jpg",
+      "gorselKucuk": "assets/iha/silopi-28-ciftciye-yuzde-75-hibeli-kirmizi-mercimek-tohumu-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "elazig-5100-ureticiye-4-2-milyon-tl-aricilik-besi-destegi-2026",
@@ -92,9 +94,9 @@
           "url": "https://www.iha.com.tr/elazig-haberleri/elazigda-5-bin-100-ureticiye-4-2-milyon-tllik-destek-517608931"
         }
       ],
-      "gorsel": "assets/envato/elazig-5100-ureticiye-4-2-milyon-tl-aricilik-besi-destegi-2026.jpg",
-      "gorselKucuk": "assets/envato/elazig-5100-ureticiye-4-2-milyon-tl-aricilik-besi-destegi-2026-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorsel": "assets/iha/elazig-5100-ureticiye-4-2-milyon-tl-aricilik-besi-destegi-2026.jpg",
+      "gorselKucuk": "assets/iha/elazig-5100-ureticiye-4-2-milyon-tl-aricilik-besi-destegi-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "mardin-mazidagi-misir-hasadi-verim-iyi-nem-kesintisi-2026",
@@ -4765,6 +4767,7 @@
         "findik-7.jpg"
       ],
       "kovan": [
+        "kovan-1.jpg",
         "kovan-4.jpg",
         "kovan-5.jpg"
       ],
