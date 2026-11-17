@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
-<url><loc>https://ciftcigundemi.com/</loc><lastmod>2026-11-17T20:12:00+03:00</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
+<url><loc>https://ciftcigundemi.com/</loc><lastmod>2026-11-17T23:10:00+03:00</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
 <url><loc>https://ciftcigundemi.com/hakkimizda/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
 <url><loc>https://ciftcigundemi.com/gizlilik-politikasi/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
 <url><loc>https://ciftcigundemi.com/kvkk-aydinlatma-metni/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
 <url><loc>https://ciftcigundemi.com/cerez-politikasi/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
 <url><loc>https://ciftcigundemi.com/iletisim/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
+<url><loc>https://ciftcigundemi.com/haber/hatay-samandag-mandalina-dalda-2-tl-sehirde-50-90-tl-2026/</loc><lastmod>2026-11-17T23:10:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-17T23:10:00+03:00</news:publication_date><news:title>Hatay&#x27;da mandalina dalda 2 liraya düştü, büyükşehirde 50-90 liradan satılıyor</news:title></news:news></url>
+<url><loc>https://ciftcigundemi.com/haber/samsun-61-ureticiye-18-ton-sera-naylonu-destegi-2026/</loc><lastmod>2026-11-17T23:09:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-17T23:09:00+03:00</news:publication_date><news:title>Samsun&#x27;da 61 üreticiye 18 ton sera naylonu: Bedelin yarısını Bakanlık ödüyor</news:title></news:news></url>
 <url><loc>https://ciftcigundemi.com/haber/silopi-28-ciftciye-yuzde-75-hibeli-kirmizi-mercimek-tohumu-2026/</loc><lastmod>2026-11-17T20:12:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-17T20:12:00+03:00</news:publication_date><news:title>Silopi&#x27;de 28 çiftçiye yüzde 75 hibeli 16,8 ton mercimek tohumu verildi</news:title></news:news></url>
 <url><loc>https://ciftcigundemi.com/haber/elazig-5100-ureticiye-4-2-milyon-tl-aricilik-besi-destegi-2026/</loc><lastmod>2026-11-17T20:11:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-17T20:11:00+03:00</news:publication_date><news:title>Elazığ&#x27;da arıcı ve besicilere 4,2 milyon liralık ekipman desteği dağıtıldı</news:title></news:news></url>
 <url><loc>https://ciftcigundemi.com/haber/mardin-mazidagi-misir-hasadi-verim-iyi-nem-kesintisi-2026/</loc><lastmod>2026-11-14T23:11:00+03:00</lastmod></url>
@@ -182,8 +184,6 @@
 <url><loc>https://ciftcigundemi.com/haber/mersin-gulnar-kucukbas-fidan-solar-kamera/</loc><lastmod>2026-11-04T23:31:18+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/bursa-orhangazi-yaglik-zeytin-25-30-tl/</loc><lastmod>2026-11-04T22:30:47+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/usak-ulubey-omurca-corek-otu-23-uretici/</loc><lastmod>2026-11-04T21:32:11+03:00</lastmod></url>
-<url><loc>https://ciftcigundemi.com/haber/balikesir-gonen-manyas-293-uretici-sut-otu/</loc><lastmod>2026-11-04T21:31:11+03:00</lastmod></url>
-<url><loc>https://ciftcigundemi.com/haber/tmo-findik-alimi-14-kasima-uzatildi/</loc><lastmod>2026-11-04T15:32:00+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/ciftci-destek-9-ay-115-5-milyar/</loc><lastmod>2026-11-04T11:31:46+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/nigde-elma-yagis-kara-benek/</loc><lastmod>2026-11-04T09:17:00+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/yozgat-14-uretici-sera-destegi/</loc><lastmod>2026-11-04T09:16:00+03:00</lastmod></url>
