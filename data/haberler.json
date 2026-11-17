@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-14T23:11:00+03:00",
+  "guncelleme": "2026-11-17T20:12:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,44 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "silopi-28-ciftciye-yuzde-75-hibeli-kirmizi-mercimek-tohumu-2026",
+      "kategori": "Hibe",
+      "tarih": "2026-11-17",
+      "eklenme": "2026-11-17T20:12:00+03:00",
+      "motif": "tohum",
+      "baslik": "Silopi'de 28 çiftçiye yüzde 75 hibeli 16,8 ton mercimek tohumu verildi",
+      "manset": "Mercimek tohumunda \"yüzde 75\" hibe",
+      "ozet": "Şırnak'ın Silopi ilçesinde Kırmızı Mercimek Yetiştiriciliğinin Güçlendirilmesi Projesi kapsamında ilk grup tohum dağıtımı yapıldı. Projeye hak kazanan 28 çiftçiye, maliyetin yüzde 75'i hibe olarak karşılanan toplam 16,8 ton sertifikalı kırmızı mercimek tohumu teslim edildi. Dağıtım programına Silopi Kaymakamı Çağlar Partal katıldı. Destekle üretim maliyetinin düşürülmesi ve ilçede mercimek ekim alanının genişletilmesi amaçlanıyor; dağıtımın gruplar halinde sürdüğü belirtildi.",
+      "neYapmali": "Projeye başvurmuş Silopili üreticiler sonraki grup dağıtım tarihini Silopi İlçe Tarım ve Orman Müdürlüğü'nden öğrenebilir; sertifikalı tohumun ekim sıklığı ve ekim zamanı için müdürlüğün önerilerine uyulmalıdır.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/sirnak-haberleri/silopili-ciftcilere-yuzde-75-hibeli-mercimek-tohumu-destegi-517690616"
+        }
+      ],
+      "gorsel": null
+    },
+    {
+      "id": "elazig-5100-ureticiye-4-2-milyon-tl-aricilik-besi-destegi-2026",
+      "kategori": "Destek",
+      "tarih": "2026-11-17",
+      "eklenme": "2026-11-17T20:11:00+03:00",
+      "motif": "kovan",
+      "baslik": "Elazığ'da arıcı ve besicilere 4,2 milyon liralık ekipman desteği dağıtıldı",
+      "manset": "Arıcı ve besiciye \"4,2 milyon\" lira",
+      "ozet": "Elazığ İl Özel İdaresi, arıcılık ve besi hayvancılığı yapan 5 bin 100 üreticiye toplam 4 milyon 195 bin 80 lira değerinde ekipman ve mineral desteği verdi. Arı Yetiştiricileri Birliği ile yürütülen projede bin 100 arıcıya, Varroa paraziti ile mücadelede kullanılan oksalik asit buharlaştırma makinesi dağıtıldı; bu kalemin yaklaşık 2,6 milyon lirasını İl Özel İdaresi, 400 bin lirasını üreticiler karşıladı. İkinci projede 1 milyon 200 bin liralık bütçeyle 20 bin mineral yalama taşı alındı ve merkez ile tüm ilçelerdeki 4 bin büyükbaş yetiştiricisine verildi. Dağıtım 17 Kasım'da Vali Numan Hatipoğlu'nun katıldığı törenle yapıldı.",
+      "neYapmali": "Destek kapsamındaki Elazığlı üreticiler teslim durumunu ilçe tarım müdürlüğünden ya da Arı Yetiştiricileri Birliği'nden sorabilir; Varroa ilaçlamasında makinenin kullanım talimatına ve uygulama dönemine uyulmalıdır.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/elazig-haberleri/elazigda-5-bin-100-ureticiye-4-2-milyon-tllik-destek-517608931"
+        }
+      ],
+      "gorsel": "assets/envato/elazig-5100-ureticiye-4-2-milyon-tl-aricilik-besi-destegi-2026.jpg",
+      "gorselKucuk": "assets/envato/elazig-5100-ureticiye-4-2-milyon-tl-aricilik-besi-destegi-2026-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
     {
       "id": "mardin-mazidagi-misir-hasadi-verim-iyi-nem-kesintisi-2026",
       "kategori": "Bitkisel Üretim",
@@ -3737,54 +3775,6 @@
       "manset": "Gönen ve Manyas'a \"14 ton\" tohum"
     },
     {
-      "id": "diyarbakir-cungus-mercimek-tohumu-dagitimi",
-      "kategori": "Bitkisel Üretim",
-      "tarih": "2026-11-04",
-      "eklenme": "2026-11-04T20:33:28+03:00",
-      "motif": "tohum",
-      "baslik": "Diyarbakır Çüngüş'te üreticilere mercimek tohumu verildi",
-      "ozet": "Diyarbakır'ın Çüngüş ilçesinde Tarım ve Orman Müdürlüğü, üreticilere mercimek tohumu dağıttı. Dağıtıma Kaymakam Murat Ak, İlçe Tarım ve Orman Müdürü Yusuf Güden ve bölgedeki çok sayıda üretici katıldı. Ak, açılışta çiftçilere verimli bir sezon diledi. Haberlerde dağıtılan tohum miktarı, yararlanan üretici sayısı ve destek oranı paylaşılmadı.",
-      "neYapmali": "Çüngüş'te tohum desteğiyle ilgilenen üreticiler, yeni dağıtım olup olmadığını ve başvuru koşullarını İlçe Tarım ve Orman Müdürlüğü'nden öğrenebilir.",
-      "kaynaklar": [
-        {
-          "ad": "İHA / Tigris Haber",
-          "url": "https://www.tigrishaber.com/diyarbakirda-ciftcilere-tohum-dagitildi-173542h.htm"
-        },
-        {
-          "ad": "Aksiyon",
-          "url": "https://www.aksiyon.com.tr/cungus-te-ciftcilere-mercimek-tohumu-destegiyle-bereket-umudu-387664"
-        }
-      ],
-      "gorsel": "assets/iha/diyarbakir-cungus-mercimek-tohumu-dagitimi.jpg",
-      "gorselKucuk": "assets/iha/diyarbakir-cungus-mercimek-tohumu-dagitimi-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA",
-      "manset": "Çüngüş'te \"mercimek tohumu\" dağıtıldı"
-    },
-    {
-      "id": "mersin-kdakp-yuzde-100-hibeli-motorlu-capa",
-      "kategori": "Hibe",
-      "tarih": "2026-11-03",
-      "eklenme": "2026-11-04T19:55:00+03:00",
-      "motif": "traktor",
-      "baslik": "Mersin'de Toroslar ve Mezitli'deki çiftçilere yüzde 100 hibeli motorlu çapa makinesi verildi",
-      "ozet": "Mersin İl Tarım ve Orman Müdürlüğü, Kırsal Dezavantajlı Alanlar Kalkınma Projesi (KDAKP) içindeki Hassas Grupların Desteklenmesi Paketi kapsamında Toroslar ve Mezitli ilçelerinde üretim yapan çiftçilere motorlu çapa makinesi dağıttı. Makinelerin bedelinin tamamı hibe olarak karşılandı. İl müdürlüğündeki teslim törenine İl Tarım ve Orman Müdürü Erdem Karadağ katıldı. Destekle kırsaldaki üretimin güçlenmesi, bahçe ve tarla işlerinin kolaylaşması ve hane gelirine katkı sağlanması amaçlanıyor.",
-      "neYapmali": "Makineyi teslim alan üreticiler ilk kullanımdan önce bakım ve yakıt-yağ talimatlarını okumalı, garanti belgelerini saklamalı. KDAKP kapsamındaki mahallelerde yaşayan ve benzer bir destekten yararlanmak isteyen çiftçiler, ilçe tarım ve orman müdürlüğünün yeni hibe çağrılarını takip etmeli.",
-      "kaynaklar": [
-        {
-          "ad": "Haberler.com (İHA)",
-          "url": "https://www.haberler.com/ekonomi/mersin-de-toroslar-ve-mezitli-deki-ciftcilere-20390109-haberi/"
-        },
-        {
-          "ad": "Mersin Haber",
-          "url": "https://www.mersinhaber.com/haber-mezitlide-ureticilere-motorlu-capa-makinesi-destegiyle/834862"
-        }
-      ],
-      "gorsel": "assets/iha/mersin-kdakp-yuzde-100-hibeli-motorlu-capa.jpg",
-      "gorselKucuk": "assets/iha/mersin-kdakp-yuzde-100-hibeli-motorlu-capa-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA",
-      "manset": "Mersin'de \"hibeli çapa\" dağıtıldı"
-    },
-    {
       "id": "tmo-findik-alimi-14-kasima-uzatildi",
       "kategori": "Piyasa",
       "tarih": "2026-11-04",
@@ -4295,24 +4285,6 @@
   ],
   "takvim": [
     {
-      "tarih": "2026-11-14",
-      "baslik": "TMO fındık alımı son günü",
-      "kapsam": "TMO alım noktaları",
-      "haber": "tmo-findik-alimi-14-kasima-uzatildi"
-    },
-    {
-      "tarih": "2026-11-15",
-      "baslik": "Eskişehir mavi sertifikalı zeytin fidanı başvurusu son gün",
-      "kapsam": "Eskişehir",
-      "haber": "eskisehir-mavi-sertifikali-zeytin-fidani-basvuru-15-kasim-2026"
-    },
-    {
-      "tarih": "2026-11-16",
-      "baslik": "Muğla tarımsal plastik atık teslimi (ürün desteği)",
-      "kapsam": "Muğla (Fethiye)",
-      "haber": "mugla-tarimsal-plastik-atik-urun-destegi-16-kasim-2026"
-    },
-    {
       "tarih": "2026-11-20",
       "baslik": "Yüzde 50 destekli zeytin ve hurma fidanı başvurusu",
       "kapsam": "Bilecik (Bayırköy)",
@@ -4613,54 +4585,54 @@
     }
   ],
   "hava": {
-    "donem": "15-19 Kasım",
+    "donem": "18-22 Kasım",
     "iller": [
       {
         "il": "Erzurum",
         "min": -1,
-        "not": "en soğuk 15 Kasım, −1°C"
+        "not": "en soğuk 18 Kasım, −1°C"
       },
       {
         "il": "Kars",
         "min": -2,
-        "not": "en soğuk 15 Kasım, −2°C"
+        "not": "en soğuk 19 Kasım, −2°C"
       },
       {
         "il": "Ardahan",
-        "min": -2,
-        "not": "en soğuk 17 Kasım, −2°C"
+        "min": -3,
+        "not": "en soğuk 18 Kasım, −3°C"
       },
       {
         "il": "Van",
-        "min": 0
-      },
-      {
-        "il": "Sivas",
         "min": 1
       },
       {
+        "il": "Sivas",
+        "min": 3
+      },
+      {
         "il": "Erzincan",
-        "min": 2
+        "min": 4
       },
       {
         "il": "Kayseri",
-        "min": 2
+        "min": 4
       },
       {
         "il": "Konya",
-        "min": 5
+        "min": 7
       },
       {
         "il": "Ankara",
-        "min": 5
+        "min": 7
       },
       {
         "il": "Afyonkarahisar",
-        "min": 5
+        "min": 6
       },
       {
         "il": "Eskişehir",
-        "min": 6
+        "min": 7
       },
       {
         "il": "Kütahya",
@@ -4668,11 +4640,11 @@
       },
       {
         "il": "Uşak",
-        "min": 7
+        "min": 8
       },
       {
         "il": "Isparta",
-        "min": 8
+        "min": 7
       },
       {
         "il": "Malatya",
@@ -4680,47 +4652,47 @@
       },
       {
         "il": "Yozgat",
-        "min": 2
-      },
-      {
-        "il": "Çorum",
         "min": 4
       },
       {
+        "il": "Çorum",
+        "min": 6
+      },
+      {
         "il": "Bolu",
-        "min": 5
+        "min": 6
       },
       {
         "il": "Edirne",
-        "min": 6
+        "min": 9
       },
       {
         "il": "Kırklareli",
-        "min": 6
+        "min": 9
       },
       {
         "il": "Tekirdağ",
-        "min": 10
-      },
-      {
-        "il": "Çanakkale",
-        "min": 9
-      },
-      {
-        "il": "Balıkesir",
-        "min": 9
-      },
-      {
-        "il": "Bursa",
-        "min": 9
-      },
-      {
-        "il": "Manisa",
         "min": 11
       },
       {
-        "il": "İzmir",
+        "il": "Çanakkale",
         "min": 13
+      },
+      {
+        "il": "Balıkesir",
+        "min": 8
+      },
+      {
+        "il": "Bursa",
+        "min": 10
+      },
+      {
+        "il": "Manisa",
+        "min": 13
+      },
+      {
+        "il": "İzmir",
+        "min": 15
       },
       {
         "il": "Aydın",
@@ -4728,27 +4700,27 @@
       },
       {
         "il": "Denizli",
-        "min": 11
+        "min": 12
       },
       {
         "il": "Kocaeli",
-        "min": 10
+        "min": 13
       },
       {
         "il": "Sakarya",
-        "min": 9
+        "min": 11
       },
       {
         "il": "Samsun",
-        "min": 10
+        "min": 11
       },
       {
         "il": "Trabzon",
-        "min": 10
+        "min": 12
       },
       {
         "il": "Antalya",
-        "min": 14
+        "min": 15
       },
       {
         "il": "Adana",
@@ -4756,15 +4728,15 @@
       },
       {
         "il": "Şanlıurfa",
-        "min": 10
+        "min": 11
       },
       {
         "il": "İstanbul",
-        "min": 10
+        "min": 12
       }
     ],
-    "genel": "MGM'nin 15-19 Kasım tahminine göre 4 il merkezinde (Kars, Ardahan, Erzurum ve Van) en düşük sıcaklık 0°C ve altına iniyor; en soğuk değer −2°C ile Kars ve Ardahan'da beklenirken batı ve güney illerinde don görünmüyor.",
-    "kaynak": "MGM 5 günlük il merkezi tahmini (14 Kasım 2026 20:13 itibarıyla)",
+    "genel": "Önümüzdeki beş günde 36 il merkezinden 3'ünde (Ardahan, Kars, Erzurum) gece sıcaklığı sıfırın altına iniyor; en soğuk değer 18 Kasım'da Ardahan'da −3°C, batı ve güney illerinde ise don beklenmiyor.",
+    "kaynak": "MGM 5 günlük il merkezi tahmini (17 Kasım 2026 20:08 itibarıyla)",
     "haber": "konya-ovasi-don-hububata-zarar-vermedi-misirda-nem-15-2026"
   },
   "fotograflar": {
@@ -4793,7 +4765,6 @@
         "findik-7.jpg"
       ],
       "kovan": [
-        "kovan-1.jpg",
         "kovan-4.jpg",
         "kovan-5.jpg"
       ],
