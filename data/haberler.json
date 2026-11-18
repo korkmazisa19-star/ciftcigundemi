@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-18T12:09:00+03:00",
+  "guncelleme": "2026-11-18T15:11:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,40 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "denizli-civril-pancar-rekoltesi-140-bin-ton-kantar-30-kasim-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-18",
+      "eklenme": "2026-11-18T15:11:00+03:00",
+      "motif": "pancar",
+      "baslik": "Çivril'de 140 bin ton pancar bekleniyor, ekim alanı meyveciliğe kayıyor",
+      "manset": "Pancarın tonu \"3.720 lira\"",
+      "ozet": "Çivril Ziraat Odası Başkanı Mehmet Özkul, bölgede bu sezon yaklaşık 140 bin ton şeker pancarı rekoltesi beklendiğini açıkladı. Çivril Bölge Şefliğinin toplam 150 bin tonluk kotasının 90 bin tonu Hadım, 60 bin tonu Çivril bölgesine ait. Özkul, özellikle Işıklı çevresinde üreticilerin meyveciliğe yönelmesiyle pancar ekim alanlarının daraldığını, kotanın Çivril'de tutulması için çalışıldığını söyledi. Prim dahil ton fiyatı 3 bin 720 lira olarak açıklanırken kotasını tamamlayan üreticiye yüzde 4 prim ve yüzde 20 küspe veriliyor. Uşak Şeker Fabrikası kantarının 30 Kasım'a kadar açık kalacağı bildirildi.",
+      "neYapmali": "Pancarı henüz teslim edilmemiş üreticiler randevularını 30 Kasım'dan önce tamamlamalı; prim kaybı yaşamamak için kotayı doldurmaya ve hasat kayıplarını azaltmaya dikkat edin, alım süresindeki olası uzatmayı ziraat odasından takip edin.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/denizli-haberleri/civrilde-pancar-rekoltesi-140-bin-ton-olarak-bekleniyor-518062376"
+        }
+      ]
+    },
+    {
+      "id": "kocaeli-gebze-90-ciftciye-500-bin-kislik-sebze-fidesi-2026",
+      "kategori": "Destek",
+      "tarih": "2026-11-18",
+      "eklenme": "2026-11-18T15:10:00+03:00",
+      "motif": "tohum",
+      "baslik": "Gebze'de 90 çiftçiye 500 bin kışlık sebze fidesi dağıtıldı",
+      "manset": "90 çiftçiye \"500 bin\" fide",
+      "ozet": "Kocaeli Büyükşehir Belediyesi, Gebze Belediyesi ve Gebze Ziraat Odası ortaklığında yürütülen projede 90 çiftçiye toplam 500 bin kışlık sebze fidesi ulaştırıldı. Dağıtılan fideler kıvırcık, pazı ve kara lahanadan oluşuyor. Yaklaşık 1,8 milyon liralık projenin dağıtım töreni 18 Kasım'da Kadıllı Mahallesi'nde yapıldı. Gebze Belediye Başkanı Zinnur Büyükgöz, geçen yıl da kışlık ve yazlık fide desteği verdiklerini hatırlatarak çalışmaların süreceğini söyledi.",
+      "neYapmali": "Gebze ve Kocaeli'deki üreticiler sonraki fide dağıtımları ve başvuru koşulları için Gebze Ziraat Odası ile belediyelerin tarım birimlerini takip edebilir; teslim alınan fideleri soğuk ve don riskine karşı uygun zamanda dikmeye özen gösterin.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/kocaeli-haberleri/gebzede-ciftcilere-fide-destegi-518085350"
+        }
+      ]
+    },
     {
       "id": "aydin-yavru-atma-destegi-buyukbas-20-bin-kucukbas-4-bin-tl-2026",
       "kategori": "Destek",
@@ -3754,46 +3788,6 @@
       "manset": "Karlıova'da \"sağım hijyeni\" eğitimi"
     },
     {
-      "id": "marmarabirlik-zeytin-alimi-64-bin-ton-2026",
-      "kategori": "Piyasa",
-      "tarih": "2026-11-04",
-      "eklenme": "2026-11-05T01:31:55+03:00",
-      "motif": "zeytin",
-      "baslik": "Marmarabirlik zeytin alımına başladı: 64 bin ton hedefleniyor, üreticinin beyanı 105 bin tonla rekor",
-      "ozet": "Marmara Zeytin Tarım Satış Kooperatifleri Birliği'nin 2026-2027 alım kampanyası 4 Kasım'da başladı. Birlik bu sezon 64 bin ton ürün almayı planlıyor; ortakların beyan ettiği 105 bin tonluk rekolte, birlik tarihinin en yüksek rakamı olarak aktarıldı. Sezon genelinde 430 bin tonluk üretim bekleniyor. Yönetim Kurulu Başkanı Ali Yıldız, üreticiyi korumak için imkânların kullanılacağını söyledi. Doludan etkilenen Erdek bölgesindeki ortaklara kredi borcu ertelemesinde kolaylık ve sofralık kalitede olup yağlığa ayrılan ürün için fiyat farkı ödemesi yapılacak; haberde erteleme süresi, fark tutarı ve alım fiyatı yer almıyor.",
-      "neYapmali": "Ortaksanız teslimat takvimini ve güncel alım fiyatını bağlı olduğunuz kooperatiften öğrenin. Erdek bölgesinde dolu zararı yaşadıysanız erteleme ve fiyat farkı şartlarını kooperatifinize sorun.",
-      "kaynaklar": [
-        {
-          "ad": "Politikam",
-          "url": "https://www.politikam.com/marmarabirlik-2026-2027-zeytin-alimlari-erdek-uretici-destegi"
-        }
-      ],
-      "gorsel": "assets/iha/marmarabirlik-zeytin-alimi-64-bin-ton-2026.jpg",
-      "gorselKucuk": "assets/iha/marmarabirlik-zeytin-alimi-64-bin-ton-2026-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA",
-      "manset": "Marmarabirlik'ten \"64 bin ton\" hedef"
-    },
-    {
-      "id": "ordu-ariciya-22-bin-kutu-varroa-ilaci",
-      "kategori": "Destek",
-      "tarih": "2026-11-04",
-      "eklenme": "2026-11-05T00:31:51+03:00",
-      "motif": "kovan",
-      "baslik": "Ordu'da arıcılara yüzde 100 hibeyle 22 bin kutu Varroa ilacı verildi",
-      "ozet": "Ordu Büyükşehir Belediyesi, arılarda yaygın görülen Varroa zararlısına karşı 22 bin kutu ilacı arıcılara hibe olarak dağıttı. Belediye binası önündeki törende konuşan Başkan Mehmet Hilmi Güler, desteğin tamamının belediyece karşılandığını belirtti. Aktarılan verilere göre kentte 3 bin kayıtlı işletmede 650 bin arılı kovan bulunuyor, yıllık bal üretimi ise 17 bin tonla Türkiye'de ilk sırada yer alıyor. Ordu Arıcılık Araştırma Enstitüsü Müdürü Şeref Cınbırtoğlu, arı ürünlerinin katma değerini artırmak için belediyeyle protokol imzalandığını söyledi. Haberde kişi başına düşen ilaç miktarı ve dağıtım koşulları yer almadı.",
-      "neYapmali": "Ordulu arıcılar ilaçtan yararlanma koşullarını Ordu Arıcılar Birliği, Büyükşehir Belediyesi veya il tarım müdürlüğünden öğrenebilir. İlacı prospektüsüne ve uygulama zamanına uygun kullanmak için veteriner hekim ya da teknik personele danışmak yerinde olur.",
-      "kaynaklar": [
-        {
-          "ad": "Trabzon Haber Merkezi / İGFA",
-          "url": "https://www.trabzonhabermerkezi.com/orduda-aricilara-ucretsiz-varroa-ilaci-destegi-4364217"
-        }
-      ],
-      "gorsel": "assets/iha/ordu-ariciya-22-bin-kutu-varroa-ilaci.jpg",
-      "gorselKucuk": "assets/iha/ordu-ariciya-22-bin-kutu-varroa-ilaci-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA (temsili)",
-      "manset": "Ordu'da arıcıya \"22 bin kutu\" ilaç"
-    },
-    {
       "id": "ciftci-destek-9-ay-115-5-milyar",
       "kategori": "Destek",
       "tarih": "2026-11-04",
@@ -4318,6 +4312,12 @@
       "baslik": "Uşak KKYP yedek liste: Son sözleşme imzası",
       "kapsam": "Uşak",
       "haber": "usak-kkyp-17-etap-yedek-liste-20-kasim-evrak"
+    },
+    {
+      "tarih": "2026-11-30",
+      "baslik": "Çivril'de pancar kantarı kapanıyor (Uşak Şeker)",
+      "kapsam": "Denizli (Çivril)",
+      "haber": "denizli-civril-pancar-rekoltesi-140-bin-ton-kantar-30-kasim-2026"
     },
     {
       "tarih": "2026-12-01",
