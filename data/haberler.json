@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-18T08:09:00+03:00",
+  "guncelleme": "2026-11-18T12:09:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,40 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "aydin-yavru-atma-destegi-buyukbas-20-bin-kucukbas-4-bin-tl-2026",
+      "kategori": "Destek",
+      "tarih": "2026-11-18",
+      "eklenme": "2026-11-18T12:09:00+03:00",
+      "motif": "sut",
+      "baslik": "Yavru atma desteği genişledi: Büyükbaşa 20 bin, küçükbaşa 4 bin lira",
+      "manset": "Atık yapan büyükbaşa \"20 bin lira\"",
+      "ozet": "Aydın İl Tarım ve Orman Müdürlüğü, gebe hayvanlarda görülen yavru atma (atık) vakalarına verilen desteğin kapsamının genişletildiğini açıkladı. Müdürlüğün duyurusuna göre artık yalnızca aşıyla bağlantılı atıklar değil, her nedenle yaşanan yavru atma vakaları da destek kapsamında. 2026 yılı için büyükbaş hayvanlarda hayvan başına 20 bin lira, küçükbaşta ise 4 bin lira ödeme yapılacak. Destek için vakanın gecikmeden il ya da ilçe müdürlüğüne bildirilmesi ve resmî veteriner hekimin hayvanı görüp gerekli işlemi yapması şart.",
+      "neYapmali": "Sürünüzde yavru atma yaşanırsa vakit kaybetmeden il ya da ilçe tarım ve orman müdürlüğüne bildirin ve resmî veteriner hekimin hayvanı görmesini sağlayın; ayrıntılar için bağlı olduğunuz müdürlüğe danışın.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/aydin-haberleri/yavru-atan-hayvanlar-icin-destek-tutarlari-artirildi-518005535"
+        }
+      ]
+    },
+    {
+      "id": "bolu-aricilik-kurslari-200-kursiyer-hedef-250-2026",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-18",
+      "eklenme": "2026-11-18T12:08:00+03:00",
+      "motif": "kovan",
+      "baslik": "Bolu'da arıcılık kurslarına ilgi: 200 kişi eğitim aldı, yıl sonu hedefi 250",
+      "manset": "Arıcılığa \"200 yeni\" aday",
+      "ozet": "Bolu İl Tarım ve Orman Müdürlüğü ile Bolu Halk Eğitimi Merkezi arasındaki protokolle açılan arıcılık kursları sürüyor. Bugüne kadar beşi merkezde, biri Gerede'de olmak üzere altı kurs düzenlendi ve yaklaşık 200 kişi eğitim aldı. Yıl sonuna kadar açılacak yeni kurslarla katılımcı sayısının 250'ye çıkarılması planlanıyor. Kursu bitirenlerin bir kısmı arıcılık işletmesi açmak için müdürlüğe resmî başvuru yapmaya başladı.",
+      "neYapmali": "Bolu'da kursa katılmak isteyenler e-Devlet üzerinden e-Yaygın sistemine girerek başvurabilir; işletme açmak için İl Tarım ve Orman Müdürlüğüne başvurmak gerekiyor.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/bolu-haberleri/boluda-aricilik-sektorune-yeni-ureticiler-kazandiriliyor-518030059"
+        }
+      ]
+    },
     {
       "id": "erzincan-cobanlik-destegi-2026-basvuru-5-ocak-2027",
       "kategori": "Destek",
@@ -3755,46 +3789,6 @@
       "gorselKucuk": "assets/iha/ordu-ariciya-22-bin-kutu-varroa-ilaci-k.jpg",
       "gorselKaynak": "Fotoğraf: İHA (temsili)",
       "manset": "Ordu'da arıcıya \"22 bin kutu\" ilaç"
-    },
-    {
-      "id": "bolu-20-elma-ureticisi-ekuy-sertifikasi",
-      "kategori": "Bitkisel Üretim",
-      "tarih": "2026-11-04",
-      "eklenme": "2026-11-05T00:30:51+03:00",
-      "motif": "elma",
-      "baslik": "Bolu'da 20 elma üreticisi kalıntısız çıkan numunelerle EKÜY sertifikası aldı",
-      "ozet": "Tarım ve Orman Bakanlığı Gıda ve Kontrol Genel Müdürlüğü, Bolu'da 20 elma üreticisine Entegre ve Kontrollü Ürün Yönetimi (EKÜY) sertifikası ile ürün bandrolü verdi. Üreticiler sezon boyunca izlendi, bu üreticilerden alınan numuneler analiz edildi. Bakanlık, sonuçlarda pestisit kalıntısı görülmediğini bildirdi. Uygulamanın amacı güvenilir gıda üretimini ve kontrollü tarımı yaygınlaştırmak olarak açıklandı.",
-      "neYapmali": "EKÜY kapsamına girmek isteyen üreticiler il veya ilçe tarım müdürlüğünden programın şartlarını ve takvimini sorabilir. Sezon boyunca ilaçlama kayıtlarını düzenli tutmak ve hasat öncesi bekleme sürelerine uymak analiz sonucu açısından önemlidir.",
-      "kaynaklar": [
-        {
-          "ad": "Aksaray Haber / İGFA",
-          "url": "https://aksarayhaber.net/haber/boluda-20-elma-ureticisi-sertifikalandi-106703"
-        }
-      ],
-      "gorsel": "assets/envato/bolu-20-elma-ureticisi-ekuy-sertifikasi.jpg",
-      "gorselKucuk": "assets/envato/bolu-20-elma-ureticisi-ekuy-sertifikasi-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf",
-      "manset": "Bolu'da 20 üreticiye \"EKÜY\" sertifikası"
-    },
-    {
-      "id": "mersin-gulnar-kucukbas-fidan-solar-kamera",
-      "kategori": "Destek",
-      "tarih": "2026-11-04",
-      "eklenme": "2026-11-04T23:31:18+03:00",
-      "motif": "para",
-      "baslik": "Mersin Büyükşehir, Gülnar'da üreticilere fidan, solar kamera ve küçükbaş desteği verdi",
-      "ozet": "Mersin Büyükşehir Belediyesi Tarımsal Hizmetler Dairesi, Gülnar'da tarımsal destek dağıtım töreni düzenledi. Törende üreticilere zeytin, badem, alıç ve ceviz fidanı ile solar kamera verildi; kurum küçükbaş hayvan desteği de sağlandığını duyurdu. Başkan Vekili Gülşah Yıldırım Genç, \"Hadi Gel Köyümüze Destek Verelim\" projesinde 60 yeni yetiştiriciye ulaşılmasının öngörüldüğünü, destek tutarının da yaklaşık 53 milyon lira olduğunu söyledi. Haberde dağıtılan fidan ve hayvan adedi ile yararlanan üretici sayısı yer almadı.",
-      "neYapmali": "Gülnar ve çevresindeki üreticiler yeni dağıtım ve başvuru koşullarını Mersin Büyükşehir Belediyesi Tarımsal Hizmetler Dairesi'nden öğrenebilir. Fidan alanlar dikim ve bakım takvimini ilçe tarım teknisyeniyle netleştirmeli.",
-      "kaynaklar": [
-        {
-          "ad": "Mersin Haber / İHA",
-          "url": "https://www.mersinhaber.com/haber-mersinde-ureticilere-kucukbas-hayvan-ve-fidan-destegi/835582"
-        }
-      ],
-      "gorsel": "assets/iha/mersin-gulnar-kucukbas-fidan-solar-kamera.jpg",
-      "gorselKucuk": "assets/iha/mersin-gulnar-kucukbas-fidan-solar-kamera-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA",
-      "manset": "Gülnar'a \"fidan ve solar kamera\""
     },
     {
       "id": "ciftci-destek-9-ay-115-5-milyar",
