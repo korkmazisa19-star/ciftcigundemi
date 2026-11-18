@@ -77,7 +77,10 @@
           "ad": "Tarım ve Orman Bakanlığı",
           "url": "https://www.tarimorman.gov.tr/Konular/Tarimsal-Destekler/Hayvancilik-Desteklemeleri/Suru-Yoneticisi-Istihdam-Destegi"
         }
-      ]
+      ],
+      "gorsel": "assets/envato/erzincan-cobanlik-destegi-2026-basvuru-5-ocak-2027.jpg",
+      "gorselKucuk": "assets/envato/erzincan-cobanlik-destegi-2026-basvuru-5-ocak-2027-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
     },
     {
       "id": "erzincan-seker-pancari-hasadi-gece-mesaisi-yagis-oncesi-2026",
@@ -94,7 +97,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/erzincan-haberleri/erzincanda-seker-pancari-hasadinda-gece-mesaisi-517928634"
         }
-      ]
+      ],
+      "gorsel": "assets/envato/erzincan-seker-pancari-hasadi-gece-mesaisi-yagis-oncesi-2026.jpg",
+      "gorselKucuk": "assets/envato/erzincan-seker-pancari-hasadi-gece-mesaisi-yagis-oncesi-2026-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
     },
     {
       "id": "hatay-samandag-mandalina-dalda-2-tl-sehirde-50-90-tl-2026",
@@ -4771,9 +4777,7 @@
         "kovan-4.jpg",
         "kovan-5.jpg"
       ],
-      "koyun": [
-        "koyun-8.jpg"
-      ],
+      "koyun": [],
       "para": [],
       "sera": [],
       "sut": [],
@@ -4813,7 +4817,6 @@
         "nar-3.jpg"
       ],
       "pancar": [
-        "pancar-4.jpg",
         "pancar-5.jpg",
         "pancar-6.jpg"
       ],
