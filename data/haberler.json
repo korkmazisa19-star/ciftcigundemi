@@ -90,7 +90,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/bolu-haberleri/boluda-aricilik-sektorune-yeni-ureticiler-kazandiriliyor-518030059"
         }
-      ]
+      ],
+      "gorsel": "assets/envato/bolu-aricilik-kurslari-200-kursiyer-hedef-250-2026.jpg",
+      "gorselKucuk": "assets/envato/bolu-aricilik-kurslari-200-kursiyer-hedef-250-2026-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
     },
     {
       "id": "erzincan-cobanlik-destegi-2026-basvuru-5-ocak-2027",
@@ -4773,7 +4776,6 @@
         "findik-7.jpg"
       ],
       "kovan": [
-        "kovan-1.jpg",
         "kovan-4.jpg",
         "kovan-5.jpg"
       ],
