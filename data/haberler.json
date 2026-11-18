@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-18T15:11:00+03:00",
+  "guncelleme": "2026-11-18T20:09:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,40 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "bursa-nilufer-411-ciftciye-30-ton-yulaf-tohumu-yuzde-70-hibe-2026",
+      "kategori": "Hibe",
+      "tarih": "2026-11-18",
+      "eklenme": "2026-11-18T20:09:00+03:00",
+      "motif": "tohum",
+      "baslik": "Nilüfer'de 411 çiftçiye yüzde 70 hibeli 30 ton yulaf tohumu dağıtıldı",
+      "manset": "411 çiftçiye \"30 ton\" yulaf tohumu",
+      "ozet": "Bursa'nın Nilüfer ilçesinde belediye, Nilüfer Tarımsal Kalkınma Kooperatifi (NİLKOOP) ve Bursa İli Hayvancılığı Geliştirme Birliği (HAGEL) ortak bir yem bitkileri projesi başlattı. Proje kapsamında 18 Kasım'da 411 üreticiye toplam 30 ton yulaf tohumu, bedelinin yüzde 70'i hibe edilerek teslim edildi. Dağıtımla yaklaşık 1.250 dekar arazinin yeniden ekilmesi amaçlanıyor. Paydaşlar, girdi maliyetlerini düşürmeyi, boş kalan tarlaları üretime döndürmeyi ve ilçedeki hayvancılığa kaba yem sağlamayı hedeflediklerini belirtti.",
+      "neYapmali": "Nilüfer'de yem bitkisi ekmek isteyen üreticiler sonraki dağıtımlar ve şartlar için NİLKOOP'a ya da Nilüfer Belediyesi kırsal hizmetler birimine başvurabilir; tohumu teslim alanlar ekimi uygun dönemde tamamlamalı.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/bursa-haberleri/niluferde-ureticiye-yulaf-tohumu-destegi-518155718"
+        }
+      ]
+    },
+    {
+      "id": "adana-kozan-tepecikoren-70-dekar-suni-mera-islah-2026",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-18",
+      "eklenme": "2026-11-18T20:08:00+03:00",
+      "motif": "koyun",
+      "baslik": "Kozan'da verimini yitiren 70 dekar mera yeniden ekildi, sırada 300 dekar var",
+      "manset": "Bozulan meraya \"70 dekar\" yeni ot",
+      "ozet": "Adana'nın Kozan ilçesine bağlı Tepecikören Mahallesi'nde mera niteliğini kaybetmiş yaklaşık 70 dekarlık alanda suni mera kuruldu ve ekim tamamlandı. Çalışma, Adana İl Tarım ve Orman Müdürlüğü'nün hazırladığı ve Bitkisel Üretim Genel Müdürlüğü'nün onayladığı Mera Islah ve Amenajman Projesi kapsamında yapılıyor. 2024'te başlayan proje 2028'e kadar sürecek. İlçe tarım müdürlüğü, yaklaşık 300 dekarlık başka bir mera alanında da ot verimini artırmak için gübreleme yapılacağını açıkladı.",
+      "neYapmali": "Kozan'daki yetiştiriciler, ıslah edilen meralarda otlatmaya ne zaman ve hangi kurallarla izin verileceğini Kozan İlçe Tarım ve Orman Müdürlüğü'nden öğrenmeli; yeni ekilen alanlara tesis süresince hayvan sokulmamalı.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/adana-haberleri/kozanda-70-dekarlik-mera-yeniden-uretime-kazandiriliyor-518127012"
+        }
+      ]
+    },
     {
       "id": "denizli-civril-pancar-rekoltesi-140-bin-ton-kantar-30-kasim-2026",
       "kategori": "Bitkisel Üretim",
@@ -3744,54 +3778,6 @@
       "gorselKucuk": "assets/envato/cerkezkoy-ziraat-odasi-bugday-ekim-tav-uyarisi-k.jpg",
       "gorselKaynak": "Temsili fotoğraf",
       "manset": "Buğdayda \"tavı bekleyin\" uyarısı"
-    },
-    {
-      "id": "erzincan-kemah-kutluova-ceviz-budama-egitimi",
-      "kategori": "Bitkisel Üretim",
-      "tarih": "2026-11-04",
-      "eklenme": "2026-11-05T03:47:00+03:00",
-      "motif": "tohum",
-      "baslik": "Erzincan Kemah'ta ceviz üreticilerine bahçede bakım ve budama eğitimi",
-      "ozet": "Kemah İlçe Tarım ve Orman Müdürlüğü, Kutluova köyünde ceviz yetiştiren çiftçilerle bir araya geldi. Bahçede yapılan toplantıda ceviz ağaçlarına doğru bakımın nasıl yapılacağı ve budamanın hangi yöntemlerle uygulanacağı anlatıldı. Verimi ve iç kalitesini artırmaya yönelik konuların ele alındığı eğitimde üreticilerin soruları da yanıtlandı. Müdürlük, köylerde benzer bilgilendirme toplantılarının süreceğini açıkladı.",
-      "neYapmali": "Ceviz üreticileri budamayı yaprak dökümünden sonra, ağaçların dinlenme döneminde planlamalı; kuru, hastalıklı ve iç içe geçmiş dalları öncelikle almalı. Bahçesine özel öneri isteyenler ilçe tarım ve orman müdürlüğünden teknik personel ziyareti talep edebilir.",
-      "kaynaklar": [
-        {
-          "ad": "Marmaris Yeni Sayfa (İHA)",
-          "url": "https://www.marmarisyenisayfa.com/haber/kemah-ta-ceviz-ureticilerine-bakim-ve-budama-egitimi-verildi-781245.html"
-        },
-        {
-          "ad": "Patnos Haber Gazetesi",
-          "url": "https://www.patnoshabergazetesi.com/erzincan-kemahta-ceviz-ureticilerine-bakim-ve-budama-egitimi-verildi/105075"
-        }
-      ],
-      "gorsel": "assets/iha/erzincan-kemah-kutluova-ceviz-budama-egitimi.jpg",
-      "gorselKucuk": "assets/iha/erzincan-kemah-kutluova-ceviz-budama-egitimi-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA",
-      "manset": "Kemah'ta \"ceviz budama\" eğitimi"
-    },
-    {
-      "id": "bingol-karliova-sakaoren-sagim-hijyeni-egitimi",
-      "kategori": "Hayvancılık",
-      "tarih": "2026-11-04",
-      "eklenme": "2026-11-05T02:48:00+03:00",
-      "motif": "sut",
-      "baslik": "Bingöl Karlıova'da süt üreticilerine sağım hijyeni ve sanitasyon eğitimi tamamlandı",
-      "ozet": "Bingöl İl Tarım ve Orman Müdürlüğü, Karlıova ilçesine bağlı Sakaören köyünde süt üreticileri için düzenlediği sağım hijyeni ve sanitasyon eğitimini bitirdi. 19 Ekim–3 Kasım arasında süren programda sağımdan önce ve sonra uyulması gereken temizlik kuralları, ahırın ve işletmenin temizliği, hayvan bakımı ve beslemesi anlatıldı. Sütün uygun koşullarda saklanması ve soğuk zincirin bozulmaması da eğitimin ana başlıkları arasındaydı. Müdürlük, güvenilir gıda ve kaliteli süt üretimi için benzer eğitimlerin süreceğini bildirdi.",
-      "neYapmali": "Süt üreticileri meme temizliği ve daldırma uygulamasını her sağımda sürdürmeli, sağılan sütü bekletmeden soğutmalı ve kapları her kullanımdan sonra temizlemeli. Eğitime katılmak isteyen üreticiler il ya da ilçe tarım ve orman müdürlüğünden yeni dönem tarihlerini öğrenebilir.",
-      "kaynaklar": [
-        {
-          "ad": "Habersitesi.com (İHA)",
-          "url": "https://www.habersitesi.com/bingol-de-sut-ureticilerine-sagim-hijyeni-ve-sanitasyon-egitimi-verildi-88271h.htm"
-        },
-        {
-          "ad": "Ajans Türk Haber",
-          "url": "https://ajansturkhaber.com/haber/bingolde-sut-ureticilerine-sagim-hijyeni-ve-sanitasyon-egitimi-verildi-427010"
-        }
-      ],
-      "gorsel": "assets/iha/bingol-karliova-sakaoren-sagim-hijyeni-egitimi.jpg",
-      "gorselKucuk": "assets/iha/bingol-karliova-sakaoren-sagim-hijyeni-egitimi-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA",
-      "manset": "Karlıova'da \"sağım hijyeni\" eğitimi"
     },
     {
       "id": "ciftci-destek-9-ay-115-5-milyar",
