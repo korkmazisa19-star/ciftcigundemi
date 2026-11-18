@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
-<url><loc>https://ciftcigundemi.com/</loc><lastmod>2026-11-18T08:09:00+03:00</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
+<url><loc>https://ciftcigundemi.com/</loc><lastmod>2026-11-18T12:09:00+03:00</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
 <url><loc>https://ciftcigundemi.com/hakkimizda/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
 <url><loc>https://ciftcigundemi.com/gizlilik-politikasi/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
 <url><loc>https://ciftcigundemi.com/kvkk-aydinlatma-metni/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
 <url><loc>https://ciftcigundemi.com/cerez-politikasi/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
 <url><loc>https://ciftcigundemi.com/iletisim/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
+<url><loc>https://ciftcigundemi.com/haber/aydin-yavru-atma-destegi-buyukbas-20-bin-kucukbas-4-bin-tl-2026/</loc><lastmod>2026-11-18T12:09:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-18T12:09:00+03:00</news:publication_date><news:title>Yavru atma desteği genişledi: Büyükbaşa 20 bin, küçükbaşa 4 bin lira</news:title></news:news></url>
+<url><loc>https://ciftcigundemi.com/haber/bolu-aricilik-kurslari-200-kursiyer-hedef-250-2026/</loc><lastmod>2026-11-18T12:08:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-18T12:08:00+03:00</news:publication_date><news:title>Bolu&#x27;da arıcılık kurslarına ilgi: 200 kişi eğitim aldı, yıl sonu hedefi 250</news:title></news:news></url>
 <url><loc>https://ciftcigundemi.com/haber/erzincan-cobanlik-destegi-2026-basvuru-5-ocak-2027/</loc><lastmod>2026-11-18T08:09:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-18T08:09:00+03:00</news:publication_date><news:title>Erzincan&#x27;da küçükbaş yetiştiricileri için 2026 çobanlık desteği başvuruları başladı</news:title></news:news></url>
 <url><loc>https://ciftcigundemi.com/haber/erzincan-seker-pancari-hasadi-gece-mesaisi-yagis-oncesi-2026/</loc><lastmod>2026-11-18T08:08:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-18T08:08:00+03:00</news:publication_date><news:title>Erzincan&#x27;da yağış uyarısı pancar hasadını geceye taşıdı</news:title></news:news></url>
 <url><loc>https://ciftcigundemi.com/haber/hatay-samandag-mandalina-dalda-2-tl-sehirde-50-90-tl-2026/</loc><lastmod>2026-11-17T23:10:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-17T23:10:00+03:00</news:publication_date><news:title>Hatay&#x27;da mandalina dalda 2 liraya düştü, büyükşehirde 50-90 liradan satılıyor</news:title></news:news></url>
@@ -182,8 +184,6 @@
 <url><loc>https://ciftcigundemi.com/haber/bingol-karliova-sakaoren-sagim-hijyeni-egitimi/</loc><lastmod>2026-11-05T02:48:00+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/marmarabirlik-zeytin-alimi-64-bin-ton-2026/</loc><lastmod>2026-11-05T01:31:55+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/ordu-ariciya-22-bin-kutu-varroa-ilaci/</loc><lastmod>2026-11-05T00:31:51+03:00</lastmod></url>
-<url><loc>https://ciftcigundemi.com/haber/bolu-20-elma-ureticisi-ekuy-sertifikasi/</loc><lastmod>2026-11-05T00:30:51+03:00</lastmod></url>
-<url><loc>https://ciftcigundemi.com/haber/mersin-gulnar-kucukbas-fidan-solar-kamera/</loc><lastmod>2026-11-04T23:31:18+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/ciftci-destek-9-ay-115-5-milyar/</loc><lastmod>2026-11-04T11:31:46+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/nigde-elma-yagis-kara-benek/</loc><lastmod>2026-11-04T09:17:00+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/yozgat-14-uretici-sera-destegi/</loc><lastmod>2026-11-04T09:16:00+03:00</lastmod></url>
