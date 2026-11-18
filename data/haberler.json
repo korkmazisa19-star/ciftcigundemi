@@ -74,9 +74,9 @@
           "url": "https://www.iha.com.tr/denizli-haberleri/civrilde-pancar-rekoltesi-140-bin-ton-olarak-bekleniyor-518062376"
         }
       ],
-      "gorsel": "assets/envato/denizli-civril-pancar-rekoltesi-140-bin-ton-kantar-30-kasim-2026.jpg",
-      "gorselKucuk": "assets/envato/denizli-civril-pancar-rekoltesi-140-bin-ton-kantar-30-kasim-2026-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorsel": "assets/iha/denizli-civril-pancar-rekoltesi-140-bin-ton-kantar-30-kasim-2026.jpg",
+      "gorselKucuk": "assets/iha/denizli-civril-pancar-rekoltesi-140-bin-ton-kantar-30-kasim-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "kocaeli-gebze-90-ciftciye-500-bin-kislik-sebze-fidesi-2026",
@@ -94,9 +94,9 @@
           "url": "https://www.iha.com.tr/kocaeli-haberleri/gebzede-ciftcilere-fide-destegi-518085350"
         }
       ],
-      "gorsel": "assets/envato/kocaeli-gebze-90-ciftciye-500-bin-kislik-sebze-fidesi-2026.jpg",
-      "gorselKucuk": "assets/envato/kocaeli-gebze-90-ciftciye-500-bin-kislik-sebze-fidesi-2026-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorsel": "assets/iha/kocaeli-gebze-90-ciftciye-500-bin-kislik-sebze-fidesi-2026.jpg",
+      "gorselKucuk": "assets/iha/kocaeli-gebze-90-ciftciye-500-bin-kislik-sebze-fidesi-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "aydin-yavru-atma-destegi-buyukbas-20-bin-kucukbas-4-bin-tl-2026",
@@ -4789,7 +4789,9 @@
       "para": [],
       "sera": [],
       "sut": [],
-      "tohum": [],
+      "tohum": [
+        "tohum-8.jpg"
+      ],
       "traktor": [
         "traktor-9.jpg"
       ],
@@ -4823,7 +4825,8 @@
         "nar-3.jpg"
       ],
       "pancar": [
-        "pancar-6.jpg"
+        "pancar-6.jpg",
+        "pancar-5.jpg"
       ],
       "kestane": [
         "kestane-2.jpg",
