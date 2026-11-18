@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-17T23:10:00+03:00",
+  "guncelleme": "2026-11-18T08:09:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,44 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "erzincan-cobanlik-destegi-2026-basvuru-5-ocak-2027",
+      "kategori": "Destek",
+      "tarih": "2026-11-18",
+      "eklenme": "2026-11-18T08:09:00+03:00",
+      "motif": "koyun",
+      "baslik": "Erzincan'da küçükbaş yetiştiricileri için 2026 çobanlık desteği başvuruları başladı",
+      "manset": "Çoban desteğinde son gün \"5 Ocak\"",
+      "ozet": "Erzincan'da 2026 yılı Küçükbaş Sürü Yöneticisi İstihdamı, yani çobanlık desteği için başvuru dönemi açıldı. Destekten yararlanmak isteyen koyun ve keçi yetiştiricileri, istenen belgeleri bir dosyada toplayıp bağlı oldukları İlçe Tarım ve Orman Müdürlüğüne teslim edecek. Son teslim tarihi 5 Ocak 2027 olarak duyuruldu. Yetkililer, evrakın eksiksiz ve süresi içinde verilmesi gerektiğini hatırlattı.",
+      "neYapmali": "Sürünüzde çoban çalıştırıyorsanız, istenen belge listesini ilçe tarım müdürlüğünden öğrenip dosyanızı 5 Ocak 2027'den önce teslim edin; son günlere bırakmayın.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/erzincan-haberleri/kucukbas-hayvan-yetistiricilerine-cobanlik-destegi-basvuru-duyurusu-517926541"
+        },
+        {
+          "ad": "Tarım ve Orman Bakanlığı",
+          "url": "https://www.tarimorman.gov.tr/Konular/Tarimsal-Destekler/Hayvancilik-Desteklemeleri/Suru-Yoneticisi-Istihdam-Destegi"
+        }
+      ]
+    },
+    {
+      "id": "erzincan-seker-pancari-hasadi-gece-mesaisi-yagis-oncesi-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-18",
+      "eklenme": "2026-11-18T08:08:00+03:00",
+      "motif": "pancar",
+      "baslik": "Erzincan'da yağış uyarısı pancar hasadını geceye taşıdı",
+      "manset": "Pancar hasadı \"gece\" de sürüyor",
+      "ozet": "Erzincan'da mart ayında ekilen şeker pancarlarının sökümü sürerken, meteorolojinin yağış uyarısı üzerine çiftçiler mesaiyi gece saatlerine uzattı. Yaklaşık 180 günlük yetişme dönemini tamamlayan pancarlar, traktör ve kamyonlarla Erzincan Şeker Fabrikası'na taşınıyor. Çayırlı ilçesinde üreticiler, yağmur gelmeden ürünü tarladan kaldırmak için hasadı hızlandırdı. Fabrikaya ulaşan pancarlar analizden geçirildikten sonra işlenerek şekere dönüştürülüyor.",
+      "neYapmali": "Hasadı süren üreticiler, yağış öncesi sökülen pancarı tarlada uzun süre bekletmeden fabrika teslim programına göre sevk etmeli; gece çalışmasında traktör ve römork aydınlatmasını kontrol etmeli.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/erzincan-haberleri/erzincanda-seker-pancari-hasadinda-gece-mesaisi-517928634"
+        }
+      ]
+    },
     {
       "id": "hatay-samandag-mandalina-dalda-2-tl-sehirde-50-90-tl-2026",
       "kategori": "Piyasa",
@@ -3753,46 +3791,6 @@
       "manset": "Gülnar'a \"fidan ve solar kamera\""
     },
     {
-      "id": "bursa-orhangazi-yaglik-zeytin-25-30-tl",
-      "kategori": "Piyasa",
-      "tarih": "2026-11-03",
-      "eklenme": "2026-11-04T22:30:47+03:00",
-      "motif": "zeytin",
-      "baslik": "Bursa'da yağlık zeytinde fiyat endişesi: Orhangazi'de bazı alım noktaları kilosuna 25-30 lira veriyor",
-      "ozet": "Orhangazi, Gemlik ve İznik'te bu yıl yüksek rekolte beklenirken üreticiyi yağlık zeytin fiyatı kaygılandırıyor. Orhangazi'deki bazı özel alım noktalarında kilogram fiyatının 25-30 lira olduğu aktarılıyor; bu resmî bir alım fiyatı değil. Geçen sezon Marmarabirlik yağlık zeytin için kilosuna 53 lira açıklamıştı, Gemlik Ziraat Odası ise 2026 maliyetini kilogramda 58,14 lira olarak hesapladı. Sofralık standardını tutturamayan ürünün yağlığa yönelmesinin arzı artırıp fiyatı aşağı çekebileceği belirtiliyor. Üreticiler şimdi Marmarabirlik'in 2026-2027 alım fiyatlarını bekliyor.",
-      "neYapmali": "Satış öncesinde birkaç alım noktasından fiyat alın ve kendi kilogram maliyetinizle karşılaştırın. Marmarabirlik ortağıysanız alım kampanyası duyurusunu kooperatifinizden takip edin.",
-      "kaynaklar": [
-        {
-          "ad": "Bursada Bugün",
-          "url": "https://www.bursadabugun.com/haber/bursa-da-zeytin-ureticisini-fiyat-endisesi-sardi-yuksek-rekolte-sevindirirken-yaglik-zeytin-fiyatlari-korkutuyor-1960783.html"
-        }
-      ],
-      "gorsel": "assets/iha/bursa-orhangazi-yaglik-zeytin-25-30-tl.jpg",
-      "gorselKucuk": "assets/iha/bursa-orhangazi-yaglik-zeytin-25-30-tl-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA (temsili)",
-      "manset": "Yağlık zeytin \"25-30 liraya\" düştü"
-    },
-    {
-      "id": "usak-ulubey-omurca-corek-otu-23-uretici",
-      "kategori": "Bitkisel Üretim",
-      "tarih": "2026-11-04",
-      "eklenme": "2026-11-04T21:32:11+03:00",
-      "motif": "tohum",
-      "baslik": "Uşak Ulubey'de 23 üreticiye çörek otu tohumu ve gübre desteği",
-      "ozet": "Uşak'ın Ulubey ilçesine bağlı Omurca köyünde 23 üretici, 550 kilogram çörek otu tohumu ile 9 bin 200 kilogram organomineral gübre aldı. Dağıtım, İl Tarım ve Orman Müdürlüğü'nün yürüttüğü Çörek Otunda İyi Tarım Uygulamalarının Yaygınlaştırılması Projesi kapsamında yapıldı. Verilen girdiler 350 dekarlık alanda kullanılacak; köyde 2026'da toplam 700 dekarda çörek otu üretimi yapıldığı belirtildi. Törene Ulubey Kaymakam Vekili Neyfel Ören ile İl Müdürü Serkan Bilir de katıldı. Projeyle maliyetlerin düşürülmesi ve ihracata uygun, izlenebilir üretimin güçlendirilmesi amaçlanıyor.",
-      "neYapmali": "Bölgede çörek otu üretmek isteyen çiftçiler, benzer destekler için Ulubey İlçe Tarım ve Orman Müdürlüğü'nden bilgi alabilir. İhracatı hedefleyen üreticilerin iyi tarım kayıtlarını düzenli tutması önem taşıyor.",
-      "kaynaklar": [
-        {
-          "ad": "Yeşil Sivaslı Gazetesi",
-          "url": "https://www.yesilsivasligazetesi.com/usakta-23-ureticiye-corek-otu-destegi"
-        }
-      ],
-      "gorsel": "assets/envato/usak-ulubey-omurca-corek-otu-23-uretici.jpg",
-      "gorselKucuk": "assets/envato/usak-ulubey-omurca-corek-otu-23-uretici-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf",
-      "manset": "Ulubey'de \"çörek otu\" desteği"
-    },
-    {
       "id": "ciftci-destek-9-ay-115-5-milyar",
       "kategori": "Destek",
       "tarih": "2026-11-04",
@@ -4353,6 +4351,12 @@
       "baslik": "TMO kabuklu fındık alımı (ürün arzı sürdükçe)",
       "kapsam": "TMO alım noktaları",
       "haber": "tmo-findik-cks-tuccar-manav-2-yil-alim-yasagi"
+    },
+    {
+      "tarih": "2027-01-05",
+      "baslik": "Çobanlık (sürü yöneticisi) desteği başvurusu son gün",
+      "kapsam": "Erzincan",
+      "haber": "erzincan-cobanlik-destegi-2026-basvuru-5-ocak-2027"
     },
     {
       "tarih": "2027-04-30",
