@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
-<url><loc>https://ciftcigundemi.com/</loc><lastmod>2026-11-18T15:11:00+03:00</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
+<url><loc>https://ciftcigundemi.com/</loc><lastmod>2026-11-18T20:09:00+03:00</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
 <url><loc>https://ciftcigundemi.com/hakkimizda/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
 <url><loc>https://ciftcigundemi.com/gizlilik-politikasi/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
 <url><loc>https://ciftcigundemi.com/kvkk-aydinlatma-metni/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
 <url><loc>https://ciftcigundemi.com/cerez-politikasi/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
 <url><loc>https://ciftcigundemi.com/iletisim/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
+<url><loc>https://ciftcigundemi.com/haber/bursa-nilufer-411-ciftciye-30-ton-yulaf-tohumu-yuzde-70-hibe-2026/</loc><lastmod>2026-11-18T20:09:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-18T20:09:00+03:00</news:publication_date><news:title>Nilüfer&#x27;de 411 çiftçiye yüzde 70 hibeli 30 ton yulaf tohumu dağıtıldı</news:title></news:news></url>
+<url><loc>https://ciftcigundemi.com/haber/adana-kozan-tepecikoren-70-dekar-suni-mera-islah-2026/</loc><lastmod>2026-11-18T20:08:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-18T20:08:00+03:00</news:publication_date><news:title>Kozan&#x27;da verimini yitiren 70 dekar mera yeniden ekildi, sırada 300 dekar var</news:title></news:news></url>
 <url><loc>https://ciftcigundemi.com/haber/denizli-civril-pancar-rekoltesi-140-bin-ton-kantar-30-kasim-2026/</loc><lastmod>2026-11-18T15:11:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-18T15:11:00+03:00</news:publication_date><news:title>Çivril&#x27;de 140 bin ton pancar bekleniyor, ekim alanı meyveciliğe kayıyor</news:title></news:news></url>
 <url><loc>https://ciftcigundemi.com/haber/kocaeli-gebze-90-ciftciye-500-bin-kislik-sebze-fidesi-2026/</loc><lastmod>2026-11-18T15:10:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-18T15:10:00+03:00</news:publication_date><news:title>Gebze&#x27;de 90 çiftçiye 500 bin kışlık sebze fidesi dağıtıldı</news:title></news:news></url>
 <url><loc>https://ciftcigundemi.com/haber/aydin-yavru-atma-destegi-buyukbas-20-bin-kucukbas-4-bin-tl-2026/</loc><lastmod>2026-11-18T12:09:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-18T12:09:00+03:00</news:publication_date><news:title>Yavru atma desteği genişledi: Büyükbaşa 20 bin, küçükbaşa 4 bin lira</news:title></news:news></url>
@@ -182,8 +184,6 @@
 <url><loc>https://ciftcigundemi.com/haber/aycicegi-gumruk-yuzde-12-komisyonda-aygun-tepki/</loc><lastmod>2026-11-05T05:31:54+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/diyarbakir-ziraat-odasi-tarsim-pamuk-magdur/</loc><lastmod>2026-11-05T04:32:21+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/cerkezkoy-ziraat-odasi-bugday-ekim-tav-uyarisi/</loc><lastmod>2026-11-05T04:31:21+03:00</lastmod></url>
-<url><loc>https://ciftcigundemi.com/haber/erzincan-kemah-kutluova-ceviz-budama-egitimi/</loc><lastmod>2026-11-05T03:47:00+03:00</lastmod></url>
-<url><loc>https://ciftcigundemi.com/haber/bingol-karliova-sakaoren-sagim-hijyeni-egitimi/</loc><lastmod>2026-11-05T02:48:00+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/ciftci-destek-9-ay-115-5-milyar/</loc><lastmod>2026-11-04T11:31:46+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/nigde-elma-yagis-kara-benek/</loc><lastmod>2026-11-04T09:17:00+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/yozgat-14-uretici-sera-destegi/</loc><lastmod>2026-11-04T09:16:00+03:00</lastmod></url>
