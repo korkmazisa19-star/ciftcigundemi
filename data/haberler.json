@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-18T20:09:00+03:00",
+  "guncelleme": "2026-11-18T23:09:38+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,43 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "amasya-17-etap-68-proje-161-milyon-tl-hibe-sozlesmesi-2026",
+      "kategori": "Hibe",
+      "tarih": "2026-11-18",
+      "eklenme": "2026-11-18T23:10:00+03:00",
+      "motif": "para",
+      "baslik": "Amasya'da 68 kırsal kalkınma projesine 161 milyon liralık hibe sözleşmesi imzalandı",
+      "manset": "Besi tesislerine \"113,4 milyon\" hibe",
+      "ozet": "Amasya İl Tarım ve Orman Müdürlüğü, Kırsal Kalkınma Yatırımlarının Desteklenmesi Programı'nın 17. etabında hak kazanan üreticilerle 18 Kasım'da sözleşme imzaladı. Toplam 68 projenin 7'si büyükbaş besi tesisi, 61'i makine ve ekipman yatırımı. Besi tesislerine 113,4 milyon lira, makine-ekipman projelerine 47,7 milyon lira hibe verilecek. Müdürlük, desteklerle akıllı tarım uygulamalarını yaygınlaştırmayı ve kırsaldaki ekonomik altyapıyı güçlendirmeyi hedeflediğini açıkladı.",
+      "neYapmali": "Sözleşme imzalayan üreticiler yatırım takvimine ve hibe ödemesi için istenen fatura ile belgelere uymalı; sonraki etaplara başvurmak isteyenler çağrı duyuruları için Amasya İl Tarım ve Orman Müdürlüğü'nü takip edebilir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/amasya-haberleri/amasyada-68-proje-icin-hibe-sozlesmesi-imzalandi-518225367"
+        }
+      ]
+    },
+    {
+      "id": "osmaniye-kadirli-kkydp-otomatik-dumenleme-sistemi-traktor-2026",
+      "kategori": "Makine",
+      "tarih": "2026-11-18",
+      "eklenme": "2026-11-18T23:09:00+03:00",
+      "motif": "traktor",
+      "baslik": "Osmaniye'de hibeyle alınan otomatik dümenleme sistemi traktörde denendi",
+      "manset": "Traktör artık \"kendi\" gidiyor!",
+      "ozet": "Osmaniye İl Tarım ve Orman Müdürlüğü ekipleri, 17. etap Kırsal Kalkınma Yatırımlarının Desteklenmesi Programı'ndan destek alan Kadirli'nin Harkaştığı köyündeki bir çiftçiyi ziyaret etti. Ekip, traktöre takılan ve GNSS/GPS ile RTK teknolojisiyle çalışan otomatik dümenleme sistemini yerinde inceledi. Müdürlüğe göre sistem ekim, ilaçlama ve gübrelemede üst üste geçişleri azaltarak yakıt ve girdi tasarrufu sağlıyor. 250-300 dönüm arazi işleyen çiftçi Celil Güngören, başvuruyu sosyal medyadaki duyurudan öğrendiğini ve ilk denemeden memnun kaldığını anlattı.",
+      "neYapmali": "Hassas tarım ekipmanına hibe almak isteyen çiftçiler yeni etap çağrıları için il tarım ve orman müdürlüğünün kırsal kalkınma birimini takip etmeli; başvurudan önce cihazın traktörle uyumunu ve servis desteğini sormalı.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/osmaniye-haberleri/osmaniyede-ciftciye-otomatik-dumenleme-sistemi-destegi-518114824"
+        }
+      ],
+      "gorsel": "assets/envato/osmaniye-kadirli-kkydp-otomatik-dumenleme-sistemi-traktor-2026.jpg",
+      "gorselKucuk": "assets/envato/osmaniye-kadirli-kkydp-otomatik-dumenleme-sistemi-traktor-2026-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
     {
       "id": "bursa-nilufer-411-ciftciye-30-ton-yulaf-tohumu-yuzde-70-hibe-2026",
       "kategori": "Hibe",
@@ -3736,50 +3773,6 @@
       "manset": "Ayçiçeğinde \"yüzde 12\" gümrük tartışması"
     },
     {
-      "id": "diyarbakir-ziraat-odasi-tarsim-pamuk-magdur",
-      "kategori": "Bitkisel Üretim",
-      "tarih": "2026-11-04",
-      "eklenme": "2026-11-05T04:32:21+03:00",
-      "motif": "pamuk",
-      "baslik": "Diyarbakır Ziraat Odası Başkanı Delil: Yağışın vurduğu pamukta TARSİM üreticinin zararını karşılamıyor",
-      "ozet": "Diyarbakır Ziraat Odası Başkanı Mehmet Cevat Delil, 4 Kasım'da sosyal medya hesabından yaptığı açıklamada bu yıl erken başlayan yağışların pamuk ve mısır üreticilerine zarar verdiğini söyledi. Delil'e göre yağış nedeniyle pamuğun bir bölümü tarlada kaldı, mısır hasadı da yapılamadı. Oda başkanı, Tarım Sigortaları Havuzu'nun (TARSİM) pamuktaki bu zararı karşılamadığını savunarak üreticiye destek çağrısı yaptı. Açıklamada zarar gören alan ya da tutar paylaşılmadı; haberde TARSİM'in bir yanıtı da yer almıyor.",
-      "neYapmali": "Pamuk üreticileri poliçelerinde hangi risklerin teminat altında olduğunu sigorta acentesinden öğrenmeli, zararlarını ilçe tarım müdürlüğüne ve ziraat odasına bildirmeli.",
-      "kaynaklar": [
-        {
-          "ad": "Amida Haber",
-          "url": "https://amidahaber.com/diyarbakir/diyarbakir-ziraat-odasi-baskani-tarsim-pamuk-ciftcisini-magdur-ediyor-239976h"
-        }
-      ],
-      "gorsel": "assets/envato/diyarbakir-ziraat-odasi-tarsim-pamuk-magdur.jpg",
-      "gorselKucuk": "assets/envato/diyarbakir-ziraat-odasi-tarsim-pamuk-magdur-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf",
-      "manset": "Pamukta \"TARSİM\" zararı karşılamıyor"
-    },
-    {
-      "id": "cerkezkoy-ziraat-odasi-bugday-ekim-tav-uyarisi",
-      "kategori": "Bitkisel Üretim",
-      "tarih": "2026-11-04",
-      "eklenme": "2026-11-05T04:31:21+03:00",
-      "motif": "bugday",
-      "baslik": "Çerkezköy Ziraat Odası'ndan buğday üreticisine: Yağış sonrası ekimde acele etmeyin, toprağın tavını bekleyin",
-      "ozet": "Çerkezköy Ziraat Odası Başkanı Mehmet Ali Çolakoğlu, Çerkezköy ve Kapaklı'da son günlerde düşen yağışların buğday ekimine hazırlanan çiftçi için sevindirici olduğunu söyledi. Çolakoğlu, 4 Kasım'da yansıyan açıklamasında üreticilerden yağıştan sonra tarlalarını değerlendirip uygun nemi beklemelerini istedi. Çok ıslak ve çamurlu toprağı yanlış zamanda işlemenin toprak yapısını bozabileceğini ve ekimi zorlaştırabileceğini belirtti. Oda başkanı, mazot, gübre ve tohum gibi girdilerdeki yüksek maliyetlere de dikkat çekti.",
-      "neYapmali": "Trakya'daki üreticiler ekimden önce tarlanın nem durumunu kontrol etmeli; ekim zamanı için ziraat odasından ya da ilçe tarım müdürlüğünden görüş alabilir.",
-      "kaynaklar": [
-        {
-          "ad": "Çerkezköy Bakış",
-          "url": "https://cerkezkoybakis.com/colakoglundan-ciftcilere-bugday-ekimi-uyarisi-topragin-tavini-iyi-degerlendirin"
-        },
-        {
-          "ad": "Kapaklı Gazetesi",
-          "url": "https://www.kapakligazetesi.com.tr/cerkezkoy-ve-kapaklida-ciftcilere-kritik-uyari-ekim-icin-acele-etmeyin"
-        }
-      ],
-      "gorsel": "assets/envato/cerkezkoy-ziraat-odasi-bugday-ekim-tav-uyarisi.jpg",
-      "gorselKucuk": "assets/envato/cerkezkoy-ziraat-odasi-bugday-ekim-tav-uyarisi-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf",
-      "manset": "Buğdayda \"tavı bekleyin\" uyarısı"
-    },
-    {
       "id": "ciftci-destek-9-ay-115-5-milyar",
       "kategori": "Destek",
       "tarih": "2026-11-04",
@@ -4778,9 +4771,7 @@
       "tohum": [
         "tohum-8.jpg"
       ],
-      "traktor": [
-        "traktor-9.jpg"
-      ],
+      "traktor": [],
       "zeytin": [],
       "ayva": [
         "ayva-2.jpg",
