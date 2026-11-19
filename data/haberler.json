@@ -399,9 +399,9 @@
           "url": "https://www.tarimorman.gov.tr/Konular/Tarimsal-Destekler/Hayvancilik-Desteklemeleri/Suru-Yoneticisi-Istihdam-Destegi"
         }
       ],
-      "gorsel": "assets/envato/erzincan-cobanlik-destegi-2026-basvuru-5-ocak-2027.jpg",
-      "gorselKucuk": "assets/envato/erzincan-cobanlik-destegi-2026-basvuru-5-ocak-2027-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorsel": "assets/iha/erzincan-cobanlik-destegi-2026-basvuru-5-ocak-2027.jpg",
+      "gorselKucuk": "assets/iha/erzincan-cobanlik-destegi-2026-basvuru-5-ocak-2027-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "erzincan-seker-pancari-hasadi-gece-mesaisi-yagis-oncesi-2026",
@@ -519,9 +519,9 @@
           "url": "https://www.iha.com.tr/mardin-haberleri/mardinde-misir-hasadi-ciftcilerin-yuzunu-guldurdu-516012663"
         }
       ],
-      "gorsel": "assets/envato/mardin-mazidagi-misir-hasadi-verim-iyi-nem-kesintisi-2026.jpg",
-      "gorselKucuk": "assets/envato/mardin-mazidagi-misir-hasadi-verim-iyi-nem-kesintisi-2026-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorsel": "assets/iha/mardin-mazidagi-misir-hasadi-verim-iyi-nem-kesintisi-2026.jpg",
+      "gorselKucuk": "assets/iha/mardin-mazidagi-misir-hasadi-verim-iyi-nem-kesintisi-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "kirikkale-keskin-bir-donum-safran-hasadi-2026",
@@ -538,7 +538,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/kirikkale-haberleri/bu-tarlada-cicekler-altin-degerinde-516067597"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/kirikkale-keskin-bir-donum-safran-hasadi-2026.jpg",
+      "gorselKucuk": "assets/iha/kirikkale-keskin-bir-donum-safran-hasadi-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "kars-arpacay-ahir-yangini-18-buyukbas-telef-2026",
