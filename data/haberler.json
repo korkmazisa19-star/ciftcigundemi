@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-19T20:13:00+03:00",
+  "guncelleme": "2026-11-19T23:11:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,40 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "gaziantep-sahinbey-ciftciye-20628-ton-tohum-destegi-2026",
+      "kategori": "Destek",
+      "tarih": "2026-11-19",
+      "eklenme": "2026-11-19T23:11:00+03:00",
+      "motif": "bugday",
+      "baslik": "Şahinbey Belediyesi'nin çiftçiye verdiği tohum desteği 20 bin 628 tona ulaştı",
+      "manset": "Tarlaya \"20 bin 628 ton\" tohum",
+      "ozet": "Gaziantep'te Şahinbey Belediyesi, ilçedeki çiftçilere bugüne kadar toplam 20 bin 628 ton tohum desteği sağladığını açıkladı. Belediye, son olarak dağıttığı buğday ve arpa tohumu ile gübrenin bir kısmını Sırasöğüt köyünde üreticilerle birlikte ekti. Destek kapsamında tohumun yanı sıra gübre, hayvan yemi, zeytin ve fıstık fidanı, büyükbaş ve küçükbaş hayvan, mercimek, yonca ve İtalyan çimi dağıtıldığı belirtildi. Belediye Başkanı Mehmet Tahmazoğlu, amacın ekilmeyen tarlaların yeniden üretime kazandırılması olduğunu söyledi.",
+      "neYapmali": "Şahinbey'deki üreticiler, tohum, gübre ve fidan dağıtımlarının yeni dönemleri ile başvuru şartlarını belediyenin kırsal hizmetler birimine ya da muhtarlıklara sorabilir; ekim öncesi tohumun bölgeye uygun çeşit olduğunu kontrol etmekte yarar var.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/gaziantep-haberleri/tahmazoglu-dagittigi-tohumlari-ciftcilerle-ekti-518644135"
+        }
+      ]
+    },
+    {
+      "id": "adiyaman-celikhan-ciftcilere-macar-figi-tohumu-yuzde-75-destek-2026",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-19",
+      "eklenme": "2026-11-19T23:10:00+03:00",
+      "motif": "tohum",
+      "baslik": "Çelikhan'da kaba yem açığı için çiftçilere Macar fiği tohumu dağıtıldı",
+      "manset": "Fiğ tohumuna \"yüzde 75\" destek",
+      "ozet": "Adıyaman İl Tarım ve Orman Müdürlüğü'nün hazırladığı 'Fiğ Ekimi ile Çelikhan'da Hayvancılığa Teşvik Projesi' kapsamında ilçedeki çiftçilere Macar fiği tohumu verildi. Tohumlar 18 Kasım'da ilçe merkezi ile köylerdeki üreticilere teslim edildi. Projenin maliyetinin yüzde 75'ini Adıyaman İl Özel İdaresi üstlenirken kalan yüzde 25 çiftçilerin katkı payıyla karşılandı. İl Tarım ve Orman Müdürü Abdulkadir Akkan, hedefin yem bitkisi ekimini yaygınlaştırarak işletmelerin kaba yem ihtiyacını kendi tarlasından karşılaması olduğunu söyledi.",
+      "neYapmali": "Tohumu alan üreticiler ekim zamanı, ekim sıklığı ve gübreleme için ilçe tarım ve orman müdürlüğünün teknik önerilerine uymalı; benzer projelere katılmak isteyenler de katkı payı şartlarını müdürlükten öğrenebilir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/adiyaman-haberleri/celikhanda-ciftcilere-macar-figi-tohumu-destegi-518618690"
+        }
+      ]
+    },
     {
       "id": "manisa-buyuksehir-5-bin-ureticiye-13-milyon-metre-damla-sulama-borusu-2026",
       "kategori": "Destek",
@@ -3711,46 +3745,6 @@
       "gorselKucuk": "assets/envato/zeytin-hasat-maliyeti-karacasu-bandirma-tbmm-k.jpg",
       "gorselKaynak": "Temsili fotoğraf",
       "manset": "Zeytinde \"hasat maliyeti\" tepkisi"
-    },
-    {
-      "id": "samsun-carsamba-130-uretici-marul-fidesi",
-      "kategori": "Hibe",
-      "tarih": "2026-11-05",
-      "eklenme": "2026-11-05T13:31:44+03:00",
-      "motif": "sera",
-      "baslik": "Çarşamba'da selden etkilenen 130 örtü altı üreticisine 1,4 milyon marul fidesi hibe edilecek",
-      "ozet": "Samsun Büyükşehir Belediyesi ile İl Tarım ve Orman Müdürlüğü, ağustostaki sellerden zarar gören Çarşamba üreticileri için \"Marul Fidesi Projesi\"ni hayata geçirdi. Proje kapsamında 36 mahalleden 130 örtü altı üreticisine 1 milyon 400 bin marul fidesi ile 9 ton 15-15-15 kompoze gübre hibe edilecek. Ağustos 2026'daki aşırı yağışlar nedeniyle ilçede iki kez sel ve su baskını yaşanmış, 47 mahallede toplam 1.179 çiftçi etkilenmişti. Çarşamba Öğretmenevi'ndeki programda DSİ'nin öngördüğü 6 denize çıkış yapısından 4'ünün tamamlandığı, kalan 2 yapının 2027 programına alındığı aktarıldı.",
-      "neYapmali": "Projeden yararlanacak üreticiler teslim gün ve yerini Çarşamba İlçe Tarım ve Orman Müdürlüğü'nden öğrenebilir. Fideyi dikmeden önce sera zemininin drenajını ve su tahliyesini kontrol etmek, yeni bir yağışta kayıp riskini azaltır.",
-      "kaynaklar": [
-        {
-          "ad": "Haber Sitesi",
-          "url": "https://www.habersitesi.com/carsamba-da-selden-zarar-goren-ureticilere-marul-fidesi-ve-gubre-destegi-88705h.htm"
-        }
-      ],
-      "gorsel": "assets/envato/samsun-carsamba-130-uretici-marul-fidesi.jpg",
-      "gorselKucuk": "assets/envato/samsun-carsamba-130-uretici-marul-fidesi-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf",
-      "manset": "Çarşamba'ya \"1,4 milyon\" marul fidesi"
-    },
-    {
-      "id": "sanliurfa-suruc-pinarbasi-300-dekar-su-baskini",
-      "kategori": "Zirai Don",
-      "tarih": "2026-11-05",
-      "eklenme": "2026-11-05T13:30:44+03:00",
-      "motif": "misir",
-      "baslik": "Şanlıurfa Suruç'ta tıkanan menfezler 300 dekar tarlayı su altında bıraktı: Mısır biçilemiyor",
-      "ozet": "Şanlıurfa'nın kuzey ve doğusundaki kuvvetli yağışın sürüklediği çalı ve dallar menfezleri tıkayınca drenaj kanalları taştı. Suruç'un kuzeyindeki kırsal Pınarbaşı Mahallesi'nde yaklaşık 300 dekar mısır, pamuk ve sebze tarlası su altında kaldı; ürünler çürümeye başladı. Yaklaşık bir haftadır yağış almayan bölgeye suyun yukarıdaki köylerden geldiğini anlatan çiftçi Halil Ada, biçerdöverin tarlaya giremediğini söyleyerek yetkililerden köprü ve menfezlerin açılmasını istedi. Haberde resmî kurumların bir açıklamasına yer verilmedi.",
-      "neYapmali": "Zarar gören üreticiler durumu tarla ve parsel bilgileriyle ilçe tarım müdürlüğüne bildirmeli, poliçesi olanlar TARSİM'e hasar ihbarında bulunmalı. Tıkalı menfez ve kanallar için ilgili kuruma yazılı başvuru yapılması ve hasarın fotoğraflanması yararlı olur.",
-      "kaynaklar": [
-        {
-          "ad": "Haber Sitesi",
-          "url": "https://www.habersitesi.com/sanliurfa-da-tarim-arazileri-su-altinda-kaldi-88700h.htm"
-        }
-      ],
-      "gorsel": "assets/envato/sanliurfa-suruc-pinarbasi-300-dekar-su-baskini.jpg",
-      "gorselKucuk": "assets/envato/sanliurfa-suruc-pinarbasi-300-dekar-su-baskini-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf",
-      "manset": "Suruç'ta \"300 dekar\" su altında"
     },
     {
       "id": "ciftci-destek-9-ay-115-5-milyar",
