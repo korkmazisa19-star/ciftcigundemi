@@ -74,9 +74,10 @@
           "url": "https://www.iha.com.tr/balikesir-haberleri/marmara-adasi-aciklarinda-musilaj-alarmi-balikcilarin-aglari-doldu-518080150"
         }
       ],
-      "gorsel": "assets/envato/marmara-adasi-musilaj-balikci-aglari-doldu-2026.jpg",
-      "gorselKucuk": "assets/envato/marmara-adasi-musilaj-balikci-aglari-doldu-2026-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorsel": "assets/iha/marmara-adasi-musilaj-balikci-aglari-doldu-2026.jpg",
+      "gorselKucuk": "assets/iha/marmara-adasi-musilaj-balikci-aglari-doldu-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf/Video: İHA",
+      "video": "assets/video/marmara-adasi-musilaj-balikci-aglari-doldu-2026.mp4"
     },
     {
       "id": "samsun-kivi-5877-dekar-hasat-zamani-uyarisi-2026",
@@ -93,7 +94,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/samsun-haberleri/turkiyenin-kivi-uretiminde-samsun-imzasi-hasatta-dogru-zaman-uyarisi-518087960"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/samsun-kivi-5877-dekar-hasat-zamani-uyarisi-2026.jpg",
+      "gorselKucuk": "assets/iha/samsun-kivi-5877-dekar-hasat-zamani-uyarisi-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "amasya-17-etap-68-proje-161-milyon-tl-hibe-sozlesmesi-2026",
@@ -110,7 +114,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/amasya-haberleri/amasyada-68-proje-icin-hibe-sozlesmesi-imzalandi-518225367"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/amasya-17-etap-68-proje-161-milyon-tl-hibe-sozlesmesi-2026.jpg",
+      "gorselKucuk": "assets/iha/amasya-17-etap-68-proje-161-milyon-tl-hibe-sozlesmesi-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "osmaniye-kadirli-kkydp-otomatik-dumenleme-sistemi-traktor-2026",
@@ -128,9 +135,9 @@
           "url": "https://www.iha.com.tr/osmaniye-haberleri/osmaniyede-ciftciye-otomatik-dumenleme-sistemi-destegi-518114824"
         }
       ],
-      "gorsel": "assets/envato/osmaniye-kadirli-kkydp-otomatik-dumenleme-sistemi-traktor-2026.jpg",
-      "gorselKucuk": "assets/envato/osmaniye-kadirli-kkydp-otomatik-dumenleme-sistemi-traktor-2026-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorsel": "assets/iha/osmaniye-kadirli-kkydp-otomatik-dumenleme-sistemi-traktor-2026.jpg",
+      "gorselKucuk": "assets/iha/osmaniye-kadirli-kkydp-otomatik-dumenleme-sistemi-traktor-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "bursa-nilufer-411-ciftciye-30-ton-yulaf-tohumu-yuzde-70-hibe-2026",
@@ -147,7 +154,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/bursa-haberleri/niluferde-ureticiye-yulaf-tohumu-destegi-518155718"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/bursa-nilufer-411-ciftciye-30-ton-yulaf-tohumu-yuzde-70-hibe-2026.jpg",
+      "gorselKucuk": "assets/iha/bursa-nilufer-411-ciftciye-30-ton-yulaf-tohumu-yuzde-70-hibe-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "adana-kozan-tepecikoren-70-dekar-suni-mera-islah-2026",
@@ -164,7 +174,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/adana-haberleri/kozanda-70-dekarlik-mera-yeniden-uretime-kazandiriliyor-518127012"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/adana-kozan-tepecikoren-70-dekar-suni-mera-islah-2026.jpg",
+      "gorselKucuk": "assets/iha/adana-kozan-tepecikoren-70-dekar-suni-mera-islah-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "denizli-civril-pancar-rekoltesi-140-bin-ton-kantar-30-kasim-2026",
@@ -221,7 +234,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/aydin-haberleri/yavru-atan-hayvanlar-icin-destek-tutarlari-artirildi-518005535"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/aydin-yavru-atma-destegi-buyukbas-20-bin-kucukbas-4-bin-tl-2026.jpg",
+      "gorselKucuk": "assets/iha/aydin-yavru-atma-destegi-buyukbas-20-bin-kucukbas-4-bin-tl-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "bolu-aricilik-kurslari-200-kursiyer-hedef-250-2026",
@@ -239,9 +255,9 @@
           "url": "https://www.iha.com.tr/bolu-haberleri/boluda-aricilik-sektorune-yeni-ureticiler-kazandiriliyor-518030059"
         }
       ],
-      "gorsel": "assets/envato/bolu-aricilik-kurslari-200-kursiyer-hedef-250-2026.jpg",
-      "gorselKucuk": "assets/envato/bolu-aricilik-kurslari-200-kursiyer-hedef-250-2026-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorsel": "assets/iha/bolu-aricilik-kurslari-200-kursiyer-hedef-250-2026.jpg",
+      "gorselKucuk": "assets/iha/bolu-aricilik-kurslari-200-kursiyer-hedef-250-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "erzincan-cobanlik-destegi-2026-basvuru-5-ocak-2027",
@@ -283,9 +299,9 @@
           "url": "https://www.iha.com.tr/erzincan-haberleri/erzincanda-seker-pancari-hasadinda-gece-mesaisi-517928634"
         }
       ],
-      "gorsel": "assets/envato/erzincan-seker-pancari-hasadi-gece-mesaisi-yagis-oncesi-2026.jpg",
-      "gorselKucuk": "assets/envato/erzincan-seker-pancari-hasadi-gece-mesaisi-yagis-oncesi-2026-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorsel": "assets/iha/erzincan-seker-pancari-hasadi-gece-mesaisi-yagis-oncesi-2026.jpg",
+      "gorselKucuk": "assets/iha/erzincan-seker-pancari-hasadi-gece-mesaisi-yagis-oncesi-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "hatay-samandag-mandalina-dalda-2-tl-sehirde-50-90-tl-2026",
@@ -303,9 +319,9 @@
           "url": "https://www.iha.com.tr/hatay-haberleri/dalinda-2-tlye-satilan-mandalinanin-buyuksehirlerde-yuksek-rakamlara-satilmasina-ureticiden-tepki-517719254"
         }
       ],
-      "gorsel": "assets/envato/hatay-samandag-mandalina-dalda-2-tl-sehirde-50-90-tl-2026.jpg",
-      "gorselKucuk": "assets/envato/hatay-samandag-mandalina-dalda-2-tl-sehirde-50-90-tl-2026-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorsel": "assets/iha/hatay-samandag-mandalina-dalda-2-tl-sehirde-50-90-tl-2026.jpg",
+      "gorselKucuk": "assets/iha/hatay-samandag-mandalina-dalda-2-tl-sehirde-50-90-tl-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "samsun-61-ureticiye-18-ton-sera-naylonu-destegi-2026",
@@ -323,9 +339,9 @@
           "url": "https://www.iha.com.tr/samsun-haberleri/samsunda-61-ureticiye-sera-naylonu-destegi-517599448"
         }
       ],
-      "gorsel": "assets/envato/samsun-61-ureticiye-18-ton-sera-naylonu-destegi-2026.jpg",
-      "gorselKucuk": "assets/envato/samsun-61-ureticiye-18-ton-sera-naylonu-destegi-2026-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorsel": "assets/iha/samsun-61-ureticiye-18-ton-sera-naylonu-destegi-2026.jpg",
+      "gorselKucuk": "assets/iha/samsun-61-ureticiye-18-ton-sera-naylonu-destegi-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "silopi-28-ciftciye-yuzde-75-hibeli-kirmizi-mercimek-tohumu-2026",
@@ -4724,7 +4740,8 @@
       "balik": [
         "balik-2.jpg",
         "balik-3.jpg",
-        "balik-5.jpg"
+        "balik-5.jpg",
+        "balik-4.jpg"
       ],
       "bugday": [
         "bugday-6.jpg",
