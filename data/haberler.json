@@ -4561,7 +4561,7 @@
     }
   ],
   "hava": {
-    "donem": "19-23 Kasım",
+    "donem": "20-24 Kasım",
     "iller": [
       {
         "il": "Erzurum",
@@ -4570,17 +4570,17 @@
       },
       {
         "il": "Kars",
-        "min": -4,
-        "not": "en soğuk 23 Kasım, −4°C"
+        "min": -3,
+        "not": "en soğuk 23 Kasım, −3°C"
       },
       {
         "il": "Ardahan",
-        "min": -8,
-        "not": "en soğuk 23 Kasım, −8°C"
+        "min": -3,
+        "not": "en soğuk 23 Kasım, −3°C"
       },
       {
         "il": "Van",
-        "min": 2
+        "min": 1
       },
       {
         "il": "Sivas",
@@ -4604,23 +4604,23 @@
       },
       {
         "il": "Afyonkarahisar",
-        "min": 6
+        "min": 4
       },
       {
         "il": "Eskişehir",
-        "min": 5
+        "min": 4
       },
       {
         "il": "Kütahya",
-        "min": 6
+        "min": 5
       },
       {
         "il": "Uşak",
-        "min": 6
+        "min": 5
       },
       {
         "il": "Isparta",
-        "min": 7
+        "min": 6
       },
       {
         "il": "Malatya",
@@ -4628,7 +4628,7 @@
       },
       {
         "il": "Yozgat",
-        "min": 3
+        "min": 2
       },
       {
         "il": "Çorum",
@@ -4636,35 +4636,35 @@
       },
       {
         "il": "Bolu",
-        "min": 4
+        "min": 3
       },
       {
         "il": "Edirne",
-        "min": 9
+        "min": 4
       },
       {
         "il": "Kırklareli",
-        "min": 9
+        "min": 3
       },
       {
         "il": "Tekirdağ",
-        "min": 11
+        "min": 7
       },
       {
         "il": "Çanakkale",
-        "min": 13
-      },
-      {
-        "il": "Balıkesir",
         "min": 9
       },
       {
+        "il": "Balıkesir",
+        "min": 7
+      },
+      {
         "il": "Bursa",
-        "min": 11
+        "min": 10
       },
       {
         "il": "Manisa",
-        "min": 12
+        "min": 11
       },
       {
         "il": "İzmir",
@@ -4680,7 +4680,7 @@
       },
       {
         "il": "Kocaeli",
-        "min": 11
+        "min": 10
       },
       {
         "il": "Sakarya",
@@ -4688,7 +4688,7 @@
       },
       {
         "il": "Samsun",
-        "min": 10
+        "min": 9
       },
       {
         "il": "Trabzon",
@@ -4696,23 +4696,23 @@
       },
       {
         "il": "Antalya",
-        "min": 14
-      },
-      {
-        "il": "Adana",
         "min": 13
       },
       {
-        "il": "Şanlıurfa",
+        "il": "Adana",
         "min": 12
       },
       {
+        "il": "Şanlıurfa",
+        "min": 10
+      },
+      {
         "il": "İstanbul",
-        "min": 11
+        "min": 7
       }
     ],
-    "genel": "Önümüzdeki beş günde izlenen 36 ilden yalnızca Erzurum, Kars ve Ardahan'da gece sıcaklığı sıfırın altına iniyor; en soğuk değer 23 Kasım'da Ardahan'da −8°C bekleniyor.",
-    "kaynak": "MGM 5 günlük il merkezi tahmini (18 Kasım 2026 20:12 itibarıyla)",
+    "genel": "Önümüzdeki beş günde 36 il merkezinden 3'ünde (Erzurum, Kars, Ardahan) gece sıcaklığı 0°C ve altına iniyor; en soğuk değer Erzurum'da 23 Kasım için beklenen −4°C.",
+    "kaynak": "MGM 5 günlük il merkezi tahmini (19 Kasım 2026 20:24 itibarıyla)",
     "haber": "konya-ovasi-don-hububata-zarar-vermedi-misirda-nem-15-2026"
   },
   "fotograflar": {
