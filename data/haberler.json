@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-19T15:12:00+03:00",
+  "guncelleme": "2026-11-19T20:13:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,46 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "manisa-buyuksehir-5-bin-ureticiye-13-milyon-metre-damla-sulama-borusu-2026",
+      "kategori": "Destek",
+      "tarih": "2026-11-19",
+      "eklenme": "2026-11-19T20:13:00+03:00",
+      "motif": "sera",
+      "baslik": "Manisa'da yıl başından bu yana 5 bin üreticiye 13 milyon metre damla sulama borusu verildi",
+      "manset": "Tarlaya \"13 milyon metre\" boru!",
+      "ozet": "Manisa Büyükşehir Belediyesi, 2026'nın başından bu yana 17 ilçede yaklaşık 5 bin üreticiye toplam 13 milyon metre damla sulama borusu ulaştırdığını açıkladı. Son dağıtım Akhisar ve Saruhanlı'da yapıldı: Akhisar'da 603 üretici 1 milyon 808 bin 900 metre, Saruhanlı'da 426 üretici 1 milyon 167 bin metre boru teslim aldı. Kırsal kalkınma projeleri kapsamındaki destekle sulama maliyetinin düşürülmesi ve suyun daha tasarruflu kullanılması amaçlanıyor. Belediye Başkanı Besim Dutlulu, zor geçen yılda çiftçinin yükünü hafifletmek için çalışmaların süreceğini söyledi.",
+      "neYapmali": "Manisa'da damla sulama borusu desteğinden yararlanmak isteyen üreticiler, yeni dağıtım dönemleri ve başvuru şartları için Büyükşehir Belediyesi Kırsal Hizmetler Dairesi'ne ya da ilçe ziraat odasına danışabilir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/manisa-haberleri/manisa-buyuksehirden-17-ilcede-ureticiye-13-milyon-metre-damlama-sulama-destegi-518648388"
+        }
+      ],
+      "gorsel": "assets/iha/manisa-buyuksehir-5-bin-ureticiye-13-milyon-metre-damla-sulama-borusu-2026.jpg",
+      "gorselKucuk": "assets/iha/manisa-buyuksehir-5-bin-ureticiye-13-milyon-metre-damla-sulama-borusu-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
+    },
+    {
+      "id": "igdir-melekli-su-kanalina-dusen-78-koyun-telef-2026",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-19",
+      "eklenme": "2026-11-19T20:12:00+03:00",
+      "motif": "koyun",
+      "baslik": "Iğdır'da yayladan dönen sürü su kanalına düştü: 78 koyun telef oldu",
+      "manset": "Su kanalında \"78 koyun\" telef oldu",
+      "ozet": "Iğdır'ın Melekli beldesi yakınlarında, Aralık ilçesinden bir yetiştiriciye ait koyun sürüsü yayladan dönüş sırasında su kanalına düştü. Kanalda sıkışan hayvanların birbirini ezmesi sonucu 78 koyun telef oldu. Bölgeye jandarma ile İl Tarım ve Orman Müdürlüğü ekipleri gönderildi ve sayımla kayıp kesinleşti. Telef olan hayvanlar TARSİM ekiplerinin incelemesinin ardından İl Tarım ve Orman Müdürlüğü tarafından itlaf edildi.",
+      "neYapmali": "Sürü göçlerinde kanal, köprü ve dar geçişlerde hayvanları küçük gruplar halinde geçirmek kaybı azaltır; hayvanları sigortalı olan yetiştiriciler kayıp durumunda vakit kaybetmeden TARSİM'e ve il/ilçe tarım müdürlüğüne bildirim yapmalıdır.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/igdir-haberleri/igdirda-su-kanalina-dusen-78-koyun-telef-oldu-518687532"
+        }
+      ],
+      "gorsel": "assets/iha/igdir-melekli-su-kanalina-dusen-78-koyun-telef-2026.jpg",
+      "gorselKucuk": "assets/iha/igdir-melekli-su-kanalina-dusen-78-koyun-telef-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
+    },
     {
       "id": "antalya-kumluca-168-seraciya-dijital-sensor-hibesi-2026",
       "kategori": "Hibe",
@@ -3708,50 +3748,6 @@
       "gorselKucuk": "assets/envato/sanliurfa-suruc-pinarbasi-300-dekar-su-baskini-k.jpg",
       "gorselKaynak": "Temsili fotoğraf",
       "manset": "Suruç'ta \"300 dekar\" su altında"
-    },
-    {
-      "id": "aksaray-seker-pancari-hasadi-2026-basladi",
-      "kategori": "Bitkisel Üretim",
-      "tarih": "2026-11-05",
-      "eklenme": "2026-11-05T12:48:00+03:00",
-      "motif": "pancar",
-      "baslik": "Aksaray'da şeker pancarı hasadı başladı: Bu yıl üretimin 1 milyon 61 bin tona gerilemesi bekleniyor",
-      "ozet": "Türkiye'nin dördüncü büyük şeker pancarı üreticisi Aksaray'da 2026 hasadı, Vali Murat Duru ve İl Tarım ve Orman Müdürü Nejdet Demir'in katıldığı programla Yeşilova Kasabası'nda başladı. Vali Duru, bir üreticinin tarlasında hasat makinesini kendisi kullandı. Paylaşılan verilere göre ilde geçen yıl 163 bin dekarda dekar başına yaklaşık 7 bin 513 kilo verimle 1 milyon 226 bin ton pancar üretilmişti. Bu yıl ekim alanının 141 bin 70 dekara inmesi ve verim benzer kalsa da toplam üretimin yaklaşık 1 milyon 61 bin tona gerilemesi bekleniyor. Pancar fabrikalarda şekere işlenirken posası da hayvan yemi olarak kullanılıyor.",
-      "neYapmali": "Pancar üreticileri söküm ve teslim takvimini bağlı oldukları şeker fabrikası ve pancar kooperatifinden takip etmeli; sökülen pancarı tarlada uzun süre bekletmeden, toprağı iyice silkelenmiş halde teslim etmek fire kesintisini azaltır.",
-      "kaynaklar": [
-        {
-          "ad": "Aksaray Haberleri",
-          "url": "https://www.aksarayhaberleri.gen.tr/vali-murat-duru-direksiyon-basina-gecti-aksarayda-pancar-hasadi-basladi/24919"
-        },
-        {
-          "ad": "Sultanhanı Gazetesi",
-          "url": "https://www.sultanhanigazetesi.com/turkiyenin-4-buyuk-pancar-ureticisi-aksarayda-hasat-bereketi/28356"
-        }
-      ],
-      "gorsel": "assets/envato/aksaray-seker-pancari-hasadi-2026-basladi.jpg",
-      "gorselKucuk": "assets/envato/aksaray-seker-pancari-hasadi-2026-basladi-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf",
-      "manset": "Aksaray'da \"pancar hasadı\" başladı"
-    },
-    {
-      "id": "adana-portakal-bahce-fiyati-5-7-tl",
-      "kategori": "Piyasa",
-      "tarih": "2026-11-05",
-      "eklenme": "2026-11-05T11:30:17+03:00",
-      "motif": "narenciye",
-      "baslik": "Adana'da erkenci portakal hasadı başladı: Bahçe fiyatı geçen yılki 27-32 liradan 5-7 liraya indi",
-      "ozet": "Adana'da Navelina ve Fukumoto gibi erkenci portakal çeşitlerinde toplama başladı. İlde yaklaşık 160 bin dönüm alandan 670 bin ton ürün bekleniyor; bahçede kilo fiyatı ise geçen yılın 27-32 lirasına karşılık 5-7 lira seviyesinde. Yüreğir Ziraat Odası Başkanı Mehmet Akın Doğan, geçen yılın dondan etkilendiğini, bu yıl ürünün bol olduğunu ama Karadeniz'deki savaş nedeniyle gemi taşımacılığının aksadığını ve pazara erişimin daraldığını söyledi. Doğan, DFİF üzerinden navlun desteği ile dalında kalan meyve için kilo başına 5 lira destek istedi. 240 dönümde üretim yapan Vedat Yıldız ise tüccarların 5-6 liradan aldığını, talebin zayıf olduğunu aktardı.",
-      "neYapmali": "Üreticiler satış öncesi birden fazla alıcıdan teklif alıp bahçe fiyatlarını karşılaştırabilir. İstenen destekler için henüz açıklanmış bir karar yok; gelişmeleri ziraat odasından ve il tarım müdürlüğünden takip etmek yararlı olur.",
-      "kaynaklar": [
-        {
-          "ad": "Elit Haber",
-          "url": "https://elit-haber.com/haber/adanada-portakal-hasadi-basladi-ve-savasin-etkisiyle-fiyatlar-dustu-93146"
-        }
-      ],
-      "gorsel": "assets/envato/adana-portakal-bahce-fiyati-5-7-tl.jpg",
-      "gorselKucuk": "assets/envato/adana-portakal-bahce-fiyati-5-7-tl-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf",
-      "manset": "Portakal bahçede \"5-7 liraya\" indi!"
     },
     {
       "id": "ciftci-destek-9-ay-115-5-milyar",
