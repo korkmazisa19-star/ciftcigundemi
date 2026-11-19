@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-19T08:12:00+03:00",
+  "guncelleme": "2026-11-19T12:12:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,40 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "gumushane-kelkit-sogutlu-baraji-sulama-16730-dekar-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-19",
+      "eklenme": "2026-11-19T12:12:00+03:00",
+      "motif": "sera",
+      "baslik": "Kelkit'te Söğütlü Barajı sulamasında sona gelindi: 16 bin 730 dekar suya kavuşacak",
+      "manset": "\"16 bin 730 dekar\" suya kavuşuyor!",
+      "ozet": "Gümüşhane'nin Kelkit ilçesinde Devlet Su İşleri'nin yürüttüğü Söğütlü Barajı Sulama Projesi'nde çalışmalar son aşamaya ulaştı. Yaklaşık 1 milyar 17 milyon liralık projede 82 kilometre boru hattı döşendi ve 455 sulama yapısı inşa edildi. 51 metre yüksekliğindeki barajdan gelecek su, modern sulama sistemiyle 16 bin 730 dekar tarım arazisine ulaştırılacak. Projenin 2026 sonunda bitirilmesi planlanıyor; bölge ekonomisine yıllık 280 milyon liralık katkı bekleniyor.",
+      "neYapmali": "Kelkit'te arazisi sulama sahasında kalan üreticiler, sulama birliği kaydı ve şebekeye bağlantı takvimi için DSİ bölge müdürlüğüne ve ilçe tarım müdürlüğüne danışabilir; basınçlı sulamaya uygun ürün planlamasını şimdiden yapmak faydalı olur.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/gumushane-haberleri/gumushanede-16-bin-730-dekar-tarim-arazisi-suya-kavusuyor-518521695"
+        }
+      ]
+    },
+    {
+      "id": "cukurova-zeytin-hasadi-rekolte-yuksek-yag-verimi-dustu-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-19",
+      "eklenme": "2026-11-19T12:11:00+03:00",
+      "motif": "zeytin",
+      "baslik": "Çukurova'da zeytin bol ama yağı az: Bazı bahçelerde 1 kilo yağ için 8-10 kilo zeytin gerekiyor",
+      "manset": "1 kilo yağa \"10 kilo\" zeytin",
+      "ozet": "Adana'da başlayan zeytin hasadında bol yağışlı geçen sezon ağaçlardaki ürünü artırdı, ancak meyvedeki su oranı yükseldiği için yağ randımanı düştü. Önceki yıllarda 3-4 kilo zeytinden 1 kilo yağ alan üreticiler, bu yıl bazı bahçelerde aynı miktar yağ için 8-10 kilo zeytin götürmek zorunda kalıyor. Ziraat Mühendisi Savaş Bakar, yer yer 12'ye 1 oranlarının da görülebildiğini, yüksek rekoltenin aradaki kaybı ancak kısmen kapattığını söyledi. Bakar, yağ verimini beslenme, drenaj, bakım ve budamanın da etkilediğine dikkat çekti.",
+      "neYapmali": "Suyu tutan topraklarda bahçe drenajını iyileştirmek ve budama ile gübrelemeyi uzman önerisiyle planlamak yağ verimini korumaya yardımcı olur; fabrikaya götürmeden önce randıman ve ücret koşullarını karşılaştırmak faydalı olur.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/adana-haberleri/cukurovada-zeytin-hasadi-basladi-rekolte-yuksek-yag-verimi-dustu-518488214"
+        }
+      ]
+    },
     {
       "id": "marmara-adasi-musilaj-balikci-aglari-doldu-2026",
       "kategori": "Hayvancılık",
@@ -3720,54 +3754,6 @@
       "gorselKucuk": "assets/iha/duzce-kahverengi-kokarca-kislak-ilaclama-2026-k.jpg",
       "gorselKaynak": "Fotoğraf: İHA",
       "manset": "Düzce'de \"60 bin 800\" noktada ilaçlama"
-    },
-    {
-      "id": "erzincan-cayirli-guzluk-hububat-ekimi",
-      "kategori": "Bitkisel Üretim",
-      "tarih": "2026-11-05",
-      "eklenme": "2026-11-05T08:48:00+03:00",
-      "motif": "bugday",
-      "baslik": "Erzincan Çayırlı'da güzlük hububat ekimi ziraat mühendisleri eşliğinde başladı",
-      "ozet": "Erzincan'ın Çayırlı ilçesinde yeni üretim sezonu için güzlük hububat ekimine geçildi. Çiftçiler, ziraat mühendislerinin kontrolünde tarlalarına ekim makineleriyle tohum atıyor. Çalışmayla doğru ekim uygulamalarının yaygınlaşması ve sezon hazırlıklarının kış gelmeden tamamlanması amaçlanıyor. İlçeyle birlikte Erzincan genelinde hasadı biten tarlalarda toprak işleme ve sürüm de sürüyor.",
-      "neYapmali": "Güzlük buğday ve arpa ekecek üreticiler sertifikalı ve ilaçlı tohum kullanmalı, ekimi toprak tava geldiğinde yapmalı ve bölgeye uygun tohum miktarı ile ekim derinliği için ilçe tarım ve orman müdürlüğündeki ziraat mühendislerine danışmalı. Ekim yapılan alanları Çiftçi Kayıt Sistemi'ne (ÇKS) zamanında işletmek desteklerden yararlanmak için gerekli.",
-      "kaynaklar": [
-        {
-          "ad": "Habersitesi.com (İHA)",
-          "url": "https://www.habersitesi.com/cayirli-da-guzluk-hububat-ekimleri-yapiliyor-88351h.htm"
-        },
-        {
-          "ad": "Kars Hakimiyet",
-          "url": "https://www.karshakimiyet.com/cayirlida-guzluk-hububat-ekimleri-yapiliyor-122450h.htm"
-        }
-      ],
-      "gorsel": "assets/iha/erzincan-cayirli-guzluk-hububat-ekimi.jpg",
-      "gorselKucuk": "assets/iha/erzincan-cayirli-guzluk-hububat-ekimi-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA",
-      "manset": "Çayırlı'da \"güzlük ekim\" başladı"
-    },
-    {
-      "id": "yesil-bodrum-mandalini-abd-miami-ihracat",
-      "kategori": "Piyasa",
-      "tarih": "2026-11-03",
-      "eklenme": "2026-11-05T07:48:00+03:00",
-      "motif": "narenciye",
-      "baslik": "Coğrafi işaretli yeşil Bodrum mandalini ilk kez ABD'ye gönderildi",
-      "ozet": "Bodrum Belediyesi Tarımsal Hizmetler Müdürlüğü ile Bodrum Belediye AŞ'nin yürüttüğü katma değer çalışması kapsamında, coğrafi işaretli yeşil Bodrum mandalini Amerika Birleşik Devletleri'ne ulaştı. Miami'de içecek sektöründe faaliyet gösteren Türk firması Drink Salmakis, Bodrum'dan ilk kez yeşil mandalin satın aldı. Aroması kaybolmasın diye hasattan sonra Muğla Bayır'daki bir meyve suyu tesisinde soğuk proseste sıkılan meyveler, katkısız olarak dondurulup deniz yoluyla donuk zincirde gönderildi. Ürünün firmanın içecek ve kokteyl karışımlarında Bodrum adıyla kullanılması planlanıyor. Belediye Başkan Yardımcısı Ercan Pehlivan, adımın üreticinin emeğini ve yörenin tarım mirasını dünyaya tanıtmak açısından önemli olduğunu söyledi.",
-      "neYapmali": "Yeşil mandalin hasadı yapan Bodrum üreticileri, endüstriyel alım ve fiyat bilgisi için Bodrum Belediyesi Tarımsal Hizmetler Müdürlüğü ile iletişime geçebilir. Coğrafi işaretli ürünü satarken tescil adını ve menşeini doğru belirtmek, ürünün değerini korumaya yardımcı olur.",
-      "kaynaklar": [
-        {
-          "ad": "Habersitesi.com (İHA)",
-          "url": "https://www.habersitesi.com/yesil-bodrum-mandalini-rotasini-amerika-ya-cevirdi-87536h.htm"
-        },
-        {
-          "ad": "Bodrum Gündem",
-          "url": "https://www.bodrumgundem.com/2026/11/03/yesil-bodrum-mandalini-rotasini-amerikaya-cevirdi-2/"
-        }
-      ],
-      "gorsel": "assets/iha/yesil-bodrum-mandalini-abd-miami-ihracat.jpg",
-      "gorselKucuk": "assets/iha/yesil-bodrum-mandalini-abd-miami-ihracat-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA",
-      "manset": "Bodrum mandalini \"ABD yolunda\""
     },
     {
       "id": "ciftci-destek-9-ay-115-5-milyar",
