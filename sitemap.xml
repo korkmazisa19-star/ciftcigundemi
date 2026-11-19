@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
-<url><loc>https://ciftcigundemi.com/</loc><lastmod>2026-11-19T08:12:00+03:00</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
+<url><loc>https://ciftcigundemi.com/</loc><lastmod>2026-11-19T12:12:00+03:00</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
 <url><loc>https://ciftcigundemi.com/hakkimizda/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
 <url><loc>https://ciftcigundemi.com/gizlilik-politikasi/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
 <url><loc>https://ciftcigundemi.com/kvkk-aydinlatma-metni/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
 <url><loc>https://ciftcigundemi.com/cerez-politikasi/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
 <url><loc>https://ciftcigundemi.com/iletisim/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
+<url><loc>https://ciftcigundemi.com/haber/gumushane-kelkit-sogutlu-baraji-sulama-16730-dekar-2026/</loc><lastmod>2026-11-19T12:12:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-19T12:12:00+03:00</news:publication_date><news:title>Kelkit&#x27;te Söğütlü Barajı sulamasında sona gelindi: 16 bin 730 dekar suya kavuşacak</news:title></news:news></url>
+<url><loc>https://ciftcigundemi.com/haber/cukurova-zeytin-hasadi-rekolte-yuksek-yag-verimi-dustu-2026/</loc><lastmod>2026-11-19T12:11:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-19T12:11:00+03:00</news:publication_date><news:title>Çukurova&#x27;da zeytin bol ama yağı az: Bazı bahçelerde 1 kilo yağ için 8-10 kilo zeytin gerekiyor</news:title></news:news></url>
 <url><loc>https://ciftcigundemi.com/haber/marmara-adasi-musilaj-balikci-aglari-doldu-2026/</loc><lastmod>2026-11-19T08:12:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-19T08:12:00+03:00</news:publication_date><news:title>Marmara Adası açıklarında müsilaj yeniden görüldü, balıkçıların ağları doldu</news:title></news:news></url>
 <url><loc>https://ciftcigundemi.com/haber/samsun-kivi-5877-dekar-hasat-zamani-uyarisi-2026/</loc><lastmod>2026-11-19T08:11:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-19T08:11:00+03:00</news:publication_date><news:title>Samsun&#x27;da kivi üreticilerine uyarı: Yanlış hasat kaybı yüzde 50&#x27;ye çıkarabiliyor</news:title></news:news></url>
 <url><loc>https://ciftcigundemi.com/haber/amasya-17-etap-68-proje-161-milyon-tl-hibe-sozlesmesi-2026/</loc><lastmod>2026-11-18T23:10:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-18T23:10:00+03:00</news:publication_date><news:title>Amasya&#x27;da 68 kırsal kalkınma projesine 161 milyon liralık hibe sözleşmesi imzalandı</news:title></news:news></url>
@@ -182,8 +184,6 @@
 <url><loc>https://ciftcigundemi.com/haber/adana-portakal-bahce-fiyati-5-7-tl/</loc><lastmod>2026-11-05T11:30:17+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/nazilli-hasat-oncesi-pestisit-denetimi/</loc><lastmod>2026-11-05T10:48:00+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/duzce-kahverengi-kokarca-kislak-ilaclama-2026/</loc><lastmod>2026-11-05T09:48:00+03:00</lastmod></url>
-<url><loc>https://ciftcigundemi.com/haber/erzincan-cayirli-guzluk-hububat-ekimi/</loc><lastmod>2026-11-05T08:48:00+03:00</lastmod></url>
-<url><loc>https://ciftcigundemi.com/haber/yesil-bodrum-mandalini-abd-miami-ihracat/</loc><lastmod>2026-11-05T07:48:00+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/ciftci-destek-9-ay-115-5-milyar/</loc><lastmod>2026-11-04T11:31:46+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/nigde-elma-yagis-kara-benek/</loc><lastmod>2026-11-04T09:17:00+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/yozgat-14-uretici-sera-destegi/</loc><lastmod>2026-11-04T09:16:00+03:00</lastmod></url>
