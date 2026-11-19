@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-19T12:12:00+03:00",
+  "guncelleme": "2026-11-19T15:12:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,46 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "antalya-kumluca-168-seraciya-dijital-sensor-hibesi-2026",
+      "kategori": "Hibe",
+      "tarih": "2026-11-19",
+      "eklenme": "2026-11-19T15:12:00+03:00",
+      "motif": "sera",
+      "baslik": "Kumluca'da 168 seracıya dijital sensör hibe edildi: Sıcaklık ve nem cep telefonundan izlenecek",
+      "manset": "Seraya \"telefondan\" don alarmı!",
+      "ozet": "Antalya Büyükşehir Belediyesi Tarımsal Hizmetler Dairesi, Dijital Tarım Projesi kapsamında Kumluca'da örtü altı üretim yapan çiftçilere 168 dijital sensör dağıttı. Sensörler Kasapçayırı, Ortaköy, Beşikçi ve Beykonak mahallelerindeki seracılara teslim edildi. Seraya yerleştirilen cihazlar sıcaklık ve nem verilerini telefondaki uygulamaya anlık olarak aktarıyor, belirlenen sınırlar aşılınca üreticiye uyarı gönderiyor. Belediye, sistemin özellikle kış aylarındaki ani soğuma ve don riskine karşı erken önlem almayı kolaylaştıracağını, aşırı nemden kaynaklanan hastalık kayıplarını da azaltmayı hedeflediğini bildirdi.",
+      "neYapmali": "Sensör alan üreticiler uyarı eşiklerini ürünlerine göre ayarlamalı; projeden yararlanmak isteyen Antalya'daki seracılar Büyükşehir Belediyesi Tarımsal Hizmetler Dairesi'ne başvuru koşullarını sorabilir.",
+      "kaynaklar": [
+        {
+          "ad": "İhlas Haber Ajansı (İHA)",
+          "url": "https://www.iha.com.tr/antalya-haberleri/kumlucada-168-ureticiye-dijital-sensor-hibe-edildi-518572653"
+        }
+      ],
+      "gorsel": "assets/iha/antalya-kumluca-168-seraciya-dijital-sensor-hibesi-2026.jpg",
+      "gorselKucuk": "assets/iha/antalya-kumluca-168-seraciya-dijital-sensor-hibesi-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
+    },
+    {
+      "id": "gaziantep-araban-yaglik-dane-misir-hasadi-donume-1100-kg-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-19",
+      "eklenme": "2026-11-19T15:11:00+03:00",
+      "motif": "misir",
+      "baslik": "Araban Ovası'nda ikinci ürün yağlık mısır hasadı: Dönümden yaklaşık 1,1 ton verim alınıyor",
+      "manset": "Dönümden \"1,1 ton\" mısır!",
+      "ozet": "Gaziantep'in Araban ilçesinde buğday, arpa ve sarımsaktan sonra ikinci ürün olarak ekilen yağlık dane mısırda hasat sürüyor. İlçede yaklaşık 8 bin dönüm alana ekilen mısırdan bu yıl dönüm başına 1 ton 100 kilo civarında ürün alındığı belirtiliyor. Araban Ziraat Odası Başkanı Hasan Altun, tüccarların ürünü tarlada satın alıp farklı illerdeki yağ fabrikalarına gönderdiğini anlattı. Temmuz başında ekim yapan bir üretici ise mısırın kilosunu 13 liradan sattığını söyledi.",
+      "neYapmali": "İkinci ürün mısır hasadına girecek üreticiler, satış öncesinde nem oranını ölçtürüp birkaç alıcıdan fiyat almalı; sözleşme ve tartı belgelerini saklamalı.",
+      "kaynaklar": [
+        {
+          "ad": "İhlas Haber Ajansı (İHA)",
+          "url": "https://www.iha.com.tr/gaziantep-haberleri/araban-ovasinda-yaglik-dane-misir-hasadi-basladi-518494650"
+        }
+      ],
+      "gorsel": "assets/iha/gaziantep-araban-yaglik-dane-misir-hasadi-donume-1100-kg-2026.jpg",
+      "gorselKucuk": "assets/iha/gaziantep-araban-yaglik-dane-misir-hasadi-donume-1100-kg-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
+    },
     {
       "id": "gumushane-kelkit-sogutlu-baraji-sulama-16730-dekar-2026",
       "kategori": "Bitkisel Üretim",
@@ -3712,54 +3752,6 @@
       "gorselKucuk": "assets/envato/adana-portakal-bahce-fiyati-5-7-tl-k.jpg",
       "gorselKaynak": "Temsili fotoğraf",
       "manset": "Portakal bahçede \"5-7 liraya\" indi!"
-    },
-    {
-      "id": "nazilli-hasat-oncesi-pestisit-denetimi",
-      "kategori": "Bitkisel Üretim",
-      "tarih": "2026-11-05",
-      "eklenme": "2026-11-05T10:48:00+03:00",
-      "motif": "tohum",
-      "baslik": "Nazilli'de hasat öncesi pestisit denetimi: Bahçelerden numune alınıp laboratuvara gönderiliyor",
-      "ozet": "Aydın'ın Nazilli ilçesinde İlçe Tarım ve Orman Müdürlüğü ekipleri, hasat dönemine gelen ürünlerde ilaç kalıntısı olup olmadığını belirlemek için üretim alanlarından numune topluyor. Bakanlığın Hasat Öncesi Pestisit Denetim Programı kapsamındaki kontrollerde bitki koruma ürünlerinin mevzuata ve etiketine uygun kullanılıp kullanılmadığına bakılıyor. Laboratuvara gönderilen numunelerde yasaklı ya da tavsiye dışı ilaç, aşırı doz ve hasattan önce uyulması gereken bekleme süresi ihlali aranıyor. Denetimlerle bilinçli ilaç kullanımının yaygınlaşması ve tüketiciye güvenilir ürün ulaşması amaçlanıyor.",
-      "neYapmali": "Hasada yakın ilaçlama yapacak üreticiler, ürün etiketinde yazan son ilaçlama ile hasat arasındaki bekleme süresine mutlaka uymalı ve yalnızca o ürün için ruhsatlı ilaçları kullanmalı. İlaç uygulamalarını Bitki Koruma Ürünleri Kayıt Sistemine işletmek, olası bir kalıntı tespitinde üreticiyi korur.",
-      "kaynaklar": [
-        {
-          "ad": "Habersitesi.com (İHA)",
-          "url": "https://www.habersitesi.com/nazilli-de-hasat-oncesi-pestisit-denetimi-88489h.htm"
-        },
-        {
-          "ad": "Son Dakika",
-          "url": "https://www.sondakika.com/yerel/haber-nazilli-de-hasat-oncesi-pestisit-denetiminde-guven-20397298/"
-        }
-      ],
-      "gorsel": "assets/iha/nazilli-hasat-oncesi-pestisit-denetimi.jpg",
-      "gorselKucuk": "assets/iha/nazilli-hasat-oncesi-pestisit-denetimi-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA",
-      "manset": "Nazilli'de \"pestisit denetimi\""
-    },
-    {
-      "id": "duzce-kahverengi-kokarca-kislak-ilaclama-2026",
-      "kategori": "Bitkisel Üretim",
-      "tarih": "2026-11-05",
-      "eklenme": "2026-11-05T09:48:00+03:00",
-      "motif": "findik",
-      "baslik": "Düzce'de kahverengi kokarcaya karşı kışlak mücadelesi: 60 bin 800 noktada ilaçlama yapıldı",
-      "ozet": "Düzce İl Tarım ve Orman Müdürlüğü, fındık bahçelerine zarar veren kahverengi kokarcaya (Halyomorpha halys) karşı kış dönemi mücadelesini muhtarlarla birlikte sürdürüyor. Zararlının kışı geçirdiği metruk binalar, depolar, samanlıklar, garajlar, boş ahırlar ve kümeslerde bu sonbahar 60 bin 800 noktada ilaçlama yapıldı; çalışmalar devam ediyor. 2026 yılı içinde 490 noktada toplam 131 bin 200 samuray arısı doğaya salındı, 500 kişiye bitki koruma ürünü uygulayıcı belgesi verildi. Bakanlık ve İl Özel İdaresi katkısıyla 11 bin üreticiye 5 bin 545 litre bitki koruma ürünü, ayrıca 5 bin litre biyosidal ürün ile 10 bin 880 feromon ve tuzak dağıtıldı. İl Müdürü Esra Uzun, yaklaşık 632 bin dekar fındık alanı bulunan ilde mücadelenin yalnızca hasat sezonuyla sınırlı kalmadığını vurguladı.",
-      "neYapmali": "Kahverengi kokarcanın kışladığı depo, samanlık ve boş yapıları olan üreticiler, ilaçlama için köy muhtarlığına ya da ilçe tarım ve orman müdürlüğüne bildirimde bulunabilir. Bu yapılarda kendi başınıza ilaçlama yapacaksanız yalnızca ruhsatlı ürünleri, etiketindeki doza uyarak ve koruyucu ekipmanla kullanın.",
-      "kaynaklar": [
-        {
-          "ad": "Haberler.com (İHA)",
-          "url": "https://www.haberler.com/cevre/duzce-de-kahverengi-kokarca-kislak-mucadelesinde-20396844-haberi/"
-        },
-        {
-          "ad": "Düzce İl Tarım ve Orman Müdürlüğü (2025 kışlak mücadelesi)",
-          "url": "https://duzce.tarimorman.gov.tr/Haber/1387/Duzcede-Kahverengi-Kokarca-Ile-Kislak-Mucadelesi-Basladi"
-        }
-      ],
-      "gorsel": "assets/iha/duzce-kahverengi-kokarca-kislak-ilaclama-2026.jpg",
-      "gorselKucuk": "assets/iha/duzce-kahverengi-kokarca-kislak-ilaclama-2026-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA",
-      "manset": "Düzce'de \"60 bin 800\" noktada ilaçlama"
     },
     {
       "id": "ciftci-destek-9-ay-115-5-milyar",
