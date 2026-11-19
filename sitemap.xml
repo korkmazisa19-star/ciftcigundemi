@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
-<url><loc>https://ciftcigundemi.com/</loc><lastmod>2026-11-18T23:10:00+03:00</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
+<url><loc>https://ciftcigundemi.com/</loc><lastmod>2026-11-19T08:12:00+03:00</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
 <url><loc>https://ciftcigundemi.com/hakkimizda/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
 <url><loc>https://ciftcigundemi.com/gizlilik-politikasi/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
 <url><loc>https://ciftcigundemi.com/kvkk-aydinlatma-metni/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
 <url><loc>https://ciftcigundemi.com/cerez-politikasi/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
 <url><loc>https://ciftcigundemi.com/iletisim/</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
+<url><loc>https://ciftcigundemi.com/haber/marmara-adasi-musilaj-balikci-aglari-doldu-2026/</loc><lastmod>2026-11-19T08:12:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-19T08:12:00+03:00</news:publication_date><news:title>Marmara Adası açıklarında müsilaj yeniden görüldü, balıkçıların ağları doldu</news:title></news:news></url>
+<url><loc>https://ciftcigundemi.com/haber/samsun-kivi-5877-dekar-hasat-zamani-uyarisi-2026/</loc><lastmod>2026-11-19T08:11:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-19T08:11:00+03:00</news:publication_date><news:title>Samsun&#x27;da kivi üreticilerine uyarı: Yanlış hasat kaybı yüzde 50&#x27;ye çıkarabiliyor</news:title></news:news></url>
 <url><loc>https://ciftcigundemi.com/haber/amasya-17-etap-68-proje-161-milyon-tl-hibe-sozlesmesi-2026/</loc><lastmod>2026-11-18T23:10:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-18T23:10:00+03:00</news:publication_date><news:title>Amasya&#x27;da 68 kırsal kalkınma projesine 161 milyon liralık hibe sözleşmesi imzalandı</news:title></news:news></url>
 <url><loc>https://ciftcigundemi.com/haber/osmaniye-kadirli-kkydp-otomatik-dumenleme-sistemi-traktor-2026/</loc><lastmod>2026-11-18T23:09:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-18T23:09:00+03:00</news:publication_date><news:title>Osmaniye&#x27;de hibeyle alınan otomatik dümenleme sistemi traktörde denendi</news:title></news:news></url>
 <url><loc>https://ciftcigundemi.com/haber/bursa-nilufer-411-ciftciye-30-ton-yulaf-tohumu-yuzde-70-hibe-2026/</loc><lastmod>2026-11-18T20:09:00+03:00</lastmod><news:news><news:publication><news:name>Çiftçi Gündemi</news:name><news:language>tr</news:language></news:publication><news:publication_date>2026-11-18T20:09:00+03:00</news:publication_date><news:title>Nilüfer&#x27;de 411 çiftçiye yüzde 70 hibeli 30 ton yulaf tohumu dağıtıldı</news:title></news:news></url>
@@ -182,8 +184,6 @@
 <url><loc>https://ciftcigundemi.com/haber/duzce-kahverengi-kokarca-kislak-ilaclama-2026/</loc><lastmod>2026-11-05T09:48:00+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/erzincan-cayirli-guzluk-hububat-ekimi/</loc><lastmod>2026-11-05T08:48:00+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/yesil-bodrum-mandalini-abd-miami-ihracat/</loc><lastmod>2026-11-05T07:48:00+03:00</lastmod></url>
-<url><loc>https://ciftcigundemi.com/haber/ayvalik-tagsisli-zeytinyagi-yilda-50-bin-ton/</loc><lastmod>2026-11-05T06:48:00+03:00</lastmod></url>
-<url><loc>https://ciftcigundemi.com/haber/aycicegi-gumruk-yuzde-12-komisyonda-aygun-tepki/</loc><lastmod>2026-11-05T05:31:54+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/ciftci-destek-9-ay-115-5-milyar/</loc><lastmod>2026-11-04T11:31:46+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/nigde-elma-yagis-kara-benek/</loc><lastmod>2026-11-04T09:17:00+03:00</lastmod></url>
 <url><loc>https://ciftcigundemi.com/haber/yozgat-14-uretici-sera-destegi/</loc><lastmod>2026-11-04T09:16:00+03:00</lastmod></url>
