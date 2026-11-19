@@ -73,7 +73,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/gumushane-haberleri/gumushanede-16-bin-730-dekar-tarim-arazisi-suya-kavusuyor-518521695"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/gumushane-kelkit-sogutlu-baraji-sulama-16730-dekar-2026.jpg",
+      "gorselKucuk": "assets/iha/gumushane-kelkit-sogutlu-baraji-sulama-16730-dekar-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "cukurova-zeytin-hasadi-rekolte-yuksek-yag-verimi-dustu-2026",
@@ -90,7 +93,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/adana-haberleri/cukurovada-zeytin-hasadi-basladi-rekolte-yuksek-yag-verimi-dustu-518488214"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/cukurova-zeytin-hasadi-rekolte-yuksek-yag-verimi-dustu-2026.jpg",
+      "gorselKucuk": "assets/iha/cukurova-zeytin-hasadi-rekolte-yuksek-yag-verimi-dustu-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "marmara-adasi-musilaj-balikci-aglari-doldu-2026",
