@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-20T15:10:00+03:00",
+  "guncelleme": "2026-11-20T20:10:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,40 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "balikesir-havran-ziraat-odasi-21-5-milyon-liralik-zirai-drone-hibesi-2026",
+      "kategori": "Hibe",
+      "tarih": "2026-11-20",
+      "eklenme": "2026-11-20T20:10:00+03:00",
+      "motif": "traktor",
+      "baslik": "Havran Ziraat Odası'nın zirai drone projesine KKYDP hibesi: Üreticiye ilaçlama ve gübreleme hizmeti verilecek",
+      "manset": "Havran'a \"21,5 milyonluk\" drone yatırımı",
+      "ozet": "Balıkesir'in Havran ilçesinde Ziraat Odası'nın hazırladığı Zirai Drone (ZİHA) Projesi için hibe sözleşmesi 20 Kasım'da imzalandı. Proje, Tarım ve Orman Bakanlığı'nın 17. Etap Kırsal Kalkınma Yatırımlarının Desteklenmesi Programı (KKYDP) kapsamında destekleniyor ve toplam bedeli 21,5 milyon lira. Alınacak tarım drone'larıyla ilçedeki üreticilere aynı anda ilaçlama ve gübreleme hizmeti sunulması, böylece iş gücü maliyetinin düşürülüp verimin artırılması amaçlanıyor. İmza törenine Havran Kaymakamı Muhammed Evlice, Belediye Başkanı Emin Ersoy ve Balıkesir İl Tarım ve Orman Müdürü Dr. Hüseyin Düzgün katıldı.",
+      "neYapmali": "Havranlı üreticiler drone ile ilaçlama ve gübreleme hizmetinden ne zaman ve hangi koşullarla yararlanabileceklerini Havran Ziraat Odası ile Havran İlçe Tarım ve Orman Müdürlüğü'nden öğrenebilir. Kendi bölgesinde benzer proje düşünen odalar ve kooperatifler KKYDP etap duyurularını il tarım müdürlüğünden takip etmeli.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/balikesir-haberleri/havrana-21-5-milyon-liralik-zirai-drone-yatirimi-519167608"
+        }
+      ]
+    },
+    {
+      "id": "samsun-bafra-sera-otb-160-donum-sera-yatirimi-japon-firma-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-20",
+      "eklenme": "2026-11-20T20:09:00+03:00",
+      "motif": "tohum",
+      "baslik": "Bafra Sera Organize Tarım Bölgesi'nde 160 dönümlük sera yatırımı Valilikte ele alındı",
+      "manset": "Bafra'da \"160 dönümlük\" sera",
+      "ozet": "Bafra Sera Organize Tarım Bölgesi'nde (OTB) 160 dönümlük alanda kurulumu süren sera projesi, Samsun Valiliği'ndeki bir yatırım görüşmesinde değerlendirildi. Sera kurulumunu yapan yatırımcı firmanın yerli ve Japonya merkezli yetkilileri Vali Orhan Tavlı'yı ziyaret etti. Görüşmeye Çevre, Şehircilik ve İklim Değişikliği İl Müdürü Tevfik Akçay ile Bafra TDİ Sera OTB Müdürü Hamit Bozer de katıldı. Projenin Bafra'nın örtü altı üretim kapasitesini geliştirmesi açısından önemli olduğu vurgulandı.",
+      "neYapmali": "Bafra Ovası'ndaki üreticiler bölgedeki yeni sera yatırımlarının sözleşmeli üretim, fide ya da istihdam fırsatlarını Bafra TDİ Sera OTB Müdürlüğü ve Bafra İlçe Tarım ve Orman Müdürlüğü'nden sorabilir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/samsun-haberleri/bafrada-160-donumluk-sera-yatirimi-519115490"
+        }
+      ]
+    },
     {
       "id": "bursa-buyuksehir-250-ciftciye-45-ton-cendere-bugday-tohumu-bukka-2026",
       "kategori": "Destek",
@@ -3696,50 +3730,6 @@
       "gorselKucuk": "assets/envato/nigde-1-8-milyon-ton-rekolte-ciftci-fiyat-2026-k.jpg",
       "gorselKaynak": "Temsili fotoğraf",
       "manset": "Rekolte iyi, fiyat \"memnun etmedi\""
-    },
-    {
-      "id": "isparta-199-bin-marul-fidesi-take-yuzde-75",
-      "kategori": "Hibe",
-      "tarih": "2026-11-03",
-      "eklenme": "2026-11-05T20:31:24+03:00",
-      "motif": "sera",
-      "baslik": "Isparta'da sera üreticilerine yüzde 75 hibeyle 199 bin 616 marul fidesi verildi",
-      "ozet": "Isparta İl Tarım ve Orman Müdürlüğü, Tarım Arazilerinin Kullanımının Etkinleştirilmesi (TAKE) Projesi kapsamında üreticilere 199 bin 616 marul fidesi dağıttı. Toplam bütçesi 624 bin 998 lira olan projede 468 bin 748 liralık kısım hibe olarak karşılandı. Fideler, domates seralarında ikinci ürün olarak 32 dekar alana dikilecek. Dağıtıma İl Müdürü Mehmet Tuğrul da katıldı; projeyle seraların yıl boyu üretimde kalması ve arazinin daha verimli kullanılması amaçlanıyor.",
-      "neYapmali": "Seralarda ikinci ürün düşünen üreticiler, benzer TAKE projelerinin çağrı ve şartlarını il veya ilçe tarım müdürlüğünden sorabilir. Yeni dönem başvuruları için çiftçi kayıtlarını güncel tutmak gerekir.",
-      "kaynaklar": [
-        {
-          "ad": "Demokrat Gazetesi",
-          "url": "https://www.demokrat32.com/ureticilere-199-bin-616-marul-fidesi-destegi"
-        }
-      ],
-      "gorsel": "assets/envato/isparta-199-bin-marul-fidesi-take-yuzde-75.jpg",
-      "gorselKucuk": "assets/envato/isparta-199-bin-marul-fidesi-take-yuzde-75-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf",
-      "manset": "Isparta'da \"199 bin\" marul fidesi"
-    },
-    {
-      "id": "aydin-cuma-bulusmalari-17-ilce-6-kasim",
-      "kategori": "Bitkisel Üretim",
-      "tarih": "2026-11-05",
-      "eklenme": "2026-11-05T19:31:36+03:00",
-      "motif": "traktor",
-      "baslik": "Aydın'da tarım ekipleri 6 Kasım'da 17 ilçede aynı saatte üreticiyle buluşuyor",
-      "ozet": "Aydın İl Tarım ve Orman Müdürlüğü, \"Cuma Buluşmaları\" kapsamında 6 Kasım Cuma günü saat 14.00'te 17 ilçede üreticilerle bir araya gelecek. Ekipler Efeler'de Baltaköy, Nazilli'de Hasköy-Kavacık, Söke'de Sofular, Çine'de Bucak gibi birer mahallede sahaya çıkacak. Gündemde incirin kurutulup depolanması, zeytin, kestane ve pamuk üretimi ile 2027 Çiftçi Kayıt Sistemi işlemleri var. B-Reçete uygulaması, anız yakmanın önlenmesi ve orman yangınlarına karşı önlemler de konuşulacak.",
-      "neYapmali": "Aydınlı üreticiler kendi ilçelerindeki buluşma noktasını İl veya İlçe Tarım ve Orman Müdürlüğünden teyit edebilir. ÇKS ya da B-Reçete konusunda sorusu olanlar belgelerini yanında götürerek işlemlerini sorabilir.",
-      "kaynaklar": [
-        {
-          "ad": "Habersitesi.com",
-          "url": "https://www.habersitesi.com/aydin-da-17-ilcede-ureticilerle-bulusulacak-88858h.htm"
-        },
-        {
-          "ad": "Marmaris Yeni Sayfa",
-          "url": "https://www.marmarisyenisayfa.com/haber/aydin-da-17-ilcede-ureticilerle-bulusulacak-781871.html"
-        }
-      ],
-      "gorsel": "assets/envato/aydin-cuma-bulusmalari-17-ilce-6-kasim.jpg",
-      "gorselKucuk": "assets/envato/aydin-cuma-bulusmalari-17-ilce-6-kasim-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf",
-      "manset": "Aydın'da \"17 ilçede\" çiftçi buluşması"
     },
     {
       "id": "ciftci-destek-9-ay-115-5-milyar",
