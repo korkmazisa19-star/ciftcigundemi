@@ -90,7 +90,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/amasya-haberleri/gokhoyuk-tarim-isletmesinde-guzluk-ekilis-suruyor-518736972"
         }
-      ]
+      ],
+      "gorsel": "assets/envato/amasya-gokhoyuk-tigem-guzluk-ekilis-9583-dekar-2026.jpg",
+      "gorselKucuk": "assets/envato/amasya-gokhoyuk-tigem-guzluk-ekilis-9583-dekar-2026-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
     },
     {
       "id": "gaziantep-sahinbey-ciftciye-20628-ton-tohum-destegi-2026",
@@ -4706,7 +4709,6 @@
         "balik-4.jpg"
       ],
       "bugday": [
-        "bugday-6.jpg",
         "bugday-8.jpg"
       ],
       "don": [
