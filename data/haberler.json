@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-20T08:11:00+03:00",
+  "guncelleme": "2026-11-20T12:10:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,40 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "bursa-iznik-zeytinyagi-litresi-200-tl-araci-uretici-dogrudan-satis-2026",
+      "kategori": "Piyasa",
+      "tarih": "2026-11-20",
+      "eklenme": "2026-11-20T12:10:00+03:00",
+      "motif": "zeytin",
+      "baslik": "İznik'te üretici aracıyı devreden çıkardı: Zeytinyağını litresi 200 liradan doğrudan satıyor",
+      "manset": "Zeytinyağının litresi \"200 lira\"!",
+      "ozet": "Bursa'nın zeytin merkezlerinden İznik'te çiftçi İbrahim Kutlu, zeytinyağını aracıya vermek yerine sosyal medya üzerinden kurduğu platformla doğrudan tüketiciye ulaştırmaya başladı. Kutlu, bir ton zeytinin toplanması için yaklaşık 10 işçi çalıştırdığını ve yalnızca işçiliğe 25 bin lira ödediğini anlattı. Zeytinin kilosunu 15-20 liraya vermek zorunda kaldıklarını söyleyen üretici, kendisinden tenekesi bin liraya alınan yağın markette 2 bin-2 bin 500 liraya satıldığını ve ödemelerin 6-7 ay vadeli çekle yapıldığını öne sürdü. Kutlu, ürününün laboratuvar analizine açık olduğunu belirterek soruna kalıcı çözüm beklediklerini dile getirdi.",
+      "neYapmali": "Doğrudan satış yapmak isteyen üreticiler, yağlarını akredite laboratuvarda analiz ettirip etiketleme ve gıda kayıt yükümlülükleri için il tarım ve orman müdürlüğüne danışmalı; vadeli çekle satışta alıcının güvenilirliğini mutlaka kontrol etmeli.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/bursa-haberleri/aracilara-savas-acip-zeytinyagini-litresi-200-liradan-satinca-telefonlari-kilitlendi-518987539"
+        }
+      ]
+    },
+    {
+      "id": "tuik-tarim-gfe-eylul-2026-yillik-yuzde-32-36",
+      "kategori": "Piyasa",
+      "tarih": "2026-11-20",
+      "eklenme": "2026-11-20T12:09:00+03:00",
+      "motif": "para",
+      "baslik": "Çiftçinin girdi maliyeti bir yılda yüzde 32 arttı: En büyük yük enerji ve yağlayıcılarda",
+      "manset": "Enerji kalemi \"yüzde 53\" pahalandı",
+      "ozet": "TÜİK'in açıkladığı Eylül ayı Tarımsal Girdi Fiyat Endeksi'ne göre tarımda kullanılan girdilerin fiyatı bir önceki yılın aynı ayına kıyasla yüzde 32,36 yükseldi. Endeks ağustosa göre yüzde 3,78, geçen yılın aralık ayına göre ise yüzde 25,73 arttı. Tarımda doğrudan kullanılan mal ve hizmetlerde yıllık artış yüzde 33,90 olurken, tarımsal yatırıma katkı sağlayan kalemlerde yüzde 22,97'de kaldı. Hem yıllık hem aylık en sert artış enerji ve yağlayıcılar grubunda görüldü: Bu kalem bir yılda yüzde 53,38, yalnızca eylülde yüzde 9,56 pahalandı.",
+      "neYapmali": "Mazot ve diğer enerji giderleri maliyette en hızlı artan kalem olduğundan, üreticiler sezonluk girdi planlarını güncel fiyatlarla yeniden hesaplayıp mazot ve gübre desteklerinin ödeme takvimini il/ilçe tarım müdürlüğünden takip edebilir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/istanbul-haberleri/tarim-gfe-yillik-yuzde-32-36-artti-519000593"
+        }
+      ]
+    },
     {
       "id": "antalya-serik-turfanda-cilek-hasadi-kilosu-600-tl-2026",
       "kategori": "Bitkisel Üretim",
@@ -3693,46 +3727,6 @@
       "gorselKucuk": "assets/envato/rize-findikli-kivi-fiyati-yari-yariya-dustu-2026-k.jpg",
       "gorselKaynak": "Temsili fotoğraf",
       "manset": "Kivide fiyat \"yarı yarıya\" düştü!"
-    },
-    {
-      "id": "samsun-kkyp-yedek-liste-6-basvuru-hibe-hakki",
-      "kategori": "Hibe",
-      "tarih": "2026-11-05",
-      "eklenme": "2026-11-05T16:44:03+03:00",
-      "motif": "para",
-      "baslik": "Samsun'da KKYP yedek listesi açıklandı: 6 başvuru sahibi hibe sözleşmesi hakkı kazandı",
-      "ozet": "Samsun İl Tarım ve Orman Müdürlüğü, Kırsal Kalkınma Yatırımları Programı'nın 17. etap yedek liste sonuçlarını duyurdu. Yedek listede yer alan 6 başvuru sahibi hibe sözleşmesi imzalamaya hak kazandı. Sonuçlar 4-10 Kasım 2026 arasında beş iş günü boyunca müdürlüğün internet sitesinde ilan edilecek; listede başvuru numarası, kısmen gizlenmiş ad ve kimlik ya da vergi numarası bulunuyor. Hak kazananlara ayrıca tebligat yapılmayacak. Eylülde açıklanan ilk değerlendirmede ilden 166 başvuru yapılmış, 103 proje toplam 159 milyon liralık hibe almaya hak kazanmıştı.",
-      "neYapmali": "KKYP'ye başvurup yedek listede bekleyen Samsunlu yatırımcılar, 10 Kasım'a kadar İl Tarım ve Orman Müdürlüğü sitesindeki 'KKYP Yedek Liste Sonuçları' duyurusunu kontrol etmeli. Tebligat gönderilmeyeceği için sözleşme adımları müdürlükle doğrudan görüşülerek takip edilmeli.",
-      "kaynaklar": [
-        {
-          "ad": "Samsun Gazetesi",
-          "url": "https://www.samsungazetesi.com/samsunda-hibe-bekleyenlere-mujde-liste-aciklandi"
-        }
-      ],
-      "gorsel": "assets/envato/samsun-kkyp-yedek-liste-6-basvuru-hibe-hakki.jpg",
-      "gorselKucuk": "assets/envato/samsun-kkyp-yedek-liste-6-basvuru-hibe-hakki-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf",
-      "manset": "KKYP'de \"6 yedek\" hibe hakkı aldı"
-    },
-    {
-      "id": "duzce-findik-hasat-filesi-45-yatirimci-8-milyon-hibe",
-      "kategori": "Hibe",
-      "tarih": "2026-11-05",
-      "eklenme": "2026-11-05T15:32:22+03:00",
-      "motif": "findik",
-      "baslik": "Düzce'de 45 yatırımcıya fındık hasat filesi hibesi: Toplam ödeme 8 milyon lirayı buluyor",
-      "ozet": "Düzce İl Tarım ve Orman Müdürlüğü, Kırsal Kalkınma Yatırım Programı kapsamında fındık hasat filesi desteği için hibe sözleşmelerini imzalamaya başladı. İl Müdürü Esra Uzun'un verdiği bilgiye göre 2026'da ilde 45 yatırımcı desteğe hak kazandı; ilk aşamada 16 kişiyle sözleşme yapıldı, süreç sürüyor. 45 proje için toplam hibe ödemesi 8 milyon 8 bin 186 lira olarak açıklandı. Uzun, filenin hasat işçiliğini azalttığını, gelecek yılın ürününü taşıyan sürgünleri koruduğunu ve eğimli bahçelerde de kullanılabildiğini anlattı. Fındığın bekletilmeden patozdan geçirilip uygun koşullarda kurutulmasının aflatoksin riskini düşürdüğüne de dikkat çekti.",
-      "neYapmali": "Desteğe hak kazanan Düzceli üreticiler sözleşme işlemleri için İl Tarım ve Orman Müdürlüğü ile görüşmeli. Sonraki dönem başvurularını izlemek isteyenler de kırsal kalkınma birimlerinden bilgi alabilir.",
-      "kaynaklar": [
-        {
-          "ad": "Haber380",
-          "url": "https://www.haber380.com/haber-findik-hasat-filesi-destegi-icin-hibe-sozlesmeleri-imzalandi-91007.html"
-        }
-      ],
-      "gorsel": "assets/envato/duzce-findik-hasat-filesi-45-yatirimci-8-milyon-hibe.jpg",
-      "gorselKucuk": "assets/envato/duzce-findik-hasat-filesi-45-yatirimci-8-milyon-hibe-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf",
-      "manset": "Düzce'de \"45 yatırımcıya\" hasat filesi"
     },
     {
       "id": "ciftci-destek-9-ay-115-5-milyar",
