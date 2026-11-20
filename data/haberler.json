@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-20T12:10:00+03:00",
+  "guncelleme": "2026-11-20T15:10:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,46 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "bursa-buyuksehir-250-ciftciye-45-ton-cendere-bugday-tohumu-bukka-2026",
+      "kategori": "Destek",
+      "tarih": "2026-11-20",
+      "eklenme": "2026-11-20T15:12:00+03:00",
+      "motif": "bugday",
+      "baslik": "Bursa Büyükşehir 250 çiftçiye 45 ton yerli buğday tohumu dağıttı, Kırsal Kalkınma Akademisi açıldı",
+      "manset": "250 çiftçiye \"45 ton\" yerli tohum",
+      "ozet": "Bursa Büyükşehir Belediyesi, iştiraki Tarım Peyzaj AŞ aracılığıyla 250 çiftçiye toplam 45 tonu aşan yerli cendere buğdayı tohumunu yüzde 100 hibe olarak verdi. Erkenci ve kuraklığa dayanıklı olduğu belirtilen tohumla yaklaşık 2 bin 268 dekar alanda ekim hedefleniyor. Dağıtımda küçük ölçekli üreticiler, kadınlar, gençler ve ilk kez hibe alacak çiftçiler öncelikli tutuldu. Aynı törende Bursa Uludağ Üniversitesi ile hazırlanan Bursa Kırsal Kalkınma Akademisi (BUKKA) de devreye alındı; akademi genç ziraat mühendisleriyle kırsal mahallelerde ücretsiz danışmanlık, 2 bin ücretsiz toprak analizi ve 700 işletmede küpeleme hizmeti vermeyi planlıyor.",
+      "neYapmali": "Bursa'daki üreticiler ücretsiz toprak analizi, danışmanlık ve hibe başvurularında rehberlik için Büyükşehir Belediyesi Tarım Peyzaj AŞ ve BUKKA ile iletişime geçebilir; ekim öncesi toprak analizi yaptırmak gübre maliyetini düşürmeye yardımcı olur.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/bursa-haberleri/bursada-uretimin-gucu-bilimsel-bilgiyle-artacak-519093732"
+        }
+      ],
+      "gorsel": "assets/envato/bursa-buyuksehir-250-ciftciye-45-ton-cendere-bugday-tohumu-bukka-2026.jpg",
+      "gorselKucuk": "assets/envato/bursa-buyuksehir-250-ciftciye-45-ton-cendere-bugday-tohumu-bukka-2026-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
+    {
+      "id": "hakkari-yuksekova-kislik-patates-kilosu-20-cuvali-800-tl-2026",
+      "kategori": "Piyasa",
+      "tarih": "2026-11-20",
+      "eklenme": "2026-11-20T15:11:00+03:00",
+      "motif": "patates",
+      "baslik": "Yüksekova'da kışlık patates tezgâhlarda: Kilosu 20, 40 kiloluk çuvalı 800 lira",
+      "manset": "Kış stoğu çuvalla: \"800 lira\"",
+      "ozet": "Hakkari'nin Yüksekova ilçesinde havaların soğumasıyla birlikte kışlık patates satışları başladı. İlçe merkezindeki tezgâhlarda patatesin kilosu 20 liradan, yaklaşık 40 kiloluk çuvalı ise 800 liradan alıcı buluyor. Satıcılar, uzun ve sert geçen kış nedeniyle kalabalık ailelerin kiloluk alım yerine çuvalla stok yapmayı tercih ettiğini anlatıyor. Satılan patateslerin bir kısmı yerli üretim, bir kısmı ise çevre illerden getiriliyor; esnaf soğukların artmasıyla talebin yükselmesini bekliyor.",
+      "neYapmali": "Kışlık patates stoklayan üretici ve tüketiciler, ürünü serin, karanlık ve iyi havalanan bir yerde saklamalı; filizlenmeyi ve çürümeyi önlemek için çuvalları düzenli kontrol etmelidir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/hakkari-haberleri/yuksekovada-kislik-patates-tezgahlarda-yerini-aldi-519106304"
+        }
+      ],
+      "gorsel": "assets/envato/hakkari-yuksekova-kislik-patates-kilosu-20-cuvali-800-tl-2026.jpg",
+      "gorselKucuk": "assets/envato/hakkari-yuksekova-kislik-patates-kilosu-20-cuvali-800-tl-2026-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
     {
       "id": "bursa-iznik-zeytinyagi-litresi-200-tl-araci-uretici-dogrudan-satis-2026",
       "kategori": "Piyasa",
@@ -3689,46 +3729,6 @@
       "manset": "Aydın'da \"17 ilçede\" çiftçi buluşması"
     },
     {
-      "id": "bitlis-ahlat-patates-hasadi-120-bin-ton-2026",
-      "kategori": "Bitkisel Üretim",
-      "tarih": "2026-11-05",
-      "eklenme": "2026-11-05T18:42:31+03:00",
-      "motif": "traktor",
-      "baslik": "Ahlat'ta patates hasadı başladı: 30 bin dekardan 120 bin ton ürün bekleniyor",
-      "ozet": "Bitlis'in Ahlat ilçesinde yemeklik ve tohumluk patates hasadı başladı. Ahlat Ziraat Odası Genel Sekreteri Hüseyin Demirden, ilçede yaklaşık 30 bin dekarda patates yetiştirildiğini ve bu yıl 120 bin ton civarında rekolte beklendiğini söyledi. Ahlat patatesi çevre illerin yanı sıra zincir marketlere ve yurt dışına gönderiliyor. Hasat döneminde aralıksız süren yağışlar tarlaları çamura çevirdi ve çalışmaları aksattı; Demirden yağış nedeniyle birçok çiftçinin mağdur olduğunu, hasadın yaklaşık 15 gün daha süreceğini belirtti. 500 dekarda üretim yapan İrfan Ak ise yaklaşık 2 bin 500 ton ürün aldığını, verimden memnun olduğunu ve depodaki ürünün satışına birkaç gün içinde başlayacaklarını anlattı.",
-      "neYapmali": "Ahlat ve çevresindeki üreticilerin sert soğuklar başlamadan hasadı tamamlayıp ürünü depoya alması önem taşıyor. Islak hasat edilen patatesin depolamadan önce kurumaya bırakılması çürüme kayıplarını azaltır; yağış kaynaklı zararlar için ziraat odası ve ilçe tarım müdürlüğüyle iletişime geçilebilir.",
-      "kaynaklar": [
-        {
-          "ad": "Habersitesi.com",
-          "url": "https://www.habersitesi.com/turkiye-nin-patates-ambarlari-ahlat-ta-hasat-basladi-88446h.htm"
-        }
-      ],
-      "gorsel": "assets/iha/bitlis-ahlat-patates-hasadi-120-bin-ton-2026.jpg",
-      "gorselKucuk": "assets/iha/bitlis-ahlat-patates-hasadi-120-bin-ton-2026-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA",
-      "manset": "Ahlat'ta \"120 bin ton\" patates"
-    },
-    {
-      "id": "rize-findikli-kivi-fiyati-yari-yariya-dustu-2026",
-      "kategori": "Piyasa",
-      "tarih": "2026-11-05",
-      "eklenme": "2026-11-05T17:42:22+03:00",
-      "motif": "para",
-      "baslik": "Fındıklı'da kivi hasadı başladı: Geçen yıl 70-80 liraya satılan kivi için bu yıl yarı fiyat teklif ediliyor",
-      "ozet": "Rize'nin Fındıklı ilçesinde kivi hasadı başladı, ancak üreticiler fiyattan memnun değil. Fındıklı Ziraat Odası Başkanı Mehmet Ali Özsoy, geçen sezon kilosu 70-80 liradan alıcı bulan kivinin bu yıl bunun yaklaşık yarısına alınmak istendiğini söyledi. Özsoy, üretim maliyetleri artarken alım fiyatının düşmesinin üreticiyi zor durumda bıraktığını belirterek sezon için hayırlı olsun diyemediğini ifade etti. Başkan, ithal kivinin yerli ürün karşısında belirgin bir fiyat avantajı oluşturduğunu da vurguladı ve üreticinin yaşadığı sorunların ilgililerle birlikte değerlendirilmesini istedi.",
-      "neYapmali": "Kivi üreticileri satış öncesinde birden fazla alıcıdan teklif almalı, mümkünse soğuk hava deposu imkânını araştırarak ürünü düşük fiyata hemen elden çıkarmaktan kaçınmalı. Fiyat ve ithalat konusundaki talepler için ilçe ziraat odasıyla iletişimde kalmak faydalı olur.",
-      "kaynaklar": [
-        {
-          "ad": "Olay 53",
-          "url": "https://www.olay53.com/haber/findikli-ziraat-odasi-baskani-ozsoydan-kivi-fiyatlarina-tepki-ciftci-perisan-1528390.htm"
-        }
-      ],
-      "gorsel": "assets/envato/rize-findikli-kivi-fiyati-yari-yariya-dustu-2026.jpg",
-      "gorselKucuk": "assets/envato/rize-findikli-kivi-fiyati-yari-yariya-dustu-2026-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf",
-      "manset": "Kivide fiyat \"yarı yarıya\" düştü!"
-    },
-    {
       "id": "ciftci-destek-9-ay-115-5-milyar",
       "kategori": "Destek",
       "tarih": "2026-11-04",
@@ -4702,9 +4702,7 @@
         "balik-5.jpg",
         "balik-4.jpg"
       ],
-      "bugday": [
-        "bugday-8.jpg"
-      ],
+      "bugday": [],
       "don": [
         "don-7.jpg",
         "don-8.jpg"
@@ -4763,9 +4761,7 @@
         "kestane-2.jpg",
         "kestane-3.jpg"
       ],
-      "patates": [
-        "patates-1.jpg"
-      ],
+      "patates": [],
       "lahana": [
         "lahana-1.jpg"
       ]
