@@ -876,7 +876,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/tekirdag-haberleri/marmara-bolgesi-icin-kuvvetli-yagis-uyarisi-sel-ve-su-baskinlarina-dikkat-515644465"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/marmara-kuvvetli-yagis-uyarisi-14-15-kasim-2026.jpg",
+      "gorselKucuk": "assets/iha/marmara-kuvvetli-yagis-uyarisi-14-15-kasim-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "mersin-mut-zeytin-alim-merkezleri-elek-tarti-denetimi-2026",
@@ -1260,9 +1263,9 @@
           "url": "https://www.iha.com.tr/elazig-haberleri/elazigdan-200-milyon-dolarlik-ihracat-abye-alabalik-rusya-japonya-ve-abdye-somon-514917260"
         }
       ],
-      "gorsel": "assets/envato/elazig-alabalik-turk-somonu-40-bin-ton-200-milyon-dolar-2026.jpg",
-      "gorselKucuk": "assets/envato/elazig-alabalik-turk-somonu-40-bin-ton-200-milyon-dolar-2026-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorsel": "assets/iha/elazig-alabalik-turk-somonu-40-bin-ton-200-milyon-dolar-2026.jpg",
+      "gorselKucuk": "assets/iha/elazig-alabalik-turk-somonu-40-bin-ton-200-milyon-dolar-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "aydin-cuma-bulusmalari-13-kasim-17-ilce-2026",
@@ -1578,9 +1581,9 @@
           "url": "https://www.iha.com.tr/mugla-haberleri/mugla-buyuksehir-sera-atiklarini-uretime-kazandiracak-513952039"
         }
       ],
-      "gorsel": "assets/envato/mugla-tarimsal-plastik-atik-urun-destegi-16-kasim-2026.jpg",
-      "gorselKucuk": "assets/envato/mugla-tarimsal-plastik-atik-urun-destegi-16-kasim-2026-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorsel": "assets/iha/mugla-tarimsal-plastik-atik-urun-destegi-16-kasim-2026.jpg",
+      "gorselKucuk": "assets/iha/mugla-tarimsal-plastik-atik-urun-destegi-16-kasim-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "yalova-90-kilo-et-1-ton-bal-imha-2026",
