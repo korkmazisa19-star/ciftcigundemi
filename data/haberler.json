@@ -74,9 +74,9 @@
           "url": "https://www.iha.com.tr/bursa-haberleri/bursada-uretimin-gucu-bilimsel-bilgiyle-artacak-519093732"
         }
       ],
-      "gorsel": "assets/envato/bursa-buyuksehir-250-ciftciye-45-ton-cendere-bugday-tohumu-bukka-2026.jpg",
-      "gorselKucuk": "assets/envato/bursa-buyuksehir-250-ciftciye-45-ton-cendere-bugday-tohumu-bukka-2026-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorsel": "assets/iha/bursa-buyuksehir-250-ciftciye-45-ton-cendere-bugday-tohumu-bukka-2026.jpg",
+      "gorselKucuk": "assets/iha/bursa-buyuksehir-250-ciftciye-45-ton-cendere-bugday-tohumu-bukka-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "hakkari-yuksekova-kislik-patates-kilosu-20-cuvali-800-tl-2026",
@@ -94,9 +94,9 @@
           "url": "https://www.iha.com.tr/hakkari-haberleri/yuksekovada-kislik-patates-tezgahlarda-yerini-aldi-519106304"
         }
       ],
-      "gorsel": "assets/envato/hakkari-yuksekova-kislik-patates-kilosu-20-cuvali-800-tl-2026.jpg",
-      "gorselKucuk": "assets/envato/hakkari-yuksekova-kislik-patates-kilosu-20-cuvali-800-tl-2026-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorsel": "assets/iha/hakkari-yuksekova-kislik-patates-kilosu-20-cuvali-800-tl-2026.jpg",
+      "gorselKucuk": "assets/iha/hakkari-yuksekova-kislik-patates-kilosu-20-cuvali-800-tl-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "bursa-iznik-zeytinyagi-litresi-200-tl-araci-uretici-dogrudan-satis-2026",
@@ -113,7 +113,11 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/bursa-haberleri/aracilara-savas-acip-zeytinyagini-litresi-200-liradan-satinca-telefonlari-kilitlendi-518987539"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/bursa-iznik-zeytinyagi-litresi-200-tl-araci-uretici-dogrudan-satis-2026.jpg",
+      "gorselKucuk": "assets/iha/bursa-iznik-zeytinyagi-litresi-200-tl-araci-uretici-dogrudan-satis-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf/Video: İHA",
+      "video": "assets/video/bursa-iznik-zeytinyagi-litresi-200-tl-araci-uretici-dogrudan-satis-2026.mp4"
     },
     {
       "id": "tuik-tarim-gfe-eylul-2026-yillik-yuzde-32-36",
@@ -147,7 +151,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/antalya-haberleri/antalyada-sezonun-ilk-cilek-hasadi-basladi-kilosu-600-liraya-kadar-cikiyor-518774536"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/antalya-serik-turfanda-cilek-hasadi-kilosu-600-tl-2026.jpg",
+      "gorselKucuk": "assets/iha/antalya-serik-turfanda-cilek-hasadi-kilosu-600-tl-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "amasya-gokhoyuk-tigem-guzluk-ekilis-9583-dekar-2026",
@@ -165,9 +172,9 @@
           "url": "https://www.iha.com.tr/amasya-haberleri/gokhoyuk-tarim-isletmesinde-guzluk-ekilis-suruyor-518736972"
         }
       ],
-      "gorsel": "assets/envato/amasya-gokhoyuk-tigem-guzluk-ekilis-9583-dekar-2026.jpg",
-      "gorselKucuk": "assets/envato/amasya-gokhoyuk-tigem-guzluk-ekilis-9583-dekar-2026-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorsel": "assets/iha/amasya-gokhoyuk-tigem-guzluk-ekilis-9583-dekar-2026.jpg",
+      "gorselKucuk": "assets/iha/amasya-gokhoyuk-tigem-guzluk-ekilis-9583-dekar-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "gaziantep-sahinbey-ciftciye-20628-ton-tohum-destegi-2026",
@@ -185,9 +192,9 @@
           "url": "https://www.iha.com.tr/gaziantep-haberleri/tahmazoglu-dagittigi-tohumlari-ciftcilerle-ekti-518644135"
         }
       ],
-      "gorsel": "assets/envato/gaziantep-sahinbey-ciftciye-20628-ton-tohum-destegi-2026.jpg",
-      "gorselKucuk": "assets/envato/gaziantep-sahinbey-ciftciye-20628-ton-tohum-destegi-2026-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorsel": "assets/iha/gaziantep-sahinbey-ciftciye-20628-ton-tohum-destegi-2026.jpg",
+      "gorselKucuk": "assets/iha/gaziantep-sahinbey-ciftciye-20628-ton-tohum-destegi-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "adiyaman-celikhan-ciftcilere-macar-figi-tohumu-yuzde-75-destek-2026",
@@ -204,7 +211,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/adiyaman-haberleri/celikhanda-ciftcilere-macar-figi-tohumu-destegi-518618690"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/adiyaman-celikhan-ciftcilere-macar-figi-tohumu-yuzde-75-destek-2026.jpg",
+      "gorselKucuk": "assets/iha/adiyaman-celikhan-ciftcilere-macar-figi-tohumu-yuzde-75-destek-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "manisa-buyuksehir-5-bin-ureticiye-13-milyon-metre-damla-sulama-borusu-2026",
