@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-19T23:11:00+03:00",
+  "guncelleme": "2026-11-20T08:11:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,40 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "antalya-serik-turfanda-cilek-hasadi-kilosu-600-tl-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-19",
+      "eklenme": "2026-11-20T08:11:00+03:00",
+      "motif": "tohum",
+      "baslik": "Serik'te sezonun ilk turfanda çileği toplandı: Kilosu 600 liraya kadar çıkıyor",
+      "manset": "İlk çileğin kilosu \"600 lira\"!",
+      "ozet": "Antalya'nın Serik ilçesinde eylül ortasında dikilen çilek fideleri yaklaşık 55-60 günlük bakımın ardından ilk ürününü verdi ve sezonun turfanda hasadı başladı. Üreticiler ilk çileklerin kilogramının 500 ile 600 lira arasında alıcı bulduğunu, ürünün büyük kısmının bu fiyat düzeyi nedeniyle pastanelere gittiğini aktarıyor. Semt pazarlarında ise kilo yerine 200-300 gramlık küçük paketlerle satış yapılıyor. 12 dönüme yakın alanda üretim yapan bir çiftçi bu sezon 14-15 ton ürün beklediğini, kapalı ve çok yağışlı havaların pas ve çürümeye yol açabildiğini belirtti. Hasadın artmasıyla fiyatların gerilemesi ve talebin yükselmesi bekleniyor.",
+      "neYapmali": "Çilek üreticileri yağışlı ve kapalı dönemlerde pas ve çürümeye karşı bahçeyi yakından izlemeli, ilaçlama programı için ilçe tarım ve orman müdürlüğünün teknik önerilerini almalıdır.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/antalya-haberleri/antalyada-sezonun-ilk-cilek-hasadi-basladi-kilosu-600-liraya-kadar-cikiyor-518774536"
+        }
+      ]
+    },
+    {
+      "id": "amasya-gokhoyuk-tigem-guzluk-ekilis-9583-dekar-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-19",
+      "eklenme": "2026-11-20T08:10:00+03:00",
+      "motif": "bugday",
+      "baslik": "TİGEM Gökhöyük İşletmesi'nde güzlük ekim sürüyor: Buğday ve fiğ toprağa atılıyor",
+      "manset": "Gökhöyük'te \"9 bin 583 dekar\" ekim",
+      "ozet": "Amasya'daki Tarım İşletmeleri Genel Müdürlüğü'ne (TİGEM) bağlı Gökhöyük Tarım İşletmesi'nde 2026-2027 üretim yılının güzlük ekimleri takvime uygun ilerliyor. İşletmede 2 bin 55 dekarda Altınova 2002 fiğ çeşidi ekiliyor. Buğdayda ise 4 bin 746 dekarda Flamura 85, 2 bin 782 dekarda Kate A-1 çeşidi toprağa atılıyor. Bu rakamlarla güzlük ekimin toplam alanı 9 bin 583 dekara ulaşıyor.",
+      "neYapmali": "Güzlük ekimini henüz tamamlamamış üreticiler bölgeye uygun sertifikalı tohum ve ekim zamanı için il ya da ilçe tarım ve orman müdürlüğüne danışabilir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/amasya-haberleri/gokhoyuk-tarim-isletmesinde-guzluk-ekilis-suruyor-518736972"
+        }
+      ]
+    },
     {
       "id": "gaziantep-sahinbey-ciftciye-20628-ton-tohum-destegi-2026",
       "kategori": "Destek",
@@ -3696,58 +3730,6 @@
       "gorselKucuk": "assets/envato/duzce-findik-hasat-filesi-45-yatirimci-8-milyon-hibe-k.jpg",
       "gorselKaynak": "Temsili fotoğraf",
       "manset": "Düzce'de \"45 yatırımcıya\" hasat filesi"
-    },
-    {
-      "id": "antalya-buyuksehir-91-uretici-sera-sensoru",
-      "kategori": "Hibe",
-      "tarih": "2026-11-05",
-      "eklenme": "2026-11-05T15:31:22+03:00",
-      "motif": "sera",
-      "baslik": "Antalya'da 91 seracıya dijital sensör hibesi: Sıcaklık, nem ve don riski telefondan izlenecek",
-      "ozet": "Antalya Büyükşehir Belediyesi, Dijital Tarım Projesi kapsamında örtü altı üreticilerine sensör vermeyi sürdürüyor. Son dağıtımda Aksu'nun Murtuna ve Gökdere mahalleleri ile Kaş'ın Ahatlı mahallesinde toplam 91 üretici destek aldı; bunun 61'i Aksu'daki iki mahalleye gitti. Cihazlar seranın sıcaklık ve nemini telefona anlık aktarıyor, ani sıcaklık değişiminde ve don riskinde alarm kurulabiliyor. Üreticiler, kışın sobayla ısıtılan seralarda gece nöbetine daha az ihtiyaç duyacaklarını söylüyor. Proje Elmalı, Kumluca, Demre, Finike, Kaş, Serik ve Aksu'da uygulanıyor.",
-      "neYapmali": "Projenin uygulandığı bölgelerdeki seracılar başvuru koşullarını Büyükşehir Belediyesi Tarımsal Hizmetler Dairesi'nden sorabilir. Haberde başvuru tarihi veya şartı açıklanmadığı için güncel bilgiyi kurumdan teyit etmek gerekir.",
-      "kaynaklar": [
-        {
-          "ad": "Mersin Haber / İHA",
-          "url": "https://www.mersinhaber.com/haber-buyuksehirden-ureticilere-dijital-tarim-destegi-antalya/836681"
-        },
-        {
-          "ad": "Herkes Duysun",
-          "url": "https://herkesduysun.com/ekonomi/buyuksehir-den-ureticilere-dijital-tarim-destegi-051126391/"
-        }
-      ],
-      "gorsel": "assets/envato/antalya-buyuksehir-91-uretici-sera-sensoru.jpg",
-      "gorselKucuk": "assets/envato/antalya-buyuksehir-91-uretici-sera-sensoru-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf",
-      "manset": "Seracıya \"dijital sensör\" hibesi"
-    },
-    {
-      "id": "zeytin-hasat-maliyeti-karacasu-bandirma-tbmm",
-      "kategori": "Piyasa",
-      "tarih": "2026-11-04",
-      "eklenme": "2026-11-05T14:30:30+03:00",
-      "motif": "zeytin",
-      "baslik": "Zeytinde hasat maliyeti tepkisi: Aydın'da üretici, Bandırma'da eski vekil, Meclis'te Coşar destek istedi",
-      "ozet": "Aydın Karacasu'da 66 yaşındaki üretici Kemal Yıldırım, 4 Kasım'da yerel basına kasa başına 2 bin lira toplama ücreti ödediğini, zeytini ise kilosu 20 liradan sattığını anlattı. Balıkesir'de üreticilerle görüşen 26. Dönem CHP Milletvekili Namık Havutça, üreticilerin günlük yevmiyeyi 1.300-1.500 lira, bazı bahçelerde toplama maliyetini kilo başına 30-40 lira olarak aktardığını belirtti; Havutça alım fiyatının hasat bitmeden açıklanmasını ve kredi borçlarına erteleme tanınmasını istedi. YENİ Parti Antalya Milletvekili Aliye Coşar da TBMM Genel Kurulu'nda zeytin ve zeytinyağı üreticisine hasat döneminde acil hibe ve doğrudan destek paketi çağrısı yaptı. Rakamlar üreticilerin ve konuşmacıların beyanına dayanıyor; bu haberlerde Tarım ve Orman Bakanlığı'nın bir yanıtı yer almıyor.",
-      "neYapmali": "Hasada başlamadan önce kendi bahçenizin kilo başına toplama maliyetini hesaplayıp birliklerin ve alıcıların fiyatlarıyla karşılaştırın. Kredi borcu olan üreticiler güncel erteleme imkânlarını bankalarından ve ziraat odalarından sorabilir.",
-      "kaynaklar": [
-        {
-          "ad": "Aydın Ses Gazetesi",
-          "url": "https://www.sesgazetesi.com.tr/karacasulu-zeytinci-mazot-100-lirayi-asti-ciftcinin-kolundan-kimse-tutmuyor"
-        },
-        {
-          "ad": "Politikam",
-          "url": "https://www.politikam.com/hasat-suruyor-ureticinin-umudu-tukeniyor"
-        },
-        {
-          "ad": "Antalya Körfez Gazetesi",
-          "url": "https://www.antalyakorfez.com/zeytin-agacta-kalabilir-tbmmde-acil-destek-cagrisi"
-        }
-      ],
-      "gorsel": "assets/envato/zeytin-hasat-maliyeti-karacasu-bandirma-tbmm.jpg",
-      "gorselKucuk": "assets/envato/zeytin-hasat-maliyeti-karacasu-bandirma-tbmm-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf",
-      "manset": "Zeytinde \"hasat maliyeti\" tepkisi"
     },
     {
       "id": "ciftci-destek-9-ay-115-5-milyar",
