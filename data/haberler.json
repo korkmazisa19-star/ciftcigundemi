@@ -4540,7 +4540,8 @@
     }
   ],
   "hava": {
-    "donem": "20-24 Kasım",
+    "donem": "21-25 Kasım",
+    "genel": "Önümüzdeki beş günde 36 il merkezinden 9'unda (Erzurum, Kars, Ardahan, Uşak, Yozgat, Çorum, Bolu, Edirne, Kırklareli) gece sıcaklığı 0°C ve altına iniyor; en soğuk değer Ardahan'da 23 Kasım için beklenen −6°C.",
     "iller": [
       {
         "il": "Erzurum",
@@ -4549,13 +4550,13 @@
       },
       {
         "il": "Kars",
-        "min": -3,
-        "not": "en soğuk 23 Kasım, −3°C"
+        "min": -4,
+        "not": "en soğuk 23 Kasım, −4°C"
       },
       {
         "il": "Ardahan",
-        "min": -3,
-        "not": "en soğuk 23 Kasım, −3°C"
+        "min": -6,
+        "not": "en soğuk 23 Kasım, −6°C"
       },
       {
         "il": "Van",
@@ -4575,31 +4576,31 @@
       },
       {
         "il": "Konya",
-        "min": 7
+        "min": 5
       },
       {
         "il": "Ankara",
-        "min": 5
+        "min": 3
       },
       {
         "il": "Afyonkarahisar",
-        "min": 4
+        "min": 2
       },
       {
         "il": "Eskişehir",
-        "min": 4
+        "min": 2
       },
       {
         "il": "Kütahya",
-        "min": 5
+        "min": 2
       },
       {
         "il": "Uşak",
-        "min": 5
+        "min": 0
       },
       {
         "il": "Isparta",
-        "min": 6
+        "min": 4
       },
       {
         "il": "Malatya",
@@ -4607,67 +4608,69 @@
       },
       {
         "il": "Yozgat",
-        "min": 2
+        "min": -1,
+        "not": "en soğuk 25 Kasım, −1°C"
       },
       {
         "il": "Çorum",
-        "min": 5
+        "min": -1,
+        "not": "en soğuk 25 Kasım, −1°C"
       },
       {
         "il": "Bolu",
-        "min": 3
+        "min": 0
       },
       {
         "il": "Edirne",
-        "min": 4
+        "min": 0
       },
       {
         "il": "Kırklareli",
-        "min": 3
+        "min": 0
       },
       {
         "il": "Tekirdağ",
-        "min": 7
+        "min": 2
       },
       {
         "il": "Çanakkale",
-        "min": 9
+        "min": 4
       },
       {
         "il": "Balıkesir",
-        "min": 7
+        "min": 2
       },
       {
         "il": "Bursa",
-        "min": 10
+        "min": 4
       },
       {
         "il": "Manisa",
-        "min": 11
+        "min": 7
       },
       {
         "il": "İzmir",
-        "min": 13
+        "min": 10
       },
       {
         "il": "Aydın",
-        "min": 12
+        "min": 9
       },
       {
         "il": "Denizli",
-        "min": 10
+        "min": 6
       },
       {
         "il": "Kocaeli",
-        "min": 10
+        "min": 5
       },
       {
         "il": "Sakarya",
-        "min": 9
+        "min": 5
       },
       {
         "il": "Samsun",
-        "min": 9
+        "min": 7
       },
       {
         "il": "Trabzon",
@@ -4679,19 +4682,18 @@
       },
       {
         "il": "Adana",
-        "min": 12
+        "min": 11
       },
       {
         "il": "Şanlıurfa",
-        "min": 10
+        "min": 9
       },
       {
         "il": "İstanbul",
-        "min": 7
+        "min": 4
       }
     ],
-    "genel": "Önümüzdeki beş günde 36 il merkezinden 3'ünde (Erzurum, Kars, Ardahan) gece sıcaklığı 0°C ve altına iniyor; en soğuk değer Erzurum'da 23 Kasım için beklenen −4°C.",
-    "kaynak": "MGM 5 günlük il merkezi tahmini (19 Kasım 2026 20:24 itibarıyla)",
+    "kaynak": "MGM 5 günlük il merkezi tahmini (20 Kasım 2026 20:11 itibarıyla)",
     "haber": "konya-ovasi-don-hububata-zarar-vermedi-misirda-nem-15-2026"
   },
   "fotograflar": {
