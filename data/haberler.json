@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-20T23:09:00+03:00",
+  "guncelleme": "2026-11-22T18:59:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,87 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "antalya-serik-zeytinyagi-fabrika-kuyrugu-30-saat-yag-orani-dustu-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-22",
+      "eklenme": "2026-11-22T18:59:00+03:00",
+      "motif": "zeytin",
+      "baslik": "Serik'te zeytin üreticisi fabrika önünde 30 saati aşan kuyrukta: Rekolte yüksek, yağ oranı düşük",
+      "manset": "Sıra \"30 saat\", yağ yarı yarıya",
+      "ozet": "Antalya'nın Serik ilçesinde zeytin hasadının hızlanmasıyla yağhanelerin önünde traktör ve kamyonet kuyrukları oluştu; üreticiler ürünlerini sıkmak için 24 ila 35 saat arasında bekliyor. Bu yıl zeytin rekoltesi yüksek olsa da yağ oranı belirgin şekilde geriledi. Fabrika işletmecilerinden Şevket Gaffar, 8 kilonun üzerinde zeytinden ancak 1 kilo yağ alınabildiğini, yoğunluğun yaklaşık 40 gün daha süreceğini belirterek üreticilere toplamayı yavaşlatma çağrısı yaptı. Üretici Tevfik Karatoy ise önceki yıllarda 5 kilo zeytinden 1 kilo yağ aldıklarını hatırlattı. İşletmeciler, karasu ve pirina gibi atıkların nakliyesinin de sorun haline geldiğini aktardı.",
+      "neYapmali": "Serikli üreticiler hasadı yağhanenin kapasitesine göre planlayıp randevu ya da sıra durumunu önceden sorabilir; bekleyen zeytinin çuvalda ısınıp kızışmaması için kasada, havadar ortamda tutulması kaliteyi korur.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/antalya-haberleri/zeytinyagi-fabrikalarinin-onunde-uzun-kuyruklar-olustu-520035120"
+        }
+      ],
+      "gorsel": "assets/iha/antalya-serik-zeytinyagi-fabrika-kuyrugu-30-saat-yag-orani-dustu-2026.jpg",
+      "gorselKucuk": "assets/iha/antalya-serik-zeytinyagi-fabrika-kuyrugu-30-saat-yag-orani-dustu-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
+    },
+    {
+      "id": "trabzon-palamut-bogazdan-geri-dondu-tanesi-100-125-tl-2026",
+      "kategori": "Piyasa",
+      "tarih": "2026-11-22",
+      "eklenme": "2026-11-22T18:58:00+03:00",
+      "motif": "balik",
+      "baslik": "Göç etmesi beklenen palamut Boğaz'dan geri döndü: Trabzon tezgâhlarında bolluk sürüyor",
+      "manset": "Palamut geri döndü, tanesi \"125 lira\"",
+      "ozet": "Trabzon'da balıkçı esnafı, bu mevsimde Karadeniz'den çıkması beklenen palamudun İstanbul Boğazı'ndan geri dönmesiyle tezgâhlarda bolluğun sürdüğünü söyledi. Esnaftan Ahmet Çoğalmış, yaklaşık 1 kilogramlık palamudun tanesinin 100-125 lira arasında satıldığını, hamsinin kilogram fiyatının ise 400 liraya ulaştığını aktardı. Çoğalmış bolluğun 15-20 gün daha sürebileceğini öngördü. 25 yıllık balıkçı Emin Avcı da böyle bir duruma daha önce rastlamadığını, ancak sezon başına göre talebin azaldığını belirtti.",
+      "neYapmali": "Balıkçılar avın uzamasına karşın av yasağı ve boy sınırı kurallarına uymalı; tüketiciler fiyat karşılaştırması için birden fazla tezgâha bakabilir, toptan alımda soğuk zinciri gözetmelidir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/trabzon-haberleri/goc-etmesi-beklenen-palamut-geri-dondu-520039997"
+        }
+      ],
+      "gorsel": "assets/iha/trabzon-palamut-bogazdan-geri-dondu-tanesi-100-125-tl-2026.jpg",
+      "gorselKucuk": "assets/iha/trabzon-palamut-bogazdan-geri-dondu-tanesi-100-125-tl-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf/Video: İHA",
+      "video": "assets/video/trabzon-palamut-bogazdan-geri-dondu-tanesi-100-125-tl-2026.mp4"
+    },
+    {
+      "id": "nigde-bozkoy-don-patates-hasadi-gecikti-verim-yariya-dustu-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-22",
+      "eklenme": "2026-11-22T18:57:00+03:00",
+      "motif": "patates",
+      "baslik": "Niğde'nin yüksek rakımlı tarlalarında don vurdu: Geciken patates hasadında ürünün yarısı tarlada kaldı",
+      "manset": "Patatesin \"yarısı\" tarlada kaldı",
+      "ozet": "Niğde'nin Çiftlik ilçesine bağlı Bozköy beldesinde ilkbahardaki yoğun yağışlar yüzünden patates ekimi temmuz ortasına kadar sarktı, hasat da soğuklar nedeniyle gecikti. Bin 600 ila bin 800 metre rakımda üretim yapan ziraat mühendisi Tamer Tekeli, normalde 15 Ekim'e kadar biten hasadın 20 Kasım'da hâlâ sürdüğünü söyledi. Tekeli, hasat öncesinde sıcaklığın sıfırın altında 10-12 dereceye düştüğünü, dondan kaynaklı kaybın yüzde 40-50 arasında olduğunu ve ürünün yaklaşık yarısını tarlada bırakmak zorunda kaldığını anlattı.",
+      "neYapmali": "Dondan zarar gören üreticiler TARSİM poliçesi varsa hasarı vakit kaybetmeden bildirmeli; sigortasız olanlar zarar tespiti için ilçe tarım ve orman müdürlüğüne başvurabilir. Donmuş yumruların depoda çürüyüp sağlam ürünü bozmaması için ayıklanması gerekir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/nigde-haberleri/nigdenin-yuksek-rakimli-arazilerinde-geciken-patates-hasadi-ile-verim-yariya-dustu-520004533"
+        }
+      ],
+      "gorsel": "assets/iha/nigde-bozkoy-don-patates-hasadi-gecikti-verim-yariya-dustu-2026.jpg",
+      "gorselKucuk": "assets/iha/nigde-bozkoy-don-patates-hasadi-gecikti-verim-yariya-dustu-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
+    },
+    {
+      "id": "mersin-akdeniz-narenciye-meyve-sinegi-dijital-tuzak-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-22",
+      "eklenme": "2026-11-22T18:56:00+03:00",
+      "motif": "narenciye",
+      "baslik": "Mersin'de narenciye bahçelerine dijital tuzak: Akdeniz meyve sineği uzaktan izlenecek",
+      "manset": "Meyve sineğine \"dijital\" nöbet",
+      "ozet": "Mersin'in Akdeniz ilçesinde narenciyenin önemli zararlılarından Akdeniz meyve sineğiyle mücadele için dijital tuzak uygulaması başlatıldı. İlk kurulum, bölgedeki önder üreticilerden birinin bahçesinde Mersin İl Tarım ve Orman Müdürü Erdem Karadağ ile ilçe müdürlüğü ekiplerinin katılımıyla yapıldı. Tuzaklardan gelen verilerle zararlının popülasyonunun düzenli izlenmesi ve ilaçlama gibi mücadele adımlarının doğru zamanda atılması amaçlanıyor. Müdürlük, uygulamanın ürün kaybını azaltmaya katkı sağlayacağını belirtti.",
+      "neYapmali": "Narenciye üreticileri tuzak verilerine göre yapılan mücadele uyarılarını ilçe tarım ve orman müdürlüğünden takip etmeli; dökülen ve kurtlu meyveleri bahçede bırakmadan toplayıp imha etmek zararlının çoğalmasını azaltır.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/mersin-haberleri/akdenizde-narenciye-bahcelerine-dijital-koruma-520085733"
+        }
+      ],
+      "gorsel": "assets/iha/mersin-akdeniz-narenciye-meyve-sinegi-dijital-tuzak-2026.jpg",
+      "gorselKucuk": "assets/iha/mersin-akdeniz-narenciye-meyve-sinegi-dijital-tuzak-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
+    },
     {
       "id": "batman-sason-ayi-25-ari-kovanina-zarar-verdi-2026",
       "kategori": "Hayvancılık",
@@ -3651,86 +3732,6 @@
       "manset": "Toroslar'da \"ilk safran\" hasadı"
     },
     {
-      "id": "elazig-hos-40-bin-ton-uzum-alici-isikver-tbmm",
-      "kategori": "Piyasa",
-      "tarih": "2026-11-05",
-      "eklenme": "2026-11-06T04:30:25+03:00",
-      "motif": "traktor",
-      "baslik": "Elazığ'da üzüm üreticisi alıcı bulamıyor: Milletvekili Işıkver, Hoş bölgesindeki 40 bin ton için taban fiyat istedi",
-      "ozet": "MHP Elazığ Milletvekili Semih Işıkver, Ticaret Bakanlığı'nın 2027 bütçesinin görüşüldüğü komisyon toplantısında ilin bağcılarının sorunlarını gündeme getirdi. Işıkver'e göre Hoş bölgesi köylerinde yaklaşık 40 bin ton sofralık üzüm pazar bulamadı ve bu durum yaklaşık 30 bin kişiyi etkiliyor. İl Tarım ve Orman Müdürlüğü verilerine dayanarak Elazığ'da 108 bin 284 dekarda bağ bulunduğunu, yaklaşık 7 bin ailenin bu işle uğraştığını ve yıllık ortalama üretimin 120 bin ton olduğunu aktardı. Milletvekili, TMO ya da Tarım Kredi eliyle kamu alımı, taban fiyat, ürünün yurt, okul, kışla ve huzurevlerinde değerlendirilmesi ile bölgesel bir meyve suyu ve şıra tesisi talep etti. Bunlar Işıkver'in değerlendirmesi ve önerileri olup kaynak haberde Bakanlık tarafının bir yanıtı yer almıyor.",
-      "neYapmali": "Elinde ürün kalan bağcılar stok miktarını ilçe tarım müdürlüğü ve ziraat odasına bildirebilir. Kamu alımı ya da taban fiyat konusunda şimdilik açıklanmış bir karar bulunmadığından satış planı yaparken resmî duyuruları takip etmekte fayda var.",
-      "kaynaklar": [
-        {
-          "ad": "Elazığ Sonsöz",
-          "url": "https://www.elazigsonsoz.com/isikver-tbmm-de-uzum-ureticilerinin-sesi-olmaya-devam-ediyor/17267"
-        }
-      ],
-      "gorsel": "assets/envato/elazig-hos-40-bin-ton-uzum-alici-isikver-tbmm.jpg",
-      "gorselKucuk": "assets/envato/elazig-hos-40-bin-ton-uzum-alici-isikver-tbmm-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf",
-      "manset": "Hoş üzümü \"alıcı bekliyor\""
-    },
-    {
-      "id": "bolu-hayvan-pazarlari-9-kasimda-aciliyor",
-      "kategori": "Hayvancılık",
-      "tarih": "2026-11-05",
-      "eklenme": "2026-11-06T02:29:54+03:00",
-      "motif": "sut",
-      "baslik": "Bolu'da kapalı hayvan pazarları 9 Kasım'da yeniden açılıyor",
-      "ozet": "Bolu'da il merkezi ve ilçelerdeki hayvan pazarları, yaklaşık bir buçuk aylık aranın ardından 9 Kasım Pazartesi günü yeniden hizmete giriyor. Pazarlar, İl Tarım ve Orman Müdürlüğü'nün aldığı kısıtlama kararıyla 29 Eylül'de kapatılmıştı. Karar, hayvan hareketlerine yönelik önlemler kapsamında uygulanmıştı; haberde belirli bir hastalık ya da neden belirtilmedi. Yetkililer, pazarlar açıldıktan sonra da hayvan hareketleri ve pazar faaliyetlerine ilişkin geçerli kurallara uyulması gerektiğini hatırlattı.",
-      "neYapmali": "Bolu'da hayvan alıp satacak üreticiler, pazara gitmeden önce hayvan hareketlerine ilişkin güncel kuralları İl veya İlçe Tarım ve Orman Müdürlüğü'nden öğrenmeli.",
-      "kaynaklar": [
-        {
-          "ad": "TV Bolu",
-          "url": "https://tvbolu.com.tr/haber/hayvan-pazarlari-yeniden-aciliyor-tarih-belli-oldu"
-        }
-      ],
-      "gorsel": "assets/envato/bolu-hayvan-pazarlari-9-kasimda-aciliyor.jpg",
-      "gorselKucuk": "assets/envato/bolu-hayvan-pazarlari-9-kasimda-aciliyor-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf",
-      "manset": "Bolu'da pazarlar \"9 Kasım'da\" açılıyor"
-    },
-    {
-      "id": "mus-tiryaki-ciftci-bulusmalari-rejeneratif-tarim-2026",
-      "kategori": "Bitkisel Üretim",
-      "tarih": "2026-11-05",
-      "eklenme": "2026-11-06T00:41:45+03:00",
-      "motif": "bugday",
-      "baslik": "Muş'ta buğday ve pancar üreticilerine yenileyici tarım eğitimi: Program 130'u aşkın çiftçiye ulaştı",
-      "ozet": "Tiryaki Agro'nun Muş'ta yürüttüğü Tiryaki Tarım Çiftçi Buluşmaları'nın dördüncüsü yapıldı. Şirketin açıklamasına göre 2026 boyunca dört kez düzenlenen yüz yüze eğitimler ve sezon boyu verilen dijital destekle 130'un üzerinde lider çiftçiye ulaşıldı; programın dijital topluluğunda ise 150'den fazla üretici yer alıyor. Eğitimlerde buğday ve şeker pancarı yetiştiriciliği, yenileyici (rejeneratif) tarım, tarımsal karbon ayak izi, bütçeleme, finansal okuryazarlık ve dijital tarım konuları işlendi. Program toprak analizi ve uydu tabanlı tarla izlemeyi de içeriyor.",
-      "neYapmali": "Muş ve çevresindeki buğday ve pancar üreticileri, toprak analizi ve uydu takibi gibi uygulamalara katılım şartlarını program yürütücüsünden öğrenebilir. Toprak analizi yaptırmak, gübre planlamasında maliyeti düşürmenin ilk adımıdır.",
-      "kaynaklar": [
-        {
-          "ad": "Ekonomi Gazetesi",
-          "url": "https://www.ekonomigazetesi.com/sirket-haberleri/tiryaki-agro-rejeneratif-tarimi-musta-ciftcilerle-birlikte-gelistiriyor-91470"
-        }
-      ],
-      "gorsel": "assets/envato/mus-tiryaki-ciftci-bulusmalari-rejeneratif-tarim-2026.jpg",
-      "gorselKucuk": "assets/envato/mus-tiryaki-ciftci-bulusmalari-rejeneratif-tarim-2026-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf",
-      "manset": "Muş'ta \"yenileyici tarım\" eğitimi"
-    },
-    {
-      "id": "konya-aksehir-belediyesi-111-ciftciye-tohumluk-arpa",
-      "kategori": "Destek",
-      "tarih": "2026-11-05",
-      "eklenme": "2026-11-05T22:41:37+03:00",
-      "motif": "bugday",
-      "baslik": "Akşehir Belediyesi 111 çiftçiye 47,9 ton tohumluk arpa hibe etti",
-      "ozet": "Konya'nın Akşehir ilçesinde belediye, kırsal mahallelerde başvuru yapan 111 çiftçiye toplam 47 bin 900 kilogram tohumluk arpa dağıttı. Belediye Başkanı A. Nuri Köksal'ın verdiği bilgiye göre dağıtılan arpanın yaklaşık yüzde 80'i belediyenin Yaşarlar Mahallesi'ndeki 200 dekarlık tarlasında üretildi, kalan kısmı piyasadan alındı. Köksal, daha önce domates, biber ve çilek fidesi verdiklerini hatırlatarak sırada besicilere yemlik arpa, ardından arıcılara ilaç desteği olduğunu söyledi ve desteklerin her yıl artarak süreceğini belirtti.",
-      "neYapmali": "Akşehirli besiciler ve arıcılar, duyurulan yemlik arpa ve ilaç destekleri için başvuru zamanını ve şartlarını belediyeden takip edebilir. Tohumluk arpa alan üreticiler ekimi uygun tava denk getirmeye dikkat etmeli.",
-      "kaynaklar": [
-        {
-          "ad": "Konya Gündem",
-          "url": "https://konyagundem.com/ekonomi/aksehirde-ciftciye-buyuk-destek-70041h"
-        }
-      ],
-      "gorsel": "assets/envato/konya-aksehir-belediyesi-111-ciftciye-tohumluk-arpa.jpg",
-      "gorselKucuk": "assets/envato/konya-aksehir-belediyesi-111-ciftciye-tohumluk-arpa-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf",
-      "manset": "Akşehir'de \"47,9 ton\" arpa hibesi"
-    },
-    {
       "id": "ciftci-destek-9-ay-115-5-milyar",
       "kategori": "Destek",
       "tarih": "2026-11-04",
@@ -4220,18 +4221,6 @@
     }
   ],
   "takvim": [
-    {
-      "tarih": "2026-11-20",
-      "baslik": "Yüzde 50 destekli zeytin ve hurma fidanı başvurusu",
-      "kapsam": "Bilecik (Bayırköy)",
-      "haber": "bilecik-bayirkoy-yuzde-50-zeytin-hurma-fidani-20-kasim"
-    },
-    {
-      "tarih": "2026-11-20",
-      "baslik": "Uşak KKYP yedek liste: Sözleşme evrakı teslimi",
-      "kapsam": "Uşak",
-      "haber": "usak-kkyp-17-etap-yedek-liste-20-kasim-evrak"
-    },
     {
       "tarih": "2026-11-23",
       "baslik": "Tohum ve gübre desteği",
