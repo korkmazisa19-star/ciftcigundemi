@@ -4526,93 +4526,105 @@
     }
   ],
   "hava": {
-    "donem": "21-25 Kasım",
-    "genel": "Önümüzdeki beş günde 36 il merkezinden 9'unda (Erzurum, Kars, Ardahan, Uşak, Yozgat, Çorum, Bolu, Edirne, Kırklareli) gece sıcaklığı 0°C ve altına iniyor; en soğuk değer Ardahan'da 23 Kasım için beklenen −6°C.",
+    "donem": "23-27 Kasım",
+    "genel": "Önümüzdeki beş günde 36 il merkezinden 19'unda gece sıcaklığı 0°C ve altına iniyor; en sert soğuk 26 Kasım'da Erzurum'da beklenen −12°C, onu Ardahan (−10°C) ve Kars (−8°C) izliyor.",
     "iller": [
       {
         "il": "Erzurum",
-        "min": -4,
-        "not": "en soğuk 23 Kasım, −4°C"
+        "min": -12,
+        "not": "en soğuk 26 Kasım, −12°C"
       },
       {
         "il": "Kars",
-        "min": -4,
-        "not": "en soğuk 23 Kasım, −4°C"
+        "min": -8,
+        "not": "en soğuk 26 Kasım, −8°C"
       },
       {
         "il": "Ardahan",
-        "min": -6,
-        "not": "en soğuk 23 Kasım, −6°C"
+        "min": -10,
+        "not": "en soğuk 26 Kasım, −10°C"
       },
       {
         "il": "Van",
-        "min": 1
+        "min": -2,
+        "not": "en soğuk 26 Kasım, −2°C"
       },
       {
         "il": "Sivas",
-        "min": 1
+        "min": -4,
+        "not": "en soğuk 26 Kasım, −4°C"
       },
       {
         "il": "Erzincan",
-        "min": 2
+        "min": -5,
+        "not": "en soğuk 26 Kasım, −5°C"
       },
       {
         "il": "Kayseri",
-        "min": 2
+        "min": -2,
+        "not": "en soğuk 26 Kasım, −2°C"
       },
       {
         "il": "Konya",
-        "min": 5
+        "min": 2
       },
       {
         "il": "Ankara",
-        "min": 3
+        "min": -1,
+        "not": "en soğuk 26 Kasım, −1°C"
       },
       {
         "il": "Afyonkarahisar",
-        "min": 2
-      },
-      {
-        "il": "Eskişehir",
-        "min": 2
-      },
-      {
-        "il": "Kütahya",
-        "min": 2
-      },
-      {
-        "il": "Uşak",
         "min": 0
       },
       {
+        "il": "Eskişehir",
+        "min": -1,
+        "not": "en soğuk 25 Kasım, −1°C"
+      },
+      {
+        "il": "Kütahya",
+        "min": -1,
+        "not": "en soğuk 25 Kasım, −1°C"
+      },
+      {
+        "il": "Uşak",
+        "min": -2,
+        "not": "en soğuk 25 Kasım, −2°C"
+      },
+      {
         "il": "Isparta",
-        "min": 4
+        "min": 1
       },
       {
         "il": "Malatya",
-        "min": 3
+        "min": -2,
+        "not": "en soğuk 26 Kasım, −2°C"
       },
       {
         "il": "Yozgat",
-        "min": -1,
-        "not": "en soğuk 25 Kasım, −1°C"
+        "min": -3,
+        "not": "en soğuk 26 Kasım, −3°C"
       },
       {
         "il": "Çorum",
         "min": -1,
-        "not": "en soğuk 25 Kasım, −1°C"
+        "not": "en soğuk 26 Kasım, −1°C"
       },
       {
         "il": "Bolu",
-        "min": 0
+        "min": -1,
+        "not": "en soğuk 25 Kasım, −1°C"
       },
       {
         "il": "Edirne",
-        "min": 0
+        "min": -1,
+        "not": "en soğuk 25 Kasım, −1°C"
       },
       {
         "il": "Kırklareli",
-        "min": 0
+        "min": -1,
+        "not": "en soğuk 25 Kasım, −1°C"
       },
       {
         "il": "Tekirdağ",
@@ -4620,31 +4632,31 @@
       },
       {
         "il": "Çanakkale",
-        "min": 4
+        "min": 3
       },
       {
         "il": "Balıkesir",
-        "min": 2
+        "min": 0
       },
       {
         "il": "Bursa",
-        "min": 4
+        "min": 2
       },
       {
         "il": "Manisa",
-        "min": 7
+        "min": 5
       },
       {
         "il": "İzmir",
-        "min": 10
+        "min": 8
       },
       {
         "il": "Aydın",
-        "min": 9
+        "min": 7
       },
       {
         "il": "Denizli",
-        "min": 6
+        "min": 5
       },
       {
         "il": "Kocaeli",
@@ -4652,34 +4664,34 @@
       },
       {
         "il": "Sakarya",
-        "min": 5
+        "min": 4
       },
       {
         "il": "Samsun",
-        "min": 7
+        "min": 4
       },
       {
         "il": "Trabzon",
-        "min": 10
+        "min": 5
       },
       {
         "il": "Antalya",
-        "min": 13
+        "min": 12
       },
       {
         "il": "Adana",
-        "min": 11
+        "min": 8
       },
       {
         "il": "Şanlıurfa",
-        "min": 9
+        "min": 4
       },
       {
         "il": "İstanbul",
-        "min": 4
+        "min": 3
       }
     ],
-    "kaynak": "MGM 5 günlük il merkezi tahmini (20 Kasım 2026 20:11 itibarıyla)",
+    "kaynak": "MGM 5 günlük il merkezi tahmini (22 Kasım 2026 20:20 itibarıyla)",
     "haber": "konya-ovasi-don-hububata-zarar-vermedi-misirda-nem-15-2026"
   },
   "fotograflar": {
