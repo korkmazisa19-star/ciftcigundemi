@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-22T18:59:00+03:00",
+  "guncelleme": "2026-11-22T20:11:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,48 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "bitlis-agacdere-ahir-yangini-80-kucukbas-telef-2026",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-22",
+      "eklenme": "2026-11-22T20:11:00+03:00",
+      "motif": "koyun",
+      "baslik": "Bitlis'te ahır yangını: 80 küçükbaş hayvan telef oldu",
+      "manset": "Ahır yandı, \"80 küçükbaş\" telef oldu",
+      "ozet": "Bitlis merkeze bağlı Ağaçdere köyünün Yavuzlar mezrasında bir besiciye ait ahırda 22 Kasım akşamı yangın çıktı. İlk belirlemelere göre elektrik tesisatından başladığı düşünülen alevler kısa sürede tüm ahırı sardı. İtfaiyenin müdahalesiyle yangın kontrol altına alındı ancak içerideki 80 küçükbaş hayvan kurtarılamadı. Söndürmeye yardım eden köylülerden biri dumandan etkilendi; hayati tehlikesinin olmadığı bildirildi.",
+      "neYapmali": "Kış aylarında ahırlardaki elektrik tesisatını ve ısıtıcıları bir elektrikçiye kontrol ettirin, kablo ve prizleri saman ile yemden uzak tutun. Hayvanlarınız TARSİM'li ise hasarı vakit kaybetmeden sigorta şirketine ve il/ilçe tarım müdürlüğüne bildirin.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/bitlis-haberleri/bitliste-ahirda-cikan-yanginda-80-kucukbas-hayvan-telef-oldu-520197610"
+        }
+      ],
+      "gorsel": "assets/iha/bitlis-agacdere-ahir-yangini-80-kucukbas-telef-2026.jpg",
+      "gorselKucuk": "assets/iha/bitlis-agacdere-ahir-yangini-80-kucukbas-telef-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA",
+      "video": null
+    },
+    {
+      "id": "mugla-bayir-hayvan-pazari-tarim-jandarma-zabita-denetimi-2026",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-22",
+      "eklenme": "2026-11-22T20:10:00+03:00",
+      "motif": "sut",
+      "baslik": "Muğla'da Bayır Hayvan Pazarı'nda küpe, belge ve nakil aracı denetimi",
+      "manset": "Pazarda \"kayıt dışı\" hayvana geçit yok",
+      "ozet": "Muğla Tarım ve Orman Müdürlüğü, jandarma ve zabıta ekipleri Bayır Hayvan Pazarı'nda ortak denetim yaptı. Ekipler satışa getirilen hayvanların kimlik ve kayıt belgelerini, hayvan nakil araçlarının durumunu ve pazardaki hayvanların sağlık koşullarını tek tek kontrol etti. Denetimin amacı salgın hastalıkların yayılmasını önlemek, hayvan hareketlerini izlemek ve kayıt dışı satışın önüne geçmek olarak açıklandı. Yetkililer bu kontrollerin düzenli olarak süreceğini belirtti.",
+      "neYapmali": "Pazara hayvan götürmeden önce kulak küpelerinin takılı, pasaport ve veteriner sağlık raporu ile nakil belgelerinin eksiksiz olduğundan emin olun. Nakil aracınızın hayvan taşımaya uygun ve kayıtlı olmasına dikkat edin; eksik belge cezaya ve satış yasağına yol açabilir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/mugla-haberleri/bayir-hayvan-pazarinda-denetim-520031648"
+        }
+      ],
+      "gorsel": "assets/iha/mugla-bayir-hayvan-pazari-tarim-jandarma-zabita-denetimi-2026.jpg",
+      "gorselKucuk": "assets/iha/mugla-bayir-hayvan-pazari-tarim-jandarma-zabita-denetimi-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA",
+      "video": null
+    },
     {
       "id": "antalya-serik-zeytinyagi-fabrika-kuyrugu-30-saat-yag-orani-dustu-2026",
       "kategori": "Bitkisel Üretim",
@@ -3686,50 +3728,6 @@
       "gorselKucuk": "assets/envato/sap-hayvan-pazarlari-ticaret-durdu-kredi-riski-k.jpg",
       "gorselKaynak": "Temsili fotoğraf",
       "manset": "Hayvan ahırda, kredi \"riske girdi\""
-    },
-    {
-      "id": "adana-19-tarim-sera-bahce-fuari-80-firma",
-      "kategori": "Makine",
-      "tarih": "2026-11-04",
-      "eklenme": "2026-11-06T06:32:49+03:00",
-      "motif": "traktor",
-      "baslik": "Adana'da 19. Tarım ve Sera-Bahçe Fuarı 80 firmayla açıldı: Ziyaret 8 Kasım'a kadar sürüyor",
-      "ozet": "19. Tarım ve Sera-Bahçe Fuarı, 4 Kasım'da TÜYAP Adana Uluslararası Fuar ve Kongre Merkezi'nde kapılarını açtı. Anadolu Ajansı'nın aktardığına göre beş gün sürecek fuara 80 firma katılıyor; traktör, biçerdöver ve diğer tarım makinelerinin yanı sıra sera, bahçe, hayvancılık ve süt endüstrisi ürünleri sergileniyor. Vali Mustafa Yavuz açılışta Adana'nın sanayi kadar tarımda da güçlü bir kent olduğunu vurguladı. TÜYAP Fuarlar Yapım Genel Müdürü İlhan Ersözlü ise Irak, İran ve Suriye'den heyetlerin geldiğini, 17 ülkeden ziyaretçinin çevrim içi ön kayıt yaptırdığını söyledi.",
-      "neYapmali": "Makine ya da sera yatırımı düşünen üreticiler 8 Kasım'a kadar fuarda firmaların fiyat ve ödeme şartlarını karşılaştırabilir. Hibe kapsamında alım yapacaklar satın alma kurallarını önce tarım müdürlüğüne sormalı.",
-      "kaynaklar": [
-        {
-          "ad": "Adana Post (AA)",
-          "url": "https://www.adanapost.com/ekonomi/adanada-19-tarim-ve-sera-bahce-fuari-acildi-224847h"
-        },
-        {
-          "ad": "Canlı Gaste (AA)",
-          "url": "https://www.canligaste.com/adana-da-19-tarim-ve-sera-bahce-fuari-80-firmayla-acildi/942641/"
-        }
-      ],
-      "gorsel": "assets/envato/adana-19-tarim-sera-bahce-fuari-80-firma.jpg",
-      "gorselKucuk": "assets/envato/adana-19-tarim-sera-bahce-fuari-80-firma-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf",
-      "manset": "Adana'da sera fuarı \"80 firmayla\" açıldı"
-    },
-    {
-      "id": "mersin-toroslar-belediyesi-safran-ilk-hasat",
-      "kategori": "Bitkisel Üretim",
-      "tarih": "2026-11-05",
-      "eklenme": "2026-11-06T05:29:45+03:00",
-      "motif": "tohum",
-      "baslik": "Mersin Toroslar'da belediyenin deneme sahasından ilk safran hasadı alındı",
-      "ozet": "Toroslar Belediyesi, Kayrakkeşli Mahallesi'ndeki kendi arazisinde kurduğu deneme sahasında ilk safran ürününü topladı. Ağustos sonunda dikilen soğanlar çiçek açınca yapılan hasada Başkan Abdurrahman Yıldız, üretici kadınlar ve muhtarlar katıldı. Belediye, bitkinin bölge toprağına ve iklimine uyumunu ile verimini inceleyecek; elde ettiği deneyimi çiftçilerle paylaşmayı ve üreticilere soğan ulaştırmayı planlıyor. Darısekisi Mahallesi'nde belediyenin soğan desteğiyle üretime geçen Zeliha Mecit de projeden memnun olduğunu söyledi. Haberde hasat miktarı, verim ya da satış fiyatı paylaşılmadı.",
-      "neYapmali": "Geniş arazisi olmayan Toroslarlı üreticiler soğan desteği için belediyenin Tarımsal Hizmetler Müdürlüğü'ne danışabilir. Yatırım kararından önce verim ve satış imkânını il ya da ilçe tarım müdürlüğüyle de görüşmekte fayda var.",
-      "kaynaklar": [
-        {
-          "ad": "Mersin Haber",
-          "url": "https://www.mersinhaber.com/haber-toroslarda-kirmizi-altin-safranin-ilk-hasadi-yapildi/837446"
-        }
-      ],
-      "gorsel": "assets/envato/mersin-toroslar-belediyesi-safran-ilk-hasat.jpg",
-      "gorselKucuk": "assets/envato/mersin-toroslar-belediyesi-safran-ilk-hasat-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf",
-      "manset": "Toroslar'da \"ilk safran\" hasadı"
     },
     {
       "id": "ciftci-destek-9-ay-115-5-milyar",
