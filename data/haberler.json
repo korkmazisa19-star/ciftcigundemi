@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-22T20:11:00+03:00",
+  "guncelleme": "2026-11-22T23:10:22+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,46 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "mus-saganak-firtina-koylerde-hasar-ahir-yikildi-2026",
+      "kategori": "Zirai Don",
+      "tarih": "2026-11-22",
+      "eklenme": "2026-11-22T23:09:00+03:00",
+      "motif": "traktor",
+      "baslik": "Muş'ta sağanak ve fırtına köylerde hasar bıraktı: Bir ahır yıkıldı, köy yolu heyelanla kapandı",
+      "manset": "Fırtına köyü vurdu, \"ahır\" çöktü",
+      "ozet": "Muş'ta 22 Kasım'da etkili olan sağanak ve fırtına, kırsal mahallelerde zarara yol açtı. Ağaçlı köyünde bir ahır rüzgâr ve yağışın etkisiyle yıkıldı. Balcılar-İnardı grup köy yolunda yaşanan heyelan nedeniyle bir köy minibüsü yolda kaldı. Derelerin debisi yükselirken İl Özel İdaresi ekipleri yolu açmak ve Derecik köyünde olası taşkına karşı önlem almak için çalışma başlattı.",
+      "neYapmali": "Yağış süren bölgelerde hayvanları sağlam barınaklara alın, dere yatağına yakın ahır ve depoları kontrol edin. Hasar oluşursa köy muhtarlığı ve ilçe tarım müdürlüğüne bildirin, TARSİM poliçeniz varsa ihbarı vakit kaybetmeden yapın.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/mus-haberleri/musta-saganak-yagis-ve-firtina-koylerde-hasara-yol-acti-520202298"
+        }
+      ],
+      "gorsel": "assets/iha/mus-saganak-firtina-koylerde-hasar-ahir-yikildi-2026.jpg",
+      "gorselKucuk": "assets/iha/mus-saganak-firtina-koylerde-hasar-ahir-yikildi-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
+    },
+    {
+      "id": "bati-karadeniz-duzce-zonguldak-bartin-firtina-uyarisi-23-kasim-2026",
+      "kategori": "Zirai Don",
+      "tarih": "2026-11-22",
+      "eklenme": "2026-11-22T23:08:00+03:00",
+      "motif": "balik",
+      "baslik": "Meteoroloji'den Düzce, Zonguldak ve Bartın'a fırtına uyarısı: Rüzgâr saatte 75 kilometreye ulaşabilir",
+      "manset": "Batı Karadeniz'e \"75 km\" fırtına uyarısı",
+      "ozet": "Meteoroloji Genel Müdürlüğü, Düzce, Zonguldak ve Bartın için fırtına uyarısı yayımladı. Uyarı 23 Kasım Pazartesi 06.00'da başlıyor; güney ve güneybatıdan esecek rüzgârın öğleden itibaren 6-8 kuvvetinde, saatte 50 ile 75 kilometre hıza ulaşması bekleniyor. Fırtınanın 24 Kasım Salı sabahı etkisini yitirmesi öngörülüyor. Yetkililer özellikle deniz ulaşımında aksama yaşanabileceğini hatırlattı.",
+      "neYapmali": "Balıkçılar teknelerini barınağa çekip ağlarını sağlama almalı, denize açılmamalı. Sera örtülerini, çatıları ve açıktaki saman balyalarını bağlayın; güncel uyarıları MGM'nin sitesi ve mobil uygulamasından takip edin.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/duzce-haberleri/bati-karadenizde-firtina-uyarisi-520217078"
+        }
+      ],
+      "gorsel": "assets/iha/bati-karadeniz-duzce-zonguldak-bartin-firtina-uyarisi-23-kasim-2026.jpg",
+      "gorselKucuk": "assets/iha/bati-karadeniz-duzce-zonguldak-bartin-firtina-uyarisi-23-kasim-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
+    },
     {
       "id": "bitlis-agacdere-ahir-yangini-80-kucukbas-telef-2026",
       "kategori": "Hayvancılık",
@@ -3688,46 +3728,6 @@
       "gorselKucuk": "assets/envato/elbistan-pancar-c-kotasi-1750-tl-uretici-eylemi-k.jpg",
       "gorselKaynak": "Temsili fotoğraf",
       "manset": "Pancarcı \"fabrika kapısında\"!"
-    },
-    {
-      "id": "narenciye-tarsus-izmir-ureticiler-limon-1-4-tl-mandalina-sokum",
-      "kategori": "Piyasa",
-      "tarih": "2026-11-05",
-      "eklenme": "2026-11-06T07:30:44+03:00",
-      "motif": "narenciye",
-      "baslik": "Narenciye üreticisi fiyattan şikâyetçi: Tarsus'ta limona 1-4 lira teklif ediliyor, bir üretici mandalina bahçesini söküyor",
-      "ozet": "BirGün'ün 5 Kasım tarihli haberine göre Mersin Tarsus'ta limon, portakal ve nar yetiştiren Mustafa Teke, tüccarların limon için kilo başına 1-4 lira önerdiğini aktardı; aynı üründe üretim maliyeti 8-10 lira, market fiyatı 45-50 lira olarak veriliyor. Teke, 120 dönümlük mandalina bahçesini sökmeye başladığını söyledi. Narda da kilo fiyatının geçen yılki 25-30 liradan 15-20 liraya indiği, yağış nedeniyle ürünün yüzde 40-70'inin çatladığı belirtildi. İzmir Özdere Ahmetbeyli'deki üretici Akın Türe ise mandalinaya 2-3 lira teklif edildiğini, köyünde ürünün en az yarısının dalda kalacağını tahmin ediyor. Ticaret Bakanı Ömer Bolat ise aynı günlerde TBMM Plan ve Bütçe Komisyonu'nda yaptığı sunumda ihracat rekorlarını, yerli üretimin ve tüketicinin korunmasını öne çıkardı.",
-      "neYapmali": "Ağaç sökmek gibi geri dönüşü zor bir karardan önce ilçe tarım müdürlüğü ve ziraat odasından alternatif ürün ve destek bilgisi alın. Tüccarla satışta fiyatı ve ödeme koşullarını yazılı hâle getirin.",
-      "kaynaklar": [
-        {
-          "ad": "BirGün",
-          "url": "https://www.birgun.net/haber/uretici-agaclarini-sokuyor-bakan-basari-masali-anlatiyor-744646"
-        }
-      ],
-      "gorsel": "assets/envato/narenciye-tarsus-izmir-ureticiler-limon-1-4-tl-mandalina-sokum.jpg",
-      "gorselKucuk": "assets/envato/narenciye-tarsus-izmir-ureticiler-limon-1-4-tl-mandalina-sokum-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf",
-      "manset": "Limona \"1 lira\" teklif edildi!"
-    },
-    {
-      "id": "sap-hayvan-pazarlari-ticaret-durdu-kredi-riski",
-      "kategori": "Hayvancılık",
-      "tarih": "2026-11-05",
-      "eklenme": "2026-11-06T06:33:49+03:00",
-      "motif": "sut",
-      "baslik": "Şap nedeniyle kapanan hayvan pazarları üreticiyi sıkıştırdı: Hayvan ahırda kaldı, kredi ödemeleri riske girdi",
-      "ozet": "Memurlar.Net'in 5 Kasım'da aktardığı Ekonomim haberine göre şap görülen il ve ilçelerde canlı hayvan pazarlarının geçici olarak kapatılması ticareti neredeyse durdurdu. Haberde aralarında Kars, Amasya, Bursa'nın İnegöl, Denizli'nin Acıpayam ilçeleri ve Kütahya'nın da bulunduğu 17 ilin adı geçiyor. Her ildeki pazarda günlük 75-150 milyon liralık alım satım yapıldığı, bazı illerde kapanmanın iki ayı aştığı aktarılıyor. Kars'ta hayvan alım satımı yapan Resul Topyaka, günde 500-1.000 büyükbaş hayvanın el değiştirdiği ticaretin durduğunu ve üreticinin hayvanı ahırda beslemek zorunda kaldığını söyledi; bir hayvanın aylık yem ve bakım gideri yaklaşık 7 bin lira olarak hesaplanıyor. Haberde, Bakanlığın yılda iki ya da üç kez ücretsiz aşılama yaptığı belirtilirken, veteriner hekim Bilal Sarı yaylalardaki hayvanların aşı dönemini kaçırmış olabileceğini dile getirdi.",
-      "neYapmali": "Hayvan alıp satacak üreticiler pazarın açılış tarihini ve sevk şartlarını önce il veya ilçe tarım müdürlüğünden öğrenmeli, aşısı kaçan hayvanlar için resmî veterinerle görüşmeli. Kredi ödemesinde zorlanacaklar erken aşamada bankası veya kooperatifiyle konuşmalı.",
-      "kaynaklar": [
-        {
-          "ad": "Memurlar.Net (Ekonomim haberi)",
-          "url": "https://www.memurlar.net/haber/1183129/sap-hastaligi-hayvancilik-sektorunu-vurdu.html"
-        }
-      ],
-      "gorsel": "assets/envato/sap-hayvan-pazarlari-ticaret-durdu-kredi-riski.jpg",
-      "gorselKucuk": "assets/envato/sap-hayvan-pazarlari-ticaret-durdu-kredi-riski-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf",
-      "manset": "Hayvan ahırda, kredi \"riske girdi\""
     },
     {
       "id": "ciftci-destek-9-ay-115-5-milyar",
