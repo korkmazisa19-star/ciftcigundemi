@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-22T23:10:22+03:00",
+  "guncelleme": "2026-11-23T08:10:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,43 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "erzurum-tekman-sel-palandoken-gecidi-3-saat-mahsur-2026",
+      "kategori": "Zirai Don",
+      "tarih": "2026-11-22",
+      "eklenme": "2026-11-23T08:10:00+03:00",
+      "motif": "don",
+      "baslik": "Tekman'da dere taştı, evlere su doldu; Palandöken Geçidi'nde yolcular 3 saat yolda kaldı",
+      "manset": "Dere taştı, geçitte \"3 saat\" esaret",
+      "ozet": "Erzurum'un Tekman ilçesinde aşırı yağışın ardından Yiğitler Mahallesi'ndeki dere yatağından taşan su bazı evlere girdi ve mahallede maddi hasara yol açtı. İlçenin yüksek kesimlerinde ise kar ve tipi etkili oldu. Tekman-Erzurum karayolunun 44. kilometresindeki 2 bin 885 metre rakımlı Palandöken Geçidi'nde toplu taşıma araçları rampada ilerleyemedi; yolcular yaklaşık 3 saat bekledikten sonra araçlara zincir takılınca yola devam edebildi. Bölge sakinleri, kış aylarında sık yaşanan bu sorun için tünel projesinin hayata geçirilmesini istedi.",
+      "neYapmali": "Dere yataklarına yakın ahır ve depoları olan üreticiler hayvanlarını ve yem stoklarını yüksek, güvenli alanlara taşımalı; sel zararını muhtarlık aracılığıyla ilçe tarım ve orman müdürlüğüne bildirmeli. Geçit yollarında hayvan ya da ürün taşıyacak olanlar Meteoroloji uyarılarını ve Karayolları yol durumu bilgisini kontrol edip araçlarında zincir bulundurmalı.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/erzurum-haberleri/tekmanda-sel-meydana-geldi-kar-yagisi-etkili-oldu-520057625"
+        }
+      ],
+      "gorsel": "assets/envato/erzurum-tekman-sel-palandoken-gecidi-3-saat-mahsur-2026.jpg",
+      "gorselKucuk": "assets/envato/erzurum-tekman-sel-palandoken-gecidi-3-saat-mahsur-2026-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
+    {
+      "id": "sinop-gerze-bassoku-orman-kooperatifi-besi-sut-yemi-dagitimi-2026",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-22",
+      "eklenme": "2026-11-23T08:09:00+03:00",
+      "motif": "sut",
+      "baslik": "Gerze'de Başsökü Köyü Orman Kooperatifi üyelerine besi ve süt yemi dağıtıldı",
+      "manset": "Kooperatiften üyesine \"yem\" desteği",
+      "ozet": "Sinop'un Gerze ilçesinde Başsökü Köyü Orman Kooperatifi, üyelerine kendi temin ettiği besi ve süt yemini dağıttı. Dağıtım, Gerze İlçe Tarım ve Orman Müdürü Fatih Sazak'ın kooperatif üyeleriyle kahvaltıda buluştuğu program sırasında yapıldı. Buluşmada üreticilere tarımsal destekler ve kırsal kalkınma çalışmaları hakkında bilgi verildi. Yem desteğinin köydeki hayvancılık faaliyetlerine katkı sağlaması hedefleniyor.",
+      "neYapmali": "Kışa girerken kaba ve kesif yem ihtiyacını hesaplayan üreticiler köylerindeki kooperatifin ortak alım ve dağıtım imkânlarını sorabilir; hayvancılık destekleri ve kırsal kalkınma programları için ilçe tarım ve orman müdürlüğünden bilgi almalı.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/sinop-haberleri/gerzede-kooperatif-uyelerine-besi-ve-sut-yemi-dagitildi-520213478"
+        }
+      ]
+    },
     {
       "id": "mus-saganak-firtina-koylerde-hasar-ahir-yikildi-2026",
       "kategori": "Zirai Don",
@@ -3682,54 +3719,6 @@
       "manset": "Kestanenin kilosu \"220 liraya\" çıktı"
     },
     {
-      "id": "manisa-teknotarim-2026-fuar-8-kasim",
-      "kategori": "Makine",
-      "tarih": "2026-11-05",
-      "eklenme": "2026-11-06T09:31:00+03:00",
-      "motif": "traktor",
-      "baslik": "Manisa'da 20. Tarım ve Hayvancılık Fuarı kapılarını açtı: TEKNOTARIM'26 8 Kasım'a kadar ziyaret edilebilecek",
-      "ozet": "Manisa 20. Uluslararası Tarım ve Hayvancılık Fuarı (TEKNOTARIM'26) Manisa Fuar Merkezi'nde ziyarete açıldı. Fuar, Manisa İl Tarım ve Orman Müdürlüğü, Manisa Büyükşehir Belediyesi ve TACT Fuarcılık iş birliğiyle düzenleniyor. Ziyaretçiler 8 Kasım'a kadar her gün 10.00-19.00 arasında fuarı gezebilecek. Açılış konuşmalarında girdi maliyetleri, iklim değişikliği, suyun verimli kullanımı ve modern sulama öne çıktı.",
-      "neYapmali": "Makine, sulama ya da hayvancılık ekipmanı almayı düşünen üreticiler fuarda farklı firmaların fiyat ve ödeme koşullarını yan yana görebilir. Hibe kapsamındaki bir alım planlanıyorsa koşullar önceden il veya ilçe tarım müdürlüğünden sorulmalı.",
-      "kaynaklar": [
-        {
-          "ad": "Haber Erk",
-          "url": "https://www.habererk.com/haber/manisa-daki-tarim-fuari-8-kasim-a-kadar-acik_359853/"
-        }
-      ],
-      "gorsel": "assets/iha/manisa-teknotarim-2026-fuar-8-kasim.jpg",
-      "gorselKucuk": "assets/iha/manisa-teknotarim-2026-fuar-8-kasim-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA",
-      "manset": "Fuar kapıları \"8 Kasım\"a kadar açık"
-    },
-    {
-      "id": "elbistan-pancar-c-kotasi-1750-tl-uretici-eylemi",
-      "kategori": "Piyasa",
-      "tarih": "2026-11-04",
-      "eklenme": "2026-11-06T08:30:00+03:00",
-      "motif": "pancar",
-      "baslik": "Elbistan'da pancar üreticileri fabrika önünde: Kota fazlası için önerilen 1.750 lirayı kabul etmiyorlar",
-      "ozet": "Kahramanmaraş'ın Elbistan ve Afşin ilçelerinden gelen şeker pancarı üreticileri, Mutlucan Elbistan Şeker Fabrikası önünde eylem yaptı. Tepkinin nedeni, kota fazlası pancar için \"C kotası\" adıyla tonuna 1.750 lira ödenmek istenmesi. Üreticiler, birkaç gün önce bu fiyatın 3.500 lira olarak bildirildiğini, ardından yarıya indirildiğini öne sürüyor ve 4.500 lira talep ediyor. Çözüm çıkmazsa fabrika önünde nöbet tutabileceklerini, pancarı tarlada bırakabileceklerini ve gelecek yıl ekmeyebileceklerini söylediler. Yerel haberlerde fabrika yönetiminin bir açıklamasına yer verilmedi; konu Meclis'e de taşındı.",
-      "neYapmali": "Kota fazlası pancarı olan üreticiler, teslimattan önce fabrikanın uygulayacağı fiyatı ve ödeme koşullarını yazılı olarak öğrenmeli. Sözleşme ve kota hakları için pancar kooperatifine ya da ziraat odasına danışılabilir.",
-      "kaynaklar": [
-        {
-          "ad": "Maraş Gündem",
-          "url": "https://www.marasgundem.com.tr/video-haber/elbistanda-seker-pancari-ureticilerinden-fabrika-onunde-c-kotasi-eylemi-1548741h"
-        },
-        {
-          "ad": "Sözcü",
-          "url": "https://www.sozcu.com.tr/limondan-pancara-uzumden-zeytine-uretici-kan-agliyor-p376492"
-        },
-        {
-          "ad": "Yeşil Afşin Gazetesi",
-          "url": "https://www.yesilafsin.com/pancar-ureticilerinden-c-kotasi-protestosu-hakkimizi-istiyoruz"
-        }
-      ],
-      "gorsel": "assets/envato/elbistan-pancar-c-kotasi-1750-tl-uretici-eylemi.jpg",
-      "gorselKucuk": "assets/envato/elbistan-pancar-c-kotasi-1750-tl-uretici-eylemi-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf",
-      "manset": "Pancarcı \"fabrika kapısında\"!"
-    },
-    {
       "id": "ciftci-destek-9-ay-115-5-milyar",
       "kategori": "Destek",
       "tarih": "2026-11-04",
@@ -4707,7 +4696,6 @@
       ],
       "bugday": [],
       "don": [
-        "don-7.jpg",
         "don-8.jpg"
       ],
       "findik": [
