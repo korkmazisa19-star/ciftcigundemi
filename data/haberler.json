@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-23T08:10:00+03:00",
+  "guncelleme": "2026-11-23T12:09:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,40 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "bursa-gemlik-katirli-kooperatif-zeytin-alim-fiyati-230-lira-2026",
+      "kategori": "Piyasa",
+      "tarih": "2026-11-23",
+      "eklenme": "2026-11-23T12:09:00+03:00",
+      "motif": "zeytin",
+      "baslik": "Gemlik'te Katırlı Kooperatifi zeytin alım fiyatını açıkladı: İri danenin kilosu 230 lira",
+      "manset": "Kooperatif zeytine \"230 lira\" verdi!",
+      "ozet": "Bursa'nın Gemlik ilçesindeki S.S. Katırlı Köyü Tarımsal Kalkınma Kooperatifi, 2026 barem fiyat listesini duyurdu. Listeye göre kilogramında 180 dane bulunan zeytin 230 liradan, 250 daneli zeytin ise 130 liradan alınacak. Kooperatif Başkan Yardımcısı Emin Bircan, fiyatların geçen yıla göre yüzde 15 artırıldığını ve Türkiye'deki en yüksek alım fiyatı olduğunu söyledi. Bircan, rekor rekolte nedeniyle tüccarların düşük teklif verdiği çevre köylerde üreticinin zorlandığını belirterek fiyatların tüm bölgede aynı seviyede olması gerektiğini vurguladı.",
+      "neYapmali": "Zeytin satışından önce danenize (kilogramdaki tane sayısına) göre kooperatif ve tüccar baremlerini karşılaştırın; kooperatif ortaklığı ve teslim koşulları için bölgenizdeki tarımsal kalkınma kooperatifine başvurun.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/bursa-haberleri/bu-koyun-zeytin-yetistiren-ureticilerine-piyango-520493875"
+        }
+      ]
+    },
+    {
+      "id": "bayburt-aydintepe-15-gebe-angus-duve-teslim-2026",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-23",
+      "eklenme": "2026-11-23T12:08:00+03:00",
+      "motif": "sut",
+      "baslik": "Bayburt Aydıntepe'de bir yetiştiriciye 15 gebe angus düve teslim edildi",
+      "manset": "Düve başına ayda \"1.500 lira\"!",
+      "ozet": "Kırsalda Bereket Hayvancılığa Destek Projesi kapsamında Bayburt'un Aydıntepe ilçesine bağlı Çatıksu köyündeki bir yetiştiriciye 15 baş gebe angus düve verildi. İthal hayvanları Tarım İşletmeleri Genel Müdürlüğü (TİGEM) temin etti. Proje kapsamında yetiştiriciye her hayvan için 12 ay boyunca aylık 1.500 lira bakım ve besleme desteği ödeniyor, hayvanlar da bir yıl süreyle ücretsiz TARSİM sigortasıyla güvenceye alınıyor. Aydıntepe İlçe Tarım ve Orman Müdürü İbrahim Köksal işletmeyi ziyaret ederek hayvanların bakım koşullarını ve veteriner hekimlerin yürüttüğü sağlık kontrollerini yerinde inceledi.",
+      "neYapmali": "Kırsalda Bereket kapsamındaki hayvan dağıtımları ve başvuru koşulları için bulunduğunuz ilçenin tarım ve orman müdürlüğüne danışın; teslim alınan hayvanların sigorta ve aşı kayıtlarını takip edin.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/bayburt-haberleri/aydintepede-15-gebe-angus-duve-ureticiye-teslim-edildi-520497825"
+        }
+      ]
+    },
     {
       "id": "erzurum-tekman-sel-palandoken-gecidi-3-saat-mahsur-2026",
       "kategori": "Zirai Don",
@@ -3673,50 +3707,6 @@
       "gorselKucuk": "assets/envato/tbmm-durmaz-elma-limon-5-tl-market-fiyat-farki-k.jpg",
       "gorselKaynak": "Temsili fotoğraf",
       "manset": "Tarlada 5, markette \"70 lira\"!"
-    },
-    {
-      "id": "marmarabirlik-avrupa-market-zinciri-74-ulke-ihracat",
-      "kategori": "Piyasa",
-      "tarih": "2026-11-06",
-      "eklenme": "2026-11-06T14:30:00+03:00",
-      "motif": "zeytin",
-      "baslik": "Marmarabirlik, Avrupa'da 6-7 bin şubeli bir market zincirine girmeye hazırlanıyor",
-      "ozet": "74 ülkeye ihracat yapan Marmarabirlik, Avrupa'da etnik marketlerin ötesine geçip uluslararası perakende zincirlerinde yer almayı hedefliyor. Yönetim Kurulu Başkanı Ali Yıldız, daha önce giremedikleri ve yaklaşık 6-7 bin şubesi bulunan bir süpermarket zincirine girmenin eşiğinde olduklarını söyledi; zincirin adı açıklanmadı. Yıldız, Rusya'da bir e-ticaret platformunda haftalık 6 bin adet satışa ulaştıklarını, Orta Doğu'da yeşil zeytin ve zeytinyağına talep olduğunu aktardı. Türkiye genelinde 3 milyon 800 bin ton zeytin rekoltesi beklendiğini belirten Yıldız, işçilik ve akaryakıt giderlerinin arttığı bir yılda yüksek rekoltenin üreticiye kayıp yazmaması gerektiğini vurguladı. Birliğin alım planı bu haberde yaklaşık 60 bin ton olarak geçiyor; alım kampanyasının başlangıcında 64 bin ton açıklanmıştı.",
-      "neYapmali": "Ortak üreticiler teslimat ve alım koşullarını bağlı oldukları kooperatiften teyit edebilir. İhracat planları henüz alım fiyatına dair bir bilgi içermediğinden satış kararında resmî fiyat açıklaması izlenmelidir.",
-      "kaynaklar": [
-        {
-          "ad": "Ekonomi Gazetesi",
-          "url": "https://www.ekonomigazetesi.com/sirket-haberleri/marmarabirlik-avrupanin-dev-market-zincirini-gundemine-aldi-91538"
-        }
-      ],
-      "gorsel": "assets/envato/marmarabirlik-avrupa-market-zinciri-74-ulke-ihracat.jpg",
-      "gorselKucuk": "assets/envato/marmarabirlik-avrupa-market-zinciri-74-ulke-ihracat-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf",
-      "manset": "Zeytin \"Avrupa raflarına\" giriyor"
-    },
-    {
-      "id": "sarigol-kestane-hasadi-2026-170-220-tl",
-      "kategori": "Bitkisel Üretim",
-      "tarih": "2026-11-04",
-      "eklenme": "2026-11-06T09:32:00+03:00",
-      "motif": "kestane",
-      "baslik": "Sarıgöl'de kestane hasadı başladı: İriliğine göre kilosu 170-220 liradan alıcı buluyor",
-      "ozet": "Manisa'nın Sarıgöl ilçesinde 2026 kestane hasadına Karacaali, Beyharman ve Kızılçukur mahallelerinde başlandı. Bölgede yetiştirilen şekerci çeşidinde üreticiler rekoltenin geçen yılın üzerinde olduğunu söylüyor, ancak haberde kesin bir miktar verilmiyor. Toplanan ürün boylarına göre ayrılarak iç piyasaya ve ihracata sunuluyor. Fiyatlar iriliğe göre kilogram başına 170 ile 220 lira arasında değişiyor. Bilgileri aktaran isim, bölge üreticilerinden Ahmet Özdemir.",
-      "neYapmali": "Üreticiler ürünü boylarına göre ayırıp farklı alıcılardan teklif alarak fiyatı karşılaştırabilir. Kestaneyi hasattan sonra serin ve havadar yerde tutmak kayıpları azaltır.",
-      "kaynaklar": [
-        {
-          "ad": "Aydın Denge (İHA)",
-          "url": "https://www.aydindenge.com.tr/ekonomi/04/11/2026/sarigolde-kestane-hasadi-basladi"
-        },
-        {
-          "ad": "Son Dakika",
-          "url": "https://www.sondakika.com/ekonomi/haber-sarigol-de-2026-kestane-hasadi-basladi-kilogrami-1-20395426/"
-        }
-      ],
-      "gorsel": "assets/envato/sarigol-kestane-hasadi-2026-170-220-tl.jpg",
-      "gorselKucuk": "assets/envato/sarigol-kestane-hasadi-2026-170-220-tl-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf",
-      "manset": "Kestanenin kilosu \"220 liraya\" çıktı"
     },
     {
       "id": "ciftci-destek-9-ay-115-5-milyar",
