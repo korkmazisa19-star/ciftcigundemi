@@ -4439,24 +4439,24 @@
     {
       "grup": "Girdi",
       "urun": "Motorin (Ankara)",
-      "deger": "89,90",
+      "deger": "90,00",
       "birim": "TL/lt",
       "not": "Pompa fiyatı",
-      "kaynak": "Petrol Ofisi · 20 Kasım 2026",
-      "yon": "asagi",
-      "degisim": "-%6,7",
-      "onceki": "12 Kasım: 96,40"
+      "kaynak": "Petrol Ofisi · 23 Kasım 2026",
+      "yon": "yukari",
+      "degisim": "+%0,1",
+      "onceki": "20 Kasım: 89,90"
     },
     {
       "grup": "Girdi",
       "urun": "Motorin (İstanbul)",
-      "deger": "88,80",
+      "deger": "88,90",
       "birim": "TL/lt",
       "not": "Pompa fiyatı, Avrupa Yakası · Marmara",
-      "kaynak": "Petrol Ofisi · 20 Kasım 2026",
-      "onceki": "18 Kasım: 95,30",
-      "yon": "asagi",
-      "degisim": "-%6,8"
+      "kaynak": "Petrol Ofisi · 23 Kasım 2026",
+      "onceki": "20 Kasım: 88,80",
+      "yon": "yukari",
+      "degisim": "+%0,1"
     },
     {
       "grup": "Girdi",
