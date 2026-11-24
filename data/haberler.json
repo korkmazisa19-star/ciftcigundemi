@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-24T10:44:00+03:00",
+  "guncelleme": "2026-11-24T12:09:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,40 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "malatya-hekimhan-12-koy-ortak-mera-ges-tepkisi-2026",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-24",
+      "eklenme": "2026-11-24T12:09:00+03:00",
+      "motif": "koyun",
+      "baslik": "Hekimhan'da 12 köyün kullandığı meraya güneş santrali kurulmasına üreticilerden tepki",
+      "manset": "12 köyün merası \"GES\" tehdidinde",
+      "ozet": "Malatya'nın Hekimhan ilçesinde Kurşunlu, Delahasan Yurdu, Söğüt, Alholar ve Kızılmağara gibi mahallelerin ortak kullandığı Değirmenpınarı mevkiindeki meraya güneş enerjisi santrali (GES) yapılması planlanıyor. Hayvancılık ve arıcılıkla geçinen bölge sakinleri, alanın yıllardır sürüleri için otlak olarak kullanıldığını ve projenin geçim kaynaklarını tehdit ettiğini söyledi. Vatandaşlar, yaklaşık 47 bin dönümlük arazinin acele kamulaştırmayla hazineye devredildiğini ileri sürerek projenin durdurulmasını istedi. Kızılmağara Mahalle Muhtarı Ali Seydi Dağşan da meranın bölge halkının geleceği için önemli olduğunu belirterek yetkililerden destek bekledi. Habere konu iddialarla ilgili proje sahibi şirket ya da resmî kurumlardan yapılmış bir açıklama haberde yer almıyor.",
+      "neYapmali": "Mera alanlarındaki tahsis değişikliklerine itiraz etmek isteyen üreticiler, il tarım ve orman müdürlüğü bünyesindeki mera komisyonuna ve ilçe tarım müdürlüğüne yazılı başvuru yapabilir; kamulaştırma kararlarına karşı yasal itiraz sürelerini kaçırmamak için hukuki destek almaları önerilir.",
+      "kaynaklar": [
+        {
+          "ad": "İhlas Haber Ajansı (İHA)",
+          "url": "https://www.iha.com.tr/malatya-haberleri/hekimhanda-12-koyun-ortak-merasi-icin-ges-tepkisi-520988174"
+        }
+      ]
+    },
+    {
+      "id": "erzincan-yayla-firtina-hayvan-cadirlari-devrildi-koyun-telef-2026",
+      "kategori": "Zirai Don",
+      "tarih": "2026-11-24",
+      "eklenme": "2026-11-24T12:08:00+03:00",
+      "motif": "koyun",
+      "baslik": "Erzincan'da fırtına yayladaki hayvan çadırlarını yıktı, üreticiler sürüleri köylere indirdi",
+      "manset": "Fırtına çadırları yıktı, sürü \"köye\" indi",
+      "ozet": "Erzincan'ın yüksek kesimlerinde etkili olan şiddetli rüzgâr, yaylalarda hayvanların barındığı çadırları devirdi. Çadırların altında kalan yüzlerce koyun kurtarılırken bir koyun telef oldu, bir koyun da yaralandı. Çadırları onarmaya çalışan üreticiler, rüzgârın giderek artması üzerine yayladan ayrılma kararı aldı ve sürülerini araçlarla merkeze bağlı köylerine taşıdı. Üreticilerden Yücel Elitaş, rüzgâr nedeniyle yaylada kalmanın mümkün olmadığını anlattı.",
+      "neYapmali": "Yüksek kesimlerde hayvan barındıran üreticiler, MGM'nin kuvvetli rüzgâr ve fırtına uyarılarını takip ederek sürüleri önceden korunaklı ağıllara almalı; TARSİM hayvan hayat sigortası olan üreticiler telef olan hayvanlar için hasar ihbarını gecikmeden yapmalı.",
+      "kaynaklar": [
+        {
+          "ad": "İhlas Haber Ajansı (İHA)",
+          "url": "https://www.iha.com.tr/erzincan-haberleri/erzincanda-firtina-nedeniyle-hayvan-cadirlari-devrildi-520979629"
+        }
+      ]
+    },
     {
       "id": "kayseri-buyuksehir-hayvancilik-su-faturasi-yuzde-50-destek-2027",
       "kategori": "Destek",
@@ -3672,30 +3706,6 @@
       "manset": "Belgeni verirsen \"iki yıl\" yandın!"
     },
     {
-      "id": "izmir-iyi-tarim-mobil-uygulama-hibe-don-uyarisi",
-      "kategori": "Destek",
-      "tarih": "2026-11-06",
-      "eklenme": "2026-11-06T18:30:50+03:00",
-      "motif": "para",
-      "baslik": "İzmir'de çiftçiye tek uygulama: Hibe başvurusu, don uyarısı ve hal fiyatları \"İyi Tarım İzmir\"de",
-      "ozet": "İzmir Büyükşehir Belediyesi, kendi ekibiyle geliştirdiği \"İyi Tarım İzmir\" mobil uygulamasını üreticilerin kullanımına sundu. Çiftçiler uygulamadan zeytin kasası ve zirai dona karşı kullanılan agril örtü gibi hibelere başvurabiliyor, belgelerini ve parsellerini sisteme yükleyebiliyor. İl genelindeki 13 erken uyarı istasyonunun verileriyle don, sel ve hava bildirimleri gönderiliyor. Fotoğrafla bitki analizi, yapay zekâ destekli danışmanlık ve sebze, meyve, balık için son 7 günlük hal fiyatları da aynı yerde yer alıyor. Tarımsal Hizmetler Dairesi Başkanı Bülent Üngür, erken uyarı ağının ilin tüm üretim alanlarına yayılmasının hedeflendiğini söyledi.",
-      "neYapmali": "İzmirli üreticiler uygulamayı iOS ya da Android mağazasından veya iyitarim.izmir.bel.tr adresinden açıp parsellerini kaydedebilir. Hibelerin başvuru tarihleri ve şartları uygulama içinden takip edilmeli.",
-      "kaynaklar": [
-        {
-          "ad": "Ayancık Gazetesi",
-          "url": "https://www.ayancikgazetesi.com/ciftciye-destek-olan-tarlayi-koruyan-mahsulu-gelistiren-uygulama/154729"
-        },
-        {
-          "ad": "Aksaray Haber",
-          "url": "https://aksarayhaber.net/haber/iyi-tarim-izmir-ciftcinin-dijital-yol-arkadasi-oldu-106879"
-        }
-      ],
-      "gorsel": "assets/envato/izmir-iyi-tarim-mobil-uygulama-hibe-don-uyarisi.jpg",
-      "gorselKucuk": "assets/envato/izmir-iyi-tarim-mobil-uygulama-hibe-don-uyarisi-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf",
-      "manset": "Hibe de don uyarısı da \"cebinde\""
-    },
-    {
       "id": "ciftci-destek-9-ay-115-5-milyar",
       "kategori": "Destek",
       "tarih": "2026-11-04",
@@ -4138,26 +4148,6 @@
       "gorselKucuk": "assets/envato/tzob-ekim-2026-uretici-market-fiyatlari-k.jpg",
       "gorselKaynak": "Temsili fotoğraf: Envato",
       "manset": "Domates markette \"yüzde 62,9\" zamlandı"
-    },
-    {
-      "id": "ankara-tohum-gubre",
-      "kategori": "Hibe",
-      "tarih": "2026-10-23",
-      "baslik": "Ankara'da tohum ve gübre desteği başvuruları 23 Kasım'da kapanıyor",
-      "ozet": "Ankara Büyükşehir Belediyesi'nin çiftçilere yönelik tohum ve gübre desteği başvuruları 23 Ekim'de başladı, 23 Kasım'a kadar sürecek. Başvurular internet üzerinden, 2026/2027 ÇKS belgesiyle yapılıyor. Belediye desteğin girdi maliyetlerindeki artışın etkisini azaltmak için verildiğini açıkladı.",
-      "neYapmali": "Başvurular Başkent Tarım platformu (baskenttarim.ankara.bel.tr) üzerinden alınıyor. Son haftaya bırakmayın.",
-      "kaynaklar": [
-        {
-          "ad": "Gazete İlk Sayfa",
-          "url": "https://www.gazeteilksayfa.com/ankarada-ciftciye-destek-icin-basvurular-devam-ediyor-313128h.htm"
-        }
-      ],
-      "motif": "tohum",
-      "eklenme": "2026-11-04T07:06:00+03:00",
-      "gorsel": "assets/envato/ankara-tohum-gubre.jpg",
-      "gorselKucuk": "assets/envato/ankara-tohum-gubre-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato",
-      "manset": "Ankara'da başvuru \"23 Kasım'da\" bitiyor"
     },
     {
       "id": "cks-2027-son-gun-31-aralik",
