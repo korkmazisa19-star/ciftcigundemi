@@ -4486,8 +4486,10 @@
     }
   ],
   "hava": {
-    "donem": "23-27 Kasım",
-    "genel": "Önümüzdeki beş günde 36 il merkezinden 19'unda gece sıcaklığı 0°C ve altına iniyor; en sert soğuk 26 Kasım'da Erzurum'da beklenen −12°C, onu Ardahan (−10°C) ve Kars (−8°C) izliyor.",
+    "donem": "24-28 Kasım",
+    "genel": "Önümüzdeki beş günde 36 il merkezinden 21'inde gece sıcaklığı 0°C ve altına iniyor; en sert soğuk 26 Kasım'da Erzurum'da beklenen −12°C, onu Ardahan (−8°C) ve Kars (−7°C) izliyor.",
+    "kaynak": "MGM 5 günlük il merkezi tahmini (24 Kasım 2026 10:55 itibarıyla)",
+    "haber": "erzurum-tekman-sel-palandoken-gecidi-3-saat-mahsur-2026",
     "iller": [
       {
         "il": "Erzurum",
@@ -4496,23 +4498,23 @@
       },
       {
         "il": "Kars",
+        "min": -7,
+        "not": "en soğuk 26 Kasım, −7°C"
+      },
+      {
+        "il": "Ardahan",
         "min": -8,
         "not": "en soğuk 26 Kasım, −8°C"
       },
       {
-        "il": "Ardahan",
-        "min": -10,
-        "not": "en soğuk 26 Kasım, −10°C"
-      },
-      {
         "il": "Van",
-        "min": -2,
-        "not": "en soğuk 26 Kasım, −2°C"
+        "min": -1,
+        "not": "en soğuk 26 Kasım, −1°C"
       },
       {
         "il": "Sivas",
-        "min": -4,
-        "not": "en soğuk 26 Kasım, −4°C"
+        "min": -5,
+        "not": "en soğuk 26 Kasım, −5°C"
       },
       {
         "il": "Erzincan",
@@ -4521,21 +4523,23 @@
       },
       {
         "il": "Kayseri",
-        "min": -2,
-        "not": "en soğuk 26 Kasım, −2°C"
+        "min": -3,
+        "not": "en soğuk 26 Kasım, −3°C"
       },
       {
         "il": "Konya",
-        "min": 2
-      },
-      {
-        "il": "Ankara",
         "min": -1,
         "not": "en soğuk 26 Kasım, −1°C"
       },
       {
+        "il": "Ankara",
+        "min": -2,
+        "not": "en soğuk 26 Kasım, −2°C"
+      },
+      {
         "il": "Afyonkarahisar",
-        "min": 0
+        "min": -1,
+        "not": "en soğuk 25 Kasım, −1°C"
       },
       {
         "il": "Eskişehir",
@@ -4544,17 +4548,17 @@
       },
       {
         "il": "Kütahya",
-        "min": -1,
-        "not": "en soğuk 25 Kasım, −1°C"
-      },
-      {
-        "il": "Uşak",
         "min": -2,
         "not": "en soğuk 25 Kasım, −2°C"
       },
       {
+        "il": "Uşak",
+        "min": -5,
+        "not": "en soğuk 25 Kasım, −5°C"
+      },
+      {
         "il": "Isparta",
-        "min": 1
+        "min": 0
       },
       {
         "il": "Malatya",
@@ -4563,8 +4567,8 @@
       },
       {
         "il": "Yozgat",
-        "min": -3,
-        "not": "en soğuk 26 Kasım, −3°C"
+        "min": -4,
+        "not": "en soğuk 26 Kasım, −4°C"
       },
       {
         "il": "Çorum",
@@ -4588,23 +4592,24 @@
       },
       {
         "il": "Tekirdağ",
-        "min": 2
+        "min": 1
       },
       {
         "il": "Çanakkale",
-        "min": 3
-      },
-      {
-        "il": "Balıkesir",
-        "min": 0
-      },
-      {
-        "il": "Bursa",
         "min": 2
       },
       {
+        "il": "Balıkesir",
+        "min": -1,
+        "not": "en soğuk 25 Kasım, −1°C"
+      },
+      {
+        "il": "Bursa",
+        "min": 3
+      },
+      {
         "il": "Manisa",
-        "min": 5
+        "min": 4
       },
       {
         "il": "İzmir",
@@ -4620,7 +4625,7 @@
       },
       {
         "il": "Kocaeli",
-        "min": 5
+        "min": 4
       },
       {
         "il": "Sakarya",
@@ -4636,11 +4641,11 @@
       },
       {
         "il": "Antalya",
-        "min": 12
+        "min": 11
       },
       {
         "il": "Adana",
-        "min": 8
+        "min": 7
       },
       {
         "il": "Şanlıurfa",
@@ -4650,9 +4655,7 @@
         "il": "İstanbul",
         "min": 3
       }
-    ],
-    "kaynak": "MGM 5 günlük il merkezi tahmini (22 Kasım 2026 20:20 itibarıyla)",
-    "haber": "konya-ovasi-don-hububata-zarar-vermedi-misirda-nem-15-2026"
+    ]
   },
   "fotograflar": {
     "klasor": "assets/foto/",
