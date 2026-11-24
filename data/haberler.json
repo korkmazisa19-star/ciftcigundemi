@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-24T15:11:00+03:00",
+  "guncelleme": "2026-11-24T20:14:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,40 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "balikesir-havran-sel-350-kucukbas-35-buyukbas-70-kovan-zarar-2026",
+      "kategori": "Zirai Don",
+      "tarih": "2026-11-24",
+      "eklenme": "2026-11-24T20:11:00+03:00",
+      "motif": "sut",
+      "baslik": "Havran'da sel: Valilik 350 küçükbaş, 35 büyükbaş hayvan ve 70 arı kovanının zarar gördüğünü açıkladı",
+      "manset": "Selde \"350 küçükbaş\" zarar gördü",
+      "ozet": "Balıkesir'in Havran ilçesinde yaklaşık dört saat süren sağanakta metrekareye 90 kilogram yağış düştü, ilçe merkezi ve kırsal mahallelerde su baskınları ve yol kapanmaları yaşandı. Vali İsmail Ustaoğlu, Dereören ve İnönü mahallelerinde yaptığı incelemelerin ardından 112'ye 500'ü aşkın ihbar ulaştığını, bunların çoğunun mahsur kalan vatandaşlar ve zarar gören hayvanlarla ilgili olduğunu söyledi. Valiliğin ilk tespitlerine göre yaklaşık 350 küçükbaş, 35 büyükbaş hayvan ve 70 arı kovanı selden etkilendi, dere yatağındaki 10 kadar araç da zarar gördü. Can kaybı yaşanmadığı, zarar tespit çalışmalarının sürdüğü bildirildi.",
+      "neYapmali": "Hayvanı, kovanı ya da tarlası selden etkilenen üreticilerin kayıplarını fotoğraflayarak vakit kaybetmeden Havran İlçe Tarım ve Orman Müdürlüğü'ne ve muhtarlığa bildirmesi, TARSİM poliçesi olanların sigorta şirketine hasar ihbarında bulunması önerilir. Dere yatağı yakınındaki ahır ve ağılların yeni yağış uyarılarında boşaltılması, meteorolojik uyarıların takip edilmesi gerekir.",
+      "kaynaklar": [
+        {
+          "ad": "İhlas Haber Ajansı (İHA)",
+          "url": "https://www.iha.com.tr/balikesir-haberleri/sel-sulari-otomobilleri-agaclarin-uzerine-cikardi-521158456"
+        }
+      ]
+    },
+    {
+      "id": "bitlis-ahlat-yagis-don-patates-fasulye-zarar-tespiti-2026",
+      "kategori": "Zirai Don",
+      "tarih": "2026-11-24",
+      "eklenme": "2026-11-24T20:10:00+03:00",
+      "motif": "tohum",
+      "baslik": "Ahlat'ta kar ve dondan zarar gören patates ve fasulye tarlalarında hasar tespiti başladı",
+      "manset": "Hasadı kalan tarlalara \"zarar tespiti\"",
+      "ozet": "Bitlis'in Ahlat ilçesinde son haftalarda etkili olan yoğun yağış ve kar, hasadı tamamlanamayan tarlalarda üreticiyi zor durumda bıraktı. Ahlat İlçe Tarım ve Orman Müdürlüğü teknik ekipleri, özellikle patates ve fasulye ekili alanlarda zararı belirlemek için sahada inceleme yapıyor. Ahlat Kaymakamlığı, ekiplerin üreticilerle tek tek görüşerek ürün kayıplarını kayıt altına aldığını, saha çalışması bitince verilerin raporlanacağını ve gerekli işlemlerin başlatılacağını duyurdu.",
+      "neYapmali": "Ürünü tarlada kalan Ahlatlı üreticilerin ilçe tarım müdürlüğü ekiplerine parsel bilgisi ve ÇKS kaydıyla birlikte zararlarını bildirmesi, TARSİM poliçesi varsa hasar ihbarını ayrıca yapması önerilir.",
+      "kaynaklar": [
+        {
+          "ad": "İhlas Haber Ajansı (İHA)",
+          "url": "https://www.iha.com.tr/bitlis-haberleri/ahlatta-yagis-ve-dondan-etkilenen-tarim-arazilerinde-zarar-tespit-calismalari-521119959"
+        }
+      ]
+    },
     {
       "id": "manisa-salihli-zeytin-hasadina-3-5-gun-ara-cagrisi-2026",
       "kategori": "Piyasa",
@@ -3632,46 +3666,6 @@
       "manset": "Tohumun \"dörtte üçü\" devletten"
     },
     {
-      "id": "safranbolu-tso-safran-kilosu-900-bin-tl-2026",
-      "kategori": "Piyasa",
-      "tarih": "2026-11-06",
-      "eklenme": "2026-11-06T22:32:00+03:00",
-      "motif": "para",
-      "baslik": "Safranbolu safranında 2026 hasat fiyatı belli oldu: Kilogramı 900 bin lira",
-      "ozet": "Safranbolu Ticaret ve Sanayi Odası (TSO) Meclisi, bu yıl hasat edilen Safranbolu safranının satış fiyatını belirledi. 6 Kasım'da yapılan açıklamaya göre 2026 hasadı safranın kilogramı 900 bin lira olacak; bu da gram başına 900 liraya karşılık geliyor. TSO Yönetim Kurulu Başkanı Erol Altuntepe, fiyatın üreticinin emeğini karşılaması ve ürünün marka değerini korumak amacıyla belirlendiğini söyledi. Altuntepe, safranın uluslararası tescili ve süren projelerle markanın yurt içi ve yurt dışında güçlendirilmesinin hedeflendiğini de ifade etti.",
-      "neYapmali": "Safranbolu'da safran yetiştiren üreticiler satışlarında TSO'nun açıkladığı fiyatı referans alabilir; güncel uygulama ve satış koşulları için Safranbolu TSO ile görüşmeleri faydalı olur.",
-      "kaynaklar": [
-        {
-          "ad": "Anadolu Ajansı (Son Dakika)",
-          "url": "https://www.sondakika.com/guncel/haber-safranbolu-tso-meclisi-2026-hasadi-safranin-kilosu-20403041/"
-        }
-      ],
-      "gorsel": "assets/iha/safranbolu-tso-safran-kilosu-900-bin-tl-2026.jpg",
-      "gorselKucuk": "assets/iha/safranbolu-tso-safran-kilosu-900-bin-tl-2026-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA",
-      "manset": "Kilosu \"900 bin lira\"!"
-    },
-    {
-      "id": "sakarya-hendek-8-tarim-hayvancilik-fuari-165-firma",
-      "kategori": "Makine",
-      "tarih": "2026-11-06",
-      "eklenme": "2026-11-06T21:41:43+03:00",
-      "motif": "traktor",
-      "baslik": "Sakarya Hendek'te 8. Tarım ve Hayvancılık Fuarı açıldı: 165 marka makine ve ekipmanlarını sergiliyor",
-      "ozet": "Sakarya'nın Hendek ilçesindeki Ticaret Merkezi ve Çok Amaçlı Fuar Alanı'nda 8. Tarım, Hayvancılık Makinaları, Teknolojileri ve Yem Fuarı kapılarını açtı. Fuarda 165 marka ve firma tarım makineleri, hayvancılık ekipmanları ve yem teknolojilerini tanıtıyor. Açılışta Vali Yardımcısı Turgut Subaşı üreticiye her türlü desteği vereceklerini söylerken, Hendek Belediye Başkanı İrfan Püsküllü gençlerin tarım ve hayvancılıktan uzaklaşmasının büyük bir sorun olduğunu vurguladı. Sakarya Ziraat Odaları İl Koordinasyon Kurulu Başkanı Ali Şener Bayraktar ise artan maliyetlere ve iklim risklerine karşın üreticinin üretmeyi sürdürdüğünü belirtti. İl Tarım ve Orman Müdürlüğü'nün düzenlediği Genç Çiftçi Bilgi Yarışması'nda bitkisel üretimde Ömer Temizkan, hayvansal üretimde İbrahim Şanlı birinci oldu.",
-      "neYapmali": "Makine veya ekipman almayı düşünen üreticiler fuarda markaların fiyat ve kampanyalarını karşılaştırabilir; hibe ya da kredi desteğiyle alım planlayanlar önce il tarım müdürlüğünden güncel destek şartlarını öğrenmeli.",
-      "kaynaklar": [
-        {
-          "ad": "Mersin Haber",
-          "url": "https://www.mersinhaber.com/haber-sakaryada-8-tarim-fuari-tarim-ve-hayvancilik-sektorunu-bir-araya-getirdi/837808"
-        }
-      ],
-      "gorsel": "assets/iha/sakarya-hendek-8-tarim-hayvancilik-fuari-165-firma.jpg",
-      "gorselKucuk": "assets/iha/sakarya-hendek-8-tarim-hayvancilik-fuari-165-firma-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA",
-      "manset": "\"165 marka\" tek çatı altında"
-    },
-    {
       "id": "tmo-findik-cks-tuccar-manav-2-yil-alim-yasagi",
       "kategori": "Piyasa",
       "tarih": "2026-11-06",
@@ -4466,15 +4460,15 @@
     }
   ],
   "hava": {
-    "donem": "24-28 Kasım",
-    "genel": "Önümüzdeki beş günde 36 il merkezinden 21'inde gece sıcaklığı 0°C ve altına iniyor; en sert soğuk 26 Kasım'da Erzurum'da beklenen −12°C, onu Ardahan (−8°C) ve Kars (−7°C) izliyor.",
-    "kaynak": "MGM 5 günlük il merkezi tahmini (24 Kasım 2026 10:55 itibarıyla)",
-    "haber": "erzurum-tekman-sel-palandoken-gecidi-3-saat-mahsur-2026",
+    "donem": "25-29 Kasım",
+    "genel": "Önümüzdeki beş günde 36 il merkezinden 21'inde gece sıcaklığı 0°C ve altına iniyor; en sert soğuk 26 Kasım'da Erzurum'da beklenen −10°C, onu Kars (−7°C) ve Ardahan (−7°C) izliyor.",
+    "kaynak": "MGM 5 günlük il merkezi tahmini (24 Kasım 2026 20:13 itibarıyla)",
+    "haber": "balikesir-havran-sel-350-kucukbas-35-buyukbas-70-kovan-zarar-2026",
     "iller": [
       {
         "il": "Erzurum",
-        "min": -12,
-        "not": "en soğuk 26 Kasım, −12°C"
+        "min": -10,
+        "not": "en soğuk 26 Kasım, −10°C"
       },
       {
         "il": "Kars",
@@ -4483,8 +4477,8 @@
       },
       {
         "il": "Ardahan",
-        "min": -8,
-        "not": "en soğuk 26 Kasım, −8°C"
+        "min": -7,
+        "not": "en soğuk 26 Kasım, −7°C"
       },
       {
         "il": "Van",
@@ -4493,8 +4487,8 @@
       },
       {
         "il": "Sivas",
-        "min": -5,
-        "not": "en soğuk 26 Kasım, −5°C"
+        "min": -4,
+        "not": "en soğuk 26 Kasım, −4°C"
       },
       {
         "il": "Erzincan",
@@ -4508,8 +4502,7 @@
       },
       {
         "il": "Konya",
-        "min": -1,
-        "not": "en soğuk 26 Kasım, −1°C"
+        "min": 0
       },
       {
         "il": "Ankara",
@@ -4518,13 +4511,13 @@
       },
       {
         "il": "Afyonkarahisar",
-        "min": -1,
-        "not": "en soğuk 25 Kasım, −1°C"
+        "min": -2,
+        "not": "en soğuk 25 Kasım, −2°C"
       },
       {
         "il": "Eskişehir",
-        "min": -1,
-        "not": "en soğuk 25 Kasım, −1°C"
+        "min": -2,
+        "not": "en soğuk 25 Kasım, −2°C"
       },
       {
         "il": "Kütahya",
@@ -4533,8 +4526,8 @@
       },
       {
         "il": "Uşak",
-        "min": -5,
-        "not": "en soğuk 25 Kasım, −5°C"
+        "min": -3,
+        "not": "en soğuk 25 Kasım, −3°C"
       },
       {
         "il": "Isparta",
@@ -4553,43 +4546,43 @@
       {
         "il": "Çorum",
         "min": -1,
-        "not": "en soğuk 26 Kasım, −1°C"
+        "not": "en soğuk 25 Kasım, −1°C"
       },
       {
         "il": "Bolu",
-        "min": -1,
-        "not": "en soğuk 25 Kasım, −1°C"
+        "min": -2,
+        "not": "en soğuk 26 Kasım, −2°C"
       },
       {
         "il": "Edirne",
-        "min": -1,
-        "not": "en soğuk 25 Kasım, −1°C"
+        "min": -2,
+        "not": "en soğuk 25 Kasım, −2°C"
       },
       {
         "il": "Kırklareli",
-        "min": -1,
-        "not": "en soğuk 25 Kasım, −1°C"
+        "min": -2,
+        "not": "en soğuk 25 Kasım, −2°C"
       },
       {
         "il": "Tekirdağ",
-        "min": 1
-      },
-      {
-        "il": "Çanakkale",
         "min": 2
       },
       {
-        "il": "Balıkesir",
-        "min": -1,
-        "not": "en soğuk 25 Kasım, −1°C"
-      },
-      {
-        "il": "Bursa",
+        "il": "Çanakkale",
         "min": 3
       },
       {
+        "il": "Balıkesir",
+        "min": -2,
+        "not": "en soğuk 26 Kasım, −2°C"
+      },
+      {
+        "il": "Bursa",
+        "min": 1
+      },
+      {
         "il": "Manisa",
-        "min": 4
+        "min": 5
       },
       {
         "il": "İzmir",
@@ -4597,19 +4590,19 @@
       },
       {
         "il": "Aydın",
-        "min": 7
+        "min": 6
       },
       {
         "il": "Denizli",
-        "min": 5
+        "min": 6
       },
       {
         "il": "Kocaeli",
-        "min": 4
+        "min": 3
       },
       {
         "il": "Sakarya",
-        "min": 4
+        "min": 3
       },
       {
         "il": "Samsun",
@@ -4633,7 +4626,7 @@
       },
       {
         "il": "İstanbul",
-        "min": 3
+        "min": 2
       }
     ]
   },
