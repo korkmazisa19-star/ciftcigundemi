@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-24T20:14:00+03:00",
+  "guncelleme": "2026-11-24T23:09:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,40 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "sirnak-silopi-gubre-bayileri-gts-barkod-denetimi-numune-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-24",
+      "eklenme": "2026-11-24T23:09:00+03:00",
+      "motif": "tohum",
+      "baslik": "Silopi'de gübre bayileri denetlendi: Ürünler barkodla izlendi, numuneler laboratuvara gönderiliyor",
+      "manset": "Gübre çuvalında \"barkod\" dönemi",
+      "ozet": "Şırnak İl ve Silopi İlçe Tarım ve Orman Müdürlüğü ekipleri, Silopi'deki gübre bayilerinde denetim yaptı. Ekipler, satıştaki ürünlerin barkodlarını tek tek okutarak tedarik zincirini Gübre Takip Sistemi (GTS) üzerinden kontrol etti ve bayilere sistem hakkında bilgi verdi. Gübre denetçisi Nazif Dursun, 2026 denetim programında Şırnak genelinde alınacak altı numuneden birinin Silopi'den alındığını açıkladı. Numunelerin laboratuvarda içerik ve kalite yönünden incelenerek etiket değerlerine uyup uymadığının belirleneceği, mevzuata aykırı ya da standart dışı ürünlerin tespitinin amaçlandığı bildirildi.",
+      "neYapmali": "Gübre alırken faturasını ve çuval üzerindeki barkodu isteyin; etiketteki besin değerlerinden şüphelenirseniz ya da kayıtsız ürünle karşılaşırsanız ilçe tarım ve orman müdürlüğüne bildirin.",
+      "kaynaklar": [
+        {
+          "ad": "İhlas Haber Ajansı (İHA)",
+          "url": "https://www.iha.com.tr/sirnak-haberleri/silopide-gubre-bayilerine-denetimlerde-barkodlar-tek-tek-okutuldu-521266120"
+        }
+      ]
+    },
+    {
+      "id": "edirne-kesan-begendik-mera-ustten-tohumlama-hayvan-gubresi-2026",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-24",
+      "eklenme": "2026-11-24T23:08:00+03:00",
+      "motif": "tohum",
+      "baslik": "Edirne'de meraya hayvan gübresiyle üstten tohumlama denendi: İl genelinde 218 bin dekar ıslah edildi",
+      "manset": "Meraya \"üstten tohumlama\" denemesi",
+      "ozet": "Edirne İl Tarım ve Orman Müdürlüğü, Keşan'a bağlı Beğendik Beldesi'nde 20 dekarlık bir mera parselini deneme alanı olarak seçti. Toprak hayvan gübresiyle hazırlandıktan sonra mera otu tohumu üstten tohumlama yöntemiyle ekildi; beldede toplam 4 bin 100 dekar mera bulunuyor. Müdürlüğün verilerine göre Edirne'de 77 köyde 218 bin dekar merada ıslah tamamlandı, 9 köyde 18 bin 130 dekarda çalışma sürüyor. Bugüne kadar bin 910 dekar suni mera kuruldu, bu yıl Bakanlık desteğiyle 510 dekarda daha çalışma yürütülüyor; hayvanlara gölgelik olması için meralara 42 bin fidan dikildi.",
+      "neYapmali": "Köyünüzdeki merada ıslah ya da suni mera tesisi yapılmasını isteyen muhtarlık ve yetiştiriciler, il veya ilçe tarım ve orman müdürlüğünün mera birimine başvurabilir. Islah edilen alanlarda otlatma takvimine ve kapasite sınırlarına uymak, yatırımın kalıcı olması için önemlidir.",
+      "kaynaklar": [
+        {
+          "ad": "İhlas Haber Ajansı (İHA)",
+          "url": "https://www.iha.com.tr/edirne-haberleri/edirnede-hayvan-gubresi-kullanilarak-ustten-tohumlama-ile-mera-otu-tohumu-ekildi-521204822"
+        }
+      ]
+    },
     {
       "id": "balikesir-havran-sel-350-kucukbas-35-buyukbas-70-kovan-zarar-2026",
       "kategori": "Zirai Don",
@@ -3620,50 +3654,6 @@
       "gorsel": "assets/envato/bayburt-seker-pancari-155-bin-ton-rekolte-2026.jpg",
       "gorselKucuk": "assets/envato/bayburt-seker-pancari-155-bin-ton-rekolte-2026-k.jpg",
       "gorselKaynak": "Temsili fotoğraf"
-    },
-    {
-      "id": "seferihisar-mandalina-ureticisi-kulturpark-ucretsiz-pazar",
-      "kategori": "Piyasa",
-      "tarih": "2026-11-06",
-      "eklenme": "2026-11-06T23:32:00+03:00",
-      "motif": "narenciye",
-      "baslik": "Seferihisar'ın mandalina üreticisine Kültürpark'ta ücretsiz satış alanı önerisi",
-      "ozet": "Seferihisar Belediyesi, 6 Kasım Cuma günü ilçedeki Satsuma mandalina üreticilerini belediye düğün salonunda bir araya getirdi. Toplantıda İzmir Büyükşehir Belediyesi Tarımsal Hizmetler Dairesi Başkanı Bülent Üngür, Seferihisarlı üreticilerin ürünlerini aracısız satabilmesi için Alsancak Kültürpark'ta ücretsiz çadır ve tezgâhlı bir pazar kurulmasını önerdi; pazarın 14-15 Kasım'da açılması planlanıyor. Seferihisar'da ilçe içinde bir mandalina borsası kurulması fikri de masaya geldi. İzmir'deki yaklaşık 2 bin 500 mandalina üreticisinin 998'i Seferihisar'da bulunuyor. Başkan Vekili Fuat Gümüş, mazot, gübre, ilaç ve işçilik maliyetlerindeki artışa dikkat çekti; kurusu, meyve suyu gibi işlenmiş ürünler ve kooperatiflerin güçlendirilmesi de önerildi.",
-      "neYapmali": "Kültürpark pazarında yer almak isteyen Seferihisarlı üreticiler, katılım koşulları ve kayıt için Seferihisar Belediyesi ile ilçe ziraat odasına başvurabilir; pazar tarihinin kesinleşip kesinleşmediğini belediyeden teyit etmekte yarar var.",
-      "kaynaklar": [
-        {
-          "ad": "İlkses Gazetesi",
-          "url": "https://ilkses.com.tr/izmir/seferihisar-da-mandalina-ureticisine-ucretsiz-pazar-mujdesi-466805"
-        }
-      ],
-      "manset": "Mandalinaya Kültürpark'ta \"ücretsiz\" tezgâh",
-      "gorsel": "assets/envato/seferihisar-mandalina-ureticisi-kulturpark-ucretsiz-pazar.jpg",
-      "gorselKucuk": "assets/envato/seferihisar-mandalina-ureticisi-kulturpark-ucretsiz-pazar-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
-    },
-    {
-      "id": "batman-56-ciftci-yuzde-75-hibe-34-ton-mercimek-tohumu",
-      "kategori": "Hibe",
-      "tarih": "2026-11-06",
-      "eklenme": "2026-11-06T22:33:00+03:00",
-      "motif": "tohum",
-      "baslik": "Batman'da 56 çiftçiye yüzde 75 hibeyle 34 ton sertifikalı mercimek tohumu verildi",
-      "ozet": "Batman İl Tarım ve Orman Müdürlüğü, Tarım Arazilerinin Kullanımının Etkinleştirilmesi (TAKE) Projesi kapsamında 56 çiftçiye 34 ton sertifikalı mercimek tohumu dağıttı. Tohum bedelinin yüzde 75'i hibe olarak karşılanıyor; dağıtım 6 Kasım'da Tarım Kredi Kooperatifi bahçesinde yapıldı. İl Müdürü Necdet Tuncer, projeyle ilde 2021'den bu yana 40 milyon liranın üzerinde destek verildiğini, bu yılki bütçenin yaklaşık 10 milyon lira olduğunu ve 500 civarında çiftçinin yararlanmasının beklendiğini aktardı. Tuncer, mercimeğin toprağa azot bağladığını, böylece ardından ekilen buğday ve arpada nadas ve gübre ihtiyacının azaldığını vurguladı. Müdürlüğün 7 Kasım'da paylaştığı toplam verilere göre bu yıl proje kapsamında 340 üreticiye 137,7 ton sertifikalı tohum verildi ve yaklaşık 10 bin dekarda mercimek üretimi hedefleniyor; son beş yılda ise 2.631 üreticiye 992,55 ton tohum ulaştırıldı.",
-      "neYapmali": "TAKE Projesi kapsamındaki hibeli tohum dağıtımlarından yararlanmak isteyen Batmanlı üreticiler, başvuru koşulları ve sonraki dağıtım takvimi için ilçe tarım ve orman müdürlüklerine danışabilir.",
-      "kaynaklar": [
-        {
-          "ad": "Anadolu Ajansı (Son Dakika)",
-          "url": "https://www.sondakika.com/guncel/haber-batman-da-56-ciftciye-yuzde-75-hibeli-34-ton-serti-20402839/"
-        },
-        {
-          "ad": "Herkes Duysun",
-          "url": "https://herkesduysun.com/ekonomi/batman-da-340-ureticiye-137-ton-sertifikali-mercimek-tohumu-dagitildi-071126444/"
-        }
-      ],
-      "gorsel": "assets/envato/batman-56-ciftci-yuzde-75-hibe-34-ton-mercimek-tohumu.jpg",
-      "gorselKucuk": "assets/envato/batman-56-ciftci-yuzde-75-hibe-34-ton-mercimek-tohumu-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf",
-      "manset": "Tohumun \"dörtte üçü\" devletten"
     },
     {
       "id": "tmo-findik-cks-tuccar-manav-2-yil-alim-yasagi",
