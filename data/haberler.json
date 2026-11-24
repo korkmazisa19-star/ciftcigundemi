@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-24T12:09:00+03:00",
+  "guncelleme": "2026-11-24T15:11:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,40 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "manisa-salihli-zeytin-hasadina-3-5-gun-ara-cagrisi-2026",
+      "kategori": "Piyasa",
+      "tarih": "2026-11-24",
+      "eklenme": "2026-11-24T15:11:00+03:00",
+      "motif": "zeytin",
+      "baslik": "Salihli'de zeytinyağı fabrikaları doldu: Borsa başkanı üreticilerden hasada birkaç gün ara vermesini istedi",
+      "manset": "Fabrikalar doldu, hasada \"3-5 gün\" mola",
+      "ozet": "Manisa'nın Salihli ilçesinde bu yıl zeytin rekoltesinin yüksek gelmesi, zeytinyağı fabrikalarında işleme kapasitesini zorladı. Salihli Ticaret Borsası Yönetim Kurulu Başkanı Yetiş Aksoy, fabrika avlularının zeytinle dolduğunu ve tesislerin gece gündüz çalıştığını belirterek üreticilere yağlık zeytin hasadına 3 ila 5 gün ara vermelerini tavsiye etti. Aksoy, sıkım için bekleyen zeytinin kalitesinin düşebileceğine ve bunun üreticiyi zarara uğratabileceğine dikkat çekti. Borsanın paylaştığı tahmine göre ilçede yağlık zeytin rekoltesinin 2026'da 53 bin 500 tona, sofralık zeytin rekoltesinin ise 22 bin 944 tona ulaşması bekleniyor.",
+      "neYapmali": "Yağlık zeytin üreticilerinin hasat gününü, ürünü götürecekleri fabrikayla önceden görüşüp sıkım sırasını netleştirdikten sonra belirlemesi; toplanan zeytini çuval yerine havadar kasalarda ve kısa süre bekleterek kalite kaybını önlemesi önerilir.",
+      "kaynaklar": [
+        {
+          "ad": "İhlas Haber Ajansı (İHA)",
+          "url": "https://www.iha.com.tr/manisa-haberleri/salihlide-zeytin-hasadina-ara-verin-cagrisi-521081182"
+        }
+      ]
+    },
+    {
+      "id": "mugla-milas-tarla-balikciligi-toprak-havuz-8750-ton-2026",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-24",
+      "eklenme": "2026-11-24T15:10:00+03:00",
+      "motif": "balik",
+      "baslik": "Milas'ta çorak arazideki toprak havuzlarda deniz balığı üretiliyor: Yıllık kapasite 8 bin 750 ton",
+      "manset": "Karada deniz balığı: Yılda \"8.750 ton\"",
+      "ozet": "Muğla'nın Milas ilçesinde Avşar, Ekinambarı ve Savran çevresinde yürütülen tarla balıkçılığında çipura, levrek ve granyöz gibi deniz balıkları toprak havuzlarda yetiştiriliyor. Milas İç Su Ürünleri Yetiştiricileri Birliği Başkanı Muhammet Toguç, birliğe kayıtlı işletmelerin yıllık ortalama kapasitesinin 8 bin 750 ton olduğunu söyledi. Toguç, artezyen kuyularından çıkan ve tarımsal sulamaya elverişli olmayan tuzlu yer altı suyunun, çorak arazide açılan havuzlarda üretime kazandırıldığını anlattı. Yedi havuzlu bir tesisin sahibi Şerafettin Kaçar da şu an havuzlarında kaya levreği yetiştirdiklerini belirtti.",
+      "neYapmali": "Toprak havuzda yetiştiricilik yapmak isteyenlerin, işe başlamadan önce il tarım ve orman müdürlüğü su ürünleri birimine danışarak yetiştiricilik belgesi ve çevresel izin süreçlerini öğrenmesi önerilir.",
+      "kaynaklar": [
+        {
+          "ad": "İhlas Haber Ajansı (İHA)",
+          "url": "https://www.iha.com.tr/mugla-haberleri/toprak-havuzlarda-balik-bereketi-521101627"
+        }
+      ]
+    },
     {
       "id": "malatya-hekimhan-12-koy-ortak-mera-ges-tepkisi-2026",
       "kategori": "Hayvancılık",
@@ -3636,50 +3670,6 @@
       "gorselKucuk": "assets/iha/sakarya-hendek-8-tarim-hayvancilik-fuari-165-firma-k.jpg",
       "gorselKaynak": "Fotoğraf: İHA",
       "manset": "\"165 marka\" tek çatı altında"
-    },
-    {
-      "id": "bursa-nilufer-75-bin-cilek-fidesi-yuzde-70-hibe",
-      "kategori": "Hibe",
-      "tarih": "2026-11-06",
-      "eklenme": "2026-11-06T20:41:35+03:00",
-      "motif": "sera",
-      "baslik": "Bursa Nilüfer'de çiftçilere yüzde 70 hibeyle 75 bin çilek fidesi dağıtıldı",
-      "ozet": "Nilüfer Belediyesi ve Nilüfer Tarımsal Kalkınma Kooperatifi (NİLKOOP), İnegazi, Atlas ve Kuruçeşme mahallelerindeki üreticilere yüzde 70 hibeyle 75 bin sertifikalı çilek fidesi verdi. Projede kadın çiftçilerin üretime katılımına öncelik tanındı; İnegazi ve Atlas'ta mevcut üretimin artırılması, Kuruçeşme'de ise yeni üretim alanı açılması hedefleniyor. Belediye Başkan Yardımcısı Zerrin Güleş, TÜİK'in 2025 verilerine göre ilçede 167 dekarda bin 265 ton çilek üretildiğini aktardı. Çiftçilere dikim ve bakım eğitimi verilecek; belediye teknik personeli sezon boyunca sahayı izleyecek, ürünün satışında NİLKOOP destek olacak.",
-      "neYapmali": "Fide alan üreticiler dikim ve bakım eğitimlerine katılmalı; sonraki dönem fide desteği için Nilüfer Belediyesi ve NİLKOOP ile iletişimde kalabilir.",
-      "kaynaklar": [
-        {
-          "ad": "Yeniçağ",
-          "url": "https://www.yenicaggazetesi.com/bursa-niluferde-ciftcilere-yuzde-70-hibeyle-75-bin-cilek-fidesi-dagitildi-1088759h.htm"
-        },
-        {
-          "ad": "Mersin Haber",
-          "url": "https://www.mersinhaber.com/haber-bursa-niluferde-ciftcilere-75-bin-cilek-fidesi-dagitildi/837996"
-        }
-      ],
-      "gorsel": "assets/iha/bursa-nilufer-75-bin-cilek-fidesi-yuzde-70-hibe.jpg",
-      "gorselKucuk": "assets/iha/bursa-nilufer-75-bin-cilek-fidesi-yuzde-70-hibe-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA",
-      "manset": "\"75 bin\" çilek fidesi toprağa iniyor"
-    },
-    {
-      "id": "corum-hitit-toprak-calistayi-humik-asit-50-bin-litre",
-      "kategori": "Bitkisel Üretim",
-      "tarih": "2026-11-06",
-      "eklenme": "2026-11-06T19:41:35+03:00",
-      "motif": "tohum",
-      "baslik": "Çorum'da toprak çalıştayı: Bakanlık bu yıl 50 bin litre hümik asidi yedi bölgeye dağıtıyor",
-      "ozet": "Hitit Üniversitesi Sürdürülebilirlik Ofisi, Çorum'da \"İklim Değişikliği Perspektifinden Toprak ve Sürdürülebilir Tarım Çalıştayı\" düzenledi. Tarım ve Orman Bakanlığı Eğitim ve Yayın Dairesi Başkanı Bülent Kahraman Çolakoğlu, bir protokolle elde edilen 30 bin litre hümik asidin 40 ilde, 600 çiftçinin 6 bin dekarlık alanında denendiğini ve verimin ortalama yüzde 30 arttığını gözlemlediklerini anlattı; bu oran kendi değerlendirmeleri. Çolakoğlu, bu yıl 50 bin litre hümik asidin yedi bölgedeki il müdürlüklerine dağıtıldığını ve uygulamanın meralara da genişletildiğini söyledi. Çalıştayda toprak sağlığı, kuraklık ve erozyon, mera ve hayvancılık ile sürdürülebilir toprak yönetimi başlıklarında masalar kuruldu.",
-      "neYapmali": "Hümik asit uygulamasına katılmak isteyen üreticiler il veya ilçe tarım müdürlüğüne bölgelerinde dağıtım yapılıp yapılmadığını sorabilir. Herhangi bir toprak düzenleyiciyi kullanmadan önce toprak analizi yaptırmak doğru dozu belirlemeye yardımcı olur.",
-      "kaynaklar": [
-        {
-          "ad": "Aksiyon",
-          "url": "https://aksiyon.com.tr/toprak-sagligi-ve-verimlilik-hitit-universitesi-nde-masaya-yatirildi-389678"
-        }
-      ],
-      "gorsel": "assets/iha/corum-hitit-toprak-calistayi-humik-asit-50-bin-litre.jpg",
-      "gorselKucuk": "assets/iha/corum-hitit-toprak-calistayi-humik-asit-50-bin-litre-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA",
-      "manset": "Verimi \"yüzde 30\" artırdı mı?"
     },
     {
       "id": "tmo-findik-cks-tuccar-manav-2-yil-alim-yasagi",
