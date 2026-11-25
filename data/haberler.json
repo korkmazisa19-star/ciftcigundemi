@@ -4419,9 +4419,9 @@
     }
   ],
   "hava": {
-    "donem": "25-29 Kasım",
-    "genel": "Önümüzdeki beş günde 36 il merkezinden 21'inde gece sıcaklığı 0°C ve altına iniyor; en sert soğuk 26 Kasım'da Erzurum'da beklenen −10°C, onu Kars (−7°C) ve Ardahan (−7°C) izliyor.",
-    "kaynak": "MGM 5 günlük il merkezi tahmini (24 Kasım 2026 20:13 itibarıyla)",
+    "donem": "26-30 Kasım",
+    "genel": "26-30 Kasım'da 36 il merkezinin 20'sinde gece sıcaklığı 0°C ve altına iniyor; en düşük değer 26 Kasım'da Erzurum'da beklenen −10°C, onu Ardahan (−8°C) ve Kars (−7°C) izliyor.",
+    "kaynak": "MGM 5 günlük il merkezi tahmini (25 Kasım 2026 20:10 itibarıyla)",
     "haber": "balikesir-havran-sel-350-kucukbas-35-buyukbas-70-kovan-zarar-2026",
     "iller": [
       {
@@ -4436,8 +4436,8 @@
       },
       {
         "il": "Ardahan",
-        "min": -7,
-        "not": "en soğuk 26 Kasım, −7°C"
+        "min": -8,
+        "not": "en soğuk 26 Kasım, −8°C"
       },
       {
         "il": "Van",
@@ -4446,8 +4446,8 @@
       },
       {
         "il": "Sivas",
-        "min": -4,
-        "not": "en soğuk 26 Kasım, −4°C"
+        "min": -5,
+        "not": "en soğuk 26 Kasım, −5°C"
       },
       {
         "il": "Erzincan",
@@ -4456,56 +4456,56 @@
       },
       {
         "il": "Kayseri",
-        "min": -3,
-        "not": "en soğuk 26 Kasım, −3°C"
-      },
-      {
-        "il": "Konya",
-        "min": 0
-      },
-      {
-        "il": "Ankara",
-        "min": -2,
-        "not": "en soğuk 26 Kasım, −2°C"
-      },
-      {
-        "il": "Afyonkarahisar",
-        "min": -2,
-        "not": "en soğuk 25 Kasım, −2°C"
-      },
-      {
-        "il": "Eskişehir",
-        "min": -2,
-        "not": "en soğuk 25 Kasım, −2°C"
-      },
-      {
-        "il": "Kütahya",
-        "min": -2,
-        "not": "en soğuk 25 Kasım, −2°C"
-      },
-      {
-        "il": "Uşak",
-        "min": -3,
-        "not": "en soğuk 25 Kasım, −3°C"
-      },
-      {
-        "il": "Isparta",
-        "min": 0
-      },
-      {
-        "il": "Malatya",
-        "min": -2,
-        "not": "en soğuk 26 Kasım, −2°C"
-      },
-      {
-        "il": "Yozgat",
         "min": -4,
         "not": "en soğuk 26 Kasım, −4°C"
       },
       {
-        "il": "Çorum",
+        "il": "Konya",
         "min": -1,
-        "not": "en soğuk 25 Kasım, −1°C"
+        "not": "en soğuk 26 Kasım, −1°C"
+      },
+      {
+        "il": "Ankara",
+        "min": -3,
+        "not": "en soğuk 26 Kasım, −3°C"
+      },
+      {
+        "il": "Afyonkarahisar",
+        "min": -1,
+        "not": "en soğuk 26 Kasım, −1°C"
+      },
+      {
+        "il": "Eskişehir",
+        "min": -1,
+        "not": "en soğuk 26 Kasım, −1°C"
+      },
+      {
+        "il": "Kütahya",
+        "min": -1,
+        "not": "en soğuk 26 Kasım, −1°C"
+      },
+      {
+        "il": "Uşak",
+        "min": 0
+      },
+      {
+        "il": "Isparta",
+        "min": 1
+      },
+      {
+        "il": "Malatya",
+        "min": -3,
+        "not": "en soğuk 26 Kasım, −3°C"
+      },
+      {
+        "il": "Yozgat",
+        "min": -5,
+        "not": "en soğuk 26 Kasım, −5°C"
+      },
+      {
+        "il": "Çorum",
+        "min": -2,
+        "not": "en soğuk 26 Kasım, −2°C"
       },
       {
         "il": "Bolu",
@@ -4514,21 +4514,20 @@
       },
       {
         "il": "Edirne",
-        "min": -2,
-        "not": "en soğuk 25 Kasım, −2°C"
+        "min": 0
       },
       {
         "il": "Kırklareli",
-        "min": -2,
-        "not": "en soğuk 25 Kasım, −2°C"
+        "min": -1,
+        "not": "en soğuk 30 Kasım, −1°C"
       },
       {
         "il": "Tekirdağ",
-        "min": 2
+        "min": 4
       },
       {
         "il": "Çanakkale",
-        "min": 3
+        "min": 2
       },
       {
         "il": "Balıkesir",
@@ -4537,7 +4536,7 @@
       },
       {
         "il": "Bursa",
-        "min": 1
+        "min": 2
       },
       {
         "il": "Manisa",
@@ -4545,7 +4544,7 @@
       },
       {
         "il": "İzmir",
-        "min": 8
+        "min": 7
       },
       {
         "il": "Aydın",
@@ -4561,7 +4560,7 @@
       },
       {
         "il": "Sakarya",
-        "min": 3
+        "min": 2
       },
       {
         "il": "Samsun",
@@ -4569,7 +4568,7 @@
       },
       {
         "il": "Trabzon",
-        "min": 5
+        "min": 4
       },
       {
         "il": "Antalya",
@@ -4585,7 +4584,7 @@
       },
       {
         "il": "İstanbul",
-        "min": 2
+        "min": 5
       }
     ]
   },
