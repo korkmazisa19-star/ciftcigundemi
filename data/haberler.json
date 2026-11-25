@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-25T15:11:00+03:00",
+  "guncelleme": "2026-11-25T20:09:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,40 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "erzurum-ticaret-borsasi-hayvan-pazarlari-kapali-kredi-faizsiz-erteleme-cagrisi-2026",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-25",
+      "eklenme": "2026-11-25T20:09:00+03:00",
+      "motif": "sut",
+      "baslik": "Erzurum Ticaret Borsası: Hayvan pazarları kapandı, ticaret yüzde 90 düştü; zirai krediler faizsiz ertelensin",
+      "manset": "Hayvan ticareti \"yüzde 90\" düştü",
+      "ozet": "Erzurum Ticaret Borsası Yönetim Kurulu Başkanı Hakan Oral, bölgede görülen hayvan hastalıkları nedeniyle çok sayıda hayvan pazarının kapatıldığını ve hayvancılığa dayalı ticari hacmin yaklaşık yüzde 90 azaldığını söyledi. Oral, daralmanın yetiştiricinin yanı sıra tüccardan yem tedarikçisine ve nakliyeciye kadar geniş bir kesimi etkilediğini belirtti. Gelir elde edemeyen üreticinin kredi taksitlerini ödemekte zorlandığını vurgulayan Oral, tarım ve hayvancılıkta kullanılan zirai kredilerin faizsiz ertelenmesi için ilgili bakanlıklara ve finans kuruluşlarına çağrıda bulundu. Açıklama bir talep niteliğinde; kredi koşullarında şu an resmi bir değişiklik yok.",
+      "neYapmali": "Ödeme güçlüğü çeken yetiştiriciler, mevcut yapılandırma ve erteleme imkânlarını Ziraat Bankası şubesinden ya da Tarım Kredi Kooperatifi'nden yazılı olarak öğrenmeli; hayvan hareketlerinde il ve ilçe tarım müdürlüğünün karantina duyurularını takip etmeli.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/erzurum-haberleri/etb-baskani-hakan-oraldan-tarim-ve-hayvancilik-sektoru-icin-faizsiz-kredi-erteleme-cagrisi-521721628"
+        }
+      ]
+    },
+    {
+      "id": "adiyaman-zeytin-bereketi-1-milyon-fidan-ilk-etap-350-bin-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-25",
+      "eklenme": "2026-11-25T20:08:00+03:00",
+      "motif": "zeytin",
+      "baslik": "Adıyaman'da 1 milyon zeytin fidanı hedefi: İlk etapta 350 bin fidan toprakla buluştu",
+      "manset": "Bir yılda \"1 milyon\" zeytin ağacı",
+      "ozet": "Adıyaman'da başlatılan Zeytin Bereketi Projesi kapsamında ilk etapta 350 bin zeytin fidanı dikildi. Merkeze bağlı Bağpınar köyündeki programa Vali Abdullah Küçük ve kurum temsilcileri katıldı. İl Tarım ve Orman Müdürü Abdulkadir Akkan, ildeki zeytin alanının 2014'teki 20 bin dekardan bugün 44 bin dekara çıktığını ve yıllık üretim kapasitesinin 5 bin tona ulaştığını aktardı. Vali Küçük, gelecek yıl sonuna kadar 1 milyon ağaç daha dikilerek alanın 69 bin dekara, ağaç sayısının da 2,5 milyona çıkarılmasının hedeflendiğini söyledi.",
+      "neYapmali": "Projeden fidan almak ya da yeni zeytinlik kurmak isteyen Adıyamanlı üreticiler, başvuru koşullarını ve dağıtım takvimini İl ya da İlçe Tarım ve Orman Müdürlüğü'nden öğrenmeli; dikimden önce toprak analizi yaptırmalı.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/adiyaman-haberleri/adiyamanda-1-milyon-zeytin-fidani-icin-ilk-adim-atildi-521665500"
+        }
+      ]
+    },
     {
       "id": "konya-karapinar-pancar-hasadi-yuzde-80-misir-nem-sorunu-2026",
       "kategori": "Bitkisel Üretim",
@@ -3588,50 +3622,6 @@
       ],
       "gorsel": "assets/envato/tmo-misir-stok-takviyesi-ithalat-arz-riski-2026.jpg",
       "gorselKucuk": "assets/envato/tmo-misir-stok-takviyesi-ithalat-arz-riski-2026-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
-    },
-    {
-      "id": "karabuk-eskipazar-lahana-hasadi-2500-ton-2026",
-      "kategori": "Bitkisel Üretim",
-      "tarih": "2026-11-06",
-      "eklenme": "2026-11-07T08:30:51+03:00",
-      "motif": "tohum",
-      "baslik": "Eskipazar lahanasında hasat başladı: 500 dekardan 2 bin 500 ton ürün hedefleniyor",
-      "manset": "Tek başı \"20 kilo\" geliyor!",
-      "ozet": "Karabük'ün Eskipazar ilçesinde 500 dekarlık alanda yetiştirilen lahananın hasadına başlandı; il tarım müdürlüğü bu yıl 2 bin 500 tonluk rekolte bekliyor. İl Tarım ve Orman Müdürü Yasin Önder, ürün için 2025'te Eskipazar Kaymakamlığı adına coğrafi işaret başvurusu yapıldığını ve tescil bülteninin yayımlanmasının beklendiğini belirtti. Üreticilerin anlattığına göre lahana başları 20 kiloya kadar ulaşabiliyor, ürün pazarda kilogram başına 40-50 liradan satılıyor. Hasat kasım ve aralık boyunca sürecek; Karahasanlar köyünde Tarım ve Orman ile Gençlik ve Spor bakanlıklarının yürüttüğü gönüllü hasat etkinliği de düzenlendi.",
-      "neYapmali": "Eskipazar'daki lahana üreticileri coğrafi işaret tescilinin sonucunu ve etiket kullanım koşullarını Karabük İl Tarım ve Orman Müdürlüğünden takip edebilir. Ürünü kasım-aralık döneminde depolama ve satış planını erken yaparak pazara sunmak fiyat kaybını azaltabilir.",
-      "kaynaklar": [
-        {
-          "ad": "Haberler.com (Anadolu Ajansı)",
-          "url": "https://www.haberler.com/ekonomi/karabuk-eskipazar-da-lahana-hasadi-basladi-2-bin-20402706-haberi/"
-        }
-      ],
-      "gorsel": "assets/envato/karabuk-eskipazar-lahana-hasadi-2500-ton-2026.jpg",
-      "gorselKucuk": "assets/envato/karabuk-eskipazar-lahana-hasadi-2500-ton-2026-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
-    },
-    {
-      "id": "mgm-zirai-don-7-10-kasim-alti-bolge",
-      "kategori": "Zirai Don",
-      "tarih": "2026-11-06",
-      "eklenme": "2026-11-07T07:29:57+03:00",
-      "motif": "don",
-      "baslik": "Meteoroloji'den hafta sonu için yeni zirai don uyarısı: Altı bölgede hafif ve yer yer orta şiddette don bekleniyor",
-      "manset": "Cumartesi gecesi \"altı bölgede\" don!",
-      "ozet": "Meteoroloji Genel Müdürlüğü (MGM), 6 Kasım'da yayımladığı uyarıda cumartesiyi pazara bağlayan geceden itibaren zirai don beklendiğini bildirdi. Uyarı Marmara'nın güneydoğusu, İç Anadolu, Karadeniz'in iç kesimleri, İç Ege, Akdeniz'in iç ve yüksek kesimleri ile Doğu Anadolu'yu kapsıyor. Donun hafif, yer yer de orta şiddette olması öngörülüyor. Habere göre risk 7 Kasım saat 22.00'de başlayıp 10 Kasım sabah 10.00'a kadar sürecek. Ankara Valiliği de başkentte aynı gece başlayacak don için üreticileri tedbirli olmaya çağırdı.",
-      "neYapmali": "Örtü altı ve açık alandaki hassas sebze, fide ve geç hasat ürünlerinizi 7 Kasım akşamından önce örtü, sulama ya da ısıtma gibi yöntemlerle korumaya alın; ilinize ait güncel tahmini MGM'nin sitesinden takip edin.",
-      "kaynaklar": [
-        {
-          "ad": "Anadolu Ajansı",
-          "url": "https://www.aa.com.tr/tr/gundem/meteorolojiden-zirai-don-uyarisi/4114390"
-        },
-        {
-          "ad": "ABC Gazetesi",
-          "url": "https://abcgazetesi.com.tr/turkiye/meteoroloji-6-bolge-icin-zirai-don-uyarisinda-bulundu-876460"
-        }
-      ],
-      "gorsel": "assets/envato/mgm-zirai-don-7-10-kasim-alti-bolge.jpg",
-      "gorselKucuk": "assets/envato/mgm-zirai-don-7-10-kasim-alti-bolge-k.jpg",
       "gorselKaynak": "Temsili fotoğraf"
     },
     {
