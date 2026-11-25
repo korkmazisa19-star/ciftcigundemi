@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-25T20:09:00+03:00",
+  "guncelleme": "2026-11-25T23:09:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,40 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "trabzon-fao-iklime-dayanikli-zeytin-yerel-cesit-projesi-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-25",
+      "eklenme": "2026-11-25T23:09:00+03:00",
+      "motif": "zeytin",
+      "baslik": "Trabzon'da FAO ile ortak proje: Karadeniz zeytini iklim değişikliğine karşı korunacak",
+      "manset": "Karadeniz zeytinine \"FAO\" kalkanı",
+      "ozet": "Trabzon İl Tarım ve Orman Müdürlüğü, Birleşmiş Milletler Gıda ve Tarım Örgütü (FAO) ile Karadeniz'de iklim değişikliğine dayanıklı zeytin üretimini güçlendirmeyi amaçlayan bir projeye başladı. Projenin açılış çalıştayı paydaşların katılımıyla çevrim içi yapıldı. İl Müdürü İsa Kaplan, bölgenin iklimine uyum sağlamış yerel zeytin çeşitlerinin genetik kaynak olarak korunacağını ve dayanıklı üretim yöntemlerinin geliştirileceğini anlattı. Çalıştayda FAO uzmanlarıyla projenin hedefleri, faaliyetleri ve uygulama yol haritası belirlendi.",
+      "neYapmali": "Karadeniz'de zeytin yetiştiren üreticiler, projedeki eğitim ve uygulama çalışmalarına katılım için Trabzon İl Tarım ve Orman Müdürlüğü ile ilçe müdürlüklerinden bilgi alabilir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/trabzon-haberleri/karadeniz-bolgesinde-iklim-degisikligine-dayanikli-zeytin-uretilecek-521548723"
+        }
+      ]
+    },
+    {
+      "id": "kirklareli-tagem-bugday-yulaf-macar-figi-demonstrasyon-ekimi-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-25",
+      "eklenme": "2026-11-25T23:08:00+03:00",
+      "motif": "tohum",
+      "baslik": "Kırklareli'de yerli buğday, yulaf ve Macar fiği çeşitleri demonstrasyon tarlalarında denendi",
+      "manset": "Yerli tohum \"tarlada\" sınavda",
+      "ozet": "Kırklareli'nin birçok ilçesinde yerli tohum çeşitlerini yaygınlaştırmak için arazi incelemeleri ve demonstrasyon ekimleri yapıldı. Lüleburgaz'da buğday ve kanola alanlarında gelişim gözlemleri yapılırken Pehlivanköy'de TAGEM'den sağlanan buğday çeşitleri ekildi. Vize'de yerli Halkalı ve Kuşak yulaf çeşitleri, Babaeski'de ise Trakya Tarımsal Araştırma Enstitüsü'nün geliştirdiği Macar fiği bölge koşullarında denenmek üzere toprağa bırakıldı. Çalışmalarla üreticilere alternatif çeşitlerin tanıtılması amaçlanıyor.",
+      "neYapmali": "Yeni çeşitleri merak eden üreticiler, demonstrasyon tarlalarının sonuçlarını ve tohum temin imkânlarını ilçe tarım ve orman müdürlüklerinden takip edebilir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/kirklareli-haberleri/kirklarelinde-tarim-arazilerinde-uretim-ve-demonstrasyon-calismalari-suruyor-521607051"
+        }
+      ]
+    },
     {
       "id": "erzurum-ticaret-borsasi-hayvan-pazarlari-kapali-kredi-faizsiz-erteleme-cagrisi-2026",
       "kategori": "Hayvancılık",
@@ -3583,46 +3617,6 @@
       "gorselKucuk": "assets/iha/sinop-mertoglu-celtik-tarlalari-su-basti-2026-k.jpg",
       "gorselKaynak": "Fotoğraf/Video: İHA",
       "video": "assets/video/sinop-mertoglu-celtik-tarlalari-su-basti-2026.mp4"
-    },
-    {
-      "id": "samsun-havza-cilek-fidesi-damla-sulama-destegi-2026",
-      "kategori": "Hibe",
-      "tarih": "2026-11-06",
-      "motif": "sera",
-      "baslik": "Samsun Büyükşehir'den Havza'da 5 üreticiye çilek fidesi, damla sulama ve gübre desteği",
-      "manset": "Havza çileğine \"tam paket\" destek",
-      "ozet": "Samsun Büyükşehir Belediyesi'nin Çilek Yetiştiriciliğini Geliştirme Projesi kapsamında Havza ilçesinde 5 üreticiye dağıtılan çilek fideleri toprakla buluştu. Üreticilere Havza İlçe Tarım ve Orman Müdürlüğü aracılığıyla fidenin yanı sıra damla sulama sistemi, malç naylonu, gübre ve su deposu da verildi. Projede ilkbahardan sonbahar sonuna kadar ürün verebilen yediveren Albion çeşidi seçildi; Havza'nın kendine özgü aromalı yerli çileğinin de yaygınlaştırılması hedefleniyor. Amaç, küçük aile işletmelerine alternatif gelir kaynağı oluşturmak.",
-      "neYapmali": "Projenin yeni dönemine katılmak isteyen üreticiler, başvuru koşullarını Samsun Büyükşehir Belediyesi ve ilçe tarım ve orman müdürlüğünden sormalı.",
-      "kaynaklar": [
-        {
-          "ad": "İHA",
-          "url": "https://www.iha.com.tr/"
-        }
-      ],
-      "eklenme": "2026-11-07T11:56:55+03:00",
-      "gorsel": "assets/iha/samsun-havza-cilek-fidesi-damla-sulama-destegi-2026.jpg",
-      "gorselKucuk": "assets/iha/samsun-havza-cilek-fidesi-damla-sulama-destegi-2026-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA"
-    },
-    {
-      "id": "tmo-misir-stok-takviyesi-ithalat-arz-riski-2026",
-      "kategori": "Piyasa",
-      "tarih": "2026-11-06",
-      "eklenme": "2026-11-07T11:30:26+03:00",
-      "motif": "misir",
-      "baslik": "TMO hasat sürerken mısır stoklarını artırıyor: Amaç olası arz sıkıntısına ve fiyat dalgalanmasına önlem almak",
-      "manset": "Hasat sürerken \"mısır stoku\" artıyor",
-      "ozet": "Toprak Mahsulleri Ofisi, önümüzdeki aylarda yaşanabilecek arz darlığına karşı mısır stoklarını ihtiyaten takviye ettiğini duyurdu. Açıklamaya göre bu yıl yurt içi mısır üretiminin yaklaşık 8,1 milyon ton olması bekleniyor, ancak büyüyen yem sektörü nedeniyle tüketim artıyor ve eksik kalan miktar kamu ile özel sektörün ithalatıyla karşılanıyor. Rusya-Ukrayna savaşına bağlı lojistik sorunlar bazı önemli tedarikçi ülkelerden sevkiyatı durdurdu; gelen sınırlı ürüne yoğun talep olması da teklifleri olağan seviyelerin üstüne çıkardı. TMO, mevcut fiyatların üreticiye iyi bir getiri sağladığını belirterek hedefin fiyatları istikrarlı tutmak ve spekülatif hareketleri önlemek olduğunu vurguladı. Açıklamada stok miktarı ya da alım fiyatı paylaşılmadı.",
-      "neYapmali": "Mısırını henüz satmamış üreticiler, karar vermeden önce yerel borsa fiyatlarını ve TMO şube duyurularını takip edebilir. Depolama imkânı olmayanlar lisanslı depo ve ürün senedi seçeneklerini il tarım müdürlüğüne ya da borsaya sorabilir.",
-      "kaynaklar": [
-        {
-          "ad": "Ekonomi Gazetesi",
-          "url": "https://www.ekonomigazetesi.com/sektor-haberleri/tmodan-arz-sikintisina-karsi-misir-stoku-91555"
-        }
-      ],
-      "gorsel": "assets/envato/tmo-misir-stok-takviyesi-ithalat-arz-riski-2026.jpg",
-      "gorselKucuk": "assets/envato/tmo-misir-stok-takviyesi-ithalat-arz-riski-2026-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
     },
     {
       "id": "tmo-findik-cks-tuccar-manav-2-yil-alim-yasagi",
