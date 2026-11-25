@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-25T12:09:00+03:00",
+  "guncelleme": "2026-11-25T15:11:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,43 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "konya-karapinar-pancar-hasadi-yuzde-80-misir-nem-sorunu-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-25",
+      "eklenme": "2026-11-25T15:11:00+03:00",
+      "motif": "pancar",
+      "baslik": "Karapınar'da pancar hasadı yüzde 80'e ulaştı, mısırda yüksek nem hasadı durdurdu",
+      "manset": "Mısır tarlası \"yarı yarıya\" hasat bekliyor",
+      "ozet": "Konya'nın Karapınar ilçesinde şeker pancarı hasadının yaklaşık yüzde 80'i tamamlandı. Karapınar Ziraat Odası Başkanı Durmuş Üner'in verdiği bilgiye göre sökülen pancarın yaklaşık yarısı taşındı ve ilçeden Ereğli Şeker Fabrikası'na günde 8-10 bin ton pancar gönderiliyor. Mısırda ise dane nemi düşmediği için hasat ağır ilerliyor; odanın teknik danışmanı Prof. Dr. Süleyman Soylu, ilçedeki mısır alanlarının yüzde 50-60'ında hasadın henüz yapılamadığını söyledi. Soylu, nemi yüzde 20'nin üzerindeki mısıra alıcı bulmanın zorlaştığını ve beklenen don olaylarının nemin düşmesine yardımcı olabileceğini belirtti.",
+      "neYapmali": "Mısır üreticileri hasattan önce dane nemini ölçtürmeli, kurutma ve alım koşullarını ziraat odası ile alıcılardan teyit etmeli. Pancar üreticileri sevkiyat sırası için fabrika bölge şefliğiyle iletişimde kalmalı.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/konya-haberleri/karapinarda-pancar-hasadinda-yuzde-80e-ulasildi-misirda-nem-sorunu-suruyor-521611642"
+        }
+      ],
+      "gorsel": "assets/envato/konya-karapinar-pancar-hasadi-yuzde-80-misir-nem-sorunu-2026.jpg",
+      "gorselKucuk": "assets/envato/konya-karapinar-pancar-hasadi-yuzde-80-misir-nem-sorunu-2026-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
+    },
+    {
+      "id": "adana-yuregir-ziraat-odasi-kredi-borcu-faizsiz-erteleme-talebi-2026",
+      "kategori": "Destek",
+      "tarih": "2026-11-25",
+      "eklenme": "2026-11-25T15:10:00+03:00",
+      "motif": "para",
+      "baslik": "Yüreğir Ziraat Odası: Çiftçinin kredi borcu faizsiz ertelensin, yeni kredi şartı kalksın",
+      "manset": "Kredi için \"eski borç\" şartı kalksın",
+      "ozet": "Adana'daki Yüreğir Ziraat Odası Başkanı Mehmet Akın Doğan, finansman sıkıntısı çeken çiftçilerin Ziraat Bankası kredi borçlarının faizsiz ertelenmesini istedi. Doğan, yeni kredi kullanabilmek için mevcut borcun kapatılması şartının kaldırılması gerektiğini söyledi. Artan maliyetler ve ürünün değerinde satılamaması nedeniyle üreticinin gelir ile gideri arasındaki farkın açıldığını belirten Doğan, bu tablonun sürmesi halinde birçok çiftçinin üretimden çekilebileceği uyarısında bulundu. Açıklama bir talep niteliğinde olup kredi koşullarında şu an için resmi bir değişiklik bulunmuyor.",
+      "neYapmali": "Kredi borcu olan üreticiler, yapılandırma ve erteleme seçeneklerini bağlı oldukları Ziraat Bankası şubesinden ya da Tarım Kredi Kooperatifi'nden yazılı olarak öğrenmeli; resmi bir karar açıklanmadan ödeme planını aksatmamalı.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/adana-haberleri/baskan-dogan-ureticiye-yeni-finansman-imkanin-saglanmalidir-521555645"
+        }
+      ]
+    },
     {
       "id": "taris-pamuk-birligi-mahkeme-denetim-kayyumu-atadi-2026",
       "kategori": "Piyasa",
@@ -3598,50 +3635,6 @@
       "gorselKaynak": "Temsili fotoğraf"
     },
     {
-      "id": "rekabet-kurumu-findik-7-sirket-sorusturma-ferrero-taahhut",
-      "kategori": "Piyasa",
-      "tarih": "2026-11-06",
-      "eklenme": "2026-11-07T06:30:40+03:00",
-      "motif": "findik",
-      "baslik": "Fındık soruşturmasında şirket sayısı yediye çıktı: Ferrero'nun alım taahhütleri de incelenecek",
-      "manset": "Fındıkta soruşturma \"7 şirkete\" genişledi",
-      "ozet": "Rekabet Kurumu, 22 Ekim'de altı şirketle başlattığı fındık soruşturmasının kapsamını 6 Kasım'da yedi şirkete genişletti. İncelenen firmalar Ferrero Fındık, Atalay Fındık, Balsu Gıda, Karaçuha Tarım, Ofi Tarım, Özyılmaz Fındık ve Şenocak Gıda olarak açıklandı. Kurum, bu şirketlerin üreticiden alım fiyatlarını ve alım politikalarını birlikte belirleyip belirlemediğini ve piyasadaki fiyat oluşumunu etkileyip etkilemediğini araştıracak. Ferrero'nun 2024'te bağlayıcı hale gelen taahhütlerine, yani kabuklu fındığı TMO fiyatının altında almama, sezonda 100 bin tonu aşmama ve eylül-aralık döneminde en az 45 bin ton alma sözüne uyup uymadığı da ele alınacak. Soruşturma açılması ihlal bulunduğu anlamına gelmiyor; haberlerde şirketlerden bir açıklamaya yer verilmedi.",
-      "neYapmali": "Fındığınızı satarken fiyatı ve tarihi gösteren müstahsil makbuzunu mutlaka alın ve saklayın; TMO fiyatının altında alım teklifi ya da alıcılar arasında anlaşmalı fiyat izlenimi gibi durumları ziraat odanız aracılığıyla Rekabet Kurumu'na bildirebilirsiniz.",
-      "kaynaklar": [
-        {
-          "ad": "Habertürk",
-          "url": "https://haberturk.com/ekonomi/rekabet-kurumu-ndan-7-sirkete-findik-piyasasi-sorusturmasi-3925371"
-        },
-        {
-          "ad": "Milliyet Uzmanpara",
-          "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/findikta-fiyat-sorusturmasi-buyuyor-7-sirket-mercek-altinda-7695587"
-        }
-      ],
-      "gorsel": "assets/envato/rekabet-kurumu-findik-7-sirket-sorusturma-ferrero-taahhut.jpg",
-      "gorselKucuk": "assets/envato/rekabet-kurumu-findik-7-sirket-sorusturma-ferrero-taahhut-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
-    },
-    {
-      "id": "elma-4-milyon-427-bin-ton-cips-mama-tzym-kiraz",
-      "kategori": "Piyasa",
-      "tarih": "2026-11-06",
-      "eklenme": "2026-11-07T05:30:12+03:00",
-      "motif": "elma",
-      "baslik": "Elmada bol rekolte üreticiyi zorluyor: Ziraat mühendislerinden cips, mama ve sirke önerisi",
-      "manset": "Elmada rekolte \"yüzde 97,4\" arttı",
-      "ozet": "Türk Ziraat Yüksek Mühendisleri Birliği Genel Başkanı Fehmi Kiraz, 2026'da elma üretiminin bir önceki yıla göre yüzde 97,4 artışla 4 milyon 427 bin tona çıkmasının beklendiğini hatırlattı. Kiraz'a göre geçen yılki don ve kuraklık kayıplarının ardından gelen bu bolluk; yükselen girdi maliyetleri, daralan ihracat ve düşen alım fiyatları nedeniyle üreticiye kazanç getirmiyor. Isparta, Karaman, Niğde, Elmalı ve Göksun'da binlerce ton elmanın dalda ya da depoda beklediğini belirten Kiraz, ürünün yalnızca konsantreye gitmemesi için elma cipsi, dondurularak kurutulmuş elma, bebek maması püresi ve organik sirke tesislerinin desteklenmesini önerdi. Birlik ayrıca meyve suyu fabrikalarının alımlarında maliyet esaslı taban fiyat, Tarım Kredi ve kamu kurumlarınca müdahale alımı, navlun desteği ve soğuk hava depolarının elektrik giderlerine destek istedi.",
-      "neYapmali": "Deposunda elma bekleyen üreticiler, satış kararından önce bölgelerindeki ziraat odası ve üretici birliklerinden güncel alım tekliflerini ve olası işleme tesisi ya da kooperatif alımlarını öğrenebilir. Depolama maliyetini düşürmek için enerji giderlerini ve ürün kalitesini düzenli takip etmek faydalı olur.",
-      "kaynaklar": [
-        {
-          "ad": "Anadolu Ajansı",
-          "url": "https://www.aa.com.tr/tr/ekonomi/elmada-yuksek-rekolteye-cips-ve-mama-formulu/4113688"
-        }
-      ],
-      "gorsel": "assets/envato/elma-4-milyon-427-bin-ton-cips-mama-tzym-kiraz.jpg",
-      "gorselKucuk": "assets/envato/elma-4-milyon-427-bin-ton-cips-mama-tzym-kiraz-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
-    },
-    {
       "id": "tmo-findik-cks-tuccar-manav-2-yil-alim-yasagi",
       "kategori": "Piyasa",
       "tarih": "2026-11-06",
@@ -4663,9 +4656,7 @@
         "nar-2.jpg",
         "nar-3.jpg"
       ],
-      "pancar": [
-        "pancar-5.jpg"
-      ],
+      "pancar": [],
       "kestane": [
         "kestane-2.jpg",
         "kestane-3.jpg"
