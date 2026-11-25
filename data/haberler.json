@@ -90,7 +90,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/ardahan-haberleri/serkadan-ardahan-aricilik-sektorune-yonelik-yurt-ici-teknik-inceleme-521006173"
         }
-      ]
+      ],
+      "gorsel": "assets/envato/ardahan-aricilar-serka-mugla-marmaris-teknik-inceleme-2026.jpg",
+      "gorselKucuk": "assets/envato/ardahan-aricilar-serka-mugla-marmaris-teknik-inceleme-2026-k.jpg",
+      "gorselKaynak": "Temsili fotoğraf"
     },
     {
       "id": "sirnak-silopi-gubre-bayileri-gts-barkod-denetimi-numune-2026",
@@ -4634,9 +4637,7 @@
         "findik-6.jpg",
         "findik-7.jpg"
       ],
-      "kovan": [
-        "kovan-5.jpg"
-      ],
+      "kovan": [],
       "koyun": [],
       "para": [],
       "sera": [],
