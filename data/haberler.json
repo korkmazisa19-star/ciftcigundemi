@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-26T12:11:00+03:00",
+  "guncelleme": "2026-11-26T15:10:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,40 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "marmarabirlik-ilk-odeme-590-milyon-tl-27-kasim-2026",
+      "kategori": "Piyasa",
+      "tarih": "2026-11-26",
+      "eklenme": "2026-11-26T15:10:00+03:00",
+      "motif": "zeytin",
+      "baslik": "Marmarabirlik zeytin üreticisine ilk ödemeyi yapıyor: 590 milyon TL 27 Kasım'da hesaplarda",
+      "manset": "Zeytinciye ilk ödeme \"590 milyon TL\"",
+      "ozet": "Marmarabirlik, 2026/2027 iş yılı ürün alım kampanyasında ortaklarına ilk ödemeyi yapacağını açıkladı. 4-20 Kasım 2026 arasında teslim edilen zeytinlerin bedelinin yüzde 50'sine denk gelen 590 milyon TL, 27 Kasım'da ortakların hesaplarına geçecek. Yönetim Kurulu Başkanı Ali Yıldız, ödeme planının hem üreticiyi hem kurumu gözeterek yapıldığını söyledi. Yıldız, son dönemde birlik hakkında gündeme gelen iddiaları da asılsız bulduğunu belirterek iddia sahiplerini somut delil sunmaya çağırdı.",
+      "neYapmali": "Kasım başından 20 Kasım'a kadar ürün teslim eden ortaklar 27 Kasım'da hesaplarını kontrol edebilir; tutar ya da teslimat kaydıyla ilgili soruları bağlı oldukları kooperatife iletmeleri gerekir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/bursa-haberleri/marmarabirlikten-uretici-ortaklarina-ilk-odeme-522159892"
+        }
+      ]
+    },
+    {
+      "id": "sinop-turkeli-18-sut-sagim-makinesi-yuzde-70-hibe-2026",
+      "kategori": "Hibe",
+      "tarih": "2026-11-26",
+      "eklenme": "2026-11-26T15:09:00+03:00",
+      "motif": "sut",
+      "baslik": "Sinop Türkeli'de yetiştiricilere yüzde 70 hibeli 18 süt sağım makinesi teslim edildi",
+      "manset": "Sağım makinesine \"yüzde 70\" hibe",
+      "ozet": "Tarım ve Orman Bakanlığı'nın Makineli Süt Sağım Projesi kapsamında Sinop'un Türkeli ilçesinde 18 süt sağım makinesi hak sahiplerine verildi. Makineler yüzde 70 hibe desteğiyle alındı; hak sahiplerini Türkeli İlçe Tarım ve Orman Müdürlüğü belirledi. Projeyle süt üretiminde verimin artması, sağımın kolaylaşması ve yetiştiricinin iş yükünün azalması amaçlanıyor. Müdürlük, desteğin ilçede hayvancılıkta makine kullanımını yaygınlaştırmasını bekliyor.",
+      "neYapmali": "Makineli süt sağım desteğinden yararlanmak isteyen yetiştiriciler yeni başvuru dönemi ve şartlar için ilçe tarım ve orman müdürlüğüne danışabilir; işletme ve hayvan kayıtlarının güncel olması başvuru için önemlidir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/sinop-haberleri/sinopta-ureticiye-can-suyu-olacak-destek-522135903"
+        }
+      ]
+    },
     {
       "id": "manisa-gekis-elektronik-kupe-buyukbas-dogumdan-kesime-izleme-2026",
       "kategori": "Hayvancılık",
@@ -3515,50 +3549,6 @@
       "gorsel": "assets/iha/erzurum-tekman-3500-donum-aycicegi-hasadi-2026.jpg",
       "gorselKucuk": "assets/iha/erzurum-tekman-3500-donum-aycicegi-hasadi-2026-k.jpg",
       "gorselKaynak": "Fotoğraf: İHA"
-    },
-    {
-      "id": "bayburt-hayvan-pazari-sap-kisitlama-kalkti-6-kasim",
-      "kategori": "Hayvancılık",
-      "tarih": "2026-11-06",
-      "eklenme": "2026-11-07T16:31:36+03:00",
-      "motif": "sut",
-      "baslik": "Bayburt'ta şap kısıtlamaları kaldırıldı: Hayvan pazarı bir ay sonra yeniden açıldı",
-      "manset": "Bir ay sonra pazar \"yeniden açık\"",
-      "ozet": "Bayburt İl Tarım ve Orman Müdürlüğü, şap hastalığı nedeniyle 6 Ekim'de getirilen hayvan hareketi kısıtlamalarının komisyon kararıyla kaldırıldığını duyurdu. Kısıtlamalar kapsamında Bayburt Hayvan Pazarı kapatılmış, il merkeziyle ilçelerin tüm köy ve mahallelerinde hayvan giriş-çıkışı durdurulmuştu. Kararla birlikte pazar 6 Kasım itibarıyla yeniden açıldı ve üreticiler hayvan alım satımına başlayabildi. Müdürlük, hastalığın yeniden yayılmaması için resmî duyuruların ve veteriner hekim önerilerinin takip edilmesini istedi.",
-      "neYapmali": "Pazara hayvan götürmeden önce küpe, kayıt ve aşı durumunuzu kontrol edin; yeni alınan hayvanları bir süre sürüden ayrı tutup hastalık belirtisi görürseniz il ya da ilçe tarım müdürlüğüne bildirin.",
-      "kaynaklar": [
-        {
-          "ad": "Karadeniz Gazete (İHA)",
-          "url": "https://karadenizgazete.com.tr/karadeniz/bayburt/bayburt-hayvan-pazari-yeniden-acildi-sap-hastaligi-kisitlamalari-kaldirildi/631778"
-        },
-        {
-          "ad": "Mersin Haber (İHA)",
-          "url": "https://www.mersinhaber.com/haber-bayburtta-hayvan-pazari-sap-hastaligi-nedeniyle-kapatilmisti-ve-yeniden-acildi/837754"
-        }
-      ],
-      "gorsel": "assets/envato/bayburt-hayvan-pazari-sap-kisitlama-kalkti-6-kasim.jpg",
-      "gorselKucuk": "assets/envato/bayburt-hayvan-pazari-sap-kisitlama-kalkti-6-kasim-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
-    },
-    {
-      "id": "bilecik-osmaneli-soguk-hava-deposu-15-milyon-861-bin-tl-hibe",
-      "kategori": "Hibe",
-      "tarih": "2026-11-07",
-      "eklenme": "2026-11-07T14:30:00+03:00",
-      "motif": "elma",
-      "baslik": "Bilecik Osmaneli'de 1994 yapımı soğuk hava deposu Bakanlık hibesiyle yenilendi: Elmanın saklama süresi bir yıla çıktı",
-      "manset": "Eski depoya \"15,9 milyon lira\" hibe",
-      "ozet": "Bilecik'in Osmaneli ilçesine bağlı Çerkeşli köyünde 1994'te kurulan 800 metrekarelik soğuk hava deposu, Tarım ve Orman Bakanlığının Kırsal Kalkınma Yatırımlarının Desteklenmesi Programı kapsamında 15 milyon 861 bin liralık hibeyle modernize edildi. İşletmeci Ali Aslan'ın Nisan 2025'te il müdürlüğüne yaptığı başvuru ağustosta kabul edildi, tesis Aralık 2025'te yeniden açıldı. Hibeyle 8 evaporatör, 2 amonyak pompası, amonyak tankı ve ayrıştırıcısı, pistonlu kompresör alındı, yalıtım da yenilendi. AA'nın 7 Kasım'daki haberine göre elmanın depoda kalma süresi 6 aydan 1 yıla, şeftalininki 45 günden 3 aya, armut ve ayvanınki 3 aydan 6 aya çıktı. Aslan, elektrikten tasarruf ettiklerini ve ürünleri başta İstanbul, Ankara ve İzmir olmak üzere ülke geneline gönderdiklerini söyledi.",
-      "neYapmali": "Soğuk hava deposu kurmak ya da eski tesisini yenilemek isteyen üreticiler, Kırsal Kalkınma Yatırımlarının Desteklenmesi Programı'nın yeni çağrı dönemini ve başvuru şartlarını il tarım ve orman müdürlüğünden takip etmeli. Başvuru öncesi proje maliyetini ve öz katkı payını netleştirmek süreci hızlandırır.",
-      "kaynaklar": [
-        {
-          "ad": "Anadolu Ajansı (Sondakika.com aracılığıyla)",
-          "url": "https://www.sondakika.com/ekonomi/haber-bilecik-osmaneli-de-ali-aslan-in-deposu-15-milyon--20404249/"
-        }
-      ],
-      "gorsel": "assets/envato/bilecik-osmaneli-soguk-hava-deposu-15-milyon-861-bin-tl-hibe.jpg",
-      "gorselKucuk": "assets/envato/bilecik-osmaneli-soguk-hava-deposu-15-milyon-861-bin-tl-hibe-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
     },
     {
       "id": "turuncgil-sezonu-7-milyon-ton-2-milyar-dolar-2026",
