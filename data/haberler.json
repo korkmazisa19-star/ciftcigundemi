@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-26T20:09:00+03:00",
+  "guncelleme": "2026-11-26T23:09:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,40 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "tekirdag-lodos-denize-acilamayan-balikcilar-ag-onarimi-2026",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-26",
+      "eklenme": "2026-11-26T23:11:00+03:00",
+      "motif": "balik",
+      "baslik": "Lodos Tekirdağlı balıkçıyı limana bağladı: Tekneler yerine ağlar elden geçiriliyor",
+      "manset": "Denize çıkamadılar, \"ağ\" ördüler",
+      "ozet": "Marmara Denizi'nde etkili olan lodos fırtınası, Tekirdağ'da balıkçıların denize açılmasına engel oldu. Süleymanpaşa'daki balıkçı limanında sabahtan itibaren toplanan balıkçılar, bu süreyi yıpranan ağları onarmak ve yaklaşan av dönemleri için yeni ağ örmekle değerlendirdi. Balıkçılar, hedeflenen türe göre ağ seçiminin değiştiğini; hamsi ve istavrit gibi küçük, sürü balıkları için daha sık gözlü, palamut ve lüfer gibi iri balıklar için daha geniş gözlü ağlar kullanıldığını anlatıyor.",
+      "neYapmali": "Kıyı balıkçıları, denize çıkmadan önce Meteoroloji'nin Marmara için yayımladığı fırtına ve kuvvetli rüzgâr uyarılarını kontrol etmeli, teknelerin limanda bağlama halatlarını sağlamlaştırmalıdır.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/tekirdag-haberleri/denize-acilamayan-balikcilar-bos-durmadi-aglarini-ordu-522158765"
+        }
+      ]
+    },
+    {
+      "id": "balikesir-burhaniye-sofralik-zeytin-duyusal-analiz-paneli-egitimi-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-26",
+      "eklenme": "2026-11-26T23:10:00+03:00",
+      "motif": "zeytin",
+      "baslik": "Burhaniye'de sofralık zeytine bilimsel tadım paneli: Panelist yetiştirme eğitimleri sürüyor",
+      "manset": "Zeytinin kalitesine \"bilimsel\" not",
+      "ozet": "Balıkesir'in Burhaniye ilçesinde Ticaret Odası'nın hazırladığı ve Güney Marmara Kalkınma Ajansı'nın (GMKA) desteklediği Kuzey Ege Sofralık Zeytin Duyusal Analiz Paneli programında eğitimler devam ediyor. İki gün süren son oturumda katılımcılar sabah odada sofralık zeytinin duyusal kalite ölçütlerini ve analiz adımlarını dinledi, öğleden sonra ise bir işletmede uygulama yaptı. Programın amacı, Uluslararası Zeytin Konseyi standartlarına uygun bir tadım paneli kurmak ve zeytini bilimsel yöntemle puanlayabilecek panelistler yetiştirmek. Oda Başkanı Hasan Varol, çalışmanın bölgedeki kalite standartlarını yükseltmeyi ve Kuzey Ege zeytininin marka değerini artırmayı hedeflediğini söyledi.",
+      "neYapmali": "Sofralık zeytin üreten ya da işleyen bölge üreticileri, panel ve eğitimlere katılım koşullarını Burhaniye Ticaret Odası'ndan öğrenebilir; ürünlerini kalite analizine göndermek için odanın duyurularını takip edebilir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/balikesir-haberleri/burhaniyede-zeytinde-bilimsel-kalite-icin-teorik-ve-uygulamali-egitimler-suruyor-522273140"
+        }
+      ]
+    },
     {
       "id": "kahramanmaras-andirin-defne-yapragi-hasadi-mart-ayina-kadar-2026",
       "kategori": "Bitkisel Üretim",
@@ -3502,46 +3536,6 @@
       ],
       "gorsel": "assets/iha/yumakli-rusya-tir-analiz-yuzde-10-20-rasff-yuzde-74.jpg",
       "gorselKucuk": "assets/iha/yumakli-rusya-tir-analiz-yuzde-10-20-rasff-yuzde-74-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA (temsili)"
-    },
-    {
-      "id": "kilis-zeytin-hasadi-35-bin-ton-11600-ton-zeytinyagi-2026",
-      "kategori": "Bitkisel Üretim",
-      "tarih": "2026-11-06",
-      "eklenme": "2026-11-07T21:22:38+03:00",
-      "motif": "zeytin",
-      "baslik": "Kilis'te zeytin hasadı başladı: Vali Kalaylı 35 bin ton zeytin ve 11 bin 600 ton yağ bekliyor",
-      "manset": "Kilis'te \"11 bin 600 ton\" zeytinyağı",
-      "ozet": "Kilis'te yeni sezon zeytin hasadı, Vali Ömer Kalaylı'nın da katıldığı bir programla başladı. Kalaylı ve beraberindeki heyet hasada katıldıktan sonra Organik Zeytin Üreticileri Birliği'nin tesislerinde incelemelerde bulundu. Vali, ilde yaklaşık 5 milyon zeytin ağacı bulunduğunu, bu yıl yaklaşık 35 bin ton zeytin rekoltesi beklendiğini söyledi. Yağ veriminin yüksek olduğunu belirten Kalaylı, sezon boyunca yaklaşık 11 bin 600 ton zeytinyağı elde edilmesini öngördü. Programa İl Tarım ve Orman Müdürü Levent Küçük ile birlik başkanı Hüseyin Polat da katıldı.",
-      "neYapmali": "Kilisli üreticiler hasat ettikleri zeytini bekletmeden sıkımhaneye ulaştırmalı; satış ve fiyat için birlik ile il tarım müdürlüğü duyurularını takip etmeli.",
-      "kaynaklar": [
-        {
-          "ad": "Anadolu Ajansı (Batman Sonsöz)",
-          "url": "https://www.batmansonsoz.net/haber/zeytin-hasadi-basladi-114564.html"
-        }
-      ],
-      "gorsel": "assets/envato/kilis-zeytin-hasadi-35-bin-ton-11600-ton-zeytinyagi-2026.jpg",
-      "gorselKucuk": "assets/envato/kilis-zeytin-hasadi-35-bin-ton-11600-ton-zeytinyagi-2026-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
-    },
-    {
-      "id": "yalova-iki-ayda-4709-ton-hamsi-karaya-cikti-2026",
-      "kategori": "Hayvancılık",
-      "tarih": "2026-11-06",
-      "eklenme": "2026-11-07T21:21:38+03:00",
-      "motif": "balik",
-      "baslik": "Yalova'da av sezonunun ilk iki ayında 4 bin 709 ton hamsi karaya çıktı: Geçen sezonun tamamı aşıldı",
-      "manset": "İki ayda \"4.709 ton\" hamsi!",
-      "ozet": "Yalova'da 1 Eylül-2 Kasım 2026 arasındaki 62 günde dokuz hamsi çıkış noktasında kesintisiz denetim yapıldı. Bu sürede 313 bin 938 kasaya karşılık gelen 4 bin 709 ton hamsi karaya çıkarıldı; bu miktar, bir önceki sezonun tamamında indirilen 2 bin 709 tonu geride bıraktı. Aynı dönemde 48,5 ton sardalya, 46 ton istavrit kaydedildi, hedef dışı av olarak da 20 adet orkinos tutuldu. Denetimlerde 1.118 E-Seyir belgesi düzenlendi ve 1.277 nakil aracı kontrol edildi.",
-      "neYapmali": "Balıkçılar her seferde E-Seyir belgesini eksiksiz düzenlemeli, avı nakil belgesiyle taşımalı; hedef dışı türler ve boy sınırları için il tarım müdürlüğünün av yasaklarını kontrol etmeli.",
-      "kaynaklar": [
-        {
-          "ad": "Manşet Gazetesi",
-          "url": "https://www.manset.com.tr/yalovada-2-ayda-4-bin-709-ton-hamsi-karaya-cikarildi"
-        }
-      ],
-      "gorsel": "assets/iha/yalova-iki-ayda-4709-ton-hamsi-karaya-cikti-2026.jpg",
-      "gorselKucuk": "assets/iha/yalova-iki-ayda-4709-ton-hamsi-karaya-cikti-2026-k.jpg",
       "gorselKaynak": "Fotoğraf: İHA (temsili)"
     },
     {
