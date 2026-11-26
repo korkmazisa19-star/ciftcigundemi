@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-26T15:10:00+03:00",
+  "guncelleme": "2026-11-26T20:09:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,40 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "kahramanmaras-andirin-defne-yapragi-hasadi-mart-ayina-kadar-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-26",
+      "eklenme": "2026-11-26T20:09:00+03:00",
+      "motif": "tohum",
+      "baslik": "Andırın'da defne hasadı sürüyor: Demetler sarp yamaçlardan sırtta taşınıyor",
+      "manset": "Sırtta \"50 kilo\" yeşil altın",
+      "ozet": "Kahramanmaraş'ın Andırın ilçesinde yörede 'yeşil altın' diye anılan defne yaprağının hasadı devam ediyor. Eylülde başlayan sezon mart ayına kadar sürüyor ve kış aylarında köylerin başlıca gelir kaynaklarından biri oluyor. Araç girmeyen dik ve kayalık ormanlık alanlarda budanan dallar, 40-50 kiloluk demetler halinde üreticilerin sırtında toplama noktalarına götürülüyor. Kantarda tartılan yapraklar fabrikalarda kurutulup ayrıştırıldıktan sonra kozmetik, ilaç, gıda ve baharat sanayisine gönderiliyor. Defne yaprağı Türkiye'nin ihracat kalemleri arasında yer alıyor.",
+      "neYapmali": "Orman alanında defne toplayacak üreticilerin bölgedeki Orman İşletme Şefliği'nden izin ve kesim kurallarını öğrenmesi, dalları ağaca zarar vermeden budaması gerekir; satış öncesi kantar fişini saklamak alacak takibini kolaylaştırır.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/kahramanmaras-haberleri/andirinin-yesil-altini-defnede-zorlu-hasat-mesaisi-suruyor-522176759"
+        }
+      ]
+    },
+    {
+      "id": "aydin-tarim-ve-hayvancilik-fuari-26-29-kasim-100-firma-2026",
+      "kategori": "Makine",
+      "tarih": "2026-11-26",
+      "eklenme": "2026-11-26T20:08:00+03:00",
+      "motif": "traktor",
+      "baslik": "2. Aydın Tarım ve Hayvancılık Fuarı açıldı: Yaklaşık 100 firma 29 Kasım'a kadar üreticiyle buluşuyor",
+      "manset": "Yeni tarım aletleri \"29 Kasım\"a kadar",
+      "ozet": "Aydın Büyükşehir Belediyesi'nin ev sahipliğinde düzenlenen 2. Aydın Tarım ve Hayvancılık Fuarı, Aydın Tekstil Park'taki fuar alanında törenle açıldı. 26-29 Kasım tarihleri arasında ziyaret edilebilecek fuara yaklaşık 100 firma katılıyor; yeni nesil tarım aletleri ve teknolojik ekipmanlar sergileniyor. Geçen yıl yapılan ilk fuarı 22 bin kişi gezmişti. Açılışta konuşan Başkan Vekili Polat Bora Mersin, belediyenin bugüne kadar 30 milyon ata tohumu dağıttığını ve yılda yaklaşık 3 milyon ata tohumu dağıtımı yaptığını söyledi.",
+      "neYapmali": "Makine ya da ekipman almayı düşünen üreticiler fuarda birden fazla firmadan yazılı teklif alıp karşılaştırmalı; yatırım hibesi veya kredi kullanmayı planlıyorsa fatura ve teknik belgelerin destek programı şartlarına uygunluğunu önceden il tarım müdürlüğüne sormalı.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/aydin-haberleri/aydin-tarim-fuari-ikinci-kez-kapilarini-acti-522138562"
+        }
+      ]
+    },
     {
       "id": "marmarabirlik-ilk-odeme-590-milyon-tl-27-kasim-2026",
       "kategori": "Piyasa",
@@ -3509,46 +3543,6 @@
       "gorsel": "assets/iha/yalova-iki-ayda-4709-ton-hamsi-karaya-cikti-2026.jpg",
       "gorselKucuk": "assets/iha/yalova-iki-ayda-4709-ton-hamsi-karaya-cikti-2026-k.jpg",
       "gorselKaynak": "Fotoğraf: İHA (temsili)"
-    },
-    {
-      "id": "erdek-zeytin-kooperatifi-alim-7-kasim-7-bin-ton-kota",
-      "kategori": "Bitkisel Üretim",
-      "tarih": "2026-11-06",
-      "eklenme": "2026-11-07T19:30:36+03:00",
-      "motif": "zeytin",
-      "baslik": "Erdek Zeytin Kooperatifi yeni sezon alımına başlıyor: Birlik 7 bin ton kota tanıdı",
-      "manset": "Erdek'te zeytine \"7 bin ton\" kota",
-      "ozet": "Erdek Zeytin Kooperatifi, 2026-2027 iş yılının ürün alımlarına 7 Kasım Cumartesi günü Gedeve Depoları'nda başlıyor. Kooperatif Başkanı Abdullah Şenol'un açıklamasına göre birlik kooperatife 7 bin tonluk kota ayırdı. Ortakların bireysel kotası, son beş yılda teslim ettikleri ortalama miktarın yüzde 64 artırılmasıyla belirlendi; bu kotanın yüzde 80'i sofralık, yüzde 20'si yağlık olarak teslim edilebilecek. 180-410 barem aralığındaki taneler sofralık, 411 ve üzeri elek altı taneler yağlık sayılacak. Dolu vuran zeytinler fiyat farkıyla sofralık kotadan ayrı kalemde alınacak; açıklamada alım fiyatına yer verilmedi.",
-      "neYapmali": "Kooperatif ortakları kendi kotalarını kooperatif binasından öğrenip teslimatı sofralık-yağlık oranına göre planlamalı. Dolu zararı olanlar Dolu Vuruğu Raporu getirirse ayni kredi borçlarının ertelenmesini talep edebilir.",
-      "kaynaklar": [
-        {
-          "ad": "Yeni Erdek Gazetesi",
-          "url": "https://yenierdekgazetesi.com/haber/erdek-zeytin-kooperatifinden-aciklama-yeni-alim-donemi-basliyor-63609"
-        }
-      ],
-      "gorsel": "assets/envato/erdek-zeytin-kooperatifi-alim-7-kasim-7-bin-ton-kota.jpg",
-      "gorselKucuk": "assets/envato/erdek-zeytin-kooperatifi-alim-7-kasim-7-bin-ton-kota-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
-    },
-    {
-      "id": "erzurum-tekman-3500-donum-aycicegi-hasadi-2026",
-      "kategori": "Bitkisel Üretim",
-      "tarih": "2026-11-07",
-      "eklenme": "2026-11-07T17:29:46+03:00",
-      "motif": "tohum",
-      "baslik": "Kırıkkaleli üretici Tekman'da 3 bin 500 dönüm ayçiçeği ekti: Hasat yağışlara takıldı, fiyat beklentinin altında",
-      "manset": "Tekman'da \"3 bin 500 dönüm\" ayçiçeği",
-      "ozet": "Kırıkkale'nin Hacılar Kasabası'ndan Erzurum'un Tekman ilçesine gelen Murat Koyuncu, dört ayrı köyden kiraladığı toplam 3 bin 500 dönüm araziye ayçiçeği ekti. Şimdiye kadar bu alanın 400 dönümünde hasat tamamlandı; yağışlar nedeniyle biçerdöverler zaman zaman durmak zorunda kaldı. Koyuncu, yaban domuzları ve kargaların bu yıl ürüne ciddi zarar verdiğini ancak genel verimin yine de iyi olduğunu anlattı. Üreticinin en büyük şikâyeti ise ayçiçeği fiyatlarının beklentisinin altında kalması. Toplanan ürün, brandalar üzerine serilerek kurumaya bırakılıyor.",
-      "neYapmali": "Yaban hayvanı zararı yaşayan üreticiler, ürünleri TARSİM kapsamındaysa hasar ihbarını gecikmeden yapmalı ve zararı il/ilçe tarım müdürlüğüne bildirmeli. Satış öncesinde nem oranını düşürmek için ürünü iyi kurutmak fiyat kaybını azaltır.",
-      "kaynaklar": [
-        {
-          "ad": "Van Postası Gazetesi (İHA)",
-          "url": "https://vanpostasigazetesi.com/haber/kirikkaleden-tekmana-gelen-yatirimci-dev-aycicegi-tarlalarinda-hasat-yapiyor-402327"
-        }
-      ],
-      "gorsel": "assets/iha/erzurum-tekman-3500-donum-aycicegi-hasadi-2026.jpg",
-      "gorselKucuk": "assets/iha/erzurum-tekman-3500-donum-aycicegi-hasadi-2026-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "turuncgil-sezonu-7-milyon-ton-2-milyar-dolar-2026",
