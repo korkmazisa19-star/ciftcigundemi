@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-25T23:09:00+03:00",
+  "guncelleme": "2026-11-26T08:12:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,40 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "tarim-orman-bakanligi-2027-butce-tmo-226-milyar-odeme-2026",
+      "kategori": "Destek",
+      "tarih": "2026-11-25",
+      "eklenme": "2026-11-26T08:12:00+03:00",
+      "motif": "para",
+      "baslik": "Bakan Yumaklı 2027 bütçesini sundu: TMO bu yıl üreticiye 226 milyar lira ödedi",
+      "manset": "Tarıma 2027'de \"1,3 trilyon\" lira",
+      "ozet": "Tarım ve Orman Bakanı İbrahim Yumaklı, bakanlığın 2027 bütçesini 25 Kasım'da TBMM Plan ve Bütçe Komisyonu'nda sundu. Yumaklı'nın verdiği bilgiye göre TMO bu yıl 769 noktada 12,3 milyon ton hububat alarak rekor kırdı ve 2026'da aldığı ürünler için üreticilere 226 milyar lira ödedi. Tarıma ayrılan toplam kaynak yüzde 39 artışla 2027'de 1 trilyon 305 milyar liraya çıkarılıyor; bakanlığın kendi bütçe teklifi ise 760 milyar 597 milyon lira. Yumaklı, yıl bitmeden IPARD kapsamında 40 milyon avroluk yeni bir çağrıya çıkılacağını, 2027'de 10 dekar ve altındaki seraların modernizasyonu için yeni bir proje başlatılacağını ve Kırsal Kalkınma Yatırım Programı'nın yenileneceğini açıkladı. Atıl arazileri üretime kazandırmayı amaçlayan TAKE projesinin de 2027'de 150 bin çiftçi ve 1,9 milyon dekara genişletileceği belirtildi.",
+      "neYapmali": "IPARD ve kırsal kalkınma çağrılarını kaçırmak istemeyen üreticiler il tarım ve orman müdürlükleri ile TKDK il koordinatörlüklerinin duyurularını izleyebilir; küçük sera sahipleri yeni modernizasyon projesinin şartları açıklandığında il müdürlüğünden bilgi alabilir.",
+      "kaynaklar": [
+        {
+          "ad": "Tarım ve Orman Bakanlığı",
+          "url": "https://www.tarimorman.gov.tr/Haber/7402/Tarim-Ve-Orman-Bakanliginin-2027-Yili-Butcesi-Tbmm-Plan-Ve-Butce-Komisyonunda"
+        }
+      ]
+    },
+    {
+      "id": "erzincan-tulum-peyniri-81-il-81-urun-paydas-toplantisi-2-aralik-2026",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-25",
+      "eklenme": "2026-11-26T08:11:00+03:00",
+      "motif": "sut",
+      "baslik": "Erzincan tulum peyniri için üretici ve paydaşlar 2 Aralık'ta bir araya geliyor",
+      "manset": "Tulum peyniri için \"2 Aralık\" buluşması",
+      "ozet": "Erzincan'ın coğrafi işaretli ürünü tulum peynirinin üretimden pazarlamaya kadar yaşadığı sorunları konuşmak için bir paydaş toplantısı düzenlenecek. Anadoludakiler 81 İl 81 Ürün Programı kapsamındaki toplantı, 2 Aralık 2026 Çarşamba günü 13.00 ile 17.00 saatleri arasında Erzincan'da bir otelin toplantı salonunda yapılacak. Katılımcılar dört ayrı tematik masada üretim kapasitesinin artırılması, ürüne katma değer kazandırılması ve peynirin daha geniş pazarlara ulaştırılması üzerine çözüm önerilerini tartışacak.",
+      "neYapmali": "Tulum peyniri üreten ya da mandıraya süt veren Erzincanlı üreticiler, toplantıya katılım ve görüş iletme imkânı için Erzincan İl Tarım ve Orman Müdürlüğü'nden ya da bağlı oldukları üretici birliğinden bilgi alabilir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/erzincan-haberleri/erzincan-tulum-peyniri-icin-sektor-paydaslari-bir-araya-geliyor-521772740"
+        }
+      ]
+    },
     {
       "id": "trabzon-fao-iklime-dayanikli-zeytin-yerel-cesit-projesi-2026",
       "kategori": "Bitkisel Üretim",
@@ -3535,46 +3569,6 @@
       "gorsel": "assets/envato/bafra-ovasi-pirasa-hasadi-16-bin-ton-2026.jpg",
       "gorselKucuk": "assets/envato/bafra-ovasi-pirasa-hasadi-16-bin-ton-2026-k.jpg",
       "gorselKaynak": "Temsili fotoğraf: Envato"
-    },
-    {
-      "id": "izmir-kislik-sebze-hasadi-10-gun-erken-brokoli-2026",
-      "kategori": "Bitkisel Üretim",
-      "tarih": "2026-11-07",
-      "eklenme": "2026-11-07T12:32:36+03:00",
-      "motif": "tohum",
-      "baslik": "İzmir'de yağışlar kışlık sebze hasadını öne aldı: Brokoli, kereviz ve pırasada toplama 10 gün erken başladı",
-      "manset": "Yağmur geldi, hasat \"10 gün\" erken!",
-      "ozet": "Türkiye'nin kışlık sebze üretiminde öne çıkan İzmir'de bu sonbaharın bol yağışları hasadı önceki yıllara göre yaklaşık 10 gün öne çekti. İl Tarım ve Orman Müdürü Kahraman Akdoğan, kurak geçen yılların ardından 2026 başından beri süren yağışların ürün kalitesini de yükselttiğini söyledi. İzmir, Türkiye brokoli üretiminin yüzde 56'sını, kök kerevizin yüzde 51'ini, karnabaharın yüzde 32'sini karşılıyor; Torbalı, Bayındır, Tire ve Menemen başlıca üretim ilçeleri. Müdürlük bu yıl yaklaşık 1,5 milyon liralık bir projeyle yüzde 50 hibeli fide dağıttı. Üreticiler brokoliyi 20-25, lahanayı 10-15, pırasayı 30-35 liradan sattıklarını belirtiyor.",
-      "neYapmali": "Erken hasatta ürünü bekletmeden hal ve pazar bağlantısını önceden ayarlamak fire riskini azaltır. Hibeli fide ve sebze projeleri için ilçe tarım ve orman müdürlüğünden sonraki dönem duyurularını takip edin.",
-      "kaynaklar": [
-        {
-          "ad": "Anadolu Ajansı",
-          "url": "https://www.aa.com.tr/tr/ekonomi/sonbahar-yagislari-sebze-hasadini-erkene-cekti-tarlalar-hareketlendi/4114976"
-        }
-      ],
-      "gorsel": "assets/envato/izmir-kislik-sebze-hasadi-10-gun-erken-brokoli-2026.jpg",
-      "gorselKucuk": "assets/envato/izmir-kislik-sebze-hasadi-10-gun-erken-brokoli-2026-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato"
-    },
-    {
-      "id": "antalya-asetam-akilli-sera-cop31-biyoempedans-sensor",
-      "kategori": "Bitkisel Üretim",
-      "tarih": "2026-11-07",
-      "eklenme": "2026-11-07T12:31:36+03:00",
-      "motif": "sera",
-      "baslik": "Antalya akıllı sera teknolojisinde COP31'den destek bekliyor: Çilekte su ihtiyacını ölçen sensör geliştirildi",
-      "manset": "Cam seraların \"yüzde 79\"u Antalya'da",
-      "ozet": "Akdeniz Üniversitesi Sera Teknolojileri Uygulama ve Araştırma Merkezi (ASETAM) Müdürü Doç. Dr. Nuri Çağlayan, Antalya'da yapılacak COP31'in kentin sera birikimini uluslararası alana taşıyacağını söyledi. Çağlayan'a göre Türkiye'deki örtü altı alanların yaklaşık yüzde 41'i, cam seraların ise yüzde 79'u Antalya'da; kentteki yaklaşık 320 bin dekarlık örtü altı alanın 120 bin dekarı modern sera. ASETAM, bir İtalyan şirketin katkısıyla bitkinin fizyolojik durumunu ölçen biyoempedans temelli sensörler geliştirdi ve bunları ilk aşamada çilekte su ihtiyacını belirlemek için deniyor. Çağlayan, geliştirilen sistemlerin farklı ölçekteki üreticilerin kullanabileceği şekilde sahada test edilmesi gerektiğini vurguladı.",
-      "neYapmali": "Sensör ve otomasyon yatırımı düşünen seracılar, önce su ve enerji tüketimini kayıt altına alıp hangi sistemin kendi ölçeğine uygun olduğunu üniversite ve il müdürlüğü uzmanlarına danışabilir.",
-      "kaynaklar": [
-        {
-          "ad": "Anadolu Ajansı",
-          "url": "https://www.aa.com.tr/tr/ekonomi/cop31-antalyanin-akilli-sera-teknolojilerindeki-hedeflerine-ivme-kazandiracak/4114963"
-        }
-      ],
-      "gorsel": "assets/envato/antalya-asetam-akilli-sera-cop31-biyoempedans-sensor.jpg",
-      "gorselKucuk": "assets/envato/antalya-asetam-akilli-sera-cop31-biyoempedans-sensor-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
     },
     {
       "id": "turuncgil-sezonu-7-milyon-ton-2-milyar-dolar-2026",
