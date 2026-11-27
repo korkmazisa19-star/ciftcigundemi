@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-27T08:10:00+03:00",
+  "guncelleme": "2026-11-27T12:11:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,40 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "karabuk-arici-yuzde-50-hibeli-900-kovan-dagitildi-2026",
+      "kategori": "Hibe",
+      "tarih": "2026-11-27",
+      "eklenme": "2026-11-27T12:11:00+03:00",
+      "motif": "kovan",
+      "baslik": "Karabük'te arıcılara yüzde 50 hibeyle 900 kovan teslim edildi",
+      "manset": "Arıcılara yarı fiyatına \"900 kovan\"",
+      "ozet": "Karabük İl Tarım ve Orman Müdürlüğü, \"Arı Varsa Hayat Var\" projesi kapsamında kentteki arıcılara toplam 900 kovan dağıttı. Kovanların bedelinin yarısı hibe olarak karşılandı; proje Bakanlığın Hayvancılık Genel Müdürlüğü tarafından destekleniyor. Müdürlüğün açıklamasına göre başvuru şartlarını taşıyan yetiştiricilerin tamamı destekten yararlandı. Amaç, arıcıların kovan varlığını güçlendirmek ve kentteki bal üretim kapasitesini artırmak.",
+      "neYapmali": "Benzer kovan desteklerinden yararlanmak isteyen arıcılar, kayıtlarının Arıcılık Kayıt Sisteminde güncel olduğundan emin olup yeni proje duyuruları için il ya da ilçe tarım ve orman müdürlüğünü takip etmeli.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/karabuk-haberleri/karabukte-aricilara-yuzde-50-hibeli-900-kovan-destegi-522592753"
+        }
+      ]
+    },
+    {
+      "id": "gaziantep-sahinbey-belediyesi-zeytinyagi-teneke-4250-tl-2026",
+      "kategori": "Piyasa",
+      "tarih": "2026-11-26",
+      "eklenme": "2026-11-27T12:10:00+03:00",
+      "motif": "zeytin",
+      "baslik": "Şahinbey Belediyesi üreticiden aldığı zeytinyağının tenekesini 4 bin 250 liradan satıyor",
+      "manset": "Tenekesi \"4 bin 250 lira\"",
+      "ozet": "Gaziantep'te Şahinbey Belediyesi, üreticiden peşin ödemeyle satın aldığı zeytinyağını Et Satış Noktası'nda tenekesi 4 bin 250 liradan satışa çıkardı. Belediye Başkanı Mehmet Tahmazoğlu, uygulamanın ürününü vadeli ve düşük fiyata satmak zorunda kaldığını söyleyen çiftçilerin talebiyle başladığını aktardı. Tahmazoğlu, belediyenin altı yıl önce yüzde 50 hibeyle 750 bin zeytin fidanı dağıttığını ve bu yıl rekoltenin bereketli olduğunu belirtti. Ürünlerin zabıta ekipleri ve gıda mühendislerinin kontrolünden geçtiği ifade edildi.",
+      "neYapmali": "Zeytinyağını satmakta zorlanan bölge üreticileri, alım şartlarını öğrenmek için Şahinbey Belediyesi ile görüşebilir; tüketiciler de satın alırken etiket ve analiz bilgisini sormalı.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/gaziantep-haberleri/sahinbey-belediyesinin-uygun-fiyatli-zeytinyagina-vatandastan-yogun-ilgi-522174522"
+        }
+      ]
+    },
     {
       "id": "kahramanmaras-take-161-ureticiye-12600-sumak-fidani-2026",
       "kategori": "Hibe",
@@ -3478,54 +3512,6 @@
       ],
       "gorsel": "assets/envato/afyonkarahisar-hayvan-pazarlari-7-kasim-yeniden-acildi.jpg",
       "gorselKucuk": "assets/envato/afyonkarahisar-hayvan-pazarlari-7-kasim-yeniden-acildi-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
-    },
-    {
-      "id": "sivas-sarkisla-besi-osb-fizibilite-parselasyon-protokolu",
-      "kategori": "Hayvancılık",
-      "tarih": "2026-11-07",
-      "eklenme": "2026-11-08T02:32:00+03:00",
-      "motif": "sut",
-      "baslik": "Sivas Şarkışla'daki besi OSB'si için fizibilite ve parselasyon protokolü imzalandı",
-      "manset": "Şarkışla'da besiye \"organize\" düzen",
-      "ozet": "Sivas'ın Şarkışla ilçesinde kurulacak Tarıma Dayalı İhtisas (Besi) Organize Sanayi Bölgesi'nin fizibilite ve parselasyon hizmetleri için protokol imzalandı. Törende Sivas Valisi Yılmaz Şimşek ile Orta Anadolu Kalkınma Ajansı (ORAN) yetkilileri yer aldı; ORAN Genel Sekreteri Yunus Emre Şeker, İl Tarım ve Orman Müdürü Salih İnan ve Şarkışla TDİOSB Müdürü Kaan Hançer de katıldı. Projeyle ilçedeki büyükbaş besiciliğinin planlı bir yapıya kavuşturulması, modern üretim modellerinin yaygınlaşması ve bölgede istihdamın artması hedefleniyor. Habere göre protokolde bütçe, alan büyüklüğü, parsel sayısı ya da tamamlanma takvimi paylaşılmadı.",
-      "neYapmali": "Şarkışla ve çevresindeki besiciler, ileride açılacak parsel tahsisleri ve başvuru koşulları hakkında bilgi almak için Şarkışla TDİOSB Müdürlüğü ile İl Tarım ve Orman Müdürlüğü duyurularını takip edebilir.",
-      "kaynaklar": [
-        {
-          "ad": "Sivas Ekspres",
-          "url": "https://www.sivasekspres.com/haber/sivas-hayvanciliginda-yeni-donem-hazirligi-100091.html"
-        }
-      ],
-      "gorsel": "assets/envato/sivas-sarkisla-besi-osb-fizibilite-parselasyon-protokolu.jpg",
-      "gorselKucuk": "assets/envato/sivas-sarkisla-besi-osb-fizibilite-parselasyon-protokolu-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
-    },
-    {
-      "id": "mgm-8-kasim-20-ilde-kar-sicaklik-3-6-derece-dusus",
-      "kategori": "Zirai Don",
-      "tarih": "2026-11-07",
-      "eklenme": "2026-11-08T01:31:14+03:00",
-      "motif": "don",
-      "baslik": "Meteoroloji'den pazar günü için kar uyarısı: 20 ilde kar bekleniyor, sıcaklıklar normalin altına iniyor",
-      "manset": "Pazar günü \"20 ile\" kar geliyor!",
-      "ozet": "Meteoroloji Genel Müdürlüğü'nün tahminine göre 8 Kasım Pazar günü Bolu, Karabük, Kastamonu, Amasya, Tokat, Sivas, Niğde, Nevşehir, Kayseri, Gümüşhane, Erzincan, Bayburt, Erzurum, Muş, Bitlis, Ardahan, Kars, Ağrı, Van ve Hakkari'de kar yağışı görülecek. Hava sıcaklıklarının yurt genelinde mevsim normallerinin 3 ila 6 derece altına düşmesi öngörülüyor. Batı Karadeniz'de Düzce, Zonguldak ve Bartın için kuvvetli sağanak uyarısı yapıldı; bu illerin iç ve yüksek kesimleriyle Bolu'da 5-20 santimetre kar örtüsü oluşabileceği bildirildi. Marmara, Ege kıyıları, Batı Akdeniz ve Karadeniz kıyılarında rüzgârın yer yer fırtına şiddetine ulaşması bekleniyor.",
-      "neYapmali": "Kar beklenen illerdeki üreticiler ahır ve ağılların çatı ile havalandırmasını kontrol etmeli, hayvanlar için yem ve su stoğunu önceden hazırlamalı. Rüzgâr uyarısı olan kıyı bölgelerinde sera örtüleri ve plastik tünellerin bağlantıları sağlamlaştırılmalı; güncel uyarılar mgm.gov.tr'den takip edilmeli.",
-      "kaynaklar": [
-        {
-          "ad": "Sabah",
-          "url": "https://www.sabah.com.tr/trend/galeri/yasam/son-dakika-kara-kis-kapiya-dayandi-meteoroloji-alarm-verdi-20-il-icin-kar-uyarisi"
-        },
-        {
-          "ad": "Yeni Asır",
-          "url": "https://www.yeniasir.com.tr/yasam/2026/11/07/son-dakika-kara-kis-geldi-meteoroloji-saat-verdi-20-ilde-kar-yagisi-alarmi"
-        },
-        {
-          "ad": "Aksiyon",
-          "url": "https://www.aksiyon.com.tr/bati-karadeniz-de-kuvvetli-saganak-ve-yuksek-kesimlerde-kar-uyarisi-389837"
-        }
-      ],
-      "gorsel": "assets/envato/mgm-8-kasim-20-ilde-kar-sicaklik-3-6-derece-dusus.jpg",
-      "gorselKucuk": "assets/envato/mgm-8-kasim-20-ilde-kar-sicaklik-3-6-derece-dusus-k.jpg",
       "gorselKaynak": "Temsili fotoğraf"
     },
     {
