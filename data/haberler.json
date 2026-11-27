@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-27T12:11:00+03:00",
+  "guncelleme": "2026-11-27T15:10:27+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,40 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "bakan-yumakli-2026-tarimsal-uretim-143-milyon-ton-ihracat-30-milyar-dolar",
+      "kategori": "Destek",
+      "tarih": "2026-11-27",
+      "eklenme": "2026-11-27T15:12:00+03:00",
+      "motif": "para",
+      "baslik": "Bakan Yumaklı: 2026'yı 143 milyon tonun üzerinde tarımsal üretimle kapatacağız",
+      "manset": "Tarımsal üretimde hedef \"143 milyon ton\"",
+      "ozet": "Tarım ve Orman Bakanı İbrahim Yumaklı, İstanbul Finans Merkezi'nde düzenlenen Tarımda Milli Vizyon Zirvesi'nde gazetecilerin sorularını yanıtladı. Yumaklı, tarımsal hasılanın 90 milyar dolara yaklaştığını, tarım ürünleri ihracatının ise 30 milyar doları aştığını söyledi. Geçen yıl kuraklık ve zirai donun birlikte yaşandığını hatırlatan Bakan, 2026 yılının 143 milyon tonun üzerinde tarımsal üretimle tamamlanmasını beklediklerini belirtti. Hayvancılıkta süt sığırcılığı ile kırmızı et için yapılan besiciliği birbirinden ayıran bir uygulamaya geçildiğini ve anaç hayvan sayısını artırmaya yönelik yatırımların sonuç vermeye başladığını ifade etti.",
+      "neYapmali": "Süt ve besi işletmeleri, ayrıştırılan hayvancılık desteklerinin kendi işletmelerine nasıl uygulanacağını il ve ilçe tarım ve orman müdürlüklerinden öğrenebilir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/istanbul-haberleri/bakan-yumakli-tarim-ve-gida-konusu-artik-ulkelerin-gundeminde-ilk-sirada-522650917"
+        }
+      ]
+    },
+    {
+      "id": "adana-narenciye-dostu-okul-kantinleri-dalinda-kalan-urun-okullara-2026",
+      "kategori": "Piyasa",
+      "tarih": "2026-11-27",
+      "eklenme": "2026-11-27T15:11:00+03:00",
+      "motif": "narenciye",
+      "baslik": "Adana'da dalında kalan narenciye okullara gidiyor: Vali Yavuz 80 ile mektup yazdı",
+      "manset": "Dalda kalan narenciye \"okullara\" taşındı",
+      "ozet": "Adana'da bu sezon narenciye bolluğu yaşanırken ihracatta yaşanan sıkıntılar ve iç piyasadaki zayıf talep nedeniyle ürünün bir bölümü dalda kaldı. Adana Valiliği öncülüğünde İl Milli Eğitim, İl Tarım ve Orman ve İl Ticaret müdürlükleri ile Adana Ticaret Borsası 'Narenciye Dostu Okul Kantinleri Programı'nı başlattı. Program kapsamında kentteki okullara limon, mandalina, portakal ve greyfurt gönderildi; tanıtım 27 Kasım'da Seyhan'daki bir ortaokulda yapıldı. Vali Mustafa Yavuz, diğer 80 ilin valisine mektup göndererek kendi illerinde de öğrencilere narenciye dağıtılmasını istediğini ve gelen talepleri çiftçilerle buluşturacaklarını açıkladı.",
+      "neYapmali": "Ürünü dalda kalan Adanalı narenciye üreticileri, programa ürün verme koşullarını öğrenmek için Adana Ticaret Borsası ya da ilçe tarım ve orman müdürlüğüyle görüşebilir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/adana-haberleri/adanada-narenciye-seferberligi-dalinda-kalan-urunler-okullara-gonderildi-522619860"
+        }
+      ]
+    },
     {
       "id": "karabuk-arici-yuzde-50-hibeli-900-kovan-dagitildi-2026",
       "kategori": "Hibe",
@@ -3468,50 +3502,6 @@
       ],
       "gorsel": "assets/envato/sakarya-12-mahalle-mera-31-ton-gubre-1800-dekar.jpg",
       "gorselKucuk": "assets/envato/sakarya-12-mahalle-mera-31-ton-gubre-1800-dekar-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
-    },
-    {
-      "id": "hayrabolu-dijital-tarim-hassas-tarim-egitimi-trakyaka",
-      "kategori": "Destek",
-      "tarih": "2026-11-07",
-      "eklenme": "2026-11-08T05:31:10+03:00",
-      "motif": "traktor",
-      "baslik": "Trakya Kalkınma Ajansı'ndan Hayrabolu'ya dijital tarım desteği: Çiftçilere hassas tarım eğitimi verilecek",
-      "manset": "Hayrabolu çiftçisine \"hassas tarım\" eğitimi",
-      "ozet": "Trakya Kalkınma Ajansı, Tekirdağ'ın Hayrabolu ilçesinde çiftçilere dijital tarım ve hassas tarım teknolojilerini öğretecek bir eğitim projesini destekleme kararı aldı. Proje, Hayrabolu İlçe Tarım ve Orman Müdürlüğü tarafından ajansın 2026 Tarım ve Kırsal Kalkınma Teknik Destek Programı'na sunuldu; sözleşmeyi ajans Genel Sekreteri Mahmut Şahin ile ilçe müdürü Gürcan Evin imzaladı. Eğitimlerde veriye dayalı üretim yöntemlerinin tarlada uygulanması, maliyetlerin düşürülmesi ve kaynakların daha verimli kullanılması hedefleniyor. Şahin, iklim değişikliği ve artan maliyetler nedeniyle teknoloji ve bilimsel verinin üretimde zorunlu hale geldiğini söyledi. Haberde eğitim takvimi, bütçe ve katılımcı sayısına ilişkin bilgi yer almadı.",
-      "neYapmali": "Hayrabolu'daki üreticiler eğitimlerin tarihleri ve katılım koşulları için İlçe Tarım ve Orman Müdürlüğü ile iletişime geçebilir. Diğer illerdeki çiftçiler de bölgelerindeki kalkınma ajansının teknik destek programlarını takip edebilir.",
-      "kaynaklar": [
-        {
-          "ad": "İHA (Son Dakika üzerinden)",
-          "url": "https://www.sondakika.com/teknoloji/haber-trakya-kalkinma-ajansi-hayrabolu-nun-dijital-tarim-20405204/"
-        }
-      ],
-      "gorsel": "assets/iha/hayrabolu-dijital-tarim-hassas-tarim-egitimi-trakyaka.jpg",
-      "gorselKucuk": "assets/iha/hayrabolu-dijital-tarim-hassas-tarim-egitimi-trakyaka-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA"
-    },
-    {
-      "id": "afyonkarahisar-hayvan-pazarlari-7-kasim-yeniden-acildi",
-      "kategori": "Hayvancılık",
-      "tarih": "2026-11-07",
-      "eklenme": "2026-11-08T03:31:00+03:00",
-      "motif": "sut",
-      "baslik": "Afyonkarahisar'da hayvan pazarları 40 gün sonra yeniden açıldı: Aşısız ve belgesiz hayvan alınmayacak",
-      "manset": "40 günlük bekleyiş \"bitti\"!",
-      "ozet": "Afyonkarahisar'da komşu illerdeki şap vakaları nedeniyle 28 Eylül'de kapatılan hayvan pazarları 7 Kasım Cumartesi itibarıyla yeniden faaliyete başladı. İl Tarım ve Orman Müdürlüğü, yoğun aşılama ve karantina takibiyle hastalık riskinin en aza indirildiğini bildirdi. Kararın merkezle birlikte Sultandağı, Bolvadin, Sandıklı, Dinar ve Emirdağ gibi ilçelerdeki pazarları da kapsadığı belirtildi. Yetkililer pazar alanlarındaki dezenfeksiyon ve veteriner kontrollerinin artırıldığını, aşısı ve belgesi olmayan hiçbir hayvanın pazara kabul edilmeyeceğini vurguladı.",
-      "neYapmali": "Pazara hayvan götürecek üreticiler aşı kayıtlarını ve sevk belgelerini önceden hazırlamalı; ilçedeki pazarın çalışma günlerini ve yerel kurallarını ilçe tarım müdürlüğünden teyit etmeli.",
-      "kaynaklar": [
-        {
-          "ad": "Kocatepe Gazetesi",
-          "url": "https://www.kocatepegazetesi.com/afyon-da-40-gundur-kapaliydi-bugun-yeniden-aciliyor/412532"
-        },
-        {
-          "ad": "Afyon Türkeli Gazetesi",
-          "url": "https://www.afyonturkeligazetesi.com/afyonkarahisarda-hayvan-pazarlari-yeniden-aciliyor-tarih-belli-oldu/149544"
-        }
-      ],
-      "gorsel": "assets/envato/afyonkarahisar-hayvan-pazarlari-7-kasim-yeniden-acildi.jpg",
-      "gorselKucuk": "assets/envato/afyonkarahisar-hayvan-pazarlari-7-kasim-yeniden-acildi-k.jpg",
       "gorselKaynak": "Temsili fotoğraf"
     },
     {
