@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-26T23:09:00+03:00",
+  "guncelleme": "2026-11-27T08:10:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,40 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "kahramanmaras-take-161-ureticiye-12600-sumak-fidani-2026",
+      "kategori": "Hibe",
+      "tarih": "2026-11-26",
+      "eklenme": "2026-11-27T08:10:00+03:00",
+      "motif": "tohum",
+      "baslik": "Kahramanmaraş'ta 161 üreticiye 12 bin 600 sumak fidanı: 11 ilçede 209 dekar sumak bahçesi kuruluyor",
+      "manset": "\"12 bin 600\" sumak fidanı dağıtıldı",
+      "ozet": "Kahramanmaraş İl Tarım ve Orman Müdürlüğü, Tarım Arazilerinin Kullanımının Etkinleştirilmesi Projesi (TAKE) kapsamında il genelinde 161 üreticiye 12 bin 600 sumak fidanı desteği sağladı. Fidanlar 11 ilçede toplam 209 dekarlık alana dikilerek kapama sumak bahçelerine dönüştürülecek. Dağıtımın Dulkadiroğlu ayağında 37 üreticiye, 67 dekarda kullanılmak üzere 3 bin 820 tüplü fidan teslim edildi. Törene Dulkadiroğlu Kaymakamı Hicabi Aytemür ile il müdürlüğü yetkilileri katıldı.",
+      "neYapmali": "Boş ya da atıl tarım arazisini değerlendirmek isteyen üreticiler, TAKE kapsamındaki yeni dağıtım ve başvuru dönemlerini ilçe tarım ve orman müdürlüklerinden takip edebilir; tüplü fidanların dikimden sonraki ilk yıl düzenli sulanması tutma oranını artırır.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/kahramanmaras-haberleri/kahramanmarasta-ureticilere-12-bin-600-sumak-fidani-destegi-522102524"
+        }
+      ]
+    },
+    {
+      "id": "ordu-unye-cennet-hurmasi-hasadi-alternatif-urun-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-26",
+      "eklenme": "2026-11-27T08:09:00+03:00",
+      "motif": "tohum",
+      "baslik": "Ünye'de cennet hurması hasadı başladı: Fındık bölgesinde alternatif gelir kapısı",
+      "manset": "Fındığın yanında \"cennet hurması\" geliri",
+      "ozet": "Ordu'nun Ünye ilçesinde, fındığa alternatif olarak yetiştirilen cennet hurmasında hasat sezonu açıldı. Üretici Abdülkadir Doğan'ın bahçesinde Ünye Kaymakamı Kemal Yıldız ve Ordu İl Tarım ve Orman Müdürlüğü yetkililerinin katılımıyla hasat etkinliği düzenlendi. Kış aylarında tüketilen ve besin değeri yüksek olan meyve, bölgedeki üreticiler için ek gelir kaynağı oluşturuyor. İl müdürlüğü, cennet hurması üretim alanlarını genişletmeye ve üreticiyi desteklemeye yönelik çalışmaların sürdüğünü açıkladı.",
+      "neYapmali": "Fındık bahçesinin yanında ürün çeşitlendirmeyi düşünen üreticiler, cennet hurmasında uygun çeşit ve fidan seçimi için ilçe tarım ve orman müdürlüğünden teknik destek alabilir; hasatta meyvenin ezilmemesi için sapıyla birlikte toplanması pazar değerini korur.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/ordu-haberleri/unyede-cennet-hurmasi-hasadi-522055224"
+        }
+      ]
+    },
     {
       "id": "tekirdag-lodos-denize-acilamayan-balikcilar-ag-onarimi-2026",
       "kategori": "Hayvancılık",
@@ -3493,50 +3527,6 @@
       "gorsel": "assets/envato/mgm-8-kasim-20-ilde-kar-sicaklik-3-6-derece-dusus.jpg",
       "gorselKucuk": "assets/envato/mgm-8-kasim-20-ilde-kar-sicaklik-3-6-derece-dusus-k.jpg",
       "gorselKaynak": "Temsili fotoğraf"
-    },
-    {
-      "id": "yumakli-ekim-117-bin-gida-denetimi-200-milyon-tl-ceza",
-      "kategori": "Piyasa",
-      "tarih": "2026-11-07",
-      "eklenme": "2026-11-07T23:29:54+03:00",
-      "motif": "para",
-      "baslik": "Bakan Yumaklı gıda denetimi rakamlarını açıkladı: Ekimde 117 bin denetim, yaklaşık 200 milyon lira ceza",
-      "manset": "Bir ayda \"117 bin\" gıda denetimi",
-      "ozet": "Tarım ve Orman Bakanı İbrahim Yumaklı, 7 Kasım'da CNN TÜRK'e verdiği röportajda taklit ve tağşişe yönelik son verileri paylaştı. Bakanlık yıl genelinde 1,1 milyon, yalnızca ekim ayında ise 117 bin gıda denetimi yaptı. Ekimdeki denetimlerde tespit edilen uygunsuzluklar için yaklaşık 200 milyon lira idari para cezası kesildi. Yumaklı, uygunsuzluk sayısının genel olarak azaldığını, denetimlerin genişlemesiyle bazı yeni vakaların ortaya çıktığını ve cezalı işletmelerin takip denetimiyle kontrol edildiğini söyledi. Bakan ayrıca Meclis'teki hal düzenlemesinin üreticiden satış noktasına giden yolu kısaltarak maliyetleri düşürmesini beklediklerini belirtti.",
-      "neYapmali": "Ürününü doğrudan satan üreticiler ve işletmeler etiket, izlenebilirlik ve kayıt belgelerini eksiksiz tutmalı; şüpheli bir gıdayı ALO 174 Gıda Hattı'na bildirebilir.",
-      "kaynaklar": [
-        {
-          "ad": "CNN Türk",
-          "url": "https://www.cnnturk.com/turkiye/bakan-yumakli-cnn-turke-konustu-gida-guvenliginde-taviz-yok-dedi-denetim-rakamlarini-paylasti-3490297"
-        },
-        {
-          "ad": "Vatan",
-          "url": "https://www.gazetevatan.com/gundem/tarim-ve-orman-bakani-ibrahim-yumakli-gida-guvenliginde-taviz-yok-dedi-denetim-rakamlarini-paylasti-2462438"
-        }
-      ],
-      "gorsel": "assets/iha/yumakli-ekim-117-bin-gida-denetimi-200-milyon-tl-ceza.jpg",
-      "gorselKucuk": "assets/iha/yumakli-ekim-117-bin-gida-denetimi-200-milyon-tl-ceza-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA (temsili)"
-    },
-    {
-      "id": "yumakli-rusya-tir-analiz-yuzde-10-20-rasff-yuzde-74",
-      "kategori": "Piyasa",
-      "tarih": "2026-11-06",
-      "eklenme": "2026-11-07T21:35:17+03:00",
-      "motif": "para",
-      "baslik": "Bakan Yumaklı: Rusya'ya giden meyve-sebze tırlarında analiz sıklığı yüzde 10-20'ye indirildi",
-      "manset": "Rusya kapısında \"analiz\" yükü hafifledi",
-      "ozet": "Tarım ve Orman Bakanı İbrahim Yumaklı, 6 Kasım'da İstanbul'da gazetecilerle bir araya gelerek ihracat ve gıda güvenilirliğine ilişkin soruları yanıtladı. Yumaklı, Rusya'nın daha önce Türkiye'den giden her iki tırdan birini analize aldığını, yapılan görüşmelerle bu oranın bazı ürün gruplarında yüzde 20'ye, bazılarında yüzde 10'a kadar düşürüldüğünü söyledi. Bakan, Karadeniz'deki sefer sorununun meyve ihracatında hâlâ en büyük güçlüklerden biri olduğunu da belirtti. Yumaklı ayrıca son üç yılda Avrupa'nın hızlı uyarı sistemi RASFF'teki bildirimlerin yüzde 74 azaldığını, hektar başına pestisit kullanımının AB'de 3,2, Türkiye'de 2,3 kilogram olduğunu aktardı. Arıcılıkta ise ülke genelinde arılık taraması başlatıldığını, kurallara uymayan işletmelerin kayıtlarının iptal edildiğini ifade etti.",
-      "neYapmali": "Rusya'ya ürün gönderen üreticiler ve ihracatçılar, ilaçlama kayıtlarını ve hasat öncesi bekleme sürelerini eksiksiz tutarak kalıntı riskini azaltmalı; güncel analiz uygulamalarını il tarım ve orman müdürlüğünden ya da bağlı oldukları ihracatçı birliğinden teyit etmeli. Arıcılar da arılık kayıtlarının güncel ve kurallara uygun olduğunu kontrol etmeli.",
-      "kaynaklar": [
-        {
-          "ad": "TRT Haber",
-          "url": "https://www.trthaber.com/haber/gundem/bakan-yumakli-gida-guvenligi-kirmizi-cizgimiz-962406.html"
-        }
-      ],
-      "gorsel": "assets/iha/yumakli-rusya-tir-analiz-yuzde-10-20-rasff-yuzde-74.jpg",
-      "gorselKucuk": "assets/iha/yumakli-rusya-tir-analiz-yuzde-10-20-rasff-yuzde-74-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA (temsili)"
     },
     {
       "id": "turuncgil-sezonu-7-milyon-ton-2-milyar-dolar-2026",
