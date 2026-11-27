@@ -4338,70 +4338,74 @@
     }
   ],
   "hava": {
-    "donem": "27 Kasım-1 Aralık",
-    "genel": "27 Kasım-1 Aralık döneminde 36 il merkezinin 17'sinde gece sıcaklığı 0°C ve altına iniyor; en düşük değer 27 Kasım'da Ardahan'da beklenen −13°C, onu Erzurum (−10°C) ve Kars (−7°C) izliyor.",
+    "donem": "28 Kasım-2 Aralık",
+    "genel": "MGM tahminine göre önümüzdeki 5 günde izlenen 36 ilin 21'inde il merkezinde sıcaklık 0°C ve altına inecek; en soğuk il −12°C ile Ardahan, Trakya'da da 30 Kasım'dan itibaren hafif don bekleniyor.",
+    "kaynak": "MGM 5 günlük il merkezi tahmini (27 Kasım 2026 20:10 itibarıyla)",
+    "haber": "balikesir-havran-sel-350-kucukbas-35-buyukbas-70-kovan-zarar-2026",
     "iller": [
       {
         "il": "Erzurum",
-        "min": -10,
-        "not": "en soğuk 27 Kasım, −10°C"
+        "min": -7,
+        "not": "en soğuk 28 Kasım, −7°C"
       },
       {
         "il": "Kars",
-        "min": -7,
-        "not": "en soğuk 27 Kasım, −7°C"
+        "min": -5,
+        "not": "en soğuk 28 Kasım, −5°C"
       },
       {
         "il": "Ardahan",
-        "min": -13,
-        "not": "en soğuk 27 Kasım, −13°C"
+        "min": -12,
+        "not": "en soğuk 28 Kasım, −12°C"
       },
       {
         "il": "Van",
-        "min": -1,
-        "not": "en soğuk 27 Kasım, −1°C"
+        "min": -2,
+        "not": "en soğuk 28 Kasım, −2°C"
       },
       {
         "il": "Sivas",
         "min": -2,
-        "not": "en soğuk 27 Kasım, −2°C"
+        "not": "en soğuk 2 Aralık, −2°C"
       },
       {
         "il": "Erzincan",
-        "min": -2,
-        "not": "en soğuk 27 Kasım, −2°C"
+        "min": 0
       },
       {
         "il": "Kayseri",
         "min": -1,
-        "not": "en soğuk 1 Aralık, −1°C"
+        "not": "en soğuk 2 Aralık, −1°C"
       },
       {
         "il": "Konya",
-        "min": 2
+        "min": -1,
+        "not": "en soğuk 2 Aralık, −1°C"
       },
       {
         "il": "Ankara",
-        "min": -2,
-        "not": "en soğuk 1 Aralık, −2°C"
+        "min": -1,
+        "not": "en soğuk 2 Aralık, −1°C"
       },
       {
         "il": "Afyonkarahisar",
-        "min": 1
+        "min": -1,
+        "not": "en soğuk 2 Aralık, −1°C"
       },
       {
         "il": "Eskişehir",
-        "min": -2,
-        "not": "en soğuk 1 Aralık, −2°C"
+        "min": -1,
+        "not": "en soğuk 2 Aralık, −1°C"
       },
       {
         "il": "Kütahya",
         "min": -2,
-        "not": "en soğuk 1 Aralık, −2°C"
+        "not": "en soğuk 2 Aralık, −2°C"
       },
       {
         "il": "Uşak",
-        "min": 1
+        "min": -1,
+        "not": "en soğuk 2 Aralık, −1°C"
       },
       {
         "il": "Isparta",
@@ -4409,12 +4413,12 @@
       },
       {
         "il": "Malatya",
-        "min": 0
+        "min": 1
       },
       {
         "il": "Yozgat",
-        "min": -5,
-        "not": "en soğuk 1 Aralık, −5°C"
+        "min": -4,
+        "not": "en soğuk 1 Aralık, −4°C"
       },
       {
         "il": "Çorum",
@@ -4422,8 +4426,8 @@
       },
       {
         "il": "Bolu",
-        "min": -2,
-        "not": "en soğuk 1 Aralık, −2°C"
+        "min": -1,
+        "not": "en soğuk 2 Aralık, −1°C"
       },
       {
         "il": "Edirne",
@@ -4437,11 +4441,12 @@
       },
       {
         "il": "Tekirdağ",
-        "min": 1
+        "min": -1,
+        "not": "en soğuk 1 Aralık, −1°C"
       },
       {
         "il": "Çanakkale",
-        "min": 1
+        "min": 0
       },
       {
         "il": "Balıkesir",
@@ -4449,7 +4454,7 @@
       },
       {
         "il": "Bursa",
-        "min": 4
+        "min": 3
       },
       {
         "il": "Manisa",
@@ -4461,15 +4466,15 @@
       },
       {
         "il": "Aydın",
-        "min": 6
+        "min": 4
       },
       {
         "il": "Denizli",
-        "min": 4
+        "min": 3
       },
       {
         "il": "Kocaeli",
-        "min": 4
+        "min": 6
       },
       {
         "il": "Sakarya",
@@ -4477,15 +4482,15 @@
       },
       {
         "il": "Samsun",
-        "min": 5
+        "min": 6
       },
       {
         "il": "Trabzon",
-        "min": 7
+        "min": 8
       },
       {
         "il": "Antalya",
-        "min": 12
+        "min": 11
       },
       {
         "il": "Adana",
@@ -4493,15 +4498,13 @@
       },
       {
         "il": "Şanlıurfa",
-        "min": 7
+        "min": 9
       },
       {
         "il": "İstanbul",
         "min": 5
       }
-    ],
-    "kaynak": "MGM 5 günlük il merkezi tahmini (26 Kasım 2026 20:10 itibarıyla)",
-    "haber": "balikesir-havran-sel-350-kucukbas-35-buyukbas-70-kovan-zarar-2026"
+    ]
   },
   "fotograflar": {
     "klasor": "assets/foto/",
