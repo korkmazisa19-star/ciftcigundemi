@@ -73,7 +73,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/adiyaman-haberleri/adiyaman-belediyesi-150-donumluk-arazide-karakilcik-bugdayi-ekiyor-522709519"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/adiyaman-belediyesi-150-donum-karakilcik-bugdayi-ekimi-halk-ekmek-2026.jpg",
+      "gorselKucuk": "assets/iha/adiyaman-belediyesi-150-donum-karakilcik-bugdayi-ekimi-halk-ekmek-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "trabzon-tonya-20-jersey-gebe-duve-yuzde-90-hibe-2026",
@@ -90,7 +93,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/trabzon-haberleri/tonyada-ureticilere-20-gebe-duve-destegi-522653813"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/trabzon-tonya-20-jersey-gebe-duve-yuzde-90-hibe-2026.jpg",
+      "gorselKucuk": "assets/iha/trabzon-tonya-20-jersey-gebe-duve-yuzde-90-hibe-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "bakan-yumakli-2026-tarimsal-uretim-143-milyon-ton-ihracat-30-milyar-dolar",
@@ -107,7 +113,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/istanbul-haberleri/bakan-yumakli-tarim-ve-gida-konusu-artik-ulkelerin-gundeminde-ilk-sirada-522650917"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/bakan-yumakli-2026-tarimsal-uretim-143-milyon-ton-ihracat-30-milyar-dolar.jpg",
+      "gorselKucuk": "assets/iha/bakan-yumakli-2026-tarimsal-uretim-143-milyon-ton-ihracat-30-milyar-dolar-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "adana-narenciye-dostu-okul-kantinleri-dalinda-kalan-urun-okullara-2026",
@@ -125,9 +134,9 @@
           "url": "https://www.iha.com.tr/adana-haberleri/adanada-narenciye-seferberligi-dalinda-kalan-urunler-okullara-gonderildi-522619860"
         }
       ],
-      "gorsel": "assets/envato/adana-narenciye-dostu-okul-kantinleri-dalinda-kalan-urun-okullara-2026.jpg",
-      "gorselKucuk": "assets/envato/adana-narenciye-dostu-okul-kantinleri-dalinda-kalan-urun-okullara-2026-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorsel": "assets/iha/adana-narenciye-dostu-okul-kantinleri-dalinda-kalan-urun-okullara-2026.jpg",
+      "gorselKucuk": "assets/iha/adana-narenciye-dostu-okul-kantinleri-dalinda-kalan-urun-okullara-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "karabuk-arici-yuzde-50-hibeli-900-kovan-dagitildi-2026",
@@ -144,7 +153,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/karabuk-haberleri/karabukte-aricilara-yuzde-50-hibeli-900-kovan-destegi-522592753"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/karabuk-arici-yuzde-50-hibeli-900-kovan-dagitildi-2026.jpg",
+      "gorselKucuk": "assets/iha/karabuk-arici-yuzde-50-hibeli-900-kovan-dagitildi-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "gaziantep-sahinbey-belediyesi-zeytinyagi-teneke-4250-tl-2026",
@@ -161,7 +173,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/gaziantep-haberleri/sahinbey-belediyesinin-uygun-fiyatli-zeytinyagina-vatandastan-yogun-ilgi-522174522"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/gaziantep-sahinbey-belediyesi-zeytinyagi-teneke-4250-tl-2026.jpg",
+      "gorselKucuk": "assets/iha/gaziantep-sahinbey-belediyesi-zeytinyagi-teneke-4250-tl-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "kahramanmaras-take-161-ureticiye-12600-sumak-fidani-2026",
@@ -178,7 +193,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/kahramanmaras-haberleri/kahramanmarasta-ureticilere-12-bin-600-sumak-fidani-destegi-522102524"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/kahramanmaras-take-161-ureticiye-12600-sumak-fidani-2026.jpg",
+      "gorselKucuk": "assets/iha/kahramanmaras-take-161-ureticiye-12600-sumak-fidani-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "ordu-unye-cennet-hurmasi-hasadi-alternatif-urun-2026",
@@ -195,7 +213,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/ordu-haberleri/unyede-cennet-hurmasi-hasadi-522055224"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/ordu-unye-cennet-hurmasi-hasadi-alternatif-urun-2026.jpg",
+      "gorselKucuk": "assets/iha/ordu-unye-cennet-hurmasi-hasadi-alternatif-urun-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "tekirdag-lodos-denize-acilamayan-balikcilar-ag-onarimi-2026",
@@ -212,7 +233,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/tekirdag-haberleri/denize-acilamayan-balikcilar-bos-durmadi-aglarini-ordu-522158765"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/tekirdag-lodos-denize-acilamayan-balikcilar-ag-onarimi-2026.jpg",
+      "gorselKucuk": "assets/iha/tekirdag-lodos-denize-acilamayan-balikcilar-ag-onarimi-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "balikesir-burhaniye-sofralik-zeytin-duyusal-analiz-paneli-egitimi-2026",
@@ -229,7 +253,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/balikesir-haberleri/burhaniyede-zeytinde-bilimsel-kalite-icin-teorik-ve-uygulamali-egitimler-suruyor-522273140"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/balikesir-burhaniye-sofralik-zeytin-duyusal-analiz-paneli-egitimi-2026.jpg",
+      "gorselKucuk": "assets/iha/balikesir-burhaniye-sofralik-zeytin-duyusal-analiz-paneli-egitimi-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "kahramanmaras-andirin-defne-yapragi-hasadi-mart-ayina-kadar-2026",
@@ -246,7 +273,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/kahramanmaras-haberleri/andirinin-yesil-altini-defnede-zorlu-hasat-mesaisi-suruyor-522176759"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/kahramanmaras-andirin-defne-yapragi-hasadi-mart-ayina-kadar-2026.jpg",
+      "gorselKucuk": "assets/iha/kahramanmaras-andirin-defne-yapragi-hasadi-mart-ayina-kadar-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "aydin-tarim-ve-hayvancilik-fuari-26-29-kasim-100-firma-2026",
@@ -263,7 +293,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/aydin-haberleri/aydin-tarim-fuari-ikinci-kez-kapilarini-acti-522138562"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/aydin-tarim-ve-hayvancilik-fuari-26-29-kasim-100-firma-2026.jpg",
+      "gorselKucuk": "assets/iha/aydin-tarim-ve-hayvancilik-fuari-26-29-kasim-100-firma-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "marmarabirlik-ilk-odeme-590-milyon-tl-27-kasim-2026",
@@ -280,7 +313,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/bursa-haberleri/marmarabirlikten-uretici-ortaklarina-ilk-odeme-522159892"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/marmarabirlik-ilk-odeme-590-milyon-tl-27-kasim-2026.jpg",
+      "gorselKucuk": "assets/iha/marmarabirlik-ilk-odeme-590-milyon-tl-27-kasim-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "sinop-turkeli-18-sut-sagim-makinesi-yuzde-70-hibe-2026",
@@ -297,7 +333,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/sinop-haberleri/sinopta-ureticiye-can-suyu-olacak-destek-522135903"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/sinop-turkeli-18-sut-sagim-makinesi-yuzde-70-hibe-2026.jpg",
+      "gorselKucuk": "assets/iha/sinop-turkeli-18-sut-sagim-makinesi-yuzde-70-hibe-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "manisa-gekis-elektronik-kupe-buyukbas-dogumdan-kesime-izleme-2026",
@@ -314,7 +353,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/manisa-haberleri/buyukbas-hayvanlar-dogumdan-kesime-kadar-izlenecek-522083497"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/manisa-gekis-elektronik-kupe-buyukbas-dogumdan-kesime-izleme-2026.jpg",
+      "gorselKucuk": "assets/iha/manisa-gekis-elektronik-kupe-buyukbas-dogumdan-kesime-izleme-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "mersin-buyuksehir-20-bin-sumak-fidani-yuzde-50-hibe-mut-gulnar-silifke-2026",
@@ -331,7 +373,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/mersin-haberleri/mersinde-ureticilere-20-bin-sumak-fidani-destegi-522082027"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/mersin-buyuksehir-20-bin-sumak-fidani-yuzde-50-hibe-mut-gulnar-silifke-2026.jpg",
+      "gorselKucuk": "assets/iha/mersin-buyuksehir-20-bin-sumak-fidani-yuzde-50-hibe-mut-gulnar-silifke-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "tarim-orman-bakanligi-2027-butce-tmo-226-milyar-odeme-2026",
@@ -365,7 +410,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/erzincan-haberleri/erzincan-tulum-peyniri-icin-sektor-paydaslari-bir-araya-geliyor-521772740"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/erzincan-tulum-peyniri-81-il-81-urun-paydas-toplantisi-2-aralik-2026.jpg",
+      "gorselKucuk": "assets/iha/erzincan-tulum-peyniri-81-il-81-urun-paydas-toplantisi-2-aralik-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "trabzon-fao-iklime-dayanikli-zeytin-yerel-cesit-projesi-2026",
@@ -382,7 +430,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/trabzon-haberleri/karadeniz-bolgesinde-iklim-degisikligine-dayanikli-zeytin-uretilecek-521548723"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/trabzon-fao-iklime-dayanikli-zeytin-yerel-cesit-projesi-2026.jpg",
+      "gorselKucuk": "assets/iha/trabzon-fao-iklime-dayanikli-zeytin-yerel-cesit-projesi-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "kirklareli-tagem-bugday-yulaf-macar-figi-demonstrasyon-ekimi-2026",
@@ -399,7 +450,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/kirklareli-haberleri/kirklarelinde-tarim-arazilerinde-uretim-ve-demonstrasyon-calismalari-suruyor-521607051"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/kirklareli-tagem-bugday-yulaf-macar-figi-demonstrasyon-ekimi-2026.jpg",
+      "gorselKucuk": "assets/iha/kirklareli-tagem-bugday-yulaf-macar-figi-demonstrasyon-ekimi-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "erzurum-ticaret-borsasi-hayvan-pazarlari-kapali-kredi-faizsiz-erteleme-cagrisi-2026",
@@ -416,7 +470,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/erzurum-haberleri/etb-baskani-hakan-oraldan-tarim-ve-hayvancilik-sektoru-icin-faizsiz-kredi-erteleme-cagrisi-521721628"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/erzurum-ticaret-borsasi-hayvan-pazarlari-kapali-kredi-faizsiz-erteleme-cagrisi-2026.jpg",
+      "gorselKucuk": "assets/iha/erzurum-ticaret-borsasi-hayvan-pazarlari-kapali-kredi-faizsiz-erteleme-cagrisi-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "adiyaman-zeytin-bereketi-1-milyon-fidan-ilk-etap-350-bin-2026",
@@ -451,9 +508,9 @@
           "url": "https://www.iha.com.tr/konya-haberleri/karapinarda-pancar-hasadinda-yuzde-80e-ulasildi-misirda-nem-sorunu-suruyor-521611642"
         }
       ],
-      "gorsel": "assets/envato/konya-karapinar-pancar-hasadi-yuzde-80-misir-nem-sorunu-2026.jpg",
-      "gorselKucuk": "assets/envato/konya-karapinar-pancar-hasadi-yuzde-80-misir-nem-sorunu-2026-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorsel": "assets/iha/konya-karapinar-pancar-hasadi-yuzde-80-misir-nem-sorunu-2026.jpg",
+      "gorselKucuk": "assets/iha/konya-karapinar-pancar-hasadi-yuzde-80-misir-nem-sorunu-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "adana-yuregir-ziraat-odasi-kredi-borcu-faizsiz-erteleme-talebi-2026",
@@ -470,7 +527,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/adana-haberleri/baskan-dogan-ureticiye-yeni-finansman-imkanin-saglanmalidir-521555645"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/adana-yuregir-ziraat-odasi-kredi-borcu-faizsiz-erteleme-talebi-2026.jpg",
+      "gorselKucuk": "assets/iha/adana-yuregir-ziraat-odasi-kredi-borcu-faizsiz-erteleme-talebi-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "taris-pamuk-birligi-mahkeme-denetim-kayyumu-atadi-2026",
@@ -488,9 +548,9 @@
           "url": "https://www.iha.com.tr/aydin-haberleri/mahkeme-taris-pamuk-birligine-kayyim-atanmasina-karar-verdi-521509276"
         }
       ],
-      "gorsel": "assets/envato/taris-pamuk-birligi-mahkeme-denetim-kayyumu-atadi-2026.jpg",
-      "gorselKucuk": "assets/envato/taris-pamuk-birligi-mahkeme-denetim-kayyumu-atadi-2026-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorsel": "assets/iha/taris-pamuk-birligi-mahkeme-denetim-kayyumu-atadi-2026.jpg",
+      "gorselKucuk": "assets/iha/taris-pamuk-birligi-mahkeme-denetim-kayyumu-atadi-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "batman-sason-ahir-yangini-109-keci-telef-2026",
@@ -507,7 +567,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/batman-haberleri/batmanda-ahir-yangininda-109-keci-telef-oldu-521558917"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/batman-sason-ahir-yangini-109-keci-telef-2026.jpg",
+      "gorselKucuk": "assets/iha/batman-sason-ahir-yangini-109-keci-telef-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "karabuk-safranbolu-safran-hasadi-56-kilo-rekolte-2026",
@@ -524,7 +587,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/karabuk-haberleri/dunyanin-en-pahali-baharatinda-56-kilogram-rekolte-bekleniyor-521119964"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/karabuk-safranbolu-safran-hasadi-56-kilo-rekolte-2026.jpg",
+      "gorselKucuk": "assets/iha/karabuk-safranbolu-safran-hasadi-56-kilo-rekolte-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "ardahan-aricilar-serka-mugla-marmaris-teknik-inceleme-2026",
@@ -542,9 +608,9 @@
           "url": "https://www.iha.com.tr/ardahan-haberleri/serkadan-ardahan-aricilik-sektorune-yonelik-yurt-ici-teknik-inceleme-521006173"
         }
       ],
-      "gorsel": "assets/envato/ardahan-aricilar-serka-mugla-marmaris-teknik-inceleme-2026.jpg",
-      "gorselKucuk": "assets/envato/ardahan-aricilar-serka-mugla-marmaris-teknik-inceleme-2026-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorsel": "assets/iha/ardahan-aricilar-serka-mugla-marmaris-teknik-inceleme-2026.jpg",
+      "gorselKucuk": "assets/iha/ardahan-aricilar-serka-mugla-marmaris-teknik-inceleme-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "sirnak-silopi-gubre-bayileri-gts-barkod-denetimi-numune-2026",
@@ -561,7 +627,10 @@
           "ad": "İhlas Haber Ajansı (İHA)",
           "url": "https://www.iha.com.tr/sirnak-haberleri/silopide-gubre-bayilerine-denetimlerde-barkodlar-tek-tek-okutuldu-521266120"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/sirnak-silopi-gubre-bayileri-gts-barkod-denetimi-numune-2026.jpg",
+      "gorselKucuk": "assets/iha/sirnak-silopi-gubre-bayileri-gts-barkod-denetimi-numune-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "edirne-kesan-begendik-mera-ustten-tohumlama-hayvan-gubresi-2026",
@@ -578,7 +647,10 @@
           "ad": "İhlas Haber Ajansı (İHA)",
           "url": "https://www.iha.com.tr/edirne-haberleri/edirnede-hayvan-gubresi-kullanilarak-ustten-tohumlama-ile-mera-otu-tohumu-ekildi-521204822"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/edirne-kesan-begendik-mera-ustten-tohumlama-hayvan-gubresi-2026.jpg",
+      "gorselKucuk": "assets/iha/edirne-kesan-begendik-mera-ustten-tohumlama-hayvan-gubresi-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "balikesir-havran-sel-350-kucukbas-35-buyukbas-70-kovan-zarar-2026",
@@ -595,7 +667,10 @@
           "ad": "İhlas Haber Ajansı (İHA)",
           "url": "https://www.iha.com.tr/balikesir-haberleri/sel-sulari-otomobilleri-agaclarin-uzerine-cikardi-521158456"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/balikesir-havran-sel-350-kucukbas-35-buyukbas-70-kovan-zarar-2026.jpg",
+      "gorselKucuk": "assets/iha/balikesir-havran-sel-350-kucukbas-35-buyukbas-70-kovan-zarar-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "bitlis-ahlat-yagis-don-patates-fasulye-zarar-tespiti-2026",
@@ -612,7 +687,10 @@
           "ad": "İhlas Haber Ajansı (İHA)",
           "url": "https://www.iha.com.tr/bitlis-haberleri/ahlatta-yagis-ve-dondan-etkilenen-tarim-arazilerinde-zarar-tespit-calismalari-521119959"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/bitlis-ahlat-yagis-don-patates-fasulye-zarar-tespiti-2026.jpg",
+      "gorselKucuk": "assets/iha/bitlis-ahlat-yagis-don-patates-fasulye-zarar-tespiti-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "manisa-salihli-zeytin-hasadina-3-5-gun-ara-cagrisi-2026",
@@ -629,7 +707,10 @@
           "ad": "İhlas Haber Ajansı (İHA)",
           "url": "https://www.iha.com.tr/manisa-haberleri/salihlide-zeytin-hasadina-ara-verin-cagrisi-521081182"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/manisa-salihli-zeytin-hasadina-3-5-gun-ara-cagrisi-2026.jpg",
+      "gorselKucuk": "assets/iha/manisa-salihli-zeytin-hasadina-3-5-gun-ara-cagrisi-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "mugla-milas-tarla-balikciligi-toprak-havuz-8750-ton-2026",
@@ -646,7 +727,10 @@
           "ad": "İhlas Haber Ajansı (İHA)",
           "url": "https://www.iha.com.tr/mugla-haberleri/toprak-havuzlarda-balik-bereketi-521101627"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/mugla-milas-tarla-balikciligi-toprak-havuz-8750-ton-2026.jpg",
+      "gorselKucuk": "assets/iha/mugla-milas-tarla-balikciligi-toprak-havuz-8750-ton-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "malatya-hekimhan-12-koy-ortak-mera-ges-tepkisi-2026",
@@ -663,7 +747,10 @@
           "ad": "İhlas Haber Ajansı (İHA)",
           "url": "https://www.iha.com.tr/malatya-haberleri/hekimhanda-12-koyun-ortak-merasi-icin-ges-tepkisi-520988174"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/malatya-hekimhan-12-koy-ortak-mera-ges-tepkisi-2026.jpg",
+      "gorselKucuk": "assets/iha/malatya-hekimhan-12-koy-ortak-mera-ges-tepkisi-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "erzincan-yayla-firtina-hayvan-cadirlari-devrildi-koyun-telef-2026",
@@ -680,7 +767,10 @@
           "ad": "İhlas Haber Ajansı (İHA)",
           "url": "https://www.iha.com.tr/erzincan-haberleri/erzincanda-firtina-nedeniyle-hayvan-cadirlari-devrildi-520979629"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/erzincan-yayla-firtina-hayvan-cadirlari-devrildi-koyun-telef-2026.jpg",
+      "gorselKucuk": "assets/iha/erzincan-yayla-firtina-hayvan-cadirlari-devrildi-koyun-telef-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "kayseri-buyuksehir-hayvancilik-su-faturasi-yuzde-50-destek-2027",
@@ -697,7 +787,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/kayseri-haberleri/buyuksehir-meclisinden-hayvancilik-ureticilerine-yuzde-50lik-su-destegi-520989886"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/kayseri-buyuksehir-hayvancilik-su-faturasi-yuzde-50-destek-2027.jpg",
+      "gorselKucuk": "assets/iha/kayseri-buyuksehir-hayvancilik-su-faturasi-yuzde-50-destek-2027-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "samsun-canik-kadin-ureticiler-500-kilo-salep-dikimi-2026",
@@ -714,7 +807,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/samsun-haberleri/canikte-topraga-500-kilo-altin-ekildi-kadin-ureticilere-salep-destegi-520665893"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/samsun-canik-kadin-ureticiler-500-kilo-salep-dikimi-2026.jpg",
+      "gorselKucuk": "assets/iha/samsun-canik-kadin-ureticiler-500-kilo-salep-dikimi-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "turkyed-hayvancilik-destek-basvuru-1-aralik-son-gun-2026",
@@ -731,7 +827,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/ankara-haberleri/turkyed-genel-baskani-celikten-hayvan-yetistiricilerine-son-gun-uyarisi-520599023"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/turkyed-hayvancilik-destek-basvuru-1-aralik-son-gun-2026.jpg",
+      "gorselKucuk": "assets/iha/turkyed-hayvancilik-destek-basvuru-1-aralik-son-gun-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "denizli-civril-yakasomak-pancar-kantari-alim-saati-tepki-2026",
@@ -749,9 +848,9 @@
           "url": "https://www.iha.com.tr/denizli-haberleri/pancar-ureticilerinden-alim-saatinin-geri-cekilmesine-tepki-520603498"
         }
       ],
-      "gorsel": "assets/envato/denizli-civril-yakasomak-pancar-kantari-alim-saati-tepki-2026.jpg",
-      "gorselKucuk": "assets/envato/denizli-civril-yakasomak-pancar-kantari-alim-saati-tepki-2026-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorsel": "assets/iha/denizli-civril-yakasomak-pancar-kantari-alim-saati-tepki-2026.jpg",
+      "gorselKucuk": "assets/iha/denizli-civril-yakasomak-pancar-kantari-alim-saati-tepki-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "bursa-gemlik-katirli-kooperatif-zeytin-alim-fiyati-230-lira-2026",
@@ -768,7 +867,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/bursa-haberleri/bu-koyun-zeytin-yetistiren-ureticilerine-piyango-520493875"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/bursa-gemlik-katirli-kooperatif-zeytin-alim-fiyati-230-lira-2026.jpg",
+      "gorselKucuk": "assets/iha/bursa-gemlik-katirli-kooperatif-zeytin-alim-fiyati-230-lira-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "bayburt-aydintepe-15-gebe-angus-duve-teslim-2026",
@@ -785,7 +887,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/bayburt-haberleri/aydintepede-15-gebe-angus-duve-ureticiye-teslim-edildi-520497825"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/bayburt-aydintepe-15-gebe-angus-duve-teslim-2026.jpg",
+      "gorselKucuk": "assets/iha/bayburt-aydintepe-15-gebe-angus-duve-teslim-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "erzurum-tekman-sel-palandoken-gecidi-3-saat-mahsur-2026",
@@ -803,9 +908,9 @@
           "url": "https://www.iha.com.tr/erzurum-haberleri/tekmanda-sel-meydana-geldi-kar-yagisi-etkili-oldu-520057625"
         }
       ],
-      "gorsel": "assets/envato/erzurum-tekman-sel-palandoken-gecidi-3-saat-mahsur-2026.jpg",
-      "gorselKucuk": "assets/envato/erzurum-tekman-sel-palandoken-gecidi-3-saat-mahsur-2026-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorsel": "assets/iha/erzurum-tekman-sel-palandoken-gecidi-3-saat-mahsur-2026.jpg",
+      "gorselKucuk": "assets/iha/erzurum-tekman-sel-palandoken-gecidi-3-saat-mahsur-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "sinop-gerze-bassoku-orman-kooperatifi-besi-sut-yemi-dagitimi-2026",
@@ -822,7 +927,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/sinop-haberleri/gerzede-kooperatif-uyelerine-besi-ve-sut-yemi-dagitildi-520213478"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/sinop-gerze-bassoku-orman-kooperatifi-besi-sut-yemi-dagitimi-2026.jpg",
+      "gorselKucuk": "assets/iha/sinop-gerze-bassoku-orman-kooperatifi-besi-sut-yemi-dagitimi-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "mus-saganak-firtina-koylerde-hasar-ahir-yikildi-2026",
@@ -1003,9 +1111,9 @@
           "url": "https://www.iha.com.tr/batman-haberleri/sasonda-ari-kovanlarina-saldiran-ayi-25-kovana-zarar-verdi-519224682"
         }
       ],
-      "gorsel": "assets/envato/batman-sason-ayi-25-ari-kovanina-zarar-verdi-2026.jpg",
-      "gorselKucuk": "assets/envato/batman-sason-ayi-25-ari-kovanina-zarar-verdi-2026-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorsel": "assets/iha/batman-sason-ayi-25-ari-kovanina-zarar-verdi-2026.jpg",
+      "gorselKucuk": "assets/iha/batman-sason-ayi-25-ari-kovanina-zarar-verdi-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "gaziantep-haydi-sofraya-cumartesi-dana-kiyma-500-kusbasi-600-tl-2026",
@@ -1022,7 +1130,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/gaziantep-haberleri/gaziantep-buyuksehirin-uygun-fiyatli-et-satis-noktalarinda-cumartesi-gunlerine-ozel-kampanya-519076776"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/gaziantep-haydi-sofraya-cumartesi-dana-kiyma-500-kusbasi-600-tl-2026.jpg",
+      "gorselKucuk": "assets/iha/gaziantep-haydi-sofraya-cumartesi-dana-kiyma-500-kusbasi-600-tl-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "balikesir-havran-ziraat-odasi-21-5-milyon-liralik-zirai-drone-hibesi-2026",
@@ -3177,9 +3288,9 @@
         }
       ],
       "eklenme": "2026-11-09T07:31:00+03:00",
-      "gorsel": "assets/envato/sarigol-sofralik-uzum-yuzde-70-bagda-alici-yok-2026.jpg",
-      "gorselKucuk": "assets/envato/sarigol-sofralik-uzum-yuzde-70-bagda-alici-yok-2026-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato"
+      "gorsel": "assets/iha/sarigol-sofralik-uzum-yuzde-70-bagda-alici-yok-2026.jpg",
+      "gorselKucuk": "assets/iha/sarigol-sofralik-uzum-yuzde-70-bagda-alici-yok-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "bati-karadeniz-26-bin-ton-balik-aksu-hamsi-2026",
@@ -3217,9 +3328,9 @@
         }
       ],
       "eklenme": "2026-11-09T07:29:00+03:00",
-      "gorsel": "assets/envato/ayvalik-ziraat-odasi-bandirma-traktor-fabrikasi-gezisi.jpg",
-      "gorselKucuk": "assets/envato/ayvalik-ziraat-odasi-bandirma-traktor-fabrikasi-gezisi-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
+      "gorsel": "assets/iha/ayvalik-ziraat-odasi-bandirma-traktor-fabrikasi-gezisi.jpg",
+      "gorselKucuk": "assets/iha/ayvalik-ziraat-odasi-bandirma-traktor-fabrikasi-gezisi-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "zeytin-maliyet-50-tl-akhisar-20-tl-uzzk-tarim-sen",
