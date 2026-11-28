@@ -73,7 +73,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/aydin-haberleri/nazilli-aydin-kestane-uretiminin-yuzde-45ini-karsiliyor-523079578"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/aydin-nazilli-kestane-uretimi-yuzde-45-dokek-kuyusu-2026.jpg",
+      "gorselKucuk": "assets/iha/aydin-nazilli-kestane-uretimi-yuzde-45-dokek-kuyusu-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "sinop-boyabat-hayvan-pazari-30-kasim-yeniden-aciliyor-sap-2026",
@@ -90,7 +93,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/sinop-haberleri/sinopta-canli-hayvan-pazari-yeniden-aciliyor-523032443"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/sinop-boyabat-hayvan-pazari-30-kasim-yeniden-aciliyor-sap-2026.jpg",
+      "gorselKucuk": "assets/iha/sinop-boyabat-hayvan-pazari-30-kasim-yeniden-aciliyor-sap-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "mersin-mut-kurt-saldirisi-kaybolan-90-keciden-40i-sag-bulundu-2026",
@@ -108,7 +114,9 @@
           "url": "https://www.iha.com.tr/mersin-haberleri/mutta-kaybolan-90-kecinin-40i-sag-bulundu-522695623"
         }
       ],
-      "gorsel": null
+      "gorsel": "assets/iha/mersin-mut-kurt-saldirisi-kaybolan-90-keciden-40i-sag-bulundu-2026.jpg",
+      "gorselKucuk": "assets/iha/mersin-mut-kurt-saldirisi-kaybolan-90-keciden-40i-sag-bulundu-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "adana-yuregir-sulama-kanali-suyu-kesildi-yuzlerce-balik-telef-2026",
@@ -126,7 +134,10 @@
           "url": "https://www.iha.com.tr/adana-haberleri/adanada-sulama-kanalinin-suyu-kesildi-yuzlerce-balik-telef-oldu-522657113"
         }
       ],
-      "gorsel": null
+      "gorsel": "assets/iha/adana-yuregir-sulama-kanali-suyu-kesildi-yuzlerce-balik-telef-2026.jpg",
+      "gorselKucuk": "assets/iha/adana-yuregir-sulama-kanali-suyu-kesildi-yuzlerce-balik-telef-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf/Video: İHA",
+      "video": "assets/video/adana-yuregir-sulama-kanali-suyu-kesildi-yuzlerce-balik-telef-2026.mp4"
     },
     {
       "id": "denizli-bereketli-suruler-309-kadin-ureticiye-arpa-flake-yem-2026",
@@ -143,7 +154,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/denizli-haberleri/denizli-buyuksehirden-kadin-ureticilere-arpa-flake-yem-dopingi-522632344"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/denizli-bereketli-suruler-309-kadin-ureticiye-arpa-flake-yem-2026.jpg",
+      "gorselKucuk": "assets/iha/denizli-bereketli-suruler-309-kadin-ureticiye-arpa-flake-yem-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "sirnak-silopi-cardakli-550-dekar-mera-islahi-gubre-dagitimi-2026",
@@ -160,7 +174,10 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/sirnak-haberleri/silopide-mera-kalitesini-artiracak-proje-hayata-gecirildi-522631293"
         }
-      ]
+      ],
+      "gorsel": "assets/iha/sirnak-silopi-cardakli-550-dekar-mera-islahi-gubre-dagitimi-2026.jpg",
+      "gorselKucuk": "assets/iha/sirnak-silopi-cardakli-550-dekar-mera-islahi-gubre-dagitimi-2026-k.jpg",
+      "gorselKaynak": "Fotoğraf: İHA"
     },
     {
       "id": "adiyaman-belediyesi-150-donum-karakilcik-bugdayi-ekimi-halk-ekmek-2026",
