@@ -63,7 +63,7 @@
       "kategori": "Hayvancılık",
       "tarih": "2026-11-27",
       "eklenme": "2026-11-28T08:12:00+03:00",
-      "motif": "koyun",
+      "motif": "sut",
       "baslik": "Mut'ta kurt saldırısının ardından dağılan 90 keçiden 40'ı beş gün sonra sağ bulundu",
       "manset": "Kaybolan 90 keçiden \"40\"ı bulundu",
       "ozet": "Mersin'in Mut ilçesinde Serkan ve Furkan Altıkat kardeşlere ait ağıla 22 Kasım'da kurt girmesinin ardından 90 keçi kayboldu. İlk aramalarda 8 keçinin birbirinden yaklaşık birer kilometre uzaklıkta telef olmuş halde bulunduğu bildirildi. AFAD, jandarma, dron ekipleri ve köylülerin katıldığı geniş çaplı aramada 40 keçi Damlaçamı mevkiinde sağ olarak bulundu. Kalan hayvanlar için arama çalışmalarının sürdüğü açıklandı.",
@@ -73,7 +73,8 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/mersin-haberleri/mutta-kaybolan-90-kecinin-40i-sag-bulundu-522695623"
         }
-      ]
+      ],
+      "gorsel": null
     },
     {
       "id": "adana-yuregir-sulama-kanali-suyu-kesildi-yuzlerce-balik-telef-2026",
@@ -90,7 +91,8 @@
           "ad": "İHA",
           "url": "https://www.iha.com.tr/adana-haberleri/adanada-sulama-kanalinin-suyu-kesildi-yuzlerce-balik-telef-oldu-522657113"
         }
-      ]
+      ],
+      "gorsel": null
     },
     {
       "id": "denizli-bereketli-suruler-309-kadin-ureticiye-arpa-flake-yem-2026",
