@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-28T12:10:00+03:00",
+  "guncelleme": "2026-11-28T15:09:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,44 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "canakkale-zirai-don-uyarisi-sicaklik-6-8-derece-dusecek-2026",
+      "kategori": "Zirai Don",
+      "tarih": "2026-11-28",
+      "eklenme": "2026-11-28T15:09:00+03:00",
+      "motif": "don",
+      "baslik": "Çanakkale'de çiftçilere zirai don uyarısı: Sıcaklık 29 Kasım'dan itibaren 6-8 derece düşecek",
+      "manset": "Çanakkale'de sıcaklık \"8 derece\" düşüyor!",
+      "ozet": "Meteoroloji verilerine göre Çanakkale'de 29 Kasım'dan başlayarak hava sıcaklıklarının 6 ila 8 derece azalması ve soğuğun hafta boyunca sürmesi bekleniyor. İlin iç kesimleri ile yüksek bölgelerinde hafif zirai don riski bulunuyor, il merkezinde ise en düşük sıcaklığın 0 dereceye kadar inebileceği öngörülüyor. Kuzey kesimlerde rüzgârın kuzey ve kuzeydoğu yönlerden kuvvetli, yer yer fırtına şeklinde esmesi tahmin ediliyor. Çanakkale Valiliği üreticileri ve vatandaşları tedbirli olmaya çağırdı.",
+      "neYapmali": "Sera ve fide alanlarında örtüleri kontrol edin, açıkta kalan hassas ürünleri ve sulama hatlarını soğuğa karşı koruyun. Güncel uyarıları MGM'nin sitesinden ve Çanakkale Valiliği duyurularından takip edin.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/canakkale-haberleri/canakkaledeki-ciftciler-dikkat-zirai-don-uyarisi-verildi-523116671"
+        },
+        {
+          "ad": "Meteoroloji Genel Müdürlüğü",
+          "url": "https://www.mgm.gov.tr/"
+        }
+      ]
+    },
+    {
+      "id": "antalya-mersin-muz-ureticileri-ortak-hareket-karari-matso-2026",
+      "kategori": "Piyasa",
+      "tarih": "2026-11-28",
+      "eklenme": "2026-11-28T15:08:00+03:00",
+      "motif": "para",
+      "baslik": "Antalya ve Mersin'in muz üreticileri yerli muz için güçlerini birleştirdi",
+      "manset": "Yerli muz için \"ortak cephe\"",
+      "ozet": "Manavgat'ta MATSO ve Manavgat Muz Üreticileri Birliği Başkanı Önem Gök'ün öncülüğünde Antalya ve Mersin'den birlik, kooperatif ve dernek temsilcileri bir araya geldi. Toplantıda yerli muz fiyatları, yükselen girdi maliyetleri, ithalatın iç piyasaya etkisi ve gümrük denetimleri konuşuldu. Temsilciler, üreticilerin hakkını korumak için ortak hareket etme ve yerli muzun market raflarında daha fazla yer bulması için girişimde bulunma kararı aldı. Talepler ve çözüm önerileri ilgili kurumlara iletilecek, süreç birlikte takip edilecek.",
+      "neYapmali": "Muz üreticileri taleplerini bağlı oldukları birlik ve kooperatiflere iletebilir; girdi maliyeti ve fiyat gelişmelerini bu örgütlerin duyurularından izleyebilir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/antalya-haberleri/matsoda-antalya-ve-mersindeki-muz-uretici-birlikleri-ortak-hareket-etme-karari-aldi-523098628"
+        }
+      ]
+    },
     {
       "id": "aydin-nazilli-kestane-uretimi-yuzde-45-dokek-kuyusu-2026",
       "kategori": "Bitkisel Üretim",
@@ -3592,46 +3630,6 @@
       "gorsel": "assets/envato/karadeniz-palamut-125-150-tl-sezon-sonu-2026.jpg",
       "gorselKucuk": "assets/envato/karadeniz-palamut-125-150-tl-sezon-sonu-2026-k.jpg",
       "gorselKaynak": "Fotoğraf: İHA"
-    },
-    {
-      "id": "hububat-bakliyat-yagli-tohum-ihracat-10-ayda-9-9-milyar-dolar",
-      "kategori": "Piyasa",
-      "tarih": "2026-11-08",
-      "motif": "bugday",
-      "baslik": "Hububat, bakliyat ve yağlı tohum sektörünün 10 aylık ihracatı 9,9 milyar dolara ulaştı",
-      "manset": "10 ayda ihracat \"9,9 milyar dolar\"",
-      "ozet": "Türkiye İhracatçılar Meclisi'nin verilerine göre hububat, bakliyat, yağlı tohumlar ve mamulleri sektörünün yılın ilk 10 ayındaki ihracatı 9,9 milyar dolar oldu; ekimde 1,3 milyar dolarlık satış yapıldı. Ayçiçeği yağı ihracatı yüzde 18,6 artarak 1 milyar doları aştı ve ilk sıraya yerleşti. En büyük alıcı 1,2 milyar dolarla Irak olurken ABD 735,8 milyon dolarla ikinci sırada yer aldı. Sektör Kurulu Başkanı Nihat Uysallı, buğday, arpa ve ayçiçeğinde artan üretim beklentisinin sanayiye hammadde avantajı sağladığını, ancak bunun tüm ihtiyacı karşılamadığını belirtti.",
-      "neYapmali": "Hububat ve ayçiçeği üreticileri satış zamanlamasını belirlerken TMO duyurularını ve borsa fiyatlarını birlikte izlemeli; lisanslı depoculuk seçeneğini maliyetiyle değerlendirmeli.",
-      "kaynaklar": [
-        {
-          "ad": "AA / Haberler.com",
-          "url": "https://www.haberler.com/ekonomi/hububat-bakliyat-ve-yagli-tohumlar-ihracati-ilk-10-20406567-haberi/"
-        }
-      ],
-      "eklenme": "2026-11-09T01:31:00+03:00",
-      "gorsel": "assets/envato/hububat-bakliyat-yagli-tohum-ihracat-10-ayda-9-9-milyar-dolar.jpg",
-      "gorselKucuk": "assets/envato/hububat-bakliyat-yagli-tohum-ihracat-10-ayda-9-9-milyar-dolar-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
-    },
-    {
-      "id": "mardin-24-yerel-uzum-cesidi-damizlik-gen-bahcesi",
-      "kategori": "Bitkisel Üretim",
-      "tarih": "2026-11-08",
-      "motif": "tohum",
-      "baslik": "Mardin'de yerel üzümler için gen bahçesi: 28 çeşidin 24'ü koruma altına alındı",
-      "manset": "Yerel üzümün \"24 çeşidi\" koruma altında",
-      "ozet": "Mardin İl Tarım ve Orman Müdürlüğü, yerel üzümleri korumak için 20 dekarlık damızlık ve gen bahçesi kurdu. İlde tespit edilen 28 yerel çeşitten 24'ü bahçeye alındı; kalan dördü için arama sürüyor. Ziraat Mühendisi Erdal Homan, hedefin gen bankası oluşturmak ve üreticiye aşılı fidan vermek olduğunu söyledi. Yaklaşık 34 bin 777 hektar bağ alanıyla Manisa'nın ardından ikinci sırada bulunan Mardin'de yıllık üretim yaklaşık 113 bin 142 ton. Üzüm presi, sırt pompası ve budama makinesi gibi ekipmanlar da çiftçilere yüzde 75 hibeyle veriliyor.",
-      "neYapmali": "Mardinli bağcılar yüzde 75 hibeli ekipman ve yerel çeşit fidanları için İl ya da İlçe Tarım ve Orman Müdürlüğü'ne başvurarak güncel başvuru koşullarını öğrenebilir.",
-      "kaynaklar": [
-        {
-          "ad": "AA / Haberler.com",
-          "url": "https://www.haberler.com/guncel/mardin-de-24-yerel-uzum-cesidi-damizlik-ve-gen-20406872-haberi/"
-        }
-      ],
-      "eklenme": "2026-11-09T01:30:00+03:00",
-      "gorsel": "assets/envato/mardin-24-yerel-uzum-cesidi-damizlik-gen-bahcesi.jpg",
-      "gorselKucuk": "assets/envato/mardin-24-yerel-uzum-cesidi-damizlik-gen-bahcesi-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf"
     },
     {
       "id": "turuncgil-sezonu-7-milyon-ton-2-milyar-dolar-2026",
