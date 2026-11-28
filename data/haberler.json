@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-27T23:11:00+03:00",
+  "guncelleme": "2026-11-28T08:13:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,40 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "mersin-mut-kurt-saldirisi-kaybolan-90-keciden-40i-sag-bulundu-2026",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-27",
+      "eklenme": "2026-11-28T08:12:00+03:00",
+      "motif": "koyun",
+      "baslik": "Mut'ta kurt saldırısının ardından dağılan 90 keçiden 40'ı beş gün sonra sağ bulundu",
+      "manset": "Kaybolan 90 keçiden \"40\"ı bulundu",
+      "ozet": "Mersin'in Mut ilçesinde Serkan ve Furkan Altıkat kardeşlere ait ağıla 22 Kasım'da kurt girmesinin ardından 90 keçi kayboldu. İlk aramalarda 8 keçinin birbirinden yaklaşık birer kilometre uzaklıkta telef olmuş halde bulunduğu bildirildi. AFAD, jandarma, dron ekipleri ve köylülerin katıldığı geniş çaplı aramada 40 keçi Damlaçamı mevkiinde sağ olarak bulundu. Kalan hayvanlar için arama çalışmalarının sürdüğü açıklandı.",
+      "neYapmali": "Yaban hayvanı saldırısı riski olan bölgelerde ağıl kapı ve çitlerini güçlendirin, sürüyü geceleri kapalı alanda tutun; kayıp ya da telef olan hayvanları muhtarlığa, jandarmaya ve ilçe tarım ve orman müdürlüğüne bildirin, TARSİM poliçeniz varsa sigorta şirketine de haber verin.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/mersin-haberleri/mutta-kaybolan-90-kecinin-40i-sag-bulundu-522695623"
+        }
+      ]
+    },
+    {
+      "id": "adana-yuregir-sulama-kanali-suyu-kesildi-yuzlerce-balik-telef-2026",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-27",
+      "eklenme": "2026-11-28T08:13:00+03:00",
+      "motif": "balik",
+      "baslik": "Adana'da kış için suyu kesilen DSİ sulama kanalında yüzlerce balık telef oldu",
+      "manset": "Su kesildi, kanalda \"yüzlerce\" balık öldü",
+      "ozet": "Adana'da sulama sezonunun bitmesiyle kanallarda su akışı kesildi. Yüreğir ilçesine bağlı Ali Hocalı Mahallesi'nden geçen DSİ'ye ait sulama kanalında suyun çekilmesinin ardından yüzlerce balığın telef olduğu görüldü. Ölümlerin suyun kesilmesine bağlı oksijen yetersizliğinden kaynaklanıp kaynaklanmadığının incelenmesi bekleniyor. Bölge sakinleri kanala bir miktar su bırakılmasını isterken, bazı vatandaşlar çevredeki fabrika atıklarından da şüphelendiklerini söyledi.",
+      "neYapmali": "Kanal ya da derede toplu balık ölümü gören vatandaş ve üreticiler, durumu Alo 174 Gıda Tarım ve Orman Hattı'na, Alo 181 Çevre Hattı'na ya da DSİ bölge müdürlüğüne bildirebilir; telef olan balıklar toplanıp tüketilmemelidir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/adana-haberleri/adanada-sulama-kanalinin-suyu-kesildi-yuzlerce-balik-telef-oldu-522657113"
+        }
+      ]
+    },
     {
       "id": "denizli-bereketli-suruler-309-kadin-ureticiye-arpa-flake-yem-2026",
       "kategori": "Hayvancılık",
@@ -3567,46 +3601,6 @@
       "gorselKaynak": "Fotoğraf: İHA"
     },
     {
-      "id": "bandirma-koyunculuk-karacabey-merinosu-yeni-kuzular-2026",
-      "kategori": "Hayvancılık",
-      "tarih": "2026-11-07",
-      "motif": "sut",
-      "baslik": "Bandırma Koyunculuk Araştırma Enstitüsü'nde Karacabey Merinosu kuzuları doğmaya başladı",
-      "manset": "Bandırma'da \"Merinos\" kuzuları doğdu",
-      "ozet": "Bandırma Koyunculuk Araştırma Enstitüsü Müdürlüğü'nde yürütülen Ülkesel Karacabey Merinosu Projesi kapsamında doğum sezonu başladı ve yeni kuzular dünyaya geldi. Enstitü, kuzuların sağlıklı büyütülmesini ve yetiştirme çalışmalarının sürdürülmesini hedefliyor. Karacabey Merinosu, bölgedeki küçükbaş araştırmalarının önemli ırklarından biri olarak gösteriliyor. Haberde doğan kuzu sayısına ilişkin bir rakam paylaşılmadı.",
-      "neYapmali": "Bölgedeki yetiştiriciler damızlık ve ırk ıslahı konusunda enstitüden ya da İlçe Tarım ve Orman Müdürlüğü'nden bilgi alabilir; doğum döneminde ağıl hijyenine ve kuzuların ağız sütü almasına dikkat etmelidir.",
-      "kaynaklar": [
-        {
-          "ad": "İHA / Haberler.com",
-          "url": "https://www.haberler.com/ekonomi/bandirma-koyunculuk-arastirma-enstitusu-nde-yeni-20404496-haberi/"
-        }
-      ],
-      "eklenme": "2026-11-09T01:28:00+03:00",
-      "gorsel": "assets/envato/bandirma-koyunculuk-karacabey-merinosu-yeni-kuzular-2026.jpg",
-      "gorselKucuk": "assets/envato/bandirma-koyunculuk-karacabey-merinosu-yeni-kuzular-2026-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA"
-    },
-    {
-      "id": "bilecik-bayirkoy-yuzde-50-zeytin-hurma-fidani-20-kasim",
-      "kategori": "Hibe",
-      "tarih": "2026-11-08",
-      "eklenme": "2026-11-08T21:30:30+03:00",
-      "motif": "zeytin",
-      "baslik": "Bilecik Bayırköy'de zeytin ve Trabzon hurması fidanının yarı bedeli belediyeden: Başvurular 20 Kasım'a kadar",
-      "manset": "Fidan bedelinin \"yarısı\" belediyeden",
-      "ozet": "Bilecik'in Bayırköy Belediyesi, beldede meyveciliği yaygınlaştırmak amacıyla üreticilere zeytin ve Trabzon hurması fidanı dağıtacağını duyurdu. Fidan bedelinin yüzde 50'sini belediye üstlenecek, kalan kısmı başvuru sahibi ödeyecek. Destekten beldede ikamet edenler yararlanabiliyor; fidanların belde sınırlarındaki tarım arazisine dikilmesi gerekiyor. Başvurular 20 Kasım 2026 Cuma gününe kadar belediye hizmet binasında alınacak. Duyuruda fidan adedi ve birim fiyat yer almıyor.",
-      "neYapmali": "Yararlanmak isteyen üreticiler ikametgâh belgesi, arazinin tapusu ya da kullanım hakkını gösteren belge ve kimlik fotokopisiyle 20 Kasım'a kadar belediye hizmet binasına başvurmalı; ödeyecekleri tutarı başvuru sırasında sormalı.",
-      "kaynaklar": [
-        {
-          "ad": "Gündem Bilecik",
-          "url": "https://www.gundembilecik.com/bayirkoy-belediyesinden-ureticilere-yuzde-50-destekli-fidan-dagitimi/"
-        }
-      ],
-      "gorsel": "assets/iha/bilecik-bayirkoy-yuzde-50-zeytin-hurma-fidani-20-kasim.jpg",
-      "gorselKucuk": "assets/iha/bilecik-bayirkoy-yuzde-50-zeytin-hurma-fidani-20-kasim-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA (temsili)"
-    },
-    {
       "id": "turuncgil-sezonu-7-milyon-ton-2-milyar-dolar-2026",
       "kategori": "Piyasa",
       "tarih": "2026-11-06",
@@ -4142,12 +4136,6 @@
     }
   ],
   "takvim": [
-    {
-      "tarih": "2026-11-27",
-      "baslik": "Mazot ve gübre desteği",
-      "kapsam": "Denizli",
-      "haber": "denizli-mazot-gubre"
-    },
     {
       "tarih": "2026-11-30",
       "baslik": "Uşak KKYP yedek liste: Son sözleşme imzası",
