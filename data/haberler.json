@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-28T08:13:00+03:00",
+  "guncelleme": "2026-11-28T12:10:00+03:00",
   "kategoriler": [
     {
       "ad": "Hayvancılık",
@@ -58,6 +58,40 @@
     "findik-ihracati-ilk-iki-ay-494-milyon-dolar"
   ],
   "haberler": [
+    {
+      "id": "aydin-nazilli-kestane-uretimi-yuzde-45-dokek-kuyusu-2026",
+      "kategori": "Bitkisel Üretim",
+      "tarih": "2026-11-28",
+      "eklenme": "2026-11-28T12:10:00+03:00",
+      "motif": "kestane",
+      "baslik": "Aydın'da dökek kuyularındaki kestaneler çıkarılıyor: Nazilli ilin üretiminin yarısına yakınını sağlıyor",
+      "manset": "Aydın kestanesinde Nazilli payı \"yüzde 45\"",
+      "ozet": "Aydın'da hasattan sonra geleneksel dökek kuyularında bekletilen kestaneler çıkarılıp temizlenerek pazara hazırlanıyor. 2025 verilerine göre Türkiye'de 82 bin 758 ton kestane üretildi; Aydın 25 bin 362 tonla ülke üretiminin yaklaşık yüzde 31'ini sağladı. Nazilli ilçesi 11 bin 440 tonluk üretimle ilin kestanesinin yaklaşık yüzde 45'ini tek başına karşılıyor. Nazilli Kaymakamı Huriye Küpeli Kan, ürünün kırsal kalkınmadaki önemine dikkat çekti; coğrafi işaretli Aydın kestanesinin korunması ve kalitenin artırılması için çalışmaların sürdüğü belirtildi.",
+      "neYapmali": "Kestane üreticileri dökek kuyusundan çıkan ürünü bekletmeden ayıklayıp kuru ve serin ortamda saklamalı; coğrafi işaret ve pazarlama destekleri için ilçe tarım ve orman müdürlüğüne danışabilir.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/aydin-haberleri/nazilli-aydin-kestane-uretiminin-yuzde-45ini-karsiliyor-523079578"
+        }
+      ]
+    },
+    {
+      "id": "sinop-boyabat-hayvan-pazari-30-kasim-yeniden-aciliyor-sap-2026",
+      "kategori": "Hayvancılık",
+      "tarih": "2026-11-28",
+      "eklenme": "2026-11-28T12:09:00+03:00",
+      "motif": "sut",
+      "baslik": "Şap tedbiriyle iki aydır kapalı olan Boyabat hayvan pazarı 30 Kasım'da yeniden açılıyor",
+      "manset": "Boyabat'ta pazar \"30 Kasım\"da açılıyor",
+      "ozet": "Sinop'un Boyabat ilçesinde, çevre illerde görülen şap hastalığına karşı 30 Eylül 2026'da geçici olarak kapatılan belediye hayvan pazarı yeniden hizmete giriyor. Boyabat İlçe Tarım ve Orman Müdürlüğünün 11 Kasım tarihli kararı doğrultusunda pazar 30 Kasım Pazartesi günü kapılarını açacak. Kapatma kararı Hayvan Sağlığı Zabıtası Komisyonu tarafından alınmıştı. Belediyenin duyurusuyla birlikte yetiştiriciler ve hayvan ticareti yapanlar alım satıma yeniden başlayabilecek.",
+      "neYapmali": "Pazara hayvan götürecek yetiştiriciler küpe, pasaport ve veteriner sağlık belgelerini önceden hazırlamalı; şaptan korunmak için aşı kayıtlarını ilçe tarım ve orman müdürlüğünden kontrol ettirmeli.",
+      "kaynaklar": [
+        {
+          "ad": "İHA",
+          "url": "https://www.iha.com.tr/sinop-haberleri/sinopta-canli-hayvan-pazari-yeniden-aciliyor-523032443"
+        }
+      ]
+    },
     {
       "id": "mersin-mut-kurt-saldirisi-kaybolan-90-keciden-40i-sag-bulundu-2026",
       "kategori": "Hayvancılık",
@@ -3583,26 +3617,6 @@
       "gorselKaynak": "Temsili fotoğraf"
     },
     {
-      "id": "cizre-gulbahar-bagdur-10-koyundan-250-hayvan",
-      "kategori": "Hayvancılık",
-      "tarih": "2026-11-07",
-      "motif": "koyun",
-      "baslik": "Cizre'de öğretmenliği bırakıp hayvancılığa başladı: Sürüsünü 7 yılda 10'dan 250 koyuna çıkardı",
-      "manset": "Öğretmenliği bıraktı, \"250 koyun\" oldu",
-      "ozet": "Şırnak'ın Cizre ilçesine bağlı Dirsekli Mahallesi'nde yaşayan dört çocuk annesi Gülbahar Bağdur, yedi yıl önce kadın giyim öğretmenliğini bırakıp 10 hayvanla üretime başladı. Devlet desteğiyle sürüsünü 200 başa taşıyan Bağdur, yaylaya gönderdiği 50 hayvanla birlikte toplam 250 koyuna bakıyor. Eşinin desteğiyle evinin bahçesinde kurduğu çiftlikte süt, peynir, tereyağı, yoğurt ve ayran da üretiyor. Hedefinin daha büyük bir çiftlik kurmak olduğunu söyleyen Bağdur, kadınları girişimciliğe çağırıyor.",
-      "neYapmali": "Küçükbaş yetiştiriciliğine başlamak isteyenler, kadın ve genç çiftçilere yönelik destek şartlarını İlçe Tarım ve Orman Müdürlüğü'nden öğrenebilir; işletmeyi kurmadan önce barınak ve mera imkânını planlamalıdır.",
-      "kaynaklar": [
-        {
-          "ad": "İHA / Haber Expres",
-          "url": "https://www.haberexpres.com.tr/10-koyunla-basladigi-ciftliginde-250-hayvana-ulasti/174964"
-        }
-      ],
-      "eklenme": "2026-11-09T01:29:00+03:00",
-      "gorsel": "assets/iha/cizre-gulbahar-bagdur-10-koyundan-250-hayvan.jpg",
-      "gorselKucuk": "assets/iha/cizre-gulbahar-bagdur-10-koyundan-250-hayvan-k.jpg",
-      "gorselKaynak": "Fotoğraf: İHA"
-    },
-    {
       "id": "turuncgil-sezonu-7-milyon-ton-2-milyar-dolar-2026",
       "kategori": "Piyasa",
       "tarih": "2026-11-06",
@@ -4047,30 +4061,6 @@
       "gorselKucuk": "assets/envato/aricilik-son-gun-6-kasim-k.jpg",
       "gorselKaynak": "Temsili fotoğraf: Envato",
       "manset": "Arıcılıkta başvuru \"6 Kasım'a\" uzadı"
-    },
-    {
-      "id": "denizli-mazot-gubre",
-      "kategori": "Hibe",
-      "tarih": "2026-11-02",
-      "baslik": "Denizli'de 50 dönüm altı üreticiye mazot ve gübre desteği",
-      "ozet": "Denizli Büyükşehir Belediyesi'nin mazot ve 20.20.0 kompoze gübre desteği başvuruları 2 Kasım'da başladı, 27 Kasım'da sona erecek. 50 dönüm ve altında üretim yapan, 2027 ÇKS belgesi olan çiftçiler başvurabiliyor. Destek miktarı arazi büyüklüğüne göre kademeli: en küçük dilimde 1 çuval gübre ve 20 litre mazot, 30-50 dönüm arasında 6 çuval gübre ve 100 litre mazot veriliyor. Her haneden tek başvuru kabul ediliyor.",
-      "neYapmali": "Başvuru belediyenin internet adresinden (apps.denizli.bel.tr/mazotdestegibasvuru) ya da ilçelerdeki DESKİ hizmet birimlerinden yapılıyor. Nadasa ayrılan araziler hesaba katılmıyor.",
-      "kaynaklar": [
-        {
-          "ad": "Ekonomi Politikası",
-          "url": "https://ekonomipolitikasi.com.tr/denizlide-mazot-ve-gubre-destegi-basvurulari-basliyor/"
-        },
-        {
-          "ad": "Denizli Güneş",
-          "url": "https://www.denizligunes.com/ureticiye-can-suyu-2"
-        }
-      ],
-      "motif": "traktor",
-      "eklenme": "2026-11-04T07:31:00+03:00",
-      "gorsel": "assets/envato/denizli-mazot-gubre.jpg",
-      "gorselKucuk": "assets/envato/denizli-mazot-gubre-k.jpg",
-      "gorselKaynak": "Temsili fotoğraf: Envato",
-      "manset": "Denizli'de \"mazot ve gübre\" desteği"
     },
     {
       "id": "malatya-su-urunleri",
